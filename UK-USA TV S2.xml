@@ -2,7 +2,7 @@
 
 
 <item>       
-<title>     [COLOR blue] •S2 UPDATE 01-12-2016 BY LOGAN   [/COLOR]     </title>
+<title>     [COLOR blue] •S2 UPDATE 04-12-2016 BY LOGAN   [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -31,17 +31,166 @@
   
  
  
+ 
           <item> 
-            <title>UK: Sky News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News HD</link> 
+            <title>UK: Sky BBC1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7075.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC1 HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD</link> 
+            <title>UK: Sky BBC2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7074.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky BBC3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/6720.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/6721.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Two HD</link> 
+        </item> 
+          <item> 
+            <title>UK_Sky Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Action</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Premiere  1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premiere  1</link> 
+        </item> 
+          <item> 
+            <title>UK_Sky Movies Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Movies Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK_Sky Movies Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Movies Family</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movie Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movie Disney</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select</link> 
+        </item> 
+          <item> 
+            <title>UK_Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Movies Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies ShowCase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies ShowCase</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies Sci-Fi HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies4Men</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies4Men</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Movies Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Thriller</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Syfy</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Motors</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Motors</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Monsters</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Monsters</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Greats</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Drama</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky ComedyCentral</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7070.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ComedyCentral</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky NatGeo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky NatGeo</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky NatGeoWild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7056.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky NatGeoWild</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky HistoryChannel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky HistoryChannel</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Discovery Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Investigation</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky AnimalPlanet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky AnimalPlanet</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTVMusic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTVMusic</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/8784.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News</link> 
+        </item> 
+          <item> 
+            <title>UK: Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/8785.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel5</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 USA</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 5Star</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5Star</link> 
+        </item> 
+          <item> 
+            <title>UK: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boomerang</link> 
+        </item> 
+          <item> 
+            <title>UK Sky Sport News HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/9623.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK Sky Sport News HQ</link> 
         </item> 
           <item> 
             <title>UK: Sky Sports 1 HD</title> 
@@ -49,11 +198,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 1 SD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/5353.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>UK: Sky Sports 2 HD</title> 
@@ -61,11 +206,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2 SD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/5354.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>UK: Sky Sports 3 HD</title> 
@@ -73,11 +214,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport 3 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3 SD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/5355.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>UK: Sky Sports 4 HD</title> 
@@ -85,11 +222,7 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4 SD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/5356.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>UK: Sky Sports 5 HD</title> 
@@ -97,682 +230,74 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/5357.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sport 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5 SD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1</link> 
+            <title>UK: Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/5358.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Premier Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premier Sports HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Setanta Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports</link> 
+            <title>UK: Sky PremierSports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky PremierSports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky PremierSports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Eurosport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BT Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BT Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BT Sport Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Europe</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BT Sport Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Extra</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Liverpool FC TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Liverpool FC TV HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Chelsea TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Chelsea TV HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MUTV</link> 
-        </item> 
-          <item> 
-            <title>Uk: Sky At the Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Sky At the Races</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Premiere HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Disney</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Select HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Greats</link> 
+            <title>UK: BT Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports 1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Drama HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Sci-Fi+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi+</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies 24</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky True Movies 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky More 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky More 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Film 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky ITV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 3</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 4</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV Encore</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cbs Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Drama</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cbs Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Action</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC One HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Two HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC Three HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Three HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC Four HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Four HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Comedy Central Ex</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central Ex</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Food Network</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Good Food HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Good Food HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Bloomberg HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Bloomberg HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Boomerang</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky NickToons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky NickToons</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Disney XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney XD HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Disney Junior HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Junior HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Disney Chaneel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Chaneel HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery History</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky National Geographic HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Nat Geo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nat Geo Wild HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Animal Planet HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Animal Planet HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky History HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky History 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Ci</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Ci</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E!</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky VH1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Syfy</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky CNBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNBC</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Dave HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dave HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky RTE One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE One</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky RTE Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE Two</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Fox</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Five</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Five</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Arts 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1 HD</link> 
+            <title>UK: BT Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports 2</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Alibi</link> 
+            <title>UK BT Sport 3 (Europe)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/9624.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK BT Sport 3 (Europe)</link> 
         </item> 
           <item> 
-            <title>UK: Sky Living HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Living HD</link> 
+            <title>UK: ASTRO SuperSport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/10134.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ASTRO SuperSport 1</link> 
         </item> 
           <item> 
-            <title>UK: Sky BoxNation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxNation</link> 
+            <title>UK: ASTRO SuperSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/10133.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ASTRO SuperSport 2</link> 
         </item> 
           <item> 
-            <title>UK: Sky Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Racing</link> 
+            <title>UK: ASTRO SuperSport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/10132.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ASTRO SuperSport 3</link> 
         </item> 
           <item> 
-            <title>UK: Sky Gold</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Gold</link> 
+            <title>UK: ASTRO SuperSport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/10131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ASTRO SuperSport 4</link> 
         </item> 
           <item> 
-            <title>UK: Sky 5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 USA</link> 
+            <title>UK: VERSUS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/9626.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VERSUS HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky 5 star</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 star</link> 
+            <title>UK LFC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/9648.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK LFC TV</link> 
         </item> 
           <item> 
-            <title>UK: Sky life Time</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky life Time</link> 
+            <title>UK: Sky ChelseaTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/7071.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ChelseaTV</link> 
         </item> 
           <item> 
-            <title>UK: Sky E4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4+1</link> 
+            <title>UK: Racing UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://fastandfurious.no-ip.org:8085/live/testline/testline/8866.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK</link> 
         </item> 
-          <item> 
-            <title>UK: Sky TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TCM</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNN</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Dmax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dmax</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TLC</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky STV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky STV</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Rocks</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Rocks HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Hits HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Dance HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Dance HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Live HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Classic</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Base</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Base</link> 
-        </item> 
-          <item> 
-            <title>US: Famly HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Famly HD</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Pag TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Pag TV</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Network</link> 
-        </item> 
-          <item> 
-            <title>US: Sports Versus HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Versus HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: World Fashion TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: World Fashion TV</link> 
-        </item> 
-          <item> 
-            <title>US: Sports NFL Now HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports NFL Now HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: HBO 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO 1</link> 
-        </item> 
-          <item> 
-            <title>US: Sports MLS Soccer</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports MLS Soccer</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: Sports Tonight</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Tonight</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: Sports Fight Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports Fight Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Fight Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: FOX 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX 1</link> 
-        </item> 
-          <item> 
-            <title>US: Sport LTVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport LTVE HD</link> 
-        </item> 
-          <item> 
-            <title>US: Starz Edge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Edge</link> 
-        </item> 
-          <item> 
-            <title>US: C-Span 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 1 HD</link> 
-        </item> 
-          <item> 
-            <title>US: C-Span 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 2 HD</link> 
-        </item> 
-          <item> 
-            <title>US: C-Span 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 3 HD</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 1</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 2</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 3</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 4</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 5</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Snet 360</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet 360</link> 
-        </item> 
-          <item> 
-            <title>US: NHL Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NHL Network HD</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Snet Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet Central</link> 
-        </item> 
-          <item> 
-            <title>US: Espn Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Espn Sport</link> 
-        </item> 
-          <item> 
-            <title>US: AFN Movies HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Movies HD</link> 
-        </item> 
-          <item> 
-            <title>US: Thai CH8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Thai CH8</link> 
-        </item> 
-          <item> 
-            <title>US: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMC</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Movies</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Action</link> 
-        </item> 
-          <item> 
-            <title>US: Amazing Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Music</link> 
-        </item> 
-          <item> 
-            <title>US: TBS Channle</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TBS Channle</link> 
-        </item> 
-          <item> 
-            <title>US: Starz East</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz East</link> 
-        </item> 
-          <item> 
-            <title>US: NFL Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Live HD</link> 
-        </item> 
-          <item> 
-            <title>US: ShowTime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ShowTime HD</link> 
-        </item> 
-          <item> 
-            <title>US: A&amp;E Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&amp;E Network</link> 
-        </item> 
-          <item> 
-            <title>US: BeIN Sports US</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: BeIN Sports US</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>US: Bravo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bravo</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Clasic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Clasic</link> 
-        </item> 
-          <item> 
-            <title>US: Disccovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disccovery HD</link> 
-        </item> 
-          <item> 
-            <title>US: FX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FX HD</link> 
-        </item> 
-          <item> 
-            <title>US: TMN 1 Moves</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TMN 1 Moves</link> 
-        </item> 
-          <item> 
-            <title>US: AMG Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMG Entertainment</link> 
-        </item> 
-          <item> 
-            <title>US: Daystart</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Daystart</link> 
-        </item> 
-          <item> 
-            <title>US: Hallmark HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Hallmark HD</link> 
-        </item> 
-          <item> 
-            <title>US: HSN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN</link> 
-        </item> 
-          <item> 
-            <title>US: Cinemax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax</link> 
-        </item> 
-          <item> 
-            <title>US: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TNT</link> 
-        </item> 
-          <item> 
-            <title>US: NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA TV</link> 
-        </item> 
-          <item> 
-            <title>US: ABC NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC NEWS HD</link> 
-        </item> 
-          <item> 
-            <title>US: Poker Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Poker Central</link> 
-        </item> 
-          <item> 
-            <title>US: California TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: California TV</link> 
-        </item> 
-          <item> 
-            <title>US: Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>US: Amazing Discoveries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Discoveries</link> 
-        </item> 
-          <item> 
-            <title>US: BYU</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.6.8:8000/live/ashley/ashley/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BYU</link> 
-        </item> 
-            
+  
