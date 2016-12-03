@@ -37,189 +37,322 @@
 
 
  
-  <item> 
-            <title>DE: Universal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Universal HD</link> 
+ 
+          <item> 
+            <title>DE:WDR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:WDR</link> 
         </item> 
           <item> 
-            <title>DE: TNT SERIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT SERIE</link> 
+            <title>DE:TNTSerie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNTSerie</link> 
         </item> 
           <item> 
-            <title>DE: TNT Glitz HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Glitz HD</link> 
+            <title>DE:Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Syfy</link> 
         </item> 
           <item> 
-            <title>DE: TNT FILM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT FILM</link> 
+            <title>DE:SkySportNews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkySportNews</link> 
         </item> 
           <item> 
-            <title>DE: TNT Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Comedy HD</link> 
+            <title>DE:SkyNostalgie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7920.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyNostalgie</link> 
         </item> 
           <item> 
-            <title>DE: SUPER RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SUPER RTL</link> 
+            <title>DE:SkyEmotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyEmotion</link> 
+        </item> 
+          <item> 
+            <title>DE:SkyComedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7917.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyComedy</link> 
+        </item> 
+          <item> 
+            <title>DE:SkyCinema 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7916.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyCinema 24</link> 
+        </item> 
+          <item> 
+            <title>DE:SkyCinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7915.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyCinema</link> 
+        </item> 
+          <item> 
+            <title>DE:SkyAtlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7914.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyAtlantic</link> 
+        </item> 
+          <item> 
+            <title>DE:SkyAction</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7913.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SkyAction</link> 
+        </item> 
+          <item> 
+            <title>DE:Sky007</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7912.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky007</link> 
+        </item> 
+          <item> 
+            <title>DE:Sky.Discovery.ChannelHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7911.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky.Discovery.ChannelHD</link> 
+        </item> 
+          <item> 
+            <title>DE:Sky Sport 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7910.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Sport 1HD</link> 
+        </item> 
+          <item> 
+            <title>DE:MGM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7908.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM</link> 
+        </item> 
+          <item> 
+            <title>DE:Kika.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7907.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Kika.HD</link> 
+        </item> 
+          <item> 
+            <title>DE:Disneyxd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7906.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disneyxd</link> 
+        </item> 
+          <item> 
+            <title>DE:Classica</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7905.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Classica</link> 
+        </item> 
+          <item> 
+            <title>DE: ZDF Neo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7904.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Neo HD</link> 
+        </item> 
+          <item> 
+            <title>DE: ZDF Kultur</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7903.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Kultur</link> 
+        </item> 
+          <item> 
+            <title>DE: ZDF Info HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7902.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF Info HD</link> 
+        </item> 
+          <item> 
+            <title>DE: ZDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7901.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ZDF HD</link> 
+        </item> 
+          <item> 
+            <title>DE: VOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7900.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VOX HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SWR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SWR</link> 
+        </item> 
+          <item> 
+            <title>DE: Sport1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7897.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport1</link> 
+        </item> 
+          <item> 
+            <title>DE: Sport Time TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7896.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport Time TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sport Time TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7895.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sport Time TV 1 HD</link> 
         </item> 
           <item> 
             <title>DE: Sky Sport Austria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport Austria</link> 
         </item> 
           <item> 
             <title>DE: Sky Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD</link> 
+            <title>DE: Sky Krimi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7919.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Krimi</link> 
         </item> 
           <item> 
-            <title>DE: Sky Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1</link> 
+            <title>DE: Sky Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE: Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Hits</link> 
         </item> 
           <item> 
-            <title>DE: Sky MGM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky MGM</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7892.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE: Sky Germany Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Comedy</link> 
+            <title>DE: Sky Cinema 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema 1HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Germany Cinema  24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema  24</link> 
+            <title>DE: Sky Bundesliga 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 2HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Germany Cinema  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Cinema  1</link> 
+            <title>DE: Sky Bundesliga 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7889.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga 1HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Germany Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Atlantic</link> 
+            <title>DE: Sky 3D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky 3D</link> 
         </item> 
           <item> 
-            <title>DE: Sky Germany Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Action</link> 
+            <title>DE: Sixx HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sixx HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Germany 13 Street HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany 13 Street HD</link> 
+            <title>DE: SERVUS TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7886.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SERVUS TV HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Gemany Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Gemany Cinema</link> 
+            <title>DE: SAT 1 Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7867.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 Gold</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema HD</link> 
+            <title>DE: Sat 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7885.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1</link> 
         </item> 
           <item> 
-            <title>DE: Sky Bundesliga HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Bundesliga HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>DE: SAT 1 GOLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SAT 1 GOLD</link> 
+            <title>DE: RTL SUPER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7884.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL SUPER</link> 
         </item> 
           <item> 
             <title>DE: RTL PASSION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL PASSION</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7883.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL PASSION</link> 
         </item> 
           <item> 
             <title>DE: RTL NITRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL NITRO</link> 
-        </item> 
-          <item> 
-            <title>DE: RTL Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Living</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7882.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL NITRO</link> 
         </item> 
           <item> 
             <title>DE: RTL 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7881.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2</link> 
         </item> 
           <item> 
-            <title>DE: Prosieben</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Prosieben</link> 
+            <title>DE: RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7880.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL</link> 
         </item> 
           <item> 
-            <title>DE: Pro 7 Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 Max</link> 
+            <title>DE: RIC KINDER KANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7879.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RIC KINDER KANAL</link> 
         </item> 
           <item> 
-            <title>DE: Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nick Jr</link> 
+            <title>DE: Pro 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7878.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 HD</link> 
         </item> 
           <item> 
-            <title>DE: Nat Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat Geo HD</link> 
+            <title>DE: ORF 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7877.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2HD</link> 
         </item> 
           <item> 
-            <title>DE: Nat Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat Geo</link> 
+            <title>DE: ORF 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7876.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 1HD</link> 
         </item> 
           <item> 
-            <title>DE: Mgm</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Mgm</link> 
+            <title>DE: NTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7875.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NTV</link> 
         </item> 
           <item> 
-            <title>DE: Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Junior</link> 
+            <title>DE: National Geographic Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7874.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: National Geographic Wild HD</link> 
         </item> 
           <item> 
-            <title>DE: Heimakanal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Heimakanal</link> 
+            <title>DE: Nat.Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7909.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Nat.Geo HD</link> 
         </item> 
           <item> 
-            <title>DE: E! Entertainm. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: E! Entertainm. HD</link> 
+            <title>DE: N24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7873.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: N24 HD</link> 
         </item> 
           <item> 
-            <title>DE: Disneycinemagic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disneycinemagic</link> 
+            <title>DE: KANAL MAGDEBURG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7872.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KANAL MAGDEBURG</link> 
         </item> 
           <item> 
-            <title>DE: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD</link> 
+            <title>DE: KABEL 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7871.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: KABEL 1HD</link> 
         </item> 
           <item> 
-            <title>DE: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior</link> 
+            <title>DE: History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7869.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History HD</link> 
         </item> 
           <item> 
-            <title>DE: Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery HD</link> 
+            <title>DE: HALLE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7868.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: HALLE TV</link> 
         </item> 
           <item> 
-            <title>DE: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery</link> 
+            <title>DE: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7866.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Fox HD</link> 
         </item> 
           <item> 
-            <title>DE: Das Herste</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Herste</link> 
+            <title>DE: Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7865.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Euronews</link> 
         </item> 
           <item> 
-            <title>DE: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Cartoon Network</link> 
+            <title>DE: Dresden Fernsehen</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7870.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Dresden Fernsehen</link> 
         </item> 
           <item> 
-            <title>DE: Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang</link> 
+            <title>DE: DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7864.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX</link> 
         </item> 
           <item> 
-            <title>DE: Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Action HD</link> 
+            <title>DE: Disney Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7863.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic</link> 
         </item> 
           <item> 
-            <title>DE: 13TH Street</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/lee/lee/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13TH Street</link> 
+            <title>DE: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7862.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>DE: Deluxe Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7861.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Deluxe Music</link> 
+        </item> 
+          <item> 
+            <title>DE: Das Erste</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7860.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Das Erste</link> 
+        </item> 
+          <item> 
+            <title>DE: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7859.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Austria 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7858.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Austria 24</link> 
+        </item> 
+          <item> 
+            <title>DE: Arte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7857.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Arte HD</link> 
+        </item> 
+          <item> 
+            <title>DE: 3SAT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7856.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3SAT HD</link> 
+        </item> 
+          <item> 
+            <title>DE: 13Street HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7855.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13Street HD</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7854.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 8</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7853.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 7</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7852.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 6</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7851.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 5</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7850.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 4</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7849.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 3</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7848.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 2</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select HD 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/rangel/rangel/7847.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select HD 1</link> 
         </item> 
   
  
