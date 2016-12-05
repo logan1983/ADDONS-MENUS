@@ -35,192 +35,16 @@
   
  
           <item> 
-            <title>UK: SKY News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY News HD</link> 
+            <title>UK: Sky News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky Cinema Disney UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Disney UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Action &amp; Adventure UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Action &amp; Adventure UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Premiere UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Premiere UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Family UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Family UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Crime &amp; Thriller UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Crime &amp; Thriller UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Select UHD ( UK )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Select UHD ( UK )</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema SciFi &amp; Horror UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema SciFi &amp; Horror UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: MTV Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits</link> 
+            <title>UK: Sky Sports News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: MTV Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky One HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Comedy UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Comedy UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: Watch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cinema Drama n Romance UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cinema Drama n Romance UHD</link> 
-        </item> 
-          <item> 
-            <title>UK: True Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Entertainment</link> 
-        </item> 
-          <item> 
-            <title>UK: BT SPORTS EUROPE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS EUROPE HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BT SPORTS EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS EXTRA</link> 
-        </item> 
-          <item> 
-            <title>UK: SONY MOVIES ( UK )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SONY MOVIES ( UK )</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY MOVIES 4 HD ( UK )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY MOVIES 4 HD ( UK )</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY CINEMA MODERN GREATS ( UK )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2227.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY CINEMA MODERN GREATS ( UK )</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY CINEMA LIVING ( UK )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2226.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY CINEMA LIVING ( UK )</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY ATLANTIC ( UK )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ATLANTIC ( UK )</link> 
-        </item> 
-          <item> 
-            <title>UK: Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>UK: baby tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: baby tv</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News</link> 
-        </item> 
-          <item> 
-            <title>UK: BT SPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BT SPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORTS 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>UK: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>UK: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney XD</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History</link> 
-        </item> 
-          <item> 
-            <title>UK: Docubox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Docubox HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>UK: Sky Sports 1 HD</title> 
@@ -228,340 +52,734 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK : RTE2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : RTE2</link> 
+            <title>UK: Sky Sport 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 1 SD</link> 
         </item> 
           <item> 
-            <title>UK : Sky Cinema Hits UHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK : Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK : Sky Cinema Hits UHD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Premiere Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premiere Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premiere Sports</link> 
+            <title>UK: Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: BBC One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC One</link> 
+            <title>UK: Sky Sport 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2 SD</link> 
         </item> 
           <item> 
-            <title>UK: BBC Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC Two</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC Three</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC Three</link> 
-        </item> 
-          <item> 
-            <title>UK: Cbeebies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cbeebies</link> 
-        </item> 
-          <item> 
-            <title>UK: Channel 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4</link> 
-        </item> 
-          <item> 
-            <title>UK: Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5</link> 
-        </item> 
-          <item> 
-            <title>UK: Disney Channel UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel UK</link> 
-        </item> 
-          <item> 
-            <title>UK: ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV Encore</link> 
-        </item> 
-          <item> 
-            <title>UK: National Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>UK: National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Nick Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Junior</link> 
-        </item> 
-          <item> 
-            <title>UK: Setanta Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Setanta Sports</link> 
+            <title>UK: Sky Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1 HD</link> 
+            <title>UK: Sky Sport 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3 SD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC</link> 
-        </item> 
-          <item> 
-            <title>UK: Investigation Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Investigation Discovery</link> 
-        </item> 
-          <item> 
-            <title>UK: BT SPORT ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORT ESPN</link> 
-        </item> 
-          <item> 
-            <title>UK: Fight Box HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fight Box HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Arts</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts</link> 
+            <title>UK: Sky Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: 3E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 3E</link> 
+            <title>UK: Sky Sport 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4 SD</link> 
         </item> 
           <item> 
-            <title>UK: ALIBI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI</link> 
+            <title>UK: Sky Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD</link> 
         </item> 
           <item> 
-            <title>UK: AT THE RACES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AT THE RACES</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOOMERANG</link> 
+            <title>UK: Sky Sport 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5 SD</link> 
         </item> 
           <item> 
-            <title>UK: BOXNATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOXNATION</link> 
+            <title>UK: Sky Sports F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1</link> 
         </item> 
           <item> 
-            <title>UK: BRITISH EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2450.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BRITISH EUROSPORT 1</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: BRITISH EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2449.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BRITISH EUROSPORT 2</link> 
+            <title>UK: Sky Premier Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premier Sports HD</link> 
         </item> 
           <item> 
-            <title>UK: CBBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: CBS ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS ACTION</link> 
+            <title>UK: Sky Setanta Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports</link> 
         </item> 
           <item> 
-            <title>UK: CBS DRAMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY</link> 
+            <title>UK: Sky Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 1 HD</link> 
         </item> 
           <item> 
-            <title>UK: CHELSEA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHELSEA TV</link> 
+            <title>UK: Sky Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 2 HD</link> 
         </item> 
           <item> 
-            <title>UK: COMEDY CENTRAL EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL EXTRA</link> 
+            <title>UK: Sky BT Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1</link> 
         </item> 
           <item> 
-            <title>UK: COMEDY CENTRAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL HD</link> 
+            <title>UK: Sky BT Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2</link> 
         </item> 
           <item> 
-            <title>UK: CRIME AND INVESTIGATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CRIME AND INVESTIGATION</link> 
+            <title>UK: Sky BT Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1 HD</link> 
         </item> 
           <item> 
-            <title>UK: DAVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE</link> 
+            <title>UK: Sky BT Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2 HD</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY</link> 
+            <title>UK: Sky BT Sport Europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Europe</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY HOME AND HEALTH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY HOME AND HEALTH</link> 
+            <title>UK: Sky BT Sport Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Extra</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY INVESTIGATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY INVESTIGATION</link> 
+            <title>UK: Sky Liverpool FC TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Liverpool FC TV HD</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY SCIENCE</link> 
+            <title>UK: Sky Chelsea TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Chelsea TV HD</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY TURBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY TURBO</link> 
+            <title>UK: Sky MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MUTV</link> 
         </item> 
           <item> 
-            <title>UK: DISCOVERY WORLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY WORLD</link> 
+            <title>Uk: Sky At the Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Sky At the Races</link> 
         </item> 
           <item> 
-            <title>UK: DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DMAX</link> 
+            <title>UK: Sky Movies Premiere HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere HD</link> 
         </item> 
           <item> 
-            <title>UK: DRAMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DRAMA</link> 
+            <title>UK: Sky Movies Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Disney</link> 
         </item> 
           <item> 
-            <title>UK: E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2472.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E!</link> 
+            <title>UK: Sky Movies Select HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD</link> 
         </item> 
           <item> 
-            <title>UK: FILM 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FILM 4</link> 
+            <title>UK: Sky Movies Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action HD</link> 
         </item> 
           <item> 
-            <title>UK: FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOOD NETWORK</link> 
+            <title>UK: Sky Movies Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Greats</link> 
         </item> 
           <item> 
-            <title>UK: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: GOOD FOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOOD FOOD</link> 
+            <title>UK: Sky Movies Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family HD</link> 
         </item> 
           <item> 
-            <title>UK: H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2</link> 
+            <title>UK: Sky Movies Drama HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama HD</link> 
         </item> 
           <item> 
-            <title>UK: HOME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2493.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HOME</link> 
+            <title>UK: Sky Movies Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy HD</link> 
         </item> 
           <item> 
-            <title>UK: HORROR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HORROR</link> 
+            <title>UK: Sky Movies Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime</link> 
         </item> 
           <item> 
-            <title>UK: LONDON LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LONDON LIFE</link> 
+            <title>UK: Sky Movies Sci-Fi+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi+</link> 
         </item> 
           <item> 
-            <title>UK: MORE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2480.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE 4</link> 
+            <title>UK: Sky Movies 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies 24</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES 4 MEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES 4 MEN</link> 
+            <title>UK: Sky True Movies 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 1</link> 
         </item> 
           <item> 
-            <title>UK: MTV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2467.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV 1</link> 
+            <title>UK: Sky True Movies 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 2</link> 
         </item> 
           <item> 
-            <title>UK: MTV BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV BASE</link> 
+            <title>UK: Sky More 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky More 4 HD</link> 
         </item> 
           <item> 
-            <title>UK: MTV CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2466.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV CLASSIC</link> 
+            <title>UK: Sky Film 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD</link> 
         </item> 
           <item> 
-            <title>UK: MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2465.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV ROCKS</link> 
+            <title>UK: Sky ITV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 1</link> 
         </item> 
           <item> 
-            <title>UK: MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV</link> 
+            <title>UK: Sky ITV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 2</link> 
         </item> 
           <item> 
-            <title>UK: NICK TOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NICK TOON</link> 
+            <title>UK: Sky ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 3</link> 
         </item> 
           <item> 
-            <title>UK: PICK TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2476.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PICK TV</link> 
+            <title>UK: Sky ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 4</link> 
         </item> 
           <item> 
-            <title>UK: PREMIER SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PREMIER SPORT</link> 
+            <title>UK: Sky ITV Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV Encore</link> 
         </item> 
           <item> 
-            <title>UK: QUEST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: QUEST</link> 
+            <title>UK: Sky Cbs Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Drama</link> 
         </item> 
           <item> 
-            <title>UK: RACING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING</link> 
+            <title>UK: Sky Cbs Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Action</link> 
         </item> 
           <item> 
-            <title>UK: REALLY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: REALLY</link> 
+            <title>UK: Sky CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CBS Reality</link> 
         </item> 
           <item> 
-            <title>UK: RTE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2471.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE 2 HD</link> 
+            <title>UK: Sky BBC One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC One HD</link> 
         </item> 
           <item> 
-            <title>UK: RTE1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2470.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE1 HD</link> 
+            <title>UK: Sky BBC Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Two HD</link> 
         </item> 
           <item> 
-            <title>UK: RUSSIA DOCUMENTARY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RUSSIA DOCUMENTARY</link> 
+            <title>UK: Sky BBC Three HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Three HD</link> 
         </item> 
           <item> 
-            <title>UK: SKY MOVIES SHOWCASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY MOVIES SHOWCASE</link> 
+            <title>UK: Sky BBC Four HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Four HD</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS NEWS HD</link> 
+            <title>UK: Sky Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central</link> 
         </item> 
           <item> 
-            <title>UK: SKY TWO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY TWO</link> 
+            <title>UK: Sky Comedy Central Ex</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central Ex</link> 
         </item> 
           <item> 
-            <title>UK: TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TG4</link> 
+            <title>UK: Sky Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Food Network</link> 
         </item> 
           <item> 
-            <title>UK: TRUE MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2461.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRUE MOVIES</link> 
+            <title>UK: Sky Good Food HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Good Food HD</link> 
         </item> 
           <item> 
-            <title>UK: VH1 CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 CLASSIC</link> 
+            <title>UK: Sky Bloomberg HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Bloomberg HD</link> 
         </item> 
           <item> 
-            <title>UK: VIVA UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA UK</link> 
+            <title>UK: Sky Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Boomerang</link> 
         </item> 
           <item> 
-            <title>UK: YESTERDAY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://server.internext.tv:8000/live/imad/imad/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY</link> 
+            <title>UK: Sky Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nickelodeon</link> 
         </item> 
-  
-  
+          <item> 
+            <title>UK: Sky Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky NickToons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky NickToons</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Disney XD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney XD HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Disney Junior HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Junior HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Disney Chaneel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Chaneel HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery History</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Discovery Shed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Shed</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky National Geographic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky National Geographic HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nat Geo Wild HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Animal Planet HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Animal Planet HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky History 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History 2</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Ci</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E!</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky VH1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Syfy</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky CNBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNBC</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Dave HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dave HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky RTE One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE One</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky RTE Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE Two</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Fox</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Five</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Five</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Arts 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Alibi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Alibi</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Living HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Living HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky BoxNation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxNation</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Racing</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Gold</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky 5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 USA</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky 5 star</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 star</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky life Time</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky life Time</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky E4+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4+1</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TCM</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNN</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dmax</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TLC</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky STV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky STV</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Rocks</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Rocks HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Hits HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Hits HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Dance HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Dance HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Live HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Live HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Classic</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky MTV Base</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Base</link> 
+        </item> 
+          <item> 
+            <title>US: 7 Perth</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: 7 Perth</link> 
+        </item> 
+          <item> 
+            <title>US: Famly HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Famly HD</link> 
+        </item> 
+          <item> 
+            <title>US: Sport Pag TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Pag TV</link> 
+        </item> 
+          <item> 
+            <title>US: Sport Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Network</link> 
+        </item> 
+          <item> 
+            <title>US: Sports Versus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Versus HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US: World Fashion TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: World Fashion TV</link> 
+        </item> 
+          <item> 
+            <title>US: Sports NFL Now HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports NFL Now HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US: HBO 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO 1</link> 
+        </item> 
+          <item> 
+            <title>US: Sports MLS Soccer</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports MLS Soccer</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US: Sports Tonight</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Tonight</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US: Sports Fight Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports Fight Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Fight Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US: FOX 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX 1</link> 
+        </item> 
+          <item> 
+            <title>US: Sport LTVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport LTVE HD</link> 
+        </item> 
+          <item> 
+            <title>US: Starz Edge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Edge</link> 
+        </item> 
+          <item> 
+            <title>US: C-Span 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 1 HD</link> 
+        </item> 
+          <item> 
+            <title>US: C-Span 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 2 HD</link> 
+        </item> 
+          <item> 
+            <title>US: C-Span 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 3 HD</link> 
+        </item> 
+          <item> 
+            <title>US: Sport TSN 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 1</link> 
+        </item> 
+          <item> 
+            <title>US: Sport TSN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 2</link> 
+        </item> 
+          <item> 
+            <title>US: Sport TSN 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 3</link> 
+        </item> 
+          <item> 
+            <title>US: Sport TSN 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 4</link> 
+        </item> 
+          <item> 
+            <title>US: Sport TSN 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 5</link> 
+        </item> 
+          <item> 
+            <title>US: Sport Snet 360</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet 360</link> 
+        </item> 
+          <item> 
+            <title>US: NHL Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NHL Network HD</link> 
+        </item> 
+          <item> 
+            <title>US: Sport Snet Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet Central</link> 
+        </item> 
+          <item> 
+            <title>US: Espn Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Espn Sport</link> 
+        </item> 
+          <item> 
+            <title>US: AFN Movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Movies HD</link> 
+        </item> 
+          <item> 
+            <title>US: Thai CH8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Thai CH8</link> 
+        </item> 
+          <item> 
+            <title>US: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMC</link> 
+        </item> 
+          <item> 
+            <title>US: Fox Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Movies</link> 
+        </item> 
+          <item> 
+            <title>US: Fox Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Action</link> 
+        </item> 
+          <item> 
+            <title>US: Amazing Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Music</link> 
+        </item> 
+          <item> 
+            <title>US: TBS Channle</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TBS Channle</link> 
+        </item> 
+          <item> 
+            <title>US: Starz East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz East</link> 
+        </item> 
+          <item> 
+            <title>US: NFL Live HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Live HD</link> 
+        </item> 
+          <item> 
+            <title>US: ShowTime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ShowTime HD</link> 
+        </item> 
+          <item> 
+            <title>US: A&amp;E Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&amp;E Network</link> 
+        </item> 
+          <item> 
+            <title>US: BeIN Sports US</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: BeIN Sports US</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>US: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>US: Bravo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bravo</link> 
+        </item> 
+          <item> 
+            <title>US: Fox Clasic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Clasic</link> 
+        </item> 
+          <item> 
+            <title>US: Disccovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disccovery HD</link> 
+        </item> 
+          <item> 
+            <title>US: FX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FX HD</link> 
+        </item> 
+          <item> 
+            <title>US: TMN 1 Moves</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TMN 1 Moves</link> 
+        </item> 
+          <item> 
+            <title>US: AMG Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMG Entertainment</link> 
+        </item> 
+          <item> 
+            <title>US: Daystart</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Daystart</link> 
+        </item> 
+          <item> 
+            <title>US: Hallmark HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Hallmark HD</link> 
+        </item> 
+          <item> 
+            <title>US: HSN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN</link> 
+        </item> 
+          <item> 
+            <title>US: Cinemax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax</link> 
+        </item> 
+          <item> 
+            <title>US: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TNT</link> 
+        </item> 
+          <item> 
+            <title>US: NBA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA TV</link> 
+        </item> 
+          <item> 
+            <title>US: ABC NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC NEWS HD</link> 
+        </item> 
+          <item> 
+            <title>US: Poker Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Poker Central</link> 
+        </item> 
+          <item> 
+            <title>US: California TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: California TV</link> 
+        </item> 
+          <item> 
+            <title>US: Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>US: Amazing Discoveries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Discoveries</link> 
+        </item> 
+          <item> 
+            <title>US: BYU</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/Kane/Kane/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BYU</link> 
+        </item> 
   
