@@ -226,19 +226,19 @@
 <fanart></fanart>
 </item>
  <item>
-<title>[COLOR white][B][I] TVI24  [/I][/B][/COLOR] [COLOR lime](LOGAN WETV))[/COLOR]</title>
+<title>[COLOR white][B][I] TVI24  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV))[/COLOR]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>http://www.spautores.pt/assets_live/2222/autores_tvi24.jpg</thumbnail>
 </item>
 
  <item>
-<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WETV)[/COLOR]</title>
-<link>rtmp://31.220.40.63/privatestream/ playpath=ss6?keys=pl8T8a7BsfQFTbiaNLS3_Q&keyt=1481068069 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
+<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<link>rtmp://31.220.40.59/privatestream/ playpathss6=?keys=3gECZgh4hYol7HRTu_aNYg&keyt=1481068430 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 <fanart></fanart>
 </item>
  <item>
-<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WETV)[/COLOR]</title>
+<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>rtmp://31.220.0.201/privatestream/ playpath=ss6?keys=HRpqnKWLPP9p39dDNoZcxA&keyt=1479779277 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 <fanart></fanart>
@@ -463,6 +463,7 @@
 </item>
 <item>
 <title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
+<link>http://185.2.83.164:25461/live/mqJY9fBKfo/KGW7bAGfE0/7616.m3u8?token=QXIvT1c4anN2K3hwMnc3S2NnNkNMdHJoZXVZNXZwOEl3UVFFZWRFamdjMytTbjdkOVRCSGtsdVEzS3l1dXNmNlNwT2ViK2VwUkM0UUV3NUFjR3hqZ0tVQkYrWXBKVHhrWkpsRWl1Qmh0QUtLcEpTRlZ5MmRaeHpHbkFNZW5WL0xocXp2Z01FdXlYbWRQeitVM25yZkRpcFlWZXBDT1JlTlN1bWtBQnBKc3ZuZWhxcTl1MWk4L3VEYkZYMTN0L1N4anZ1eUh0elI1UitFY29YSmxSMExWYkJHajhJMmYrV09XT2J3V0VQZGQ1TjNJdFI5RDdKekVIaEpzYi9uRElKdnFwd1VGRUsvQlI2Q1F4QTdlQlRkL2NCK1pHQWhKb0RaOW5od1R1dXU0NVozT0dINXdZRGxweWRWOEJTbWhOQ2psakc1aVJweUFIbS81SGZRcVNTN2lUM3N4YUdSU1llc1ZlV0NDS1k1NG92S1Y1RmJRa29wc2lMWDY0QVFuTVpaNHZtNWZCRU5ITEhyMDhxYjhmMlhJeHhYWTFCSk9uK2I0MnlyU2xBa3QzdlpjQVI2Q2l2RGlkSThyM2c1a3ZFbTFKWDllRG5HUzlzNExNT3N0S20rZVE9PXx4K21jb2UvcWQ2bm9yM1B2Tm5XTVhKY2lJQ2wyQ3NsMWp3Zk9IdE8vWnAwPQ==</link>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
 <fanart></fanart>
@@ -470,24 +471,28 @@
 <item>
 <title>[COLOR white][B][I] TVCINE 2 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV) [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
+<link>http://portal.onlineiptv.net:5210/live/mqJY9fBKfo/KGW7bAGfE0/7615.m3u8</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>[COLOR white][B][I] TVCINE 3 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
+<link>http://ipsatpro.com:8000/live/Kane/Kane/934.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>[COLOR white][B][I] TVCINE 4 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
+<link>http://iptv.diamondiptv.net:15800/live/test/test/2827.m3u8</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4HD.png</thumbnail>
 <fanart></fanart>
 </item>
 <item>
 <title>[COLOR white][B][I] TVCINE 5 SERIES HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/hatem/hatem123/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
 <thumbnail>http://www.bantumen.com/wp-content/uploads/2015/07/tvcine-840x420.jpg</thumbnail>
 <fanart></fanart>
 </item>
