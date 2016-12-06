@@ -233,7 +233,7 @@
 
  <item>
 <title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WETV)[/COLOR]</title>
-<link>rtmp://82.192.80.193/live playpath=wwwss6nu?id=89353&pk=64b4d04da4876278062c10a1868076df3844fe92c1bf10d81b6c29c2e1e41d3d swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/wwwss6nu/1/545/380 swfVfy=1 live=1 timeout=15</link>
+<link>rtmp://31.220.40.63/privatestream/ playpath=ss6?keys=pl8T8a7BsfQFTbiaNLS3_Q&keyt=1481068069 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=ss6&width=600&height=450 swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -326,13 +326,14 @@
 </item>
 <item>
 <title>[COLOR white][B][I]  SPORT TV 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevil> http://185.2.83.164:25461/live/mqJY9fBKfo/KGW7bAGfE0/8546.m3u8?token=bVR1aTZBRnBDSGt2M3dnbHdXd0RzVTVlMnZLcEtPUGlOV1BPM01kVkdnaW42MXE4TXJUekt3Q0djN25RMmxJZHZCWGtxVVRuZEZ5c1R3eHJudWg1NjdtS2U0WDVEaFhaMVJiZWNLMkIxSi8rNHFhY0I0SkdPZ01INXNKVmlXenBsdStCUEJMN1ExTkZ4MHhFRzB2SzVGUTAyaDJFTWxGNUo2WU5KWGhVWkJYVjRCUzkwcVIxSmdSMzlhT1puY3VJSi9wQmVnZ3VoZ1B6N3FSNndtRWN4ajRjZGwrazdsVnlacCtZNUVKS3ZVM0xMdm02NU5IYmE5ZmZZK0loZEdoUi9ndFhXN2hnNlNHWUZoSEp4MWd3WXhlbk5yVFFKazhsbm41eTl2dW5xNjgvK1BXQXFZK3NmM2hlUzltTDk1MVFDM082VXRiQkNJZFQyRy9MamhNZnB0eW1rRDd1WXI3VzNsNklKTG1DakNSc2w0OXBpMmxsODNxL3NWSjVBeVVRbmsyMWdBeitCOHZlUC9iTVB0Q00yRE11dUJ2Q3AwMm1HYk9JdEdLaVhXeFR4Nmg2aXhqNEFhaGxHMGVSMGJNallTUmFjakljQ3I0dTZUdmNObGJ3UEE9PXxwUGxrc3JkbUFtTkdJajJ4QTFBdWpvWXJYTVRSU2RRQkMvQXZmTmpIcStRPQ==</sportsdevil>
 <sportsdevil>http://www.sportgratistv.net/index.php?canal=sporttv</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png</thumbnail>
 </item>
 <item>
 <title>[COLOR white][B][I] SPORT TV1 HD PT [/I][/B][/COLOR] [COLOR lime](F4M)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/frank/frank/9839.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV1 LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV1 LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png</thumbnail>
 <fanart></fanart>
 </item>
