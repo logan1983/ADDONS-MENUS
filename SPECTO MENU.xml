@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+<item><title>[COLOR red][B]Addon: [COLOR olive][B] Specto Fork [/B][COLOR red][B] Provider: [COLOR olive][B] Mr. Known [/B][/COLOR]</title<link>http://i.imgur.com/BbjsQFK.png</link><thumbnail>http://i.imgur.com/BbjsQFK.png</thumbnail></item>
+
+
+#######################################################################################################################
+
+
+<item>
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR red][B]Por Género[/B][/COLOR]</title
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieGenres</jsonrpc>
+<thumbnail>http://i.imgur.com/VBO806j.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR red][B]Por ano[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/Sjegt6S.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieYears</jsonrpc>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR red][B]Destaques[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/CV6m1KA.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR red][B]Vencedores de Óscares[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/OmGGlaK.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=oscars</jsonrpc>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR red][B]Pesquisar[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/jayVfUc.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=movieSearch</jsonrpc>
+<fanart></fanart>
+</item>
+
+#######################################################################################################################
+
+
+<item>
+<title>[B][COLOR blue]Séries:  [/B][COLOR red][B]Por Género[/B][/COLOR]</title
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvGenres</jsonrpc>
+<thumbnail>http://i.imgur.com/VBO806j.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]Séries:  [/B][COLOR red][B]Por ano[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/Sjegt6S.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvYears</jsonrpc>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]Séries:  [/B][COLOR red][B]Populares[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/HyRzi57.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvshows&amp;url=popular</jsonrpc>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]Séries:  [/B][COLOR red][B]Calendário das Séries[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/71COyir.png</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=calendars</jsonrpc>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]Séries:  [/B][COLOR red][B]Pesquisar[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/jayVfUc.jpg</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=tvSearch</jsonrpc>
+<fanart></fanart>
+</item>
+
+#######################################################################################################################
+
+
+
+<item>
+<title>[B][COLOR blue] O MEU SPECTO[/B][/COLOR]</title
+<thumbnail>http://i.imgur.com/jayVfUc</thumbnail>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.video.specto/?action=myNavigator</jsonrpc>
+<fanart></fanart>
+</item>
+
