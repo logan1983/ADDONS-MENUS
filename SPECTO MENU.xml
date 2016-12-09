@@ -12,13 +12,13 @@
 <title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR white][B]Por Género[/B][/COLOR]</title
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieGenres</jsonrpc>
-<thumbnail>http://i.imgur.com/VBO806j.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/XJZ6WX.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Por ano[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/Sjegt6S.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/xmPwx0.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieYears</jsonrpc>
 <fanart></fanart>
@@ -26,7 +26,7 @@
 
 <item>
 <title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Destaques[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/CV6m1KA.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/olFVDU.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
 <fanart></fanart>
@@ -34,7 +34,7 @@
 
 <item>
 <title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Vencedores de Óscares[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/OmGGlaK.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/cjBmSE.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=oscars</jsonrpc>
 <fanart></fanart>
@@ -42,7 +42,7 @@
 
 <item>
 <title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Pesquisar[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/jayVfUc.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/4kYHFc.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieSearch</jsonrpc>
 <fanart></fanart>
@@ -55,13 +55,13 @@
 <title>[B][COLOR white]Séries:  [/B][COLOR white][B]Por Género[/B][/COLOR]</title
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvGenres</jsonrpc>
-<thumbnail>http://i.imgur.com/VBO806j.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/7zEe6D.png</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
 <title>[B][COLOR white]Séries:  [/B][COLOR white][B]Por ano[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/Sjegt6S.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/xmPwx0.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvYears</jsonrpc>
 <fanart></fanart>
@@ -70,7 +70,7 @@
 
 <item>
 <title>[B][COLOR white]Séries:  [/B][COLOR white][B]Populares[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/HyRzi57.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/Rme5VI.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvshows&amp;url=popular</jsonrpc>
 <fanart></fanart>
@@ -78,7 +78,7 @@
 
 <item>
 <title>[B][COLOR white]Séries:  [/B][COLOR white][B]Calendário das Séries[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/71COyir.png</thumbnail>
+<thumbnail>http://i.cubeupload.com/VeFE9Z.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=calendars</jsonrpc>
 <fanart></fanart>
@@ -87,7 +87,7 @@
 
 <item>
 <title>[B][COLOR white]Séries:  [/B][COLOR white][B]Pesquisar[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/jayVfUc.jpg</thumbnail>
+<thumbnail>http://i.cubeupload.com/4kYHFc.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvSearch</jsonrpc>
 <fanart></fanart>
@@ -99,7 +99,7 @@
 
 <item>
 <title>[B][COLOR lime] O MEU SPECTO[/B][/COLOR]</title
-<thumbnail>http://i.imgur.com/jayVfUc</thumbnail>
+<thumbnail>http://i.cubeupload.com/jOCvNz.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=myNavigator</jsonrpc>
 <fanart></fanart>
