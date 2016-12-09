@@ -9,7 +9,7 @@
 
 
 <item>
-<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR white][B]Por Género[/B][/COLOR]</title
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Por Género[/B][/COLOR]</title
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieGenres</jsonrpc>
 <thumbnail>http://i.cubeupload.com/XJZ6WX.png</thumbnail>
@@ -17,7 +17,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Por ano[/B][/COLOR]</title
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Por ano[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/xmPwx0.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieYears</jsonrpc>
@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Destaques[/B][/COLOR]</title
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Destaques[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/olFVDU.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=featured</jsonrpc>
@@ -33,7 +33,7 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Vencedores de Óscares[/B][/COLOR]</title
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Vencedores de Óscares[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/cjBmSE.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movies&amp;url=oscars</jsonrpc>
@@ -41,8 +41,8 @@
 </item>
 
 <item>
-<title>[B][COLOR deepskyred]Filmes:  [/B][COLOR white][B]Pesquisar[/B][/COLOR]</title
-<thumbnail>http://i.cubeupload.com/4kYHFc.png</thumbnail>
+<title>[B][COLOR deepskyblue]Filmes:  [/B][COLOR lime][B]Pesquisar[/B][/COLOR]</title
+<thumbnail> http://i.cubeupload.com/4kYHFc.png </thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=movieSearch</jsonrpc>
 <fanart></fanart>
@@ -52,7 +52,7 @@
 
 
 <item>
-<title>[B][COLOR white]Séries:  [/B][COLOR white][B]Por Género[/B][/COLOR]</title
+<title>[B][COLOR lime] Séries:  [/B][COLOR lime][B]Por Género[/B][/COLOR]</title
 <link>http://fui.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvGenres</jsonrpc>
 <thumbnail>http://i.cubeupload.com/7zEe6D.png</thumbnail>
@@ -60,7 +60,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Séries:  [/B][COLOR white][B]Por ano[/B][/COLOR]</title
+<title>[B][COLOR lime]Séries:  [/B][COLOR lime][B]Por ano[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/xmPwx0.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvYears</jsonrpc>
@@ -69,7 +69,7 @@
 
 
 <item>
-<title>[B][COLOR white]Séries:  [/B][COLOR white][B]Populares[/B][/COLOR]</title
+<title>[B][COLOR lime]Séries:  [/B][COLOR lime][B]Populares[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/Rme5VI.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvshows&amp;url=popular</jsonrpc>
@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]Séries:  [/B][COLOR white][B]Calendário das Séries[/B][/COLOR]</title
+<title>[B][COLOR lime]Séries:  [/B][COLOR lime][B]Calendário das Séries[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/VeFE9Z.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=calendars</jsonrpc>
@@ -86,7 +86,7 @@
 
 
 <item>
-<title>[B][COLOR white]Séries:  [/B][COLOR white][B]Pesquisar[/B][/COLOR]</title
+<title>[B][COLOR lime]Séries:  [/B][COLOR lime][B]Pesquisar[/B][/COLOR]</title
 <thumbnail>http://i.cubeupload.com/4kYHFc.png</thumbnail>
 <link>http://ignora.me</link>
 <jsonrpc>plugin://plugin.video.specto/?action=tvSearch</jsonrpc>
