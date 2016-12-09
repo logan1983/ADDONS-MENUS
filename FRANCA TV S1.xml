@@ -25,568 +25,434 @@
 
 
 
-  
+ 
+          <item> 
+            <title>TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_2</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_3</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_4</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_5</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_O</link> 
+        </item> 
+          <item> 
+            <title>M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6</link> 
+        </item> 
+          <item> 
+            <title>Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte</link> 
+        </item> 
+          <item> 
+            <title>HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
+        </item> 
+          <item> 
+            <title>TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
+        </item> 
+          <item> 
+            <title>Paris-Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris-Premiere</link> 
+        </item> 
+          <item> 
+            <title>Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy</link> 
+        </item> 
+          <item> 
+            <title>6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER</link> 
+        </item> 
+          <item> 
+            <title>RTS_Un_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Un_HD</link> 
+        </item> 
+          <item> 
+            <title>RTS_Deux_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Deux_HD</link> 
+        </item> 
+          <item> 
+            <title>La-Deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Deux</link> 
+        </item> 
+          <item> 
+            <title>La-Trois</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=La-Trois</link> 
+        </item> 
+          <item> 
+            <title>Plug-RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=Plug-RTL</link> 
+        </item> 
+          <item> 
+            <title>---------- Information ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Information ----------</link> 
+        </item> 
+          <item> 
+            <title>TV5_Monde</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5_Monde</link> 
+        </item> 
+          <item> 
+            <title>FRANCEINFO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCEINFO</link> 
+        </item> 
+          <item> 
+            <title>BFM-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM-TV</link> 
+        </item> 
+          <item> 
+            <title>---------- Cinéma ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Cinéma ----------</link> 
+        </item> 
+          <item> 
+            <title>CANAL+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+</link> 
+        </item> 
+          <item> 
+            <title>CANAL+CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+CINEMA</link> 
+        </item> 
+          <item> 
+            <title>CANAL+FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+FAMILY</link> 
+        </item> 
+          <item> 
+            <title>CINEMA_EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA_EMOTION</link> 
+        </item> 
+          <item> 
+            <title>CANAL+SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+SERIES</link> 
+        </item> 
+          <item> 
+            <title>CINE+PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+PREMIER</link> 
+        </item> 
+          <item> 
+            <title>CINE+FRISSON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+FRISSON</link> 
+        </item> 
+          <item> 
+            <title>CINE-FAMIZ-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE-FAMIZ-HD</link> 
+        </item> 
+          <item> 
+            <title>CINE_Polar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE_Polar</link> 
+        </item> 
+          <item> 
+            <title>CINE-CLASIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE-CLASIC</link> 
+        </item> 
+          <item> 
+            <title>OCS_MAX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX_HD</link> 
+        </item> 
+          <item> 
+            <title>OCS_CHOC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CHOC_HD</link> 
+        </item> 
+          <item> 
+            <title>OCS_City_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_City_HD</link> 
+        </item> 
+          <item> 
+            <title>OCS_GEANT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_GEANT_HD</link> 
+        </item> 
+          <item> 
+            <title>PARAMOUNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT</link> 
+        </item> 
+          <item> 
+            <title>---------- Divertissement ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Divertissement ----------</link> 
+        </item> 
+          <item> 
+            <title>13eme_Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme_Rue</link> 
+        </item> 
+          <item> 
+            <title>NUMERO_23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUMERO_23</link> 
+        </item> 
+          <item> 
+            <title>Canal_DECALE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_DECALE</link> 
+        </item> 
+          <item> 
+            <title>RTL9-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9-HD</link> 
+        </item> 
+          <item> 
+            <title>D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8</link> 
+        </item> 
+          <item> 
+            <title>D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17</link> 
+        </item> 
+          <item> 
+            <title>W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9</link> 
+        </item> 
+          <item> 
+            <title>Teva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teva</link> 
+        </item> 
+          <item> 
+            <title>LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
+        </item> 
+          <item> 
+            <title>LEQUIPE21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=LEQUIPE21</link> 
+        </item> 
+          <item> 
+            <title>I_TELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_TELE</link> 
+        </item> 
+          <item> 
+            <title>Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action</link> 
+        </item> 
+          <item> 
+            <title>Comedie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie</link> 
+        </item> 
+          <item> 
+            <title>GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI</link> 
+        </item> 
+          <item> 
+            <title>MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS</link> 
+        </item> 
+          <item> 
+            <title>SERIE_CLUB_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIE_CLUB_HD</link> 
+        </item> 
+          <item> 
+            <title>NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
+        </item> 
+          <item> 
+            <title>June</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=June</link> 
+        </item> 
+          <item> 
+            <title>---------- Musique ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Musique ----------</link> 
+        </item> 
+          <item> 
+            <title>M6_Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_Music</link> 
+        </item> 
+          <item> 
+            <title>NRJ_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12</link> 
+        </item> 
+          <item> 
+            <title>Club-RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=Club-RTL</link> 
+        </item> 
+          <item> 
+            <title>Music_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=Music_FR</link> 
+        </item> 
+          <item> 
+            <title>---------- Enfnats ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,---------- Enfnats&amp;streamtype=TSDOWNLOADER&amp;name=---------- Enfnats ----------</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG</link> 
+        </item> 
+          <item> 
+            <title>PIWI+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI+</link> 
+        </item> 
+          <item> 
+            <title>Disney_xd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_xd</link> 
+        </item> 
+          <item> 
+            <title>CANAL+J_Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+J_Kids</link> 
+        </item> 
+          <item> 
+            <title>DISNEY_CHANNEL_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL_FR</link> 
+        </item> 
+          <item> 
+            <title>Disney_Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Cinema</link> 
+        </item> 
+          <item> 
+            <title>Cartoon_Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon_Network</link> 
+        </item> 
+          <item> 
+            <title>TeleToon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=TeleToon</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON_Junior</link> 
+        </item> 
+          <item> 
+            <title>Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item> 
+          <item> 
+            <title>Tiji</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji</link> 
+        </item> 
+          <item> 
+            <title>---------- Sport ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Sport ----------</link> 
+        </item> 
+          <item> 
+            <title>INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+</link> 
+        </item> 
+          <item> 
+            <title>CANAL+SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+SPORT</link> 
+        </item> 
+          <item> 
+            <title>BEINSPORT-1-FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-1-FR</link> 
+        </item> 
+          <item> 
+            <title>BEINSPORT-2-FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-2-FR</link> 
+        </item> 
+          <item> 
+            <title>BEINSPORT-3-FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT-3-FR</link> 
+        </item> 
+          <item> 
+            <title>SFR_SPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT1</link> 
+        </item> 
+          <item> 
+            <title>SFR_SPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT2</link> 
+        </item> 
+          <item> 
+            <title>SFR_SPORT3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT3</link> 
+        </item> 
+          <item> 
+            <title>Eurosport_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_1</link> 
+        </item> 
+          <item> 
+            <title>Eurosport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_2</link> 
+        </item> 
+          <item> 
+            <title>FOOT-24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOT-24</link> 
+        </item> 
+          <item> 
+            <title>L'EQUIPE21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE21</link> 
+        </item> 
+          <item> 
+            <title>OL_Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=OL_Tv</link> 
+        </item> 
+          <item> 
+            <title>EQUIDIA_LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA_LIVE</link> 
+        </item> 
+          <item> 
+            <title>AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1</link> 
+        </item> 
+          <item> 
+            <title>AB-Moteurs</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB-Moteurs</link> 
+        </item> 
+          <item> 
+            <title>---------- Culture ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Culture ----------</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL_GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL_GEO</link> 
+        </item> 
+          <item> 
+            <title>NAT_GEO_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_WILD</link> 
+        </item> 
+          <item> 
+            <title>USHUAIA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_TV</link> 
+        </item> 
+          <item> 
+            <title>Animaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux</link> 
+        </item> 
+          <item> 
+            <title>VOYAGE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY_SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_SCIENCE</link> 
+        </item> 
+          <item> 
+            <title>PLANETE+CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+CI</link> 
+        </item> 
+          <item> 
+            <title>PLANETE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+</link> 
+        </item> 
+          <item> 
+            <title>ANIMEAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMEAUX</link> 
+        </item> 
+          <item> 
+            <title>Chasse&amp;Peche_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse&amp;Peche_HD</link> 
+        </item> 
+          <item> 
+            <title>science&amp;vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=science&amp;vie</link> 
+        </item> 
+          <item> 
+            <title>CHERIE_25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://serverip.dyndns.info:8000/live/COBRA/COBRA/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHERIE_25</link> 
+        </item> 
+    
  
   
  
   
  
-  
-          <item> 
-            <title>FR | A LA CARTE 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 10</link> 
-        </item> 
-          <item> 
-            <title>FR | CINE CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>FR | Cine Polar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cine Polar</link> 
-        </item> 
-          <item> 
-            <title>FR | TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TF1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 9</link> 
-        </item> 
-          <item> 
-            <title>FR | OCS MAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS MAX HD</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 7</link> 
-        </item> 
-          <item> 
-            <title>FR | InfoSport+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | InfoSport+</link> 
-        </item> 
-          <item> 
-            <title>FR | M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | M6 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | SERIE CLUB HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | SERIE CLUB HD</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL J</link> 
-        </item> 
-          <item> 
-            <title>FR | FRANCE O HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE O HD</link> 
-        </item> 
-          <item> 
-            <title>FR | FRANCE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | FRANCE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | FRANCE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 5</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 1</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 2</link> 
-        </item> 
-          <item> 
-            <title>FR | TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TMC</link> 
-        </item> 
-          <item> 
-            <title>FR | CINE  FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE  FRISSON HD</link> 
-        </item> 
-          <item> 
-            <title>FR | D17 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | D17 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 3</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 4</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 5</link> 
-        </item> 
-          <item> 
-            <title>FR | CINE+ FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ FAMILY HD</link> 
-        </item> 
-          <item> 
-            <title>FR | NRJ 12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NRJ 12 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | Voyage</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Voyage</link> 
-        </item> 
-          <item> 
-            <title>FR | Foot+ 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Foot+ 24 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | NT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NT 1</link> 
-        </item> 
-          <item> 
-            <title>FR | DÄ°SCOVERY SCÄ°ENCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DÄ°SCOVERY SCÄ°ENCE HD</link> 
-        </item> 
-          <item> 
-            <title>FR | CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE FX</link> 
-        </item> 
-          <item> 
-            <title>FR | ANIMAUX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ANIMAUX HD</link> 
-        </item> 
-          <item> 
-            <title>FR | DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>FR | CINE+ PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ PREMIER HD</link> 
-        </item> 
-          <item> 
-            <title>FR | RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | RTL9</link> 
-        </item> 
-          <item> 
-            <title>FR | ARTE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ARTE HD</link> 
-        </item> 
-          <item> 
-            <title>FR | CHERÄ°E 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CHERÄ°E 25</link> 
-        </item> 
-          <item> 
-            <title>FR | OCS City</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS City</link> 
-        </item> 
-          <item> 
-            <title>FR | OCS CHOC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | OCS CHOC HD</link> 
-        </item> 
-          <item> 
-            <title>FR | CINE+ Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CINE+ Emotion HD</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 8</link> 
-        </item> 
-          <item> 
-            <title>FR | Cartoon NetWork</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Cartoon NetWork</link> 
-        </item> 
-          <item> 
-            <title>FR | Teva HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Teva HD</link> 
-        </item> 
-          <item> 
-            <title>FR | AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR | Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Discovery HD</link> 
-        </item> 
-          <item> 
-            <title>FR | L'EQUIPE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | L'EQUIPE 21</link> 
-        </item> 
-          <item> 
-            <title>FR | A LA CARTE 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | A LA CARTE 6</link> 
-        </item> 
-          <item> 
-            <title>FR | HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | HD1</link> 
-        </item> 
-          <item> 
-            <title>FR | WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2523.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | WEO</link> 
-        </item> 
-          <item> 
-            <title>FR | W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | W9</link> 
-        </item> 
-          <item> 
-            <title>FR | USHUAIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | USHUAIA HD</link> 
-        </item> 
-          <item> 
-            <title>FR | TV BREITZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TV BREITZ</link> 
-        </item> 
-          <item> 
-            <title>FR | TELETOON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | TELETOON HD</link> 
-        </item> 
-          <item> 
-            <title>FR | SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>FR | RMC DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2527.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | RMC DECOUVERTE</link> 
-        </item> 
-          <item> 
-            <title>FR | PLANETE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2526.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PLANETE HD</link> 
-        </item> 
-          <item> 
-            <title>FR | PLANETE  CI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PLANETE  CI HD</link> 
-        </item> 
-          <item> 
-            <title>FR | PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | PIWI</link> 
-        </item> 
-          <item> 
-            <title>FR | NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>FR | MANGAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | MANGAS</link> 
-        </item> 
-          <item> 
-            <title>FR | M6 MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | M6 MUSIC</link> 
-        </item> 
-          <item> 
-            <title>FR | I TELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | I TELE</link> 
-        </item> 
-          <item> 
-            <title>FR | GULLI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | GULLI HD</link> 
-        </item> 
-          <item> 
-            <title>FR | GONG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | GONG</link> 
-        </item> 
-          <item> 
-            <title>FR | FRANCE 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | FRANCE 24</link> 
-        </item> 
-          <item> 
-            <title>FR | EQUIDIA LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | EQUIDIA LIVE HD</link> 
-        </item> 
-          <item> 
-            <title>FR | DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>FR | DISNEY Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | DISNEY Channel</link> 
-        </item> 
-          <item> 
-            <title>FR | D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | D8</link> 
-        </item> 
-          <item> 
-            <title>FR | CHASSE ET PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CHASSE ET PECHE</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL SPORT HD</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL PLAY 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 4</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL PLAY 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 3</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL PLAY 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 2</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL PLAY 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2547.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL PLAY 1</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL HD</link> 
-        </item> 
-          <item> 
-            <title>FR | CANAL DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | CANAL DECALE HD</link> 
-        </item> 
-          <item> 
-            <title>FR | BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2530.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | BFM TV</link> 
-        </item> 
-          <item> 
-            <title>FR | ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2536.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | ACTION</link> 
-        </item> 
-          <item> 
-            <title>FR | AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB3</link> 
-        </item> 
-          <item> 
-            <title>FR | AB MOTEURS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2533.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | AB MOTEURS HD</link> 
-        </item> 
-          <item> 
-            <title>FR | 6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2546.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | 6TER HD</link> 
-        </item> 
-          <item> 
-            <title>FR | 13 EME RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/marija/marija/2543.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | 13 EME RUE</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE-1</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE-2</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE-3</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE-4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE-4</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE_5</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE_7</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE_8</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE_9</link> 
-        </item> 
-          <item> 
-            <title>FR:ALACARTE-10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ALACARTE-10</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_Max_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_Max_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_CHOC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ACTION</link> 
-        </item> 
-          <item> 
-            <title>FR:Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Syfy</link> 
-        </item> 
-          <item> 
-            <title>FR:SERIE_CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SERIE_CLUB</link> 
-        </item> 
-          <item> 
-            <title>FR:NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
-        </item> 
-          <item> 
-            <title>FR: VIRGIN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: VIRGIN</link> 
-        </item> 
-          <item> 
-            <title>FR: TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: TCM CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TCM CINEMA</link> 
-        </item> 
-          <item> 
-            <title>FR: RTL TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL TVI HD</link> 
-        </item> 
-          <item> 
-            <title>FR: OL Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OL Tv</link> 
-        </item> 
-          <item> 
-            <title>FR: OCS GEANT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT HD</link> 
-        </item> 
-          <item> 
-            <title>FR: OCS CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD</link> 
-        </item> 
-          <item> 
-            <title>FR: MTV MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV MUSIC</link> 
-        </item> 
-          <item> 
-            <title>FR: MTV HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV HITS</link> 
-        </item> 
-          <item> 
-            <title>FR: M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: La trois</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La trois</link> 
-        </item> 
-          <item> 
-            <title>FR: La Deux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La Deux</link> 
-        </item> 
-          <item> 
-            <title>FR: France 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: France 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: France 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: France 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-            <title>FR: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>FR: L'Ã©QUIPIE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'Ã©QUIPIE 21</link> 
-        </item> 
-          <item> 
-            <title>FR: EQUIDIA LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE HD</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY_XD</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY_JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY_CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY_CINEMA</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY_CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FR: D17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D17</link> 
-        </item> 
-          <item> 
-            <title>FR: CINEMA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINEMA 1</link> 
-        </item> 
-          <item> 
-            <title>FR: CINEMA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINEMA 2</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE POLAR</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Plus Premier HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Plus Premier HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Plus Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Plus Emotion HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine FX</link> 
-        </item> 
-          <item> 
-            <title>FR: Cherie 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cherie 25</link> 
-        </item> 
-          <item> 
-            <title>FR: Chasse &amp; Peche HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chasse &amp; Peche HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CARTOON_NETWORK</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal+ Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Sport HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal Plus Series HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Plus Series HD</link> 
-        </item> 
-          <item> 
-            <title>FR: AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB3</link> 
-        </item> 
-          <item> 
-            <title>FR: AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: 6ter HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6ter HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  NRJ 12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  NRJ 12 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  LA UNE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sonic-iptv.com:2500/live/david/david/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  LA UNE HD</link> 
-        </item> 
-  
-  
