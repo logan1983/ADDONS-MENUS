@@ -30,136 +30,393 @@
  
 
  
+      
           <item> 
-            <title> tvg-id="" tvg-name="ES-LA2" tvg-logo="" group-title=""ES-LA2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-LA2" tvg-logo="" group-title=""ES-LA2</link> 
+            <title>ES: TVE LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3629.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA 1</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-TV3" tvg-logo="" group-title=""ES-TV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/1558.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-TV3" tvg-logo="" group-title=""ES-TV3</link> 
+            <title>ES: TVE LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA 1 HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="es-Antenna 3" tvg-logo="" group-title=""es-Antenna 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="es-Antenna 3" tvg-logo="" group-title=""es-Antenna 3</link> 
+            <title>ES: TVE LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA 2</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-CALLE 13" tvg-logo="" group-title=""ES-CALLE 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2595.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-CALLE 13" tvg-logo="" group-title=""ES-CALLE 13</link> 
+            <title>ES: TV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2145.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV3 HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C  XTRA HD" tvg-logo="" group-title=""Es-C  XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C  XTRA HD" tvg-logo="" group-title=""Es-C  XTRA HD</link> 
+            <title>ES: Antena 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C  LIGA HD" tvg-logo="" group-title=""Es-C  LIGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C  LIGA HD" tvg-logo="" group-title=""Es-C  LIGA HD</link> 
+            <title>ES: Azteca Trece</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/4632.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Azteca Trece</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C  FUTBOL HD" tvg-logo="" group-title=""Es-C  FUTBOL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C  FUTBOL HD" tvg-logo="" group-title=""Es-C  FUTBOL HD</link> 
+            <title>ES: N Cuatro SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: N Cuatro SD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C  ESTRENOS HD" tvg-logo="" group-title="OSN"Es-C  ESTRENOS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C  ESTRENOS HD" tvg-logo="" group-title="OSN"Es-C  ESTRENOS HD</link> 
+            <title>ES: N Cuatro HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2152.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: N Cuatro HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C  DEPORTES HD" tvg-logo="" group-title=""Es-C  DEPORTES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2572.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C  DEPORTES HD" tvg-logo="" group-title=""Es-C  DEPORTES HD</link> 
+            <title>ES: Telecinco HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C  DCINE HD" tvg-logo="" group-title=""Es-C  DCINE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2574.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C  DCINE HD" tvg-logo="" group-title=""Es-C  DCINE HD</link> 
+            <title>ES: Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Telecinco</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-Canal Acction" tvg-logo="" group-title=""ES-Canal Acction</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-Canal Acction" tvg-logo="" group-title=""ES-Canal Acction</link> 
+            <title>ES: la sexta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: la sexta HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-La Sexta" tvg-logo="" group-title=""Es-La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2576.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-La Sexta" tvg-logo="" group-title=""Es-La Sexta</link> 
+            <title>ES: tHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/4631.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: tHD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-EuroNews" tvg-logo="" group-title=""Es-EuroNews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-EuroNews" tvg-logo="" group-title=""Es-EuroNews</link> 
+            <title>ES: RTVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/4630.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RTVA</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-Travel tv" tvg-logo="" group-title=""Es-Travel tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2573.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-Travel tv" tvg-logo="" group-title=""Es-Travel tv</link> 
+            <title>ES: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Baby TV</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-RT es" tvg-logo="" group-title=""Es-RT es</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2564.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-RT es" tvg-logo="" group-title=""Es-RT es</link> 
+            <title>ES: BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BOING</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-EiTB" tvg-logo="" group-title=""Es-EiTB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2565.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-EiTB" tvg-logo="" group-title=""Es-EiTB</link> 
+            <title>ES: Anima Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3674.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Anima Tv</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-BEIN SPORTS" tvg-logo="" group-title=""Es-BEIN SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-BEIN SPORTS" tvg-logo="" group-title=""Es-BEIN SPORTS</link> 
+            <title>ES: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3654.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney XD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-C estrenos" tvg-logo="" group-title=""Es-C estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2582.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-C estrenos" tvg-logo="" group-title=""Es-C estrenos</link> 
+            <title>ES: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3653.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Junior</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-REAL MADRID TV" tvg-logo="" group-title=""ES-REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2589.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-REAL MADRID TV" tvg-logo="" group-title=""ES-REAL MADRID TV</link> 
+            <title>ES: Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3652.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cartoon Network</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-Canal.Costa" tvg-logo="" group-title=""ES-Canal.Costa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2601.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-Canal.Costa" tvg-logo="" group-title=""ES-Canal.Costa</link> 
+            <title>ES: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3687.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nickelodeon</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-Fox Life" tvg-logo="" group-title=""ES-Fox Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2598.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-Fox Life" tvg-logo="" group-title=""ES-Fox Life</link> 
+            <title>ES: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2162.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Channel</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-FOX HD" tvg-logo="" group-title=""ES-FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-FOX HD" tvg-logo="" group-title=""ES-FOX HD</link> 
+            <title>ES: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-Anime" tvg-logo="" group-title=""Es-Anime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-Anime" tvg-logo="" group-title=""Es-Anime</link> 
+            <title>ES: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2158.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-Disney.Channel" tvg-logo="" group-title=""ES-Disney.Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2592.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-Disney.Channel" tvg-logo="" group-title=""ES-Disney.Channel</link> 
+            <title>ES: FOX Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3642.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX Life HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-DISNEY XD" tvg-logo="" group-title=""ES-DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-DISNEY XD" tvg-logo="" group-title=""ES-DISNEY XD</link> 
+            <title>ES: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3641.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-DISNEY JUNIOR" tvg-logo="" group-title=""ES-DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2594.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-DISNEY JUNIOR" tvg-logo="" group-title=""ES-DISNEY JUNIOR</link> 
+            <title>ES: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-Canal_Toros" tvg-logo="" group-title=""ES-Canal_Toros</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-Canal_Toros" tvg-logo="" group-title=""ES-Canal_Toros</link> 
+            <title>ES: Fox SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2159.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox SD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-AXN HD" tvg-logo="" group-title=""ES-AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2597.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-AXN HD" tvg-logo="" group-title=""ES-AXN HD</link> 
+            <title>ES: AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3648.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN White HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="ES-moviestar.Comedia" tvg-logo="" group-title=""ES-moviestar.Comedia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2596.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="ES-moviestar.Comedia" tvg-logo="" group-title=""ES-moviestar.Comedia</link> 
+            <title>ES: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3649.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-TELECINCO HD" tvg-logo="" group-title=""Es-TELECINCO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-TELECINCO HD" tvg-logo="" group-title=""Es-TELECINCO HD</link> 
+            <title>ES: Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3643.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13 HD</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="Es-Nat.Geo" tvg-logo="" group-title=""Es-Nat.Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="Es-Nat.Geo" tvg-logo="" group-title=""Es-Nat.Geo</link> 
+            <title>ES: Movistar Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Accion</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="es-Hollywood" tvg-logo="" group-title=""es-Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="es-Hollywood" tvg-logo="" group-title=""es-Hollywood</link> 
+            <title>ES: Movistar Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3633.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Comedia</link> 
         </item> 
           <item> 
-            <title> tvg-id="" tvg-name="es-Europe News" tvg-logo="" group-title=""es-Europe News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/riadh1399/riadh1399/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="es-Europe News" tvg-logo="" group-title=""es-Europe News</link> 
+            <title>ES: Movistar DCine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3631.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar DCine</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3635.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3637.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Series Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3636.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Series</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3634.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Estrenos</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar Cine N</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3639.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar Cine N</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3638.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
+        </item> 
+          <item> 
+            <title>ES: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>ES: Paramount Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3673.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Paramount Channel</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3645.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood SD</link> 
+        </item> 
+          <item> 
+            <title>ES: Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3644.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Hollywood HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Factoria de Ficcion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3678.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Factoria de Ficcion</link> 
+        </item> 
+          <item> 
+            <title>ES: Televisa HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3679.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Televisa HD</link> 
+        </item> 
+          <item> 
+            <title>ES: RT Español</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RT Español</link> 
+        </item> 
+          <item> 
+            <title>ES: Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3675.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Energy</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE Clan</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3647.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE Clan</link> 
+        </item> 
+          <item> 
+            <title>ES: TVE 24H</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3669.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE 24H</link> 
+        </item> 
+          <item> 
+            <title>ES: Euronews Espanol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3685.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Euronews Espanol</link> 
+        </item> 
+          <item> 
+            <title>ES: Neox Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Neox Tv</link> 
+        </item> 
+          <item> 
+            <title>ES: National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3676.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic</link> 
+        </item> 
+          <item> 
+            <title>ES: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3677.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>ES: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2146.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: History</link> 
+        </item> 
+          <item> 
+            <title>ES: Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3682.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Historia</link> 
+        </item> 
+          <item> 
+            <title>ES: Toros Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3668.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Toros Tv</link> 
+        </item> 
+          <item> 
+            <title>SE: TV10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=SE: TV10</link> 
+        </item> 
+          <item> 
+            <title>SW: TV 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SW: TV 12</link> 
+        </item> 
+          <item> 
+            <title>SE:TV Sjuan</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/4468.ts&amp;streamtype=TSDOWNLOADER&amp;name=SE:TV Sjuan</link> 
+        </item> 
+          <item> 
+            <title>SE: Kanal 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SE: Kanal 9</link> 
+        </item> 
+          <item> 
+            <title>ES: Viajar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3683.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Viajar HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Odisea Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3671.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Odisea Tv</link> 
+        </item> 
+          <item> 
+            <title>ES: Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3667.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nova</link> 
+        </item> 
+          <item> 
+            <title>ES: Mega</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Mega</link> 
+        </item> 
+          <item> 
+            <title>ES: MTV es</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3690.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MTV es</link> 
+        </item> 
+          <item> 
+            <title>ES: Proyecto 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2150.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Proyecto 40</link> 
+        </item> 
+          <item> 
+            <title>ES: Crimen Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3689.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Crimen Investigation</link> 
+        </item> 
+          <item> 
+            <title>ES: Cosmo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3688.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Cosmo HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ DeCasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3686.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ DeCasa</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3684.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Cocina</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar MotoGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3680.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar MotoGP</link> 
+        </item> 
+          <item> 
+            <title>ES: Movistar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3681.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar F1</link> 
+        </item> 
+          <item> 
+            <title>ES: Andalucia Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3670.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Andalucia Tv</link> 
+        </item> 
+          <item> 
+            <title>ES: RealMadrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RealMadrid TV</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3655.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 7</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 8</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 9</link> 
+        </item> 
+          <item> 
+            <title>ES: Taquilla 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 10</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 1</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3661.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 2</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3663.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 3</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3664.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3665.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 4</link> 
+        </item> 
+          <item> 
+            <title>ES: TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/3666.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVCINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal  Deportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal  Deportes</link> 
+        </item> 
+          <item> 
+            <title>ES: Bein Sport Espagne</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport Espagne</link> 
+        </item> 
+          <item> 
+            <title>ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/wZfgVMVWg2/CRR5NmgxLp/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
         </item> 
   
