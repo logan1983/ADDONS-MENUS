@@ -231,9 +231,9 @@
 <thumbnail>http://www.spautores.pt/assets_live/2222/autores_tvi24.jpg</thumbnail>
 </item>
 
- <item>
-<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>rtmp://82.192.80.196/live/ playPath=flopdosflopss6?id=89770&pk=64b4d04da4876278062c10a1868076df3844fe92c1bf10d81b6c29c2e1e41d3d swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2022,0,0,209 pageUrl=http://www.embeducaster.com/embedplayer/flopdosflopss6/1/730/430 swfVfy=1 live=1 timeout=15</link>
+<item>
+<title>[COLOR white][B][I] TVI REALITY PT:1 [/I][/B][/COLOR] [COLOR lime](F4M)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.159.198:8000/live/marcos/marcos/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI REALITY LOGAN</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -372,8 +372,8 @@
 
 <item>
 <title>[COLOR white][B][I] SPORT TV4 HD PT [/I][/B][/COLOR] [COLOR lime](F4M)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/hatem/hatem123/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV4 LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://51.254.197.40:25461/live/frank/frank/9842.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV4 LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.159.198:8000/live/marcos/marcos/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV4 LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.159.198:8000/live/marcos/marcos/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV4 LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png?w=300?resize=100%2C123</thumbnail>
 <fanart></fanart>
 </item>
@@ -466,7 +466,7 @@
 
 <item>
 <title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
-<link>http://185.2.83.164:25461/live/mqJY9fBKfo/KGW7bAGfE0/7616.m3u8?token=QXIvT1c4anN2K3hwMnc3S2NnNkNMdHJoZXVZNXZwOEl3UVFFZWRFamdjMytTbjdkOVRCSGtsdVEzS3l1dXNmNlNwT2ViK2VwUkM0UUV3NUFjR3hqZ0tVQkYrWXBKVHhrWkpsRWl1Qmh0QUtLcEpTRlZ5MmRaeHpHbkFNZW5WL0xocXp2Z01FdXlYbWRQeitVM25yZkRpcFlWZXBDT1JlTlN1bWtBQnBKc3ZuZWhxcTl1MWk4L3VEYkZYMTN0L1N4anZ1eUh0elI1UitFY29YSmxSMExWYkJHajhJMmYrV09XT2J3V0VQZGQ1TjNJdFI5RDdKekVIaEpzYi9uRElKdnFwd1VGRUsvQlI2Q1F4QTdlQlRkL2NCK1pHQWhKb0RaOW5od1R1dXU0NVozT0dINXdZRGxweWRWOEJTbWhOQ2psakc1aVJweUFIbS81SGZRcVNTN2lUM3N4YUdSU1llc1ZlV0NDS1k1NG92S1Y1RmJRa29wc2lMWDY0QVFuTVpaNHZtNWZCRU5ITEhyMDhxYjhmMlhJeHhYWTFCSk9uK2I0MnlyU2xBa3QzdlpjQVI2Q2l2RGlkSThyM2c1a3ZFbTFKWDllRG5HUzlzNExNT3N0S20rZVE9PXx4K21jb2UvcWQ2bm9yM1B2Tm5XTVhKY2lJQ2wyQ3NsMWp3Zk9IdE8vWnAwPQ==</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.159.198:8000/live/marcos/marcos/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
 <fanart></fanart>
@@ -475,7 +475,7 @@
 <item>
 <title>[COLOR white][B][I] TVCINE 2 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV) [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
-<link>http://portal.onlineiptv.net:5210/live/mqJY9fBKfo/KGW7bAGfE0/7615.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.159.198:8000/live/marcos/marcos/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -485,8 +485,8 @@
 
 <item>
 <title>[COLOR white][B][I] TVCINE 3 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.217.53:8000/live/5grandiptv915/67863345/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://5.189.159.198:8000/live/marcos/marcos/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best.dnsfor.me:25461/live/CPHxiMG3Fl/eHpw0kh9Kn/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png</thumbnail>
 <fanart></fanart>
 </item>
