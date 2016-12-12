@@ -33,544 +33,160 @@
 
 
 
-
-
- 
-  
- 
-      
- 
-           
-          <item> 
-            <title> tvg-ID="RTP1" tvg-name="RTP 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg" group-title="MEO&amp;NOZ"RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/766.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTP1" tvg-name="RTP 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1.jpg" group-title="MEO&amp;NOZ"RTP 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RTP1" tvg-name="RTP 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1_hd.jpg" group-title="MEO&amp;NOZ"RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/987.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTP1" tvg-name="RTP 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp1_hd.jpg" group-title="MEO&amp;NOZ"RTP 1 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="MEO&amp;NOZ"RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/765.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTP2" tvg-name="RTP 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="MEO&amp;NOZ"RTP 2</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="MEO&amp;NOZ"RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/988.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp2.jpg" group-title="MEO&amp;NOZ"RTP 2 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RTP1" tvg-name="SIC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg" group-title="MEO&amp;NOZ"SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/760.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTP1" tvg-name="SIC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg" group-title="MEO&amp;NOZ"SIC</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg" group-title="MEO&amp;NOZ"SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/825.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SIC" tvg-name="SIC HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg" group-title="MEO&amp;NOZ"SIC HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="TVI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5BlJ5xvl5IKhbGFCHR9ejsWPpwoVAB9CvDqr-4zyz1omKIOv" group-title="MEO&amp;NOZ"TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TVI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5BlJ5xvl5IKhbGFCHR9ejsWPpwoVAB9CvDqr-4zyz1omKIOv" group-title="MEO&amp;NOZ"TVI</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5BlJ5xvl5IKhbGFCHR9ejsWPpwoVAB9CvDqr-4zyz1omKIOv" group-title="MEO&amp;NOZ"TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/823.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVI" tvg-name="TVI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5BlJ5xvl5IKhbGFCHR9ejsWPpwoVAB9CvDqr-4zyz1omKIOv" group-title="MEO&amp;NOZ"TVI HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cm_tv_pt.jpg" group-title="MEO&amp;NOZ"CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/800.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CMTV" tvg-name="CMTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cm_tv_pt.jpg" group-title="MEO&amp;NOZ"CMTV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SICN" tvg-name="SIC NOTICIAS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_noticias.jpg" group-title="MEO&amp;NOZ"SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/757.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SICN" tvg-name="SIC NOTICIAS" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_noticias.jpg" group-title="MEO&amp;NOZ"SIC NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RTP3" tvg-name="RTP 3" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcTpYqm9o3TOFpp-TyOYQLq5GK-sm-rpOYTMELdRtD1BVyo2YqNjAA" group-title="MEO&amp;NOZ"RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/764.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTP3" tvg-name="RTP 3" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcTpYqm9o3TOFpp-TyOYQLq5GK-sm-rpOYTMELdRtD1BVyo2YqNjAA" group-title="MEO&amp;NOZ"RTP 3</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVI24" tvg-name="TVI 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_24.jpg" group-title="MEO&amp;NOZ"TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/738.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVI24" tvg-name="TVI 24" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_24.jpg" group-title="MEO&amp;NOZ"TVI 24</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVIF" tvg-name="TVI FICCAO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_ficcao_pt.jpg" group-title="MEO&amp;NOZ"TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/737.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVIF" tvg-name="TVI FICCAO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvi_ficcao_pt.jpg" group-title="MEO&amp;NOZ"TVI FICCAO</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="TVI REALITY" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi9vYzAe61lldZGhtTG_FWm9GiPrgyQ3uAJuHRZQeMufxpojBvGg" group-title="MEO&amp;NOZ"TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/710.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TVI REALITY" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi9vYzAe61lldZGhtTG_FWm9GiPrgyQ3uAJuHRZQeMufxpojBvGg" group-title="MEO&amp;NOZ"TVI REALITY</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="GLOBO" tvg-logo="http://vignette1.wikia.nocookie.net/logos/images/8/80/200px-Rede_Globo_2014.png/revision/latest?cb=20140116203312&amp;path-prefix=pt-br" group-title="MEO&amp;NOZ"GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/787.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="GLOBO" tvg-logo="http://vignette1.wikia.nocookie.net/logos/images/8/80/200px-Rede_Globo_2014.png/revision/latest?cb=20140116203312&amp;path-prefix=pt-br" group-title="MEO&amp;NOZ"GLOBO</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="GLOBO PREMIUM" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/10/Globo_premium_2011.png/revision/latest?cb=20140406193846" group-title="MEO&amp;NOZ"GLOBO PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/786.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="GLOBO PREMIUM" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/10/Globo_premium_2011.png/revision/latest?cb=20140406193846" group-title="MEO&amp;NOZ"GLOBO PREMIUM</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="TV RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="MEO&amp;NOZ"TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/745.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TV RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="MEO&amp;NOZ"TV RECORD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_mulher.jpg" group-title="MEO&amp;NOZ"SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/719.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SICM" tvg-name="SIC MULHER" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_mulher.jpg" group-title="MEO&amp;NOZ"SIC MULHER</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SIC CARAS" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2013/10/Log%C3%B3tipo-SIC-Caras.png" group-title="MEO&amp;NOZ"SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/759.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SIC CARAS" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2013/10/Log%C3%B3tipo-SIC-Caras.png" group-title="MEO&amp;NOZ"SIC CARAS</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SIC RADICAL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_radical.jpg" group-title="MEO&amp;NOZ"SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/756.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SIC RADICAL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_radical.jpg" group-title="MEO&amp;NOZ"SIC RADICAL</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SIC K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_k.jpg" group-title="MEO&amp;NOZ"SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/758.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SIC K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sic_k.jpg" group-title="MEO&amp;NOZ"SIC K</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="PORTO CANAL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/porto_canal.jpg" group-title="MEO&amp;NOZ"PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/769.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="PORTO CANAL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/porto_canal.jpg" group-title="MEO&amp;NOZ"PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="RTP MEMORIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_memoria.jpg" group-title="MEO&amp;NOZ"RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/761.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="RTP MEMORIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_memoria.jpg" group-title="MEO&amp;NOZ"RTP MEMORIA</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="RTP MADEIRA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_madeira.jpg" group-title="MEO&amp;NOZ"RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/762.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="RTP MADEIRA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_madeira.jpg" group-title="MEO&amp;NOZ"RTP MADEIRA</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="RTP ACORES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_acores.jpg" group-title="MEO&amp;NOZ"RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/763.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="RTP ACORES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_acores.jpg" group-title="MEO&amp;NOZ"RTP ACORES</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_africa.jpg" group-title="MEO&amp;NOZ"RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/767.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RTPA" tvg-name="RTP AFRICA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rtp_africa.jpg" group-title="MEO&amp;NOZ"RTP AFRICA</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SPORT TV +" tvg-logo="http://quinto-canal.com/wp-content/uploads/2012/08/Sport-TV.jpg" group-title="MEO&amp;NOZ"SPORT TV +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/970.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SPORT TV +" tvg-logo="http://quinto-canal.com/wp-content/uploads/2012/08/Sport-TV.jpg" group-title="MEO&amp;NOZ"SPORT TV +</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_1" tvg-name="SPORT TV 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/755.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_1" tvg-name="SPORT TV 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_1" tvg-name="SPORT TV 1 (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1 (2)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_1" tvg-name="SPORT TV 1 (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1 (2)</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_1" tvg-name="SPORT TV 1 HQ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1 HQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_1" tvg-name="SPORT TV 1 HQ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1 HQ</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SPORT TV 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/753.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SPORT TV 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 2</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_3" tvg-name="SPORT TV  3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv3_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV  3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1890.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_3" tvg-name="SPORT TV  3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv3_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV  3</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_2HD" tvg-name="SPORT TV 2 (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 2 (2)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_2HD" tvg-name="SPORT TV 2 (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 2 (2)</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SPORT TV 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/750.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SPORT TV 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 4</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SPORT TV 5" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png" group-title="MEO&amp;NOZ"SPORT TV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/717.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SPORT TV 5" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png" group-title="MEO&amp;NOZ"SPORT TV 5</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_1HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_1HD" tvg-name="SPORT TV 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv1_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 1 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/752.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SPORT TV 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv2_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 2 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_3" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv3_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/824.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_3" tvg-name="SPORT TV 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv3_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 3 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SPTV_4HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SPTV_4HD" tvg-name="SPORT TV 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sport_tv4_pt.jpg" group-title="MEO&amp;NOZ"SPORT TV 4 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/813.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BENFICA TV 1 HD" tvg-name="BTV 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="BTV 1 (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 (2)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="BTV 1 (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 (2)</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="BENFICATV1HD" tvg-name="BTV 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/812.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BENFICATV1HD" tvg-name="BTV 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="BTV 1 HD  (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 HD  (2)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="BTV 1 HD  (2)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 HD  (2)</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="BENFICATV1HD" tvg-name="BTV 1 HQ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 HQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BENFICATV1HD" tvg-name="BTV 1 HQ" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg" group-title="MEO&amp;NOZ"BTV 1 HQ</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="MOTORVISION" tvg-logo="http://www.sky-angebote.info/wp-content/uploads/2015/05/Motorvision-tv-logo.jpg" group-title="MEO&amp;NOZ"MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/778.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="MOTORVISION" tvg-logo="http://www.sky-angebote.info/wp-content/uploads/2015/05/Motorvision-tv-logo.jpg" group-title="MEO&amp;NOZ"MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="FIGHT NETWORK" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg" group-title="MEO&amp;NOZ"FIGHT NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/975.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="FIGHT NETWORK" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/fight-network/logo/large_logo.jpg" group-title="MEO&amp;NOZ"FIGHT NETWORK</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="BolaTV" tvg-name="A BOLA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_bola_tv_pt.jpg" group-title="MEO&amp;NOZ"A BOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/820.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BolaTV" tvg-name="A BOLA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/a_bola_tv_pt.jpg" group-title="MEO&amp;NOZ"A BOLA TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVR" tvg-name="REAL MADRID TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="MEO&amp;NOZ"REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/768.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVR" tvg-name="REAL MADRID TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="MEO&amp;NOZ"REAL MADRID TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SPORTING TV" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SCP.png" group-title="MEO&amp;NOZ"SPORTING TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/716.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SPORTING TV" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SCP.png" group-title="MEO&amp;NOZ"SPORTING TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="EUROSPORT" tvg-logo="http://layout.tv.eurosport.com/i/logo/tvschedule/epg/v8/logo_id_0_full.png" group-title="MEO&amp;NOZ"EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/795.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="EUROSPORT" tvg-logo="http://layout.tv.eurosport.com/i/logo/tvschedule/epg/v8/logo_id_0_full.png" group-title="MEO&amp;NOZ"EUROSPORT</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/11/eurosport-2.jpg" group-title="MEO&amp;NOZ"EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/793.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="EUROSPORT 2" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/11/eurosport-2.jpg" group-title="MEO&amp;NOZ"EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://mytvlive.me/wp-content/uploads/2016/07/eurosport-1-live.jpg" group-title="MEO&amp;NOZ"EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/725.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://mytvlive.me/wp-content/uploads/2016/07/eurosport-1-live.jpg" group-title="MEO&amp;NOZ"EUROSPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="EUROSPORT 2 XTRA HD" tvg-logo="https://kptuy52666.i.lithium.com/t5/image/serverpage/image-id/596i5CC01C9204D9F598?v=v2" group-title="MEO&amp;NOZ"EUROSPORT 2 XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/792.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="EUROSPORT 2 XTRA HD" tvg-logo="https://kptuy52666.i.lithium.com/t5/image/serverpage/image-id/596i5CC01C9204D9F598?v=v2" group-title="MEO&amp;NOZ"EUROSPORT 2 XTRA HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="PFC" tvg-logo="http://1.bp.blogspot.com/-xCvqLjYlD3U/VU31cJguClI/AAAAAAAAAeo/lecT7Uuz93o/s400/PFC_LOGO_2015.png" group-title="MEO&amp;NOZ"PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/771.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="PFC" tvg-logo="http://1.bp.blogspot.com/-xCvqLjYlD3U/VU31cJguClI/AAAAAAAAAeo/lecT7Uuz93o/s400/PFC_LOGO_2015.png" group-title="MEO&amp;NOZ"PFC</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FUELHD" tvg-name="FUEL TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fuel_tv_pt.jpg" group-title="MEO&amp;NOZ"FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/788.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FUELHD" tvg-name="FUEL TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fuel_tv_pt.jpg" group-title="MEO&amp;NOZ"FUEL TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="MOTORS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/MotorsTV_logo.png/220px-MotorsTV_logo.png" group-title="MEO&amp;NOZ"MOTORS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/779.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="MOTORS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/MotorsTV_logo.png/220px-MotorsTV_logo.png" group-title="MEO&amp;NOZ"MOTORS TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CacaVision" tvg-name="CACAVISION" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cacavision.jpg" group-title="MEO&amp;NOZ"CACAVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/808.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CacaVision" tvg-name="CACAVISION" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cacavision.jpg" group-title="MEO&amp;NOZ"CACAVISION</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TorosTV" tvg-name="TOROS TV" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TOROTV.png" group-title="MEO&amp;NOZ"TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/714.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TorosTV" tvg-name="TOROS TV" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TOROTV.png" group-title="MEO&amp;NOZ"TOROS TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CACAPESCA" tvg-name="CACA E PESCA" tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="MEO&amp;NOZ"CACA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/809.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CACAPESCA" tvg-name="CACA E PESCA" tvg-logo="http://portalnacional.com.pt/images/icons/tv/CACAP.png" group-title="MEO&amp;NOZ"CACA E PESCA</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC1" tvg-name="TVCINE 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="MEO&amp;NOZ"TVCINE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/744.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC1" tvg-name="TVCINE 1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="MEO&amp;NOZ"TVCINE 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC2" tvg-name="TVCINE 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc2.jpg" group-title="MEO&amp;NOZ"TVCINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/742.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC2" tvg-name="TVCINE 2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc2.jpg" group-title="MEO&amp;NOZ"TVCINE 2</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC3" tvg-name="TVCINE 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc3.jpg" group-title="MEO&amp;NOZ"TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/741.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC3" tvg-name="TVCINE 3" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc3.jpg" group-title="MEO&amp;NOZ"TVCINE 3</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc4.jpg" group-title="MEO&amp;NOZ"TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/740.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC4" tvg-name="TVCINE 4" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc4.jpg" group-title="MEO&amp;NOZ"TVCINE 4</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC1HD" tvg-name="TVCINE 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="MEO&amp;NOZ"TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/743.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC1HD" tvg-name="TVCINE 1 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc1.jpg" group-title="MEO&amp;NOZ"TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC2HD" tvg-name="TVCINE 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc2.jpg" group-title="MEO&amp;NOZ"TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/712.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC2HD" tvg-name="TVCINE 2 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc2.jpg" group-title="MEO&amp;NOZ"TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVC3HD" tvg-name="TVCINE 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc3.jpg" group-title="MEO&amp;NOZ"TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/711.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVC3HD" tvg-name="TVCINE 3 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc3.jpg" group-title="MEO&amp;NOZ"TVCINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="TVCINE 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc4.jpg" group-title="MEO&amp;NOZ"TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/841.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TVCINE 4 HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tvc4.jpg" group-title="MEO&amp;NOZ"TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVSER.png" group-title="MEO&amp;NOZ"TV SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/709.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVSERIES" tvg-name="TV SERIES HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TVSER.png" group-title="MEO&amp;NOZ"TV SERIES HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVSERIES" tvg-name="TV SERIES" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2011/09/logo-TV-S%C3%A9ries.jpg" group-title="MEO&amp;NOZ"TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/736.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVSERIES" tvg-name="TV SERIES" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2011/09/logo-TV-S%C3%A9ries.jpg" group-title="MEO&amp;NOZ"TV SERIES</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="http://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="MEO&amp;NOZ"CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/801.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CINEMUNDO" tvg-name="CINEMUNDO" tvg-logo="http://www.cinemundo.pt/canalcinemundo/wp-content/uploads/2015/09/logo-canal1.png" group-title="MEO&amp;NOZ"CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FOXMOVIESHD" tvg-name="FOX MOVIES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_pt.jpg" group-title="MEO&amp;NOZ"FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/722.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOXMOVIESHD" tvg-name="FOX MOVIES" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_movies_pt.jpg" group-title="MEO&amp;NOZ"FOX MOVIES</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="MOVHD" tvg-name="MOV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Log%C3%B3tipo_de_MOV.png/200px-Log%C3%B3tipo_de_MOV.png" group-title="MEO&amp;NOZ"MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/777.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="MOVHD" tvg-name="MOV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f9/Log%C3%B3tipo_de_MOV.png/200px-Log%C3%B3tipo_de_MOV.png" group-title="MEO&amp;NOZ"MOV HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://www.sato.tv.br/images/logos/amc.png" group-title="MEO&amp;NOZ"AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/818.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AMC" tvg-name="AMC" tvg-logo="http://www.sato.tv.br/images/logos/amc.png" group-title="MEO&amp;NOZ"AMC</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="HOLLY" tvg-name="HOLLYWOOD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood.jpg" group-title="MEO&amp;NOZ"HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/784.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="HOLLY" tvg-name="HOLLYWOOD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood.jpg" group-title="MEO&amp;NOZ"HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="HOLLYHD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood_hd.jpg" group-title="MEO&amp;NOZ"HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/783.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="HOLLYHD" tvg-name="HOLLYWOOD HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_hollywood_hd.jpg" group-title="MEO&amp;NOZ"HOLLYWOOD HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FOXLIFE" tvg-name="FOX LIFE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_pt.jpg" group-title="MEO&amp;NOZ"FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/979.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOXLIFE" tvg-name="FOX LIFE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_pt.jpg" group-title="MEO&amp;NOZ"FOX LIFE</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FOXLIFEHD" tvg-name="FOX LIVE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_pt.jpg" group-title="MEO&amp;NOZ"FOX LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/723.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOXLIFEHD" tvg-name="FOX LIVE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_life_pt.jpg" group-title="MEO&amp;NOZ"FOX LIVE HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FOXHD" tvg-name="FOX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_pt.jpg" group-title="MEO&amp;NOZ"FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/790.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOXHD" tvg-name="FOX HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_pt.jpg" group-title="MEO&amp;NOZ"FOX HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FOXCRIMEHD" tvg-name="FOX CRIME HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_pt.jpg" group-title="MEO&amp;NOZ"FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/724.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOXCRIMEHD" tvg-name="FOX CRIME HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fox_crime_pt.jpg" group-title="MEO&amp;NOZ"FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="MEO&amp;NOZ"FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/791.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOXCOMEDY" tvg-name="FOX COMEDY" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2014/10/FOX-Comedy-Logo-01.png" group-title="MEO&amp;NOZ"FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SUNDANCE HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-sundance-deve-chegar-ao-brasil-ate-o-final-de-2014.jpg" group-title="MEO&amp;NOZ"SUNDANCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/968.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SUNDANCE HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2014/08/canal-sundance-deve-chegar-ao-brasil-ate-o-final-de-2014.jpg" group-title="MEO&amp;NOZ"SUNDANCE HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="AXNWhiteHD" tvg-name="AXN WHITE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_white_us.jpg" group-title="MEO&amp;NOZ"AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/731.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXNWhiteHD" tvg-name="AXN WHITE HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_white_us.jpg" group-title="MEO&amp;NOZ"AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="AXNBLACKHD" tvg-name="AXN BLACK HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_black_pt.jpg" group-title="MEO&amp;NOZ"AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/732.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXNBLACKHD" tvg-name="AXN BLACK HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_black_pt.jpg" group-title="MEO&amp;NOZ"AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="AXNHD" tvg-name="AXN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_pt.jpg" group-title="MEO&amp;NOZ"AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/817.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXNHD" tvg-name="AXN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/axn_pt.jpg" group-title="MEO&amp;NOZ"AXN HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="SYFYHD" tvg-name="SYFY" tvg-logo="http://www.lamac.org/res/channels/logos/_0030_syfy.png" group-title="MEO&amp;NOZ"SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/749.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="SYFYHD" tvg-name="SYFY" tvg-logo="http://www.lamac.org/res/channels/logos/_0030_syfy.png" group-title="MEO&amp;NOZ"SYFY</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png" group-title="MEO&amp;NOZ"TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/715.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TLC" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TLC_USA_logo.png/200px-TLC_USA_logo.png" group-title="MEO&amp;NOZ"TLC</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="http://www.marketeer.pt/wp-content/uploads/2011/02/odisseia_.jpg" group-title="MEO&amp;NOZ"ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/772.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="ODIS" tvg-name="ODISSEIA" tvg-logo="http://www.marketeer.pt/wp-content/uploads/2011/02/odisseia_.jpg" group-title="MEO&amp;NOZ"ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://coolspotters.com/files/photos/684034/e-entertainment-television-latin-america-profile.png" group-title="MEO&amp;NOZ"E! ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/977.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="E! ENTERTAINMENT" tvg-logo="http://coolspotters.com/files/photos/684034/e-entertainment-television-latin-america-profile.png" group-title="MEO&amp;NOZ"E! ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TRVHD.png" group-title="MEO&amp;NOZ"TRAVEL CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/713.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TRAVEL" tvg-name="TRAVEL CHANNEL HD" tvg-logo="http://portalnacional.com.pt/images/icons/tv/TRVHD.png" group-title="MEO&amp;NOZ"TRAVEL CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="NGCHD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://eyefish.tv/files/imagecache/resources_entry_mainimage/resources/Nat_Geo_Channel_Logo.gif" group-title="MEO&amp;NOZ"NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/774.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NGCHD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://eyefish.tv/files/imagecache/resources_entry_mainimage/resources/Nat_Geo_Channel_Logo.gif" group-title="MEO&amp;NOZ"NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" group-title="MEO&amp;NOZ"DISCOVERY HD SHOWCASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/798.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DISCOVERYHD" tvg-name="DISCOVERY HD SHOWCASE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/discovery_hd_showcase_us.jpg" group-title="MEO&amp;NOZ"DISCOVERY HD SHOWCASE</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.jbarnsleycranes.com/img/news/tmb/discovery-channel-logo.jpg" group-title="MEO&amp;NOZ"DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/799.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://www.jbarnsleycranes.com/img/news/tmb/discovery-channel-logo.jpg" group-title="MEO&amp;NOZ"DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CBSReality" tvg-name="CBS REALITY" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_eu.jpg" group-title="MEO&amp;NOZ"CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/803.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CBSReality" tvg-name="CBS REALITY" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_eu.jpg" group-title="MEO&amp;NOZ"CBS REALITY</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="NGCWILDHD" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.jpg" group-title="MEO&amp;NOZ"NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/775.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NGCWILDHD" tvg-name="NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Nat_geo_wild_hd.jpg" group-title="MEO&amp;NOZ"NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="AE" tvg-name="A.E" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2014/06/AE-2014-logo.jpg?9028d1" group-title="MEO&amp;NOZ"A.E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/733.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AE" tvg-name="A.E" tvg-logo="http://cdn.realscreen.com/wp/wp-content/uploads/2014/06/AE-2014-logo.jpg?9028d1" group-title="MEO&amp;NOZ"A.E</link> 
+           <item> 
+            <title>PT:RTP-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-1HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="24KITCHENHD" tvg-name="24 KITCHEN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/24_kitchen.jpg" group-title="MEO&amp;NOZ"24 KITCHEN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/734.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="24KITCHENHD" tvg-name="24 KITCHEN HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/24_kitchen.jpg" group-title="MEO&amp;NOZ"24 KITCHEN HD</link> 
+            <title>PT:RTP-2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-2HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="MCS LIFESTYLE" tvg-logo="https://www.meo.pt/PublishingImages/MEO/canais/mcs-lifestyle.png" group-title="MEO&amp;NOZ"MCS LIFESTYLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/780.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="MCS LIFESTYLE" tvg-logo="https://www.meo.pt/PublishingImages/MEO/canais/mcs-lifestyle.png" group-title="MEO&amp;NOZ"MCS LIFESTYLE</link> 
+            <title>PT:RTP-3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-3HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="HIST" tvg-name="HISTORIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_de_historia.jpg" group-title="MEO&amp;NOZ"HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/785.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="HIST" tvg-name="HISTORIA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_de_historia.jpg" group-title="MEO&amp;NOZ"HISTORIA</link> 
+            <title>PT:RTP-Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Acores</link> 
         </item> 
           <item> 
-            <title> tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_pt.jpg" group-title="MEO&amp;NOZ"DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/797.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DISNY" tvg-name="DISNEY CHANNEL" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_channel_pt.jpg" group-title="MEO&amp;NOZ"DISNEY CHANNEL</link> 
+            <title>PT:RTP-Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Madeira</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Nicke" tvg-name="NICKELODEON" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_pt.jpg" group-title="MEO&amp;NOZ"NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/773.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Nicke" tvg-name="NICKELODEON" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_pt.jpg" group-title="MEO&amp;NOZ"NICKELODEON</link> 
+            <title>PT:RTP-Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Memoria</link> 
         </item> 
           <item> 
-            <title> tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0f/Logo-jimjam.jpg/revision/latest/scale-to-width-down/185?cb=20121223104704" group-title="MEO&amp;NOZ"JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/782.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="JimJam" tvg-name="JIM JAM" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/0/0f/Logo-jimjam.jpg/revision/latest/scale-to-width-down/185?cb=20121223104704" group-title="MEO&amp;NOZ"JIM JAM</link> 
+            <title>PT:TV-Cine1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11728.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine1</link> 
         </item> 
           <item> 
-            <title> tvg-ID="BABYFIRST" tvg-name="BABY FIRST" tvg-logo="http://www.babyfirsttv.com/images/logo-shorter.png" group-title="MEO&amp;NOZ"BABY FIRST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/816.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BABYFIRST" tvg-name="BABY FIRST" tvg-logo="http://www.babyfirsttv.com/images/logo-shorter.png" group-title="MEO&amp;NOZ"BABY FIRST</link> 
+            <title>PT:TV-Cine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11729.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine2</link> 
         </item> 
           <item> 
-            <title> tvg-ID="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_pt.jpg" group-title="MEO&amp;NOZ"DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/727.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DISNEYJUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/disney_junior_pt.jpg" group-title="MEO&amp;NOZ"DISNEY JUNIOR</link> 
+            <title>PT:TV-Cine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11730.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine3</link> 
         </item> 
           <item> 
-            <title> tvg-ID="PANDA" tvg-name="CANAL PANDA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_panda_pt.jpg" group-title="MEO&amp;NOZ"CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/807.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="PANDA" tvg-name="CANAL PANDA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_panda_pt.jpg" group-title="MEO&amp;NOZ"CANAL PANDA</link> 
+            <title>PT:TV-Cine4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine4</link> 
         </item> 
           <item> 
-            <title> tvg-ID="PANDABIGGS" tvg-name="BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/200px-Panda_Biggs_logo.png" group-title="MEO&amp;NOZ"BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/729.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="PANDABIGGS" tvg-name="BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/200px-Panda_Biggs_logo.png" group-title="MEO&amp;NOZ"BIGGS</link> 
+            <title>PT:TV-Cine5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine5</link> 
         </item> 
           <item> 
-            <title> tvg-ID="BabyTV" tvg-name="BABY TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/250?cb=20111201223043" group-title="MEO&amp;NOZ"BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/815.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BabyTV" tvg-name="BABY TV" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/250?cb=20111201223043" group-title="MEO&amp;NOZ"BABY TV</link> 
+            <title>PT:TV-Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Globo</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="http://img4.wikia.nocookie.net/__cb20110501082535/cartoonnetwork/images/6/62/CN_Logo_(NBA).png" group-title="MEO&amp;NOZ"CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/804.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CART" tvg-name="CARTOON NETWORK" tvg-logo="http://img4.wikia.nocookie.net/__cb20110501082535/cartoonnetwork/images/6/62/CN_Logo_(NBA).png" group-title="MEO&amp;NOZ"CARTOON NETWORK</link> 
+            <title>PT:TVI-Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-Ficcao</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="C-MUSIC" tvg-logo="http://www.cmusic.tv/images/cmusiclogo.png" group-title="MEO&amp;NOZ"C-MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/810.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="C-MUSIC" tvg-logo="http://www.cmusic.tv/images/cmusiclogo.png" group-title="MEO&amp;NOZ"C-MUSIC</link> 
+            <title>PT:Sport-2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-2HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://portalnacional.com.pt/images/icons/tv/MTV.png" group-title="MEO&amp;NOZ"MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/776.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="MTV" tvg-name="MTV PORTUGAL" tvg-logo="http://portalnacional.com.pt/images/icons/tv/MTV.png" group-title="MEO&amp;NOZ"MTV PORTUGAL</link> 
+            <title>PT:Sport-3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11755.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-3HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="MTV DANCE" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-mtv-dance.png" group-title="MEO&amp;NOZ"MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/973.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="MTV DANCE" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-mtv-dance.png" group-title="MEO&amp;NOZ"MTV DANCE</link> 
+            <title>PT:Sport-4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11756.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-4HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="VH1" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/vh1logo1.jpeg?w=970" group-title="MEO&amp;NOZ"VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/708.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="VH1" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/vh1logo1.jpeg?w=970" group-title="MEO&amp;NOZ"VH1</link> 
+            <title>PT:Sport-5HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11757.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-5HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="MCM POP" tvg-logo="http://nowsat.info/wp-content/uploads/mcm_pop.jpg" group-title="MEO&amp;NOZ"MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/781.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="MCM POP" tvg-logo="http://nowsat.info/wp-content/uploads/mcm_pop.jpg" group-title="MEO&amp;NOZ"MCM POP</link> 
+            <title>PT:Sport-TV-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11752.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-1HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="MCM TOP" tvg-logo="http://www.lagardere.com/fichiers/fckeditor/Image/Groupe/Societes_et_marques/--Logos/MCM_TOP/MCM-TOP_138.gif" group-title="MEO&amp;NOZ"MCM TOP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/822.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="MCM TOP" tvg-logo="http://www.lagardere.com/fichiers/fckeditor/Image/Groupe/Societes_et_marques/--Logos/MCM_TOP/MCM-TOP_138.gif" group-title="MEO&amp;NOZ"MCM TOP</link> 
+            <title>PT:SPORT-TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORT-TV1</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="AFRO MUSIC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/afro_music_channel.jpg" group-title="MEO&amp;NOZ"AFRO MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/819.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="AFRO MUSIC" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/afro_music_channel.jpg" group-title="MEO&amp;NOZ"AFRO MUSIC</link> 
+            <title>PT:Sporting-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting-TV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="http://allvectorlogo.com/img/2016/04/vh1-classic-logo-200x116.png" group-title="MEO&amp;NOZ"VH1 CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/707.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="VH1 CLASSIC" tvg-logo="http://allvectorlogo.com/img/2016/04/vh1-classic-logo-200x116.png" group-title="MEO&amp;NOZ"VH1 CLASSIC</link> 
+            <title>PT:Abola-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Abola-TV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="TRACE TV" tvg-logo="http://mediaserver.pulse2.com/uploads/2007/04/tracetv_logo.png" group-title="MEO&amp;NOZ"TRACE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/748.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TRACE TV" tvg-logo="http://mediaserver.pulse2.com/uploads/2007/04/tracetv_logo.png" group-title="MEO&amp;NOZ"TRACE TV</link> 
+            <title>PT:Axn-Black-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Axn-Black-HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="KURIAKOS TV" tvg-logo="https://i.ytimg.com/vi/LA_x8Sd0f9E/hqdefault.jpg" group-title="MEO&amp;NOZ"KURIAKOS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="KURIAKOS TV" tvg-logo="https://i.ytimg.com/vi/LA_x8Sd0f9E/hqdefault.jpg" group-title="MEO&amp;NOZ"KURIAKOS TV</link> 
+            <title>PT:AXN-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11742.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN-HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CANCAONOVA" tvg-name="CANCAO NOVA" tvg-logo="http://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.gif" group-title="MEO&amp;NOZ"CANCAO NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CANCAONOVA" tvg-name="CANCAO NOVA" tvg-logo="http://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.gif" group-title="MEO&amp;NOZ"CANCAO NOVA</link> 
+            <title>PT:AXN-WhiteHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11743.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN-WhiteHD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CanalQB" tvg-name="TV CABO VERDE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tcv_internacional_cv.jpg" group-title="MEO&amp;NOZ"TV CABO VERDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalQB" tvg-name="TV CABO VERDE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tcv_internacional_cv.jpg" group-title="MEO&amp;NOZ"TV CABO VERDE</link> 
+            <title>PT:BTV-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV-1HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="TPA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tpa_ao.jpg" group-title="MEO&amp;NOZ"TPA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/967.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TPA" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tpa_ao.jpg" group-title="MEO&amp;NOZ"TPA</link> 
+            <title>PT:BTV-2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV-2</link> 
         </item> 
           <item> 
-            <title> tvg-ID="TVR" tvg-name="REGIOES TV" tvg-logo="https://static-media.streema.com/media/cache/c1/f8/c1f822c8c72a15e1a93ff806ec7469be.jpg" group-title="MEO&amp;NOZ"REGIOES TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/972.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVR" tvg-name="REGIOES TV" tvg-logo="https://static-media.streema.com/media/cache/c1/f8/c1f822c8c72a15e1a93ff806ec7469be.jpg" group-title="MEO&amp;NOZ"REGIOES TV</link> 
+            <title>PT:Canal-Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal-Porto</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="TV GALICIA" tvg-logo="http://www.spanishchannels.co.uk/wp-content/uploads/2015/09/tv_galicia.jpg" group-title="MEO&amp;NOZ"TV GALICIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/746.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="TV GALICIA" tvg-logo="http://www.spanishchannels.co.uk/wp-content/uploads/2015/09/tv_galicia.jpg" group-title="MEO&amp;NOZ"TV GALICIA</link> 
+            <title>PT:Cine-Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cine-Mundo</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_q.jpg" group-title="MEO&amp;NOZ"CANAL Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/806.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalQB" tvg-name="CANAL Q" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_q.jpg" group-title="MEO&amp;NOZ"CANAL Q</link> 
+            <title>PT:CM-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CM-TV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="BBC WORLD NEWS" tvg-logo="http://www.indovision.tv/userfiles/image/channel/bbc_world.png" group-title="MEO&amp;NOZ"BBC WORLD NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/851.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="BBC WORLD NEWS" tvg-logo="http://www.indovision.tv/userfiles/image/channel/bbc_world.png" group-title="MEO&amp;NOZ"BBC WORLD NEWS</link> 
+            <title>PT:Discovery-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11746.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Discovery-HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="BBC WORLD" tvg-logo="http://www.indovision.tv/userfiles/image/channel/bbc_world.png" group-title="MEO&amp;NOZ"BBC WORLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/730.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="BBC WORLD" tvg-logo="http://www.indovision.tv/userfiles/image/channel/bbc_world.png" group-title="MEO&amp;NOZ"BBC WORLD</link> 
+            <title>PT:Fox-Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-Comedy</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bbcentertainment.png" group-title="MEO&amp;NOZ"BBC ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/814.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="BBC ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Bbcentertainment.png" group-title="MEO&amp;NOZ"BBC ENTERTAINMENT</link> 
+            <title>PT:Fox-Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-Crime</link> 
         </item> 
           <item> 
-            <title> tvg-ID="FASH" tvg-name="FTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="MEO&amp;NOZ"FTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/789.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FASH" tvg-name="FTV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/fashion_tv.jpg" group-title="MEO&amp;NOZ"FTV</link> 
+            <title>PT:Fox-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="PENTHOUSEHD1" tvg-name="PENTHOUSE HD 1" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pack-adultos/large_penthouse.jpg" group-title="FOR ADULTS"PENTHOUSE HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/986.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="PENTHOUSEHD1" tvg-name="PENTHOUSE HD 1" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pack-adultos/large_penthouse.jpg" group-title="FOR ADULTS"PENTHOUSE HD 1</link> 
+            <title>PT:Fox-Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox-Movies</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="HUSTLER HD" tvg-logo="http://09stream.com/img/hustlertv.png" group-title="FOR ADULTS"HUSTLER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/828.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="HUSTLER HD" tvg-logo="http://09stream.com/img/hustlertv.png" group-title="FOR ADULTS"HUSTLER HD</link> 
+            <title>PT:FoxLife</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11739.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FoxLife</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SEXTREME" tvg-logo="https://noticiasdatvbrasil.files.wordpress.com/2012/05/sextreme.jpg?w=300" group-title="FOR ADULTS"SEXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/971.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SEXTREME" tvg-logo="https://noticiasdatvbrasil.files.wordpress.com/2012/05/sextreme.jpg?w=300" group-title="FOR ADULTS"SEXTREME</link> 
+            <title>PT:Hollywood-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11735.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Hollywood-HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="PLBOYHD" tvg-name="PLAYBOY TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_iberia.jpg" group-title="FOR ADULTS"PLAYBOY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/770.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="PLBOYHD" tvg-name="PLAYBOY TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/playboy_tv_iberia.jpg" group-title="FOR ADULTS"PLAYBOY TV</link> 
+            <title>PT:Mov-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Mov-HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="HOT" tvg-name="HOT" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png" group-title="FOR ADULTS"HOT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/720.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="HOT" tvg-name="HOT" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png" group-title="FOR ADULTS"HOT</link> 
+            <title>PT:NatGeoWild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11745.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NatGeoWild</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="VENUS" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pack-adultos/large_venus.jpg" group-title="FOR ADULTS"VENUS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/111/111/735.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="VENUS" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pack-adultos/large_venus.jpg" group-title="FOR ADULTS"VENUS</link> 
+            <title>PT:RT-GLOBAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://giant-iptv.com:5477/live/6644/6644/11724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RT-GLOBAL</link> 
         </item> 
   
