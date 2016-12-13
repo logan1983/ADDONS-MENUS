@@ -36,272 +36,406 @@
 
 
  
+ 
           <item> 
-            <title>RTL Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,RTL Deuts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Deutschland</link> 
+            <title>DE_ZDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3201.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ZDF</link> 
+        </item> 
+          <item> 
+            <title>DE_WDR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3202.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_WDR</link> 
+        </item> 
+          <item> 
+            <title>DE_TNT_Film_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3203.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_TNT_Film_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Syfy</link> 
+        </item> 
+          <item> 
+            <title>DE_super_rtl</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_super_rtl</link> 
+        </item> 
+          <item> 
+            <title>DE_SPORT_DIGITAL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3206.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SPORT_DIGITAL_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_TNT_Serie_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3207.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_TNT_Serie_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SPORT_NEWS24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3208.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORT_NEWS24</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SPORTS_AUSTRIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3209.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SPORTS_AUSTRIA</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Sport2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3210.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport2_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Sport1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3211.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Sport1_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SELECT7_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3212.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT7_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SELECT6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3213.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT6_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SELECT5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3214.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT5_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SELECT4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3215.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT4_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SELECT3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3216.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT3_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_SELECT1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_SELECT1_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_NICKELEODEON_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3218.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_NICKELEODEON_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_National_Geographic_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_National_Geographic_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_Emotion</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3221.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Comedy</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Cinema24_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3222.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Cinema24_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_sky_cinema 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3223.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_sky_cinema 1</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_BUNDESLIGA1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3224.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_BUNDESLIGA1_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Atlantic_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3225.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Atlantic_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKY_Action_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3226.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKY_Action_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SKYDE_TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3227.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKYDE_TLC</link> 
+        </item> 
+          <item> 
+            <title>DE_SKYDE_NOSTALGIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3228.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SKYDE_NOSTALGIE</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky13_Street_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3229.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky13_Street_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_SAT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_SAT1</link> 
+        </item> 
+          <item> 
+            <title>DE_RTL_PASSION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3231.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_RTL_PASSION</link> 
+        </item> 
+          <item> 
+            <title>DE_ROMANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ROMANCE</link> 
+        </item> 
+          <item> 
+            <title>DE_pro_seibrn_max_hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3233.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_pro_seibrn_max_hd</link> 
+        </item> 
+          <item> 
+            <title>DE_Pro7_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3234.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Pro7_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Phoenix</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Phoenix</link> 
+        </item> 
+          <item> 
+            <title>DE_NTV_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3236.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NTV_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_NICK_JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3237.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_NICK_JR</link> 
+        </item> 
+          <item> 
+            <title>DE_national_geo_wid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3238.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_national_geo_wid</link> 
+        </item> 
+          <item> 
+            <title>DE_N24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3239.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_N24</link> 
+        </item> 
+          <item> 
+            <title>DE_MOTORVISION_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3240.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_MOTORVISION_TV</link> 
+        </item> 
+          <item> 
+            <title>DE_Kinowelt_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3241.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Kinowelt_tv</link> 
+        </item> 
+          <item> 
+            <title>DE_KIKA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3242.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KIKA</link> 
+        </item> 
+          <item> 
+            <title>DE_KABEL1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_KABEL1</link> 
+        </item> 
+          <item> 
+            <title>DE_heimet_canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3244.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_heimet_canal</link> 
+        </item> 
+          <item> 
+            <title>DE_GOLDSTAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3245.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_GOLDSTAR</link> 
+        </item> 
+          <item> 
+            <title>DE_FOX_SERIE_DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3246.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FOX_SERIE_DE</link> 
+        </item> 
+          <item> 
+            <title>DE_FILM_GOLD5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3247.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD5</link> 
+        </item> 
+          <item> 
+            <title>DE_FILM_GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3248.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_FILM_GOLD</link> 
+        </item> 
+          <item> 
+            <title>DE_eins_plus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3249.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_eins_plus</link> 
+        </item> 
+          <item> 
+            <title>DE_eins_festival</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3250.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_eins_festival</link> 
+        </item> 
+          <item> 
+            <title>DE_Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3251.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Dmax</link> 
+        </item> 
+          <item> 
+            <title>DE_DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3252.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEY_XD</link> 
+        </item> 
+          <item> 
+            <title>DE_DISNEY_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3253.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_DISNEY_JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>DE_Delux_MUSIC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3254.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Delux_MUSIC_HD</link> 
+        </item> 
+          <item> 
+            <title>DE_Das_Erste</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3255.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Das_Erste</link> 
+        </item> 
+          <item> 
+            <title>DE_CLASSICA_DEUTSHLAND</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3256.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_CLASSICA_DEUTSHLAND</link> 
+        </item> 
+          <item> 
+            <title>DE_anixe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3257.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_anixe</link> 
+        </item> 
+          <item> 
+            <title>DE_Ae_DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3258.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Ae_DE</link> 
+        </item> 
+          <item> 
+            <title>DE:VOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3259.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VOX</link> 
+        </item> 
+          <item> 
+            <title>DE:VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:VH1</link> 
+        </item> 
+          <item> 
+            <title>DE:TNT-Film-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT-Film-HD</link> 
+        </item> 
+          <item> 
+            <title>DE:Sky-Sports-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE:Sky-Sports&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Sports-2-HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3262.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>RTL II Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,RTL II Deuts&amp;streamtype=TSDOWNLOADER&amp;name=RTL II Deutschland</link> 
+            <title>DE:Sky-Sport-HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Sport-HD1</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>DE:Sky-Select-HD7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD7</link> 
         </item> 
           <item> 
-            <title>Super RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super RTL</link> 
+            <title>DE:Sky-Select-HD6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3265.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD6</link> 
         </item> 
           <item> 
-            <title>ZDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF</link> 
+            <title>DE:Sky-Select-HD5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3266.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD5</link> 
         </item> 
           <item> 
-            <title>DE:-SKY-NOSTALGIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:-SKY-NOSTALGIE</link> 
+            <title>DE:Sky-Select-HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD1</link> 
         </item> 
           <item> 
-            <title>ARD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARD</link> 
+            <title>DE:Sky-Select-HD-4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD-4</link> 
         </item> 
           <item> 
-            <title>VOX DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOX DE</link> 
+            <title>DE:Sky-Select-HD-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Select-HD-3</link> 
         </item> 
           <item> 
-            <title>PRO 7 DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRO 7 DE</link> 
+            <title>DE:SKY-Romance-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3270.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY-Romance-TV</link> 
         </item> 
           <item> 
-            <title>ATV 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATV 24</link> 
+            <title>DE:Sky-Nostalgie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Nostalgie</link> 
         </item> 
           <item> 
-            <title>DE: DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: DMAX</link> 
+            <title>DE:Sky-Krimi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Krimi</link> 
         </item> 
           <item> 
-            <title>ARTE.DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTE.DE</link> 
+            <title>DE:Sky-Fox-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Fox-HD</link> 
         </item> 
           <item> 
-            <title>DE: 3Sat</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 3Sat</link> 
+            <title>DE:Sky-Cinema-Plus-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3274.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Cinema-Plus-1HD</link> 
         </item> 
           <item> 
-            <title>NICKELODEON DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON DE</link> 
+            <title>DE:Sky-Cinema-24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky-Cinema-24</link> 
         </item> 
           <item> 
-            <title>DE: SRF 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SRF 2</link> 
+            <title>DE:SKY-ATLANTIC-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY-ATLANTIC-1HD</link> 
         </item> 
           <item> 
-            <title>DE: Kika</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika</link> 
+            <title>DE:Sixx-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sixx-HD</link> 
         </item> 
           <item> 
-            <title>SAT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/747.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT 1</link> 
+            <title>DE:RTL_Nitro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_Nitro</link> 
         </item> 
           <item> 
-            <title>Orf 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orf 1</link> 
+            <title>DE:RTL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_HD</link> 
         </item> 
           <item> 
-            <title>Orf 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orf 2</link> 
+            <title>DE:RTL_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3280.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL_2</link> 
         </item> 
           <item> 
-            <title>Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Turbo</link> 
+            <title>DE:ORF-3-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3281.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF-3-HD</link> 
         </item> 
           <item> 
-            <title>RTL Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL Plus</link> 
+            <title>DE:Orf-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3282.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Orf-2-HD</link> 
         </item> 
           <item> 
-            <title>DE Sky Germany 13 Street HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Germany 13 Street HD</link> 
+            <title>DE:ORF-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF-1-HD</link> 
         </item> 
           <item> 
-            <title>DE: Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Syfy</link> 
+            <title>DE:MGM-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM-HD</link> 
         </item> 
           <item> 
-            <title>MGM DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=MGM DE</link> 
+            <title>DE:EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3285.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:EUROSPORT</link> 
         </item> 
           <item> 
-            <title>SKY FOX DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY FOX DE</link> 
+            <title>DE:DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3286.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DMAX</link> 
         </item> 
           <item> 
-            <title>DE Sky Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Cinema HD</link> 
+            <title>DE:Disney-Cinemagic-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney-Cinemagic-HD</link> 
         </item> 
           <item> 
-            <title>Sky Cinema +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24</link> 
+            <title>DE:Disney-Channel-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3288.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney-Channel-HD</link> 
         </item> 
           <item> 
-            <title>Sky Hits DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Hits DE</link> 
+            <title>DE:Discovery-Channel-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Discovery-Channel-HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>DE:Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3290.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Boomerang</link> 
         </item> 
           <item> 
-            <title>Sky De Krimi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky De Krimi</link> 
+            <title>DE:AXN-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3291.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:AXN-HD</link> 
         </item> 
           <item> 
-            <title>Srf 1 HDs 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=Srf 1 HDs 1</link> 
+            <title>DE:AUSTRIA-24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3292.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:AUSTRIA-24</link> 
         </item> 
           <item> 
-            <title>DE: Sky  Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky  Atlantic</link> 
+            <title>DE:Arte-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3293.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Arte-HD</link> 
         </item> 
           <item> 
-            <title>SKY DE EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY DE EMOTION</link> 
+            <title>DE:ARD-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3294.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARD-HD</link> 
         </item> 
           <item> 
-            <title>SKY ACTION DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY ACTION DE</link> 
+            <title>DE:3SAT-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3295.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:3SAT-HD</link> 
         </item> 
           <item> 
-            <title>SKY COMEDY DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY COMEDY DE</link> 
+            <title>DE:13th-Street-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:13th-Street-HD</link> 
         </item> 
           <item> 
-            <title>Sky Kids DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Kids DE</link> 
+            <title>DE3_SERVUS_TV_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3297.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_SERVUS_TV_HD</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 1</link> 
+            <title>DE3_Sat1_gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3298.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE3_Sat1_gold</link> 
         </item> 
           <item> 
-            <title>Digi Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Digi Sport 1</link> 
+            <title>DE-NatGeoWildHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://109.236.82.18:8000/live/mouhcine/free1/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-NatGeoWildHD</link> 
         </item> 
-          <item> 
-            <title>ES: C _DEPORTES2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C _DEPORTES2</link> 
-        </item> 
-          <item> 
-            <title>DE:Disney channels</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Disney channels</link> 
-        </item> 
-          <item> 
-            <title>SKY Bundesliga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Bundesliga</link> 
-        </item> 
-          <item> 
-            <title>SportDigital HD DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=SportDigital HD DE</link> 
-        </item> 
-          <item> 
-            <title>SKY Sport 1 HD (de)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Sport 1 HD (de)</link> 
-        </item> 
-          <item> 
-            <title>SKY Sport 2 HD (de)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Sport 2 HD (de)</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 2 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 3 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 4 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 5 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 6 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 7 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 8 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1311.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 9 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY BUNDESLIGA 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY BUNDESLIGA 10 HD</link> 
-        </item> 
-          <item> 
-            <title>DE: History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: History</link> 
-        </item> 
-          <item> 
-            <title>DE: Sky NatGeo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky NatGeo Wild HD</link> 
-        </item> 
-          <item> 
-            <title>National Geographic Channel Deutschland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,National Geographic Channel Deuts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Channel Deutschland</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 1</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 2</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 3</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1201.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 4</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 5</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 6</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 7</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 8</link> 
-        </item> 
-          <item> 
-            <title>DE-SKY SELECT 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-SKY SELECT 10</link> 
-        </item> 
+  
   
