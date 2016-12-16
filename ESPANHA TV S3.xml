@@ -2,7 +2,7 @@
 
 
 <item>       
-<title>   [COLOR blue] •S3 UPDATE 14-12-2016 BY LOGAN   [/COLOR]       </title>
+<title>   [COLOR blue] •S3 UPDATE 20-12-2016 BY LOGAN   [/COLOR]       </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -25,174 +25,125 @@
 
  
  
-  
+ 
+          <item> 
+            <title>RCTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=RCTV</link> 
+        </item> 
+          <item> 
+            <title>ESP:TVE_LA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5815.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:TVE_LA2</link> 
+        </item> 
+          <item> 
+            <title>ESP:TVE_LA1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5816.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:TVE_LA1</link> 
+        </item> 
+          <item> 
+            <title>ESP:RealMadrid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5817.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:RealMadrid</link> 
+        </item> 
+          <item> 
+            <title>ESP:NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5818.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:NOVA</link> 
+        </item> 
+          <item> 
+            <title>ESP:NATGEO GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5819.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:NATGEO GEO</link> 
+        </item> 
+          <item> 
+            <title>ESP:Movistar Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5820.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:Movistar Xtra</link> 
+        </item> 
+          <item> 
+            <title>ESP:MovieStar_F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5822.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:MovieStar_F1</link> 
+        </item> 
+          <item> 
+            <title>ESP:La_Sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5823.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:La_Sexta</link> 
+        </item> 
+          <item> 
+            <title>ESP:HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5824.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>ESP:HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5825.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>ESP:FOX_LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5826.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:FOX_LIFE</link> 
+        </item> 
+          <item> 
+            <title>ESP:FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5827.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:FOX</link> 
+        </item> 
+          <item> 
+            <title>ESP:Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5828.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:Energy</link> 
+        </item> 
+          <item> 
+            <title>ESP:DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5829.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:DISNEY_CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>ESP:CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5830.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:CUATRO</link> 
+        </item> 
+          <item> 
+            <title>ESP:C SERIESXTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5832.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:C SERIESXTRA</link> 
+        </item> 
+          <item> 
+            <title>ESP:C SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5833.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:C SERIES</link> 
+        </item> 
+          <item> 
+            <title>ESP:C ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5834.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:C ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>ESP:C DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5835.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:C DEPORTES</link> 
+        </item> 
+          <item> 
+            <title>ESP:C COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5836.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:C COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>ESP:BARCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5837.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:BARCA</link> 
+        </item> 
+          <item> 
+            <title>ESP:AXN_WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5838.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:AXN_WHITE</link> 
+        </item> 
+          <item> 
+            <title>ESP:AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5839.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:AXN</link> 
+        </item> 
+          <item> 
+            <title>ESP:Antena3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5840.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:Antena3</link> 
+        </item> 
+          <item> 
+            <title>ESP:ANDALUCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5841.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:ANDALUCIA</link> 
+        </item> 
+          <item> 
+            <title>ESP:A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5842.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>ESP:24H</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5843.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESP:24H</link> 
+        </item> 
+          <item> 
+            <title>ES:TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5844.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>ES:CANALOdesia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5845.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANALOdesia</link> 
+        </item> 
    
-          <item> 
-            <title>ES_LA1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA1</link> 
-        </item> 
-          <item> 
-            <title>ES_LA2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2727.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA2</link> 
-        </item> 
-          <item> 
-            <title>ES_CanalHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2584.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CanalHD</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal2HD</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-Accion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Accion</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-Comedea</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Comedea</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-Dcin</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Dcin</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Xtra</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-Golf</link> 
-        </item> 
-          <item> 
-            <title>ES_CanalFutbal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2247.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CanalFutbal</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-TOROS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-TOROS</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal_Deportes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2248.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal_Deportes</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal-ESTRENO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal-ESTRENO</link> 
-        </item> 
-          <item> 
-            <title>ES_Canal_LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2246.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal_LIGA</link> 
-        </item> 
-          <item> 
-            <title>ES_BeinLiga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BeinLiga</link> 
-        </item> 
-          <item> 
-            <title>ES_BarcaTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2724.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BarcaTV</link> 
-        </item> 
-          <item> 
-            <title>ES_Real_Madrid</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Real_Madrid</link> 
-        </item> 
-          <item> 
-            <title>ES_TVE1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2597.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TVE1_HD</link> 
-        </item> 
-          <item> 
-            <title>ES_NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NOVA</link> 
-        </item> 
-          <item> 
-            <title>ES_Antena3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Antena3</link> 
-        </item> 
-          <item> 
-            <title>ES_LaSextaHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2598.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LaSextaHD</link> 
-        </item> 
-          <item> 
-            <title>ES_Calle13HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2600.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Calle13HD</link> 
-        </item> 
-          <item> 
-            <title>ES_TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELECINCO</link> 
-        </item> 
-          <item> 
-            <title>ES_Hollywood_Spain</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2384.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Hollywood_Spain</link> 
-        </item> 
-          <item> 
-            <title>ES_FoxLifeHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2582.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_FoxLifeHD</link> 
-        </item> 
-          <item> 
-            <title>ES_Fox_Movie_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Fox_Movie_HD</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla1</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla2</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla3</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2361.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla4</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2362.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla5</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla6</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla7</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla8</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2354.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla9</link> 
-        </item> 
-          <item> 
-            <title>ES_Taquilla10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Taquilla10</link> 
-        </item> 
-          <item> 
-            <title>ES_National-Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_National-Geo</link> 
-        </item> 
-          <item> 
-            <title>ES_NatGeoWild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2581.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NatGeoWild</link> 
-        </item> 
-          <item> 
-            <title>ES_Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>ES_DisneyXD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2583.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_DisneyXD</link> 
-        </item> 
-          <item> 
-            <title>ES_Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Disney_Junior</link> 
-        </item> 
-          <item> 
-            <title>ES_Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/sony/sony/2722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Disney_Channel</link> 
-        </item> 
-  
