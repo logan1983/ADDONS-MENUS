@@ -22,7 +22,6 @@
 </item> 
  
  
-
  
  
 <item>
@@ -37,11 +36,11 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
 </item>
-<item>
-<title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevil>http://www.sporttvonlinehd.com/index.php?canal=rtp</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/01/RTP1.jpg</thumbnail>
+ <item>
+<title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
+<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp-play/direto/canais-tv/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<fanart></fanart>
 </item>
  <item>
 <title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
