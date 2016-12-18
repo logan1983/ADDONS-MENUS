@@ -38,178 +38,269 @@
  
  
  
+     
           <item> 
-            <title>DE:ZDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5736.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF</link> 
+            <title>ZDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZDF</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5749.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 9</link> 
+            <title>SAT_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=SAT_1</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5750.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 8</link> 
+            <title>Vox - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2807.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vox - Germany</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5751.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 7</link> 
+            <title>Syfy - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2808.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy - Germany</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5752.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 6</link> 
+            <title>Sport 1 HD - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2809.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport 1 HD - Germany</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5753.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 5</link> 
+            <title>Spiegel Geschichte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2810.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spiegel Geschichte</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5754.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 4</link> 
+            <title>Sky TNT Serie - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2811.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky TNT Serie - Germany</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5755.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 3</link> 
+            <title>Sky RTL Passion - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2812.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky RTL Passion - Germany</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5756.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 2</link> 
+            <title>Sky Nostalgie - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2813.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Nostalgie - Germany</link> 
         </item> 
           <item> 
-            <title>DE:Sky Select 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5757.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Select 1</link> 
+            <title>Sky Krimi - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2814.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Krimi - Germany</link> 
         </item> 
           <item> 
-            <title>DE:RTL NITRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5737.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL NITRO</link> 
+            <title>Sky Disney XD - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2815.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Disney XD - Germany</link> 
         </item> 
           <item> 
-            <title>DE:RTL LIVING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5738.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL LIVING</link> 
+            <title>Sky Comedy - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2816.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Comedy - Germany</link> 
         </item> 
           <item> 
-            <title>DE:RTL 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5740.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL 2</link> 
+            <title>Sky Cinema HD - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema HD - Germany</link> 
         </item> 
           <item> 
-            <title>DE:RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5739.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL</link> 
+            <title>Sky Cinema 1 - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2818.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 - Germany</link> 
         </item> 
           <item> 
-            <title>DE:ARD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5735.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARD</link> 
+            <title>Sky Cinema  24 - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2819.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  24 - Germany</link> 
         </item> 
           <item> 
-            <title>DE: Super RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5741.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Super RTL</link> 
+            <title>Sat 1 Gold - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2820.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sat 1 Gold - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY TNT SERIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5772.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY TNT SERIE HD</link> 
+            <title>Rtl Nitro - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl Nitro - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY TNT FILME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5762.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY TNT FILME HD</link> 
+            <title>Rtl Living - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2822.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl Living - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5763.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SYFY HD</link> 
+            <title>Rtl Crime - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2823.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtl Crime - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORTS NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5766.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORTS NEWS HD</link> 
+            <title>Prosieben Maxx - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2824.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prosieben Maxx - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5764.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 2 HD</link> 
+            <title>Prosieben - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prosieben - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5765.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 1 HD</link> 
+            <title>National Geographic Wild HD - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2826.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild HD - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY HISTORY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY HISTORY CHANNEL HD</link> 
+            <title>National Geographic  - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2827.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic  - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY EUROSPORT 1 HD</link> 
+            <title>N24 - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2828.ts&amp;streamtype=TSDOWNLOADER&amp;name=N24 - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY DISNEY CINEMAGIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5769.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY DISNEY CINEMAGIC</link> 
+            <title>Motorvision TV - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2805.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision TV - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5771.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY CINEMA HD</link> 
+            <title>Junior - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2829.ts&amp;streamtype=TSDOWNLOADER&amp;name=Junior - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY ATLANTIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY ATLANTIC HD</link> 
+            <title>Jukebox - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2830.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jukebox - Germany</link> 
         </item> 
           <item> 
-            <title>DE: SKY ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5773.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY ACTION HD</link> 
+            <title>Heimat Kanal - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Heimat Kanal - Germany</link> 
         </item> 
           <item> 
-            <title>DE: Sat 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5742.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat 1</link> 
+            <title>Fox Serie - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2832.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Serie - Germany</link> 
         </item> 
           <item> 
-            <title>DE: PRO7 MAXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5743.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO7 MAXX</link> 
+            <title>Disney Junior - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2833.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior - Germany</link> 
         </item> 
           <item> 
-            <title>DE: PRO7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5744.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PRO7</link> 
+            <title>Disney Cinemagic - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2806.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinemagic - Germany</link> 
         </item> 
           <item> 
-            <title>DE: Pro 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5758.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7</link> 
+            <title>Disney Channel HD - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2834.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD - Germany</link> 
         </item> 
           <item> 
-            <title>DE: NAT GEO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5759.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NAT GEO HD</link> 
+            <title>Discovery HD - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2835.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD - Germany</link> 
         </item> 
           <item> 
-            <title>DE: MGM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5761.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MGM HD</link> 
+            <title>Classica - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2836.ts&amp;streamtype=TSDOWNLOADER&amp;name=Classica - Germany</link> 
         </item> 
           <item> 
-            <title>DE: Kika</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5745.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kika</link> 
+            <title>13th Street - Germany</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2837.ts&amp;streamtype=TSDOWNLOADER&amp;name=13th Street - Germany</link> 
         </item> 
           <item> 
-            <title>DE: Kabel 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5746.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1</link> 
+            <title>DE_ARD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_ARD</link> 
         </item> 
           <item> 
-            <title>DE: 13STREET HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/5760.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13STREET HD</link> 
+            <title>SKYDE:_cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYDE:_cinema HD</link> 
         </item> 
           <item> 
-            <title>SKY Germany Bundesliga 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Germany Bundesliga 1 HD</link> 
+            <title>SKYDE: Cinema24HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYDE: Cinema24HD</link> 
         </item> 
           <item> 
-            <title>SKY Bundesliga 2 HD (Match Time)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/4292.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Bundesliga 2 HD (Match Time)</link> 
+            <title>SKYDE: 13StreetHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYDE: 13StreetHD</link> 
         </item> 
           <item> 
-            <title>SKY Bundesliga 3 HD (Match Time)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/4293.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Bundesliga 3 HD (Match Time)</link> 
+            <title>DE:RTL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL HD</link> 
         </item> 
           <item> 
-            <title>SKY Bundesliga 4 HD (Match Time)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/4294.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Bundesliga 4 HD (Match Time)</link> 
+            <title>DE TNT Film HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE TNT Film HD</link> 
         </item> 
           <item> 
-            <title>SKY Bundesliga 5 HD (Match Time)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/4295.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Bundesliga 5 HD (Match Time)</link> 
+            <title>DE Super RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Super RTL</link> 
         </item> 
           <item> 
-            <title>SKY Bundesliga 6 HD (Match Time)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/mara/mara/4296.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY Bundesliga 6 HD (Match Time)</link> 
+            <title>DE Sky Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Hits</link> 
         </item> 
-  
-  
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Emotion</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Atlantic</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Germany Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany Action HD</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Action</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Germany MGM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Germany MGM HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY SPORT NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1726.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT NEWS HD</link> 
+        </item> 
+          <item> 
+            <title>DE: SKY Bundesliga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Bundesliga HD</link> 
+        </item> 
+          <item> 
+            <title>DE Sat 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sat 1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE RTL 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE RTL 2</link> 
+        </item> 
+          <item> 
+            <title>DE Kika HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Kika HD</link> 
+        </item> 
+          <item> 
+            <title>DE Kabel 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Kabel 1</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Select_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_1</link> 
+        </item> 
+          <item> 
+            <title>DE_Sky_Select_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE_Sky_Select_2</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select 3</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select 4</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select 5</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select 6</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select 7</link> 
+        </item> 
+          <item> 
+            <title>DE Sky Select 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/hamouda/hamouda/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE Sky Select 8</link> 
+        </item> 
   
