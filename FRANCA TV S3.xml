@@ -35,7 +35,15 @@
 
 
 
- 
+  
+          <item> 
+            <title>FR: TF1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/hassan/hassan/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
+        </item> 
+        <item>  
+            <title>FR:M6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/abdel/abdel/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6 HD</link> 
+        </item> 
           <item> 
             <title>FR:FRANCE 2 HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/abdel/abdel/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE 2 HD</link> 
@@ -55,10 +63,6 @@
           <item> 
             <title>FR:FRANCE_O</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/abdel/abdel/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE_O</link> 
-        </item> 
-          <item> 
-            <title>FR:M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.199.167:8000/live/abdel/abdel/1618.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6 HD</link> 
         </item> 
           <item> 
             <title>FR:HD1</title> 
