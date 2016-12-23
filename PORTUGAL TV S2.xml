@@ -27,552 +27,333 @@
 
 
  
-         <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+         
+          <item> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
         </item> 
           <item> 
-            <title>RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2373.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
         </item> 
           <item> 
-            <title>RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2372.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD</link> 
+            <title>PT: RTP Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Internacional</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
             <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2375.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5521.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD</link> 
+            <title>PT: TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6095.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <title>PT: TVI FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
         </item> 
           <item> 
-            <title>SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2377.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
-        </item> 
-          <item> 
-            <title>SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2376.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6093.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
             <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6092.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2378.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
+            <title>PT: TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4</link> 
         </item> 
           <item> 
-            <title>TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2379.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD</link> 
+            <title>PT: TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3</link> 
         </item> 
           <item> 
-            <title>TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
+            <title>PT: TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6097.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2</link> 
         </item> 
           <item> 
-            <title>Q CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Q CANAL</link> 
+            <title>PT: TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6096.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
         </item> 
           <item> 
-            <title>RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
+            <title>PT: TV GLOBO News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6091.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO News</link> 
         </item> 
           <item> 
-            <title>RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
+            <title>PT: TV GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
         </item> 
           <item> 
-            <title>RTP INTER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2391.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP INTER</link> 
+            <title>PT: TV Cultura</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6089.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cultura</link> 
         </item> 
           <item> 
-            <title>RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2388.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link> 
+            <title>PT: Travel TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6088.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel TV</link> 
         </item> 
           <item> 
-            <title>RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link> 
+            <title>PT: Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6087.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros TV</link> 
         </item> 
           <item> 
-            <title>SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5320.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
         </item> 
           <item> 
-            <title>SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2385.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
+            <title>PT: SportTV 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6086.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SportTV 5 HD</link> 
         </item> 
           <item> 
-            <title>SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5524.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
+            <title>PT: Sporting tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting tv</link> 
         </item> 
           <item> 
-            <title>TV GALICIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA</link> 
+            <title>PT: SPORT TV4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV4 HD</link> 
         </item> 
           <item> 
-            <title>TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
+            <title>PT: SPORT TV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6084.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV3 HD</link> 
         </item> 
           <item> 
-            <title>TCV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCV</link> 
+            <title>PT: SPORT TV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV2 HD</link> 
         </item> 
           <item> 
-            <title>MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5530.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
+            <title>PT: SPORT TV1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6082.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV1 HD</link> 
         </item> 
           <item> 
-            <title>NBA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5534.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA HD</link> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
         </item> 
           <item> 
-            <title>EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6075.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>EUROSPORT 2 XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5527.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD</link> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6074.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
         </item> 
           <item> 
-            <title>EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
+            <title>PT: Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Science HD</link> 
         </item> 
           <item> 
-            <title>BTV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1</link> 
+            <title>PT: Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Real Madrid TV</link> 
         </item> 
           <item> 
-            <title>BTV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 HD</link> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
         </item> 
           <item> 
-            <title>BTV 1 FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/6198.ts&amp;streamtype=TSDOWNLOADER&amp;name=BTV 1 FULL HD</link> 
+            <title>PT: PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5314.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
         </item> 
           <item> 
-            <title>EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS</link> 
+            <title>PT: Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda</link> 
         </item> 
           <item> 
-            <title>EUROSPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2428.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD</link> 
+            <title>PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5345.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
         </item> 
           <item> 
-            <title>ABOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2404.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABOLA TV</link> 
+            <title>PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
         </item> 
           <item> 
-            <title>PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
+            <title>PT: National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: National Geographic Wild</link> 
         </item> 
           <item> 
-            <title>REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2440.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+            <title>PT: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5322.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD</link> 
         </item> 
           <item> 
-            <title>SPORTING TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2434.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV HD</link> 
+            <title>PT: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV</link> 
         </item> 
           <item> 
-            <title>SPORTING TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV</link> 
+            <title>PT: Motorvision</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motorvision</link> 
         </item> 
           <item> 
-            <title>SPORTTV +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2861.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV +</link> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
         </item> 
           <item> 
-            <title>SPORTTV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5570.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 1</link> 
+            <title>PT: MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM TOP</link> 
         </item> 
           <item> 
-            <title>SPORTTV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/4300.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 1 HD</link> 
+            <title>PT: Kombat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Kombat</link> 
         </item> 
           <item> 
-            <title>SPORTTV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 1</link> 
+            <title>PT: JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
         </item> 
           <item> 
-            <title>SPORT TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/4533.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD</link> 
+            <title>PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
         </item> 
           <item> 
-            <title>SPORT TV 1 FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/6195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 FULL HD</link> 
+            <title>PT: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: History</link> 
         </item> 
           <item> 
-            <title>PT: SPORTV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 2</link> 
+            <title>PT: HISTORIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HISTORIA HD</link> 
         </item> 
           <item> 
-            <title>SPORTTV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 2</link> 
+            <title>PT: Fuel TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5338.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fuel TV</link> 
         </item> 
           <item> 
-            <title>SPORTTV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 2 HD</link> 
+            <title>PT: FOX Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies</link> 
         </item> 
           <item> 
-            <title>SPORT TV 2 FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/6196.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 FULL HD</link> 
+            <title>PT: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5326.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD</link> 
         </item> 
           <item> 
-            <title>PT: SPORTV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 3</link> 
+            <title>PT: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5327.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
         </item> 
           <item> 
-            <title>SPORTTV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 3</link> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6055.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
         </item> 
           <item> 
-            <title>SPORTTV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 3 HD</link> 
+            <title>PT: FOX Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5330.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Comedy</link> 
         </item> 
           <item> 
-            <title>SPORT TV 3 FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/6197.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 FULL HD</link> 
+            <title>PT: Extra TV Canal 42</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Extra TV Canal 42</link> 
         </item> 
           <item> 
-            <title>PT: SPORTV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 4</link> 
+            <title>PT: Eurosport News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5346.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport News</link> 
         </item> 
           <item> 
-            <title>SPORT TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link> 
+            <title>PT: EUROSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5347.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT HD</link> 
         </item> 
           <item> 
-            <title>SPORTTV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/3703.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 4 HD</link> 
+            <title>PT: Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6053.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
         </item> 
           <item> 
-            <title>PT: SPORTV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTV 5</link> 
+            <title>PT: El Trece</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6052.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: El Trece</link> 
         </item> 
           <item> 
-            <title>SPORTTV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 5</link> 
+            <title>PT: E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6051.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! ENTERTAINMENT</link> 
         </item> 
           <item> 
-            <title>SPORTTV 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTTV 5 HD</link> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6050.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
         </item> 
           <item> 
-            <title>FIGTH NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5533.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGTH NETWORK</link> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5316.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
         </item> 
           <item> 
-            <title>KOMBAT SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5532.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORTS</link> 
+            <title>PT: Discovery Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6049.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Showcase</link> 
         </item> 
           <item> 
-            <title>POKER CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5529.ts&amp;streamtype=TSDOWNLOADER&amp;name=POKER CENTRAL</link> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
         </item> 
           <item> 
-            <title>PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
+            <title>PT: Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5319.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cinemundo</link> 
         </item> 
           <item> 
-            <title>TVI24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2403.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI24</link> 
+            <title>PT: Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6048.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon Network</link> 
         </item> 
           <item> 
-            <title>SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
+            <title>PT: Cartoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6047.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon</link> 
         </item> 
           <item> 
-            <title>RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
+            <title>PT: Canal Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6046.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Porto</link> 
         </item> 
           <item> 
-            <title>RECORD NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS</link> 
+            <title>PT: Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5342.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
         </item> 
           <item> 
-            <title>EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+            <title>PT: Canal de Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5343.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal de Historia</link> 
         </item> 
           <item> 
-            <title>CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
+            <title>PT: Benfica tv2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6045.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica tv2</link> 
         </item> 
           <item> 
-            <title>CMTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2405.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HD</link> 
+            <title>PT: Benfica tv1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6044.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica tv1</link> 
         </item> 
           <item> 
-            <title>CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
+            <title>PT: Baby First</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6043.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby First</link> 
         </item> 
           <item> 
-            <title>Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bloomberg</link> 
+            <title>PT: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5331.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
         </item> 
           <item> 
-            <title>BBC NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC NEWS</link> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6042.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
         </item> 
           <item> 
-            <title>BBC ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC ENTERTAINMENT</link> 
+            <title>PT: AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
         </item> 
           <item> 
-            <title>ALJAZEERA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2414.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALJAZEERA</link> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5344.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
         </item> 
           <item> 
-            <title>PANDA BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS</link> 
+            <title>PT: Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6041.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
         </item> 
           <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+            <title>PT: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5340.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&amp;E</link> 
         </item> 
           <item> 
-            <title>JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
+            <title>PT: A Bola TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/5341.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A Bola TV</link> 
         </item> 
           <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>SIC KIDS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC KIDS</link> 
-        </item> 
-          <item> 
-            <title>CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item> 
-          <item> 
-            <title>BABY FIRST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5535.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
-        </item> 
-          <item> 
-            <title>SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
-        </item> 
-          <item> 
-            <title>MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2476.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD</link> 
-        </item> 
-          <item> 
-            <title>HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
-        </item> 
-          <item> 
-            <title>HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title>FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2473.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
-        </item> 
-          <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2472.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
-        </item> 
-          <item> 
-            <title>FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2471.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>FOX CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2470.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME</link> 
-        </item> 
-          <item> 
-            <title>FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title>CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2467.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>A &amp; E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=A &amp; E</link> 
-        </item> 
-          <item> 
-            <title>AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2461.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
-        </item> 
-          <item> 
-            <title>AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2465.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2466.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
-        </item> 
-          <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
-        </item> 
-          <item> 
-            <title>AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2463.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title>AXN BLACK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK</link> 
-        </item> 
-          <item> 
-            <title>TVC SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC SERIES HD</link> 
-        </item> 
-          <item> 
-            <title>TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2460.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2459.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4</link> 
-        </item> 
-          <item> 
-            <title>TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2498.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
-        </item> 
-          <item> 
-            <title>FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
-        </item> 
-          <item> 
-            <title>HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO HD</link> 
-        </item> 
-          <item> 
-            <title>TRAVEL CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2499.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2447.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
-        </item> 
-          <item> 
-            <title>E! ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY SHOWCASE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2492.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE HD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
-        </item> 
-          <item> 
-            <title>CAÇAVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2449.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇAVISION</link> 
-        </item> 
-          <item> 
-            <title>CAÇA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2448.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA</link> 
-        </item> 
-          <item> 
-            <title>ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>24KITCHEN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=24KITCHEN HD</link> 
-        </item> 
-          <item> 
-            <title>MCS LIFESTYLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5538.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
-        </item> 
-          <item> 
-            <title>FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5540.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5539.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
-        </item> 
-          <item> 
-            <title>ARTV Parlamento</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://cms.tvhd4k.com:19500/live/12345/12345/5526.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTV Parlamento</link> 
+            <title>NL: Jimjam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://5.254.113.86:8000/live/301319935247/57a244c00e7a8/6001.ts&amp;streamtype=TSDOWNLOADER&amp;name=NL: Jimjam</link> 
         </item> 
   
-
-
-
-
-
-
-
-
-
-
- 
-   
