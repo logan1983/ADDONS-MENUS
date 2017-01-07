@@ -25,30 +25,7 @@
 
 
 
-       <item> 
-            <title>PT:TVI Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI Ficcao</link> 
-        </item> 
-          <item> 
-            <title>PT:TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI 24</link> 
-        </item> 
-          <item> 
-            <title>PT:TV Records</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV Records</link> 
-        </item> 
-          <item> 
-            <title>PT:Tvi Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tlc</link> 
-        </item> 
-          <item> 
-            <title>PT:Sporting TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting TV</link> 
-        </item> 
-          <item> 
-            <title>PT:Series TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Series TV</link> 
-        </item> 
+   
           <item> 
             <title>PT:Rtp Africa</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Rtp Africa</link> 
@@ -64,7 +41,23 @@
           <item> 
             <title>PT:Rtp 1</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Rtp 1</link> 
+        </item>  
+          <item> 
+            <title>PT:Tvi Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tlc</link> 
+        </item>
+	    <item> 
+            <title>PT:TVI Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI Ficcao</link> 
         </item> 
+          <item> 
+            <title>PT:TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI 24</link> 
+        </item> 
+          <item> 
+            <title>PT:TV Records</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV Records</link> 
+        </item>
           <item> 
             <title>PT:Porto Canal</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Porto Canal</link> 
@@ -176,5 +169,12 @@
           <item> 
             <title>PT: SPORT TV 4</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4</link> 
+        </item>  
+          <item> 
+            <title>PT:Sporting TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting TV</link> 
         </item> 
-  
+          <item> 
+            <title>PT:Series TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.nbrz.ru:9705/live/JusufErolzsj/SuZFFblanka/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Series TV</link> 
+        </item>
