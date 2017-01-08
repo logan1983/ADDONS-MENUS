@@ -8,7 +8,7 @@
 
 
 <item>       
-<title>  [COLOR lime] •S3 UPDATE 08-01-2017 BY LOGAN  [/COLOR] </title>
+<title>  [COLOR lime] •S3 UPDATE 12-01-2017 BY LOGAN  [/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -32,196 +32,97 @@
 
 
 
-
  
- 
- 
- 
- 
- 
-     
-             <item> 
-            <title>PT | RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2801.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP Madeira</link> 
+          <item> 
+            <title>PT:RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 1</link> 
         </item> 
           <item> 
-            <title>PT | RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2800.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP AFRICA</link> 
+            <title>PT:RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 2</link> 
         </item> 
           <item> 
-            <title>PT | RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2799.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 3</link> 
+            <title>PT:RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 3</link> 
         </item> 
           <item> 
-            <title>PT | RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2798.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 2</link> 
+            <title>PT:Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Panda</link> 
         </item> 
           <item> 
-            <title>PT | RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2797.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 1</link> 
+            <title>PT:TVC 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC 3</link> 
         </item> 
           <item> 
-            <title>PT | PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | PFC</link> 
+            <title>PT:RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Africa</link> 
         </item> 
           <item> 
-            <title>PT | RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2810.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP MEMORIA</link> 
-        </item>
-          <item> 
-            <title>PT | TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI REALITY</link> 
+            <title>PT:RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Madeira</link> 
         </item> 
           <item> 
-            <title>PT | TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI FICCAO</link> 
+            <title>PT:RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Acores</link> 
         </item> 
           <item> 
-            <title>PT | TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2793.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI HD</link> 
-        </item> 
-		     <item> 
-            <title>PT | SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC NOTICIAS</link> 
+            <title>PT:RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Memoria</link> 
         </item> 
           <item> 
-            <title>PT | SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC MULHER</link> 
+            <title>PT:TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI 24</link> 
         </item> 
           <item> 
-            <title>PT | SIC Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2802.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC Kids</link> 
+            <title>PT:TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI</link> 
         </item> 
           <item> 
-            <title>PT | SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2794.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC RADICAL</link> 
-        </item>
-          <item> 
-            <title>PT | TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 4</link> 
+            <title>PT:SIC Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC Radical</link> 
         </item> 
           <item> 
-            <title>PT | TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 3</link> 
+            <title>PT:SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC Noticias</link> 
         </item> 
           <item> 
-            <title>PT | TVCINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 2</link> 
+            <title>PT:Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odisseia</link> 
         </item> 
           <item> 
-            <title>PT | TVCINE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 1</link> 
+            <title>PT:TVC 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC 1</link> 
         </item> 
           <item> 
-            <title>PT | TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TV SERIES</link> 
+            <title>PT:TVC 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC 2</link> 
         </item> 
           <item> 
-            <title>PT | SPORTING TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2792.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORTING TV</link> 
-        </item>  
-          <item> 
-            <title>PT | FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX COMEDY</link> 
+            <title>PT:BTV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV 1</link> 
         </item> 
           <item> 
-            <title>PT | BENFICA TV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | BENFICA TV 2 HD</link> 
+            <title>PT:BTV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV 2</link> 
         </item> 
           <item> 
-            <title>PT | BENFICA TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2795.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | BENFICA TV 1 HD</link> 
+            <title>PT:AXN Black</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN Black</link> 
         </item> 
           <item> 
-            <title>PT | AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN WHITE HD</link> 
+            <title>PT:Sport TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport TV1</link> 
         </item> 
           <item> 
-            <title>PT | SPORT TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2989.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 1 HD</link> 
+            <title>PT:Sport TV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport TV2</link> 
         </item> 
           <item> 
-            <title>PT | SPORT TV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2990.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 2 HD</link> 
+            <title>PT:Sport TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport TV3</link> 
         </item> 
           <item> 
-            <title>PT | SPORT TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2991.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT | SPORT TV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT | TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3080.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI 24</link> 
-        </item> 
-          <item> 
-            <title>PT | SPORT TV 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3087.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 5 HD</link> 
-        </item> 
-          <item> 
-            <title>PT | SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3082.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC CARAS</link> 
-        </item> 
-          <item> 
-            <title>PT | GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | GLOBO</link> 
-        </item> 
-          <item> 
-            <title>PT | NAT GEO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | NAT GEO HD</link> 
-        </item> 
-          <item> 
-            <title>PT | MOV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MOV</link> 
-        </item> 
-          <item> 
-            <title>PT | JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | JIM JAM</link> 
-        </item> 
-          <item> 
-            <title>PT | HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3093.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title>PT | FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX HD</link> 
-        </item> 
-          <item> 
-            <title>PT | FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>PT | DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>PT | DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3102.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | DISCOVERY</link> 
-        </item> 
-          <item> 
-            <title>PT | CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3081.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CMTV</link> 
-        </item> 
-          <item> 
-            <title>PT | CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>PT | CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3084.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>PT | AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN HD</link> 
-        </item> 
-          <item> 
-            <title>PT | AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3097.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title>PT | A BOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.fastcccam.tv:8080/live/fasttest/002df6as/3090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | A BOLA TV</link> 
+            <title>PT:AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/cinar/cinar/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN HD</link> 
         </item> 
   
