@@ -28,7 +28,7 @@
  
 <item>
 <title>[COLOR white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/media_b640000_slpt_353269.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 1 LOGAN</link>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8</link>
 <link>plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 1 LOGAN</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
