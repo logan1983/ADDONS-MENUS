@@ -46,6 +46,7 @@
 </item>
  <item>
 <title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8</link>
 <link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
 <fanart></fanart>
