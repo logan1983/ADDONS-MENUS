@@ -23,7 +23,12 @@
 <fanart></fanart>
 </item>  
  
- 
+ <item>
+<title>[COLOR white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevil>http://istvfree.me/rtp-1-online-em-direto</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+</item>
  
  
 <item>
@@ -32,18 +37,21 @@
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
 </item>
+
  <item>
 <title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
 <link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
 </item>
+
  <item>
 <title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 1 LOGAN</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
 </item>
+
  <item>
 <title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
 <link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8</link>
