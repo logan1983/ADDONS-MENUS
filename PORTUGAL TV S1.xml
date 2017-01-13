@@ -221,17 +221,12 @@
 
 <item>
 <title>[COLOR white][B][I] TVI24 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://liveitpremium.gleeze.com:8000/live/marco/marco/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI 24 LOGAN</link>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
 <thumbnail>http://www.spautores.pt/assets_live/2222/autores_tvi24.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 
- <item>
-<title>[COLOR white][B][I] TVI24  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV))[/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
-<thumbnail>http://www.spautores.pt/assets_live/2222/autores_tvi24.jpg</thumbnail>
-</item>
 
 <item>
 <title>[COLOR white][B][I] TVI REALITY PT:1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
