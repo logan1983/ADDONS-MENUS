@@ -2,7 +2,7 @@
 
 
 <item>       
-<title>       [COLOR blue] •S2 UPDATE 12-01-2017 BY LOGAN   [/COLOR]     </title>
+<title>       [COLOR blue] •S2 UPDATE 17-01-2017 BY LOGAN   [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -30,348 +30,618 @@
  
        
    
+         
           <item> 
-            <title>[FR]  F3 cote d'azur</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6481.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR]  F3 cote d'azur</link> 
+            <title>TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1</link> 
         </item> 
+        <item> 
+            <title>M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6</link> 
+        </item> 
+          <item> 
+            <title>W9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9HD</link> 
+        </item> 
+          <item> 
+            <title>FR_C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3474.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C8</link> 
+        </item> 
+          <item> 
+            <title>TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 2</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 3</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5</link> 
+        </item> 
+          <item> 
+            <title>France O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=France O</link> 
+        </item> 
+ 
+          <item> 
+            <title>NRJ_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2560.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12</link> 
+        </item> 
+          <item> 
+            <title>Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte</link> 
+        </item> 
+          <item> 
+            <title>CANAL+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FAMILY</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ DECALE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ SERIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIE</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT</link> 
+        </item> 
+          <item> 
+            <title>CINE PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE PREMIER</link> 
+        </item> 
+          <item> 
+            <title>CINE+ FAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FAMIZ</link> 
+        </item> 
+          <item> 
+            <title>CINE+ FRISSON FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FRISSON FR</link> 
+        </item> 
+          <item> 
+            <title>TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA</link> 
+        </item> 
+          <item> 
+            <title>FR_TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3475.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV_BREIZH</link> 
+        </item> 
+          <item> 
+            <title>CINE+ CLASSIC FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ CLASSIC FR</link> 
+        </item> 
+          <item> 
+            <title>CINE EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE EMOTION</link> 
+        </item> 
+          <item> 
+            <title>OCS_Choc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_Choc</link> 
+        </item> 
+          <item> 
+            <title>Cherie_25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie_25</link> 
+        </item> 
+          <item> 
+            <title>OCS_CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY</link> 
+        </item> 
+          <item> 
+            <title>FR: Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action</link> 
+        </item> 
+          <item> 
+            <title>13_Eme_Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=13_Eme_Rue</link> 
+        </item> 
+          <item> 
+            <title>Paris_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris_Premiere</link> 
+        </item> 
+          <item> 
+            <title>SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
+        </item> 
+          <item> 
+            <title>Serie_Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie_Club</link> 
+        </item> 
+          <item> 
+            <title>RMC_Decouverte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2565.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC_Decouverte</link> 
+        </item> 
+          <item> 
+            <title>RTL_9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_9HD</link> 
+        </item> 
+          <item> 
+            <title>FR.Planet_A&amp;E_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Planet_A&amp;E_HD</link> 
+        </item> 
+          <item> 
+            <title>FR.Paramount_Channel_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Paramount_Channel_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:_Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Weo</link> 
+        </item> 
+          <item> 
+            <title>FR:_TVA_Montreal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_TVA_Montreal</link> 
+        </item> 
+          <item> 
+            <title>FR:_Trek_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Trek_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:_Oui_FM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Oui_FM_TV</link> 
+        </item> 
+          <item> 
+            <title>FR:_Monaco_Info</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Monaco_Info</link> 
+        </item> 
+          <item> 
+            <title>FR:_Mirabelle_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Mirabelle_TV</link> 
+        </item> 
+          <item> 
+            <title>FR:_Leman_Bleu</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Leman_Bleu</link> 
+        </item> 
+          <item> 
+            <title>FR:_IL_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_IL_TV</link> 
+        </item> 
+          <item> 
+            <title>FR.OL_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.OL_TV</link> 
+        </item> 
+          <item> 
+            <title>Ocs_Geants</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Ocs_Geants&amp;streamtype=TSDOWNLOADER&amp;name=Ocs_Geants</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX</link> 
+        </item> 
+          <item> 
+            <title>Numero_23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numero_23</link> 
+        </item> 
+          <item> 
+            <title>FR.Histoire_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Histoire_HD</link> 
+        </item> 
+          <item> 
+            <title>FR.Cine_Polar_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine_Polar_HD</link> 
+        </item> 
+          <item> 
+            <title>HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
+        </item> 
+          <item> 
+            <title>FR_AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1</link> 
+        </item> 
+          <item> 
+            <title>TV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5</link> 
+        </item> 
+          <item> 
+            <title>D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=D17</link> 
+        </item> 
+          <item> 
+            <title>Comedie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie</link> 
+        </item> 
+          <item> 
+            <title>6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER</link> 
+        </item> 
+          <item> 
+            <title>LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
+        </item> 
+          <item> 
+            <title>I_Tele</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_Tele</link> 
+        </item> 
+          <item> 
+            <title>EURONEWS FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS FR</link> 
+        </item> 
+          <item> 
+            <title>BFM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_TV</link> 
+        </item> 
+          <item> 
+            <title>Planet+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+</link> 
+        </item> 
+          <item> 
+            <title>Planet+ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+ci</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEO</link> 
+        </item> 
+          <item> 
+            <title>National_Geo_Wild_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2559.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geo_Wild_FR</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_HD</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY SCIENCE FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE FR</link> 
+        </item> 
           <item> 
-            <title>[FR] BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6483.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BFM TV</link> 
+            <title>USHUAIA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_HD</link> 
         </item> 
           <item> 
-            <title>[FR] C8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6484.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] C8 HD</link> 
+            <title>Chasse et peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et peche</link> 
         </item> 
           <item> 
-            <title>[FR] LCI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6485.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] LCI HD</link> 
+            <title>FR ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ANIMAUX</link> 
         </item> 
           <item> 
-            <title>[FR] LCP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6486.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] LCP HD</link> 
+            <title>Voyage_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage_HD</link> 
         </item> 
           <item> 
-            <title>[FR] SFR SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6400.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 1 HD</link> 
+            <title>Science_et_Vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science_et_Vie</link> 
         </item> 
           <item> 
-            <title>[FR] SFR SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6401.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 2 HD</link> 
+            <title>BEINSPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT_1_HD</link> 
         </item> 
           <item> 
-            <title>[FR] SFR SPORT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6402.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 3 HD</link> 
+            <title>FR:_Bein_Sports_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:_Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Bein_Sports_1_HD</link> 
         </item> 
           <item> 
-            <title>{FR] SFR SPORT 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6403.ts&amp;streamtype=TSDOWNLOADER&amp;name={FR] SFR SPORT 5 HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>{FR} CSTAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6487.ts&amp;streamtype=TSDOWNLOADER&amp;name={FR} CSTAR</link> 
+            <title>BEINSPORT _2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT _2_HD</link> 
         </item> 
           <item> 
-            <title>|FR  |DISCOVERY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6404.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR  |DISCOVERY HD</link> 
+            <title>FR:_Bein_Sports_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:_Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Bein_Sports_2_HD</link> 
         </item> 
           <item> 
-            <title>|FR| 13EME RUE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6405.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| 13EME RUE HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3369.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>|FR| 6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6406.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| 6TER HD</link> 
+            <title>BEINSPORT 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT 3 HD FR</link> 
         </item> 
           <item> 
-            <title>|FR| ANIMAUX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6407.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| ANIMAUX HD</link> 
+            <title>FR:_Bein_Sports_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:_Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Bein_Sports_3_HD</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6408.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL FAMILY HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3368.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6409.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL HD</link> 
+            <title>SFR_SPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6410.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL SERIES HD</link> 
+            <title>SFR_SPORT_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6411.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL SPORT HD</link> 
+            <title>SFR_SPORT_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD</link> 
         </item> 
           <item> 
-            <title>|FR| CARTOON NETWORK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6412.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CARTOON NETWORK HD</link> 
+            <title>INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+</link> 
         </item> 
           <item> 
-            <title>|FR| CHASSE &amp; PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6413.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CHASSE &amp; PECHE</link> 
+            <title>Foot+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+</link> 
         </item> 
           <item> 
-            <title>|FR| CINE  CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6414.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CINE  CLASSIC HD</link> 
+            <title>FR.Foot_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Foot_24</link> 
         </item> 
           <item> 
-            <title>|FR| CINE  EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6415.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CINE  EMOTION HD</link> 
+            <title>EUROSPORT_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_1</link> 
         </item> 
           <item> 
-            <title>|FR| CINE  FAMIZ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6416.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CINE  FAMIZ HD</link> 
+            <title>EUROSPORT_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2555.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2</link> 
         </item> 
           <item> 
-            <title>|FR| CINE  PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6417.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CINE  PREMIER HD</link> 
+            <title>Equipe21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equipe21</link> 
         </item> 
           <item> 
-            <title>|FR| CINE FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6418.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CINE FRISSON HD</link> 
+            <title>Equidia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia</link> 
         </item> 
           <item> 
-            <title>|FR| COMEDIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6419.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| COMEDIE HD</link> 
+            <title>Equidia_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia_Live</link> 
         </item> 
           <item> 
-            <title>|FR| DISCOVERY SCIENCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6420.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| DISCOVERY SCIENCE HD</link> 
+            <title>FR_NICKELODEON_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NICKELODEON_JUNIOR</link> 
         </item> 
           <item> 
-            <title>|FR| DISNEY CHANEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| DISNEY CHANEL HD</link> 
+            <title>FR:_Nickelodeon_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Nickelodeon_Junior</link> 
         </item> 
           <item> 
-            <title>|FR| DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| DISNEY CINEMA</link> 
+            <title>FR:_Nickelodeon_4Teen</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Nickelodeon_4Teen</link> 
         </item> 
           <item> 
-            <title>|FR| DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6423.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| DISNEY JUNIOR</link> 
+            <title>FR:_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Nickelodeon</link> 
         </item> 
           <item> 
-            <title>|FR| GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6424.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| GULLI</link> 
+            <title>Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network</link> 
         </item> 
           <item> 
-            <title>|FR| HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6425.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| HD1</link> 
+            <title>BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG</link> 
         </item> 
           <item> 
-            <title>|FR| L'EQUIPE21 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6426.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| L'EQUIPE21 HD</link> 
+            <title>FR:_Zouzou</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Zouzou</link> 
         </item> 
           <item> 
-            <title>|FR| M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| M6 HD</link> 
+            <title>Game_One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Game_One</link> 
         </item> 
           <item> 
-            <title>|FR| MANGAS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6428.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| MANGAS HD</link> 
+            <title>FR:_Disney_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_XD</link> 
         </item> 
           <item> 
-            <title>|FR| NAT GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6429.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| NAT GEO</link> 
+            <title>Tiji</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji</link> 
         </item> 
           <item> 
-            <title>|FR| NATGEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| NATGEO WILD HD</link> 
+            <title>teletoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=teletoon</link> 
         </item> 
           <item> 
-            <title>|FR| NRJ12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| NRJ12 HD</link> 
+            <title>MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS</link> 
         </item> 
           <item> 
-            <title>|FR| NT1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6432.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| NT1 HD</link> 
+            <title>FR:_Disney_Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_Cinemagic</link> 
         </item> 
           <item> 
-            <title>|FR| OCS CHOC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6433.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| OCS CHOC HD</link> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>|FR| OCS CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6434.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| OCS CITY HD</link> 
+            <title>FR: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
         </item> 
           <item> 
-            <title>|FR| OCS MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6435.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| OCS MAX</link> 
+            <title>FR:_Canal_J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Canal_J</link> 
         </item> 
           <item> 
-            <title>|FR| PLANETE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6436.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| PLANETE HD</link> 
+            <title>Gulli</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gulli</link> 
         </item> 
           <item> 
-            <title>|FR| RTL9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6437.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| RTL9 HD</link> 
+            <title>PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI</link> 
         </item> 
           <item> 
-            <title>|FR| SCIENCES &amp; VIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6438.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| SCIENCES &amp; VIE HD</link> 
+            <title>A.LA.CARTE.1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.1</link> 
         </item> 
           <item> 
-            <title>|FR| SERIE CLUB HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6439.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| SERIE CLUB HD</link> 
+            <title>A.LA.CARTE.2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.2</link> 
         </item> 
           <item> 
-            <title>|FR| SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6440.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| SYFY HD</link> 
+            <title>A.LA.CARTE.3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.3</link> 
         </item> 
           <item> 
-            <title>|FR| TEVA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6441.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TEVA HD</link> 
+            <title>A.LA.CARTE.4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.4</link> 
         </item> 
           <item> 
-            <title>|FR| TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6442.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TF1 HD</link> 
+            <title>A_LA_CARTE_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_5</link> 
         </item> 
           <item> 
-            <title>|FR| TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6443.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TMC HD</link> 
+            <title>A_LA_CARTE_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_6</link> 
         </item> 
           <item> 
-            <title>|FR| TOUTE L'HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6444.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TOUTE L'HISTOIRE</link> 
+            <title>A_LA_CARTE_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_7</link> 
         </item> 
           <item> 
-            <title>|FR| W9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6445.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| W9 HD</link> 
+            <title>A_LA_CARTE_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_8</link> 
         </item> 
           <item> 
-            <title>|FR|ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6446.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ACTION HD</link> 
+            <title>A_LA_CARTE_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_9</link> 
         </item> 
           <item> 
-            <title>|FR|ARTE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6447.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ARTE HD</link> 
+            <title>A_LA_CARTE_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_10</link> 
         </item> 
           <item> 
-            <title>|FR|BEIN SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6448.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BEIN SPORT 2 HD</link> 
+            <title>A_LA_CARTE_11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_11</link> 
         </item> 
           <item> 
-            <title>|FR|BeIN SPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6449.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BeIN SPORTS 1 HD</link> 
+            <title>A_LA_CARTE_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_12</link> 
         </item> 
           <item> 
-            <title>|FR|BEINSPORT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6450.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BEINSPORT 3 HD</link> 
+            <title>A_LA_CARTE_13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_13</link> 
         </item> 
           <item> 
-            <title>|FR|CANAL CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6451.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL CINEMA HD</link> 
+            <title>A_LA_CARTE_14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_14</link> 
         </item> 
           <item> 
-            <title>|FR|CANAL DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6452.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL DECALE HD</link> 
+            <title>A_LA_CARTE_15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_15</link> 
         </item> 
           <item> 
-            <title>|FR|Canal J HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6453.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|Canal J HD</link> 
+            <title>A_LA_CARTE_16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_16</link> 
         </item> 
           <item> 
-            <title>|FR|CHERIE 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6454.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CHERIE 25 HD</link> 
+            <title>A_LA_CARTE_17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_17</link> 
         </item> 
           <item> 
-            <title>|FR|CINE FX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6455.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE FX HD</link> 
+            <title>A_LA_CARTE_18</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_18</link> 
         </item> 
           <item> 
-            <title>|FR|CINE POLAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6456.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE POLAR HD</link> 
+            <title>A_LA_CARTE_19</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_19</link> 
         </item> 
           <item> 
-            <title>|FR|D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6457.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|D8</link> 
+            <title>A_LA_CARTE_20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_20</link> 
         </item> 
           <item> 
-            <title>|FR|EQUIDIA LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6459.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EQUIDIA LIVE HD</link> 
+            <title>=====_Swiss_======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3380.ts&amp;streamtype=TSDOWNLOADER&amp;name======_Swiss_======</link> 
         </item> 
           <item> 
-            <title>|FR|F.TELETOON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6460.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|F.TELETOON HD</link> 
+            <title>RTS_UN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2864.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_UN</link> 
         </item> 
           <item> 
-            <title>|FR|F2: Tiji HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6461.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|F2: Tiji HD</link> 
+            <title>RTS_DEUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2865.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_DEUX</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6462.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE 2 HD</link> 
+            <title>CH:_SRF_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3381.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH:_SRF_1_HD</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6463.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE 3 HD</link> 
+            <title>CH:_SRF_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3382.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH:_SRF_2_HD</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6464.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE 4 HD</link> 
+            <title>====BELGIQUE_TELESAT====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=====BELGIQUE_TELESAT====</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6465.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE 5 HD</link> 
+            <title>LA UNE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA UNE HD</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE O HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6466.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE O HD</link> 
+            <title>LA.DEUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA.DEUX</link> 
         </item> 
           <item> 
-            <title>|FR|INFOSPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6467.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|INFOSPORT HD</link> 
+            <title>LA.TROIS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA.TROIS</link> 
         </item> 
           <item> 
-            <title>|FR|NICKLODEON JUNIOR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6468.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NICKLODEON JUNIOR HD</link> 
+            <title>RTL_TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_TVI</link> 
         </item> 
           <item> 
-            <title>|FR|OCS GEANTS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6469.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|OCS GEANTS HD</link> 
+            <title>BE_Vtm_Kazoom_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3461.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vtm_Kazoom_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|PARAMOUNT CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6470.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PARAMOUNT CHANNEL HD</link> 
+            <title>BE_Vtm_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3462.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vtm_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|PARIS PREMIERE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6471.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PARIS PREMIERE HD</link> 
+            <title>BE_Vitaya_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3463.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vitaya_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|PIWI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6472.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PIWI HD</link> 
+            <title>BE_Vijf_TV_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3464.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vijf_TV_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|PLANETE A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6473.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE A&amp;E</link> 
+            <title>BE_Vier_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3465.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vier_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|PLANETE CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6474.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE CI</link> 
+            <title>BE_Rtl_Tvi_HD_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3466.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Rtl_Tvi_HD_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|RMC DECOUVERTE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6475.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RMC DECOUVERTE HD</link> 
+            <title>BE_Plug_Rtl_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3467.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Plug_Rtl_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|RTS Deux HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6476.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RTS Deux HD</link> 
+            <title>BE_Ket_op_2_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3468.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Ket_op_2_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|RTS Un HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6477.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RTS Un HD</link> 
+            <title>BE_Een_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3469.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Een_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|TCM CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6478.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TCM CINEMA HD</link> 
+            <title>BE_Club_Rtl_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3470.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Club_Rtl_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|TV BREIZH HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6479.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TV BREIZH HD</link> 
+            <title>BE_Canvas_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3471.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Canvas_-_Belgium</link> 
         </item> 
           <item> 
-            <title>|FR|USHUAIA TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvonline.tvhd4k.com:19500/live/rafael/rafael/6480.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|USHUAIA TV HD</link> 
+            <title>BE_2Be_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3472.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_2Be_-_Belgium</link> 
         </item> 
   
