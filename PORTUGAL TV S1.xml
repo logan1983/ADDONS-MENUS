@@ -23,6 +23,16 @@
 <fanart></fanart>
 </item>  
  
+ 
+<item>
+<title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevil>http://www.tvtuga.com/rtp-1/</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<item> 
+ 
+ 
+ 
 <item>
 <title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV ON)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/pack2017/12518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 2 LOGAN</link>
@@ -30,19 +40,6 @@
 <fanart></fanart>
 </item>
  
-
-<item>
-<title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp1 swfVfy=1 live=1 timeout=15</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR=white][B][I] RTP 1 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://www.tvgente.co/watch/RTP1-81-2</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-</item>
 
  <item>
 <title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
@@ -162,9 +159,8 @@
 </item>
 <item>
 <title>[COLOR white][B][I]  CANAL PANDA [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mazane/mazane/3634.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/2710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
-<info>BY:)LOGAN TV/FREE</info>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
 <thumbnail>https://yt3.ggpht.com/-ubWyeh3t5E0/AAAAAAAAAAI/AAAAAAAAAAA/gQO3Nla8KiM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -172,7 +168,7 @@
 
 <item>
 <title>[COLOR white][B][I]  DISNEY JUNIOR [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - DISNEY JUNIOR LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - DISNEY JUNIOR LOGAN</link>
 <link>http://213.188.51.185:9981/play/a00n</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a6/32/93/a632933d32b39a078b033604ada8f70f.jpg</thumbnail>
 <fanart></fanart>
@@ -194,19 +190,7 @@
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/bc/Tvi_logo.png</thumbnail>
 </item>
 
- <item>
-<title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/media_w2074240527_b814000_319456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/bc/Tvi_logo.png</thumbnail>
-</item>
 
- 
-<item>
-<title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3607.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/bc/Tvi_logo.png</thumbnail>
-<fanart></fanart>
-</item> 
 
 
 <item>
@@ -305,57 +289,36 @@
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/abolaTV_geral.jpg</thumbnail>
 <fanart></fanart>
 <item>
- <item>
-<title>[COLOR=white][B][I] DISCOVERY CHANNEL [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mazane/mazane/3631.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - DISCOVERY CHANNEL LOGAN</link>
-<thumbnail>https://i.ytimg.com/vi/Tsbi0vU-WQE/maxresdefault.jpg</thumbnail>
+ 
+ 
 <item>
- <item>
 <title>[COLOR white][B][I] DISCOVERY CHANNEL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/discovery</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>https://i.ytimg.com/vi/Tsbi0vU-WQE/maxresdefault.jpg</thumbnail>
 </item>
+ 
+<item>
+<title>[COLOR=white][B][I] DISCOVERY CHANNEL [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - DISCOVERY CHANNEL LOGAN</link>
+<thumbnail>https://i.ytimg.com/vi/Tsbi0vU-WQE/maxresdefault.jpg</thumbnail>
+<item>
+
 
 <item>
 <title>[COLOR white][B][I] HOLLYWOOD   [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://streams.iptv.zone:80/p/93492/c/72/u/33939/AKBMktbXNJj7U1q1khsQJGK15Bj7DQ</link>
+<link></link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/12/canal-hollywood-stream.jpg</thumbnail>
 </item>
  
- <item>
-<title>[COLOR white][B][I] HOLLYWOOD   [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://streams.iptv.zone:80/p/93492/c/12/u/33939/AKBMktbXNJj7U1q1khsQJGK15Bj7DQ</link>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/12/canal-hollywood-stream.jpg</thumbnail>
-</item>
-
 <item>
 <title>[COLOR white][B][I] HOLLYWOOD   [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.embeducaster.com/membedplayer/mtvax/1/599/399</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.embeducaster.com/</referer>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - HOLLYWOOD LOGAN</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/12/canal-hollywood-stream.jpg</thumbnail>
-</regex>
+<fanart></fanart>
 </item>
 
 
-
-
-<item>
-<title>[COLOR white][B][I] HOLLYWOOD [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/canalmobile.php?c=hollywood</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/12/canal-hollywood-stream.jpg</thumbnail>
-</item>
 
 
 <item>
