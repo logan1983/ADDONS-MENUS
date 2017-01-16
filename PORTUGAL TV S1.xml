@@ -358,8 +358,15 @@
 
 <item>
 <title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
 <link>http://198.255.76.34:8080/tvcine1/tracks-v1a1/index.m3u8</link>
-<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
 <fanart></fanart>
 </item>
@@ -378,12 +385,19 @@
 <item>
 <title>[COLOR white][B][I] TVCINE 3 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>http://198.255.76.34:8080/tvcine3/tracks-v1a1/index.m3u8</link>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/pack2017/12501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png</thumbnail>
 <fanart></fanart>
 </item>
  
 
+ 
+<item>
+<title>[COLOR white][B][I] TVCINE 3 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/pack2017/12501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png</thumbnail>
+<fanart></fanart>
+</item> 
+ 
  
  
 <item>
