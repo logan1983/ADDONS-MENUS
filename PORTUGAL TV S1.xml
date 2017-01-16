@@ -24,6 +24,16 @@
 </item>  
  
  
+ 
+ <item>
+<title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<item>
+ 
+ 
+ 
 <item>
 <title>[COLOR white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 1 LOGAN</link>
@@ -32,74 +42,66 @@
 </item>
  
  
- 
-<item>
-<title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV ON)[/COLOR]</title>
-<link>http://163.172.39.15/loadbalance/64792748588955428741/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDE3IDk6NDE6MzUgUE0maGFzaF92YWx1ZT1iMzFWOGlBSlh5V3Fycys4eXpkVFl3PT0mdmFsaWRtaW51dGVzPTE=</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-<fanart></fanart>
-</item>
- 
-
  <item>
-<title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8</link>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2 swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLOR white][B][I]  RTP 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<title>[COLOR white][B][I]  RTP 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
 <item>
+
+
 <item>
-<title>[COLOR white][B][I] RTP 2 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/media_b640000_slpt_57796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 2 LOGAN</link>
+<title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 2 LOGAN</link>
 <thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
 <fanart></fanart>
 </item>
- <item>
-<title>[COLOR=white][B][I] RTP 3 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch64h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp3 swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
-<fanart></fanart>
-</item>
- <item>
+
+
+<item>
 <title>[COLOR white][B][I]  RTP 3[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
 <item>
+
+
 <item>
 <title>[COLOR white][B][I] RTP 3 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/media_b640000_slpt_57833.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 3 LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://bb1.sendevric.com:8000/live/k1vZb4QIeZ/nWIpzKq99R/4750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 3 LOGAN</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
 <fanart></fanart>
- <item>
+</item>
+
+<item>
 <title>[COLOR white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg</thumbnail>
 <item>
+
+
 <item>
 <title>[COLOR white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://185.142.236.82:2500/live/Jacques1/Jacques1/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP MEMORIA LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP MEMORIA LOGAN</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg</thumbnail>
 <fanart></fanart>
 <item>
- <item>
-<title>[COLOR=white][B][I] RTP MADEIRA [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>rtmp://rtppullswf2livefs.fplive.net/rtppullswf2live-live playpath=2ch1016h264H14 swfUrl=http://www.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira swfVfy=1 live=1 timeout=15</link>
-<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
-<fanart></fanart>
-<item>
+ 
+ 
 <item>
 <title>[COLOR white][B][I]  RTP MADEIRA[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
 <sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
+<item> 
+ 
+ 
+<item>
+<title>[COLOR=white][B][I] RTP MADEIRA [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
+<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
+<fanart></fanart>
 <item>
 
 
@@ -113,7 +115,7 @@
 
 <item>
 <title> [COLOR white][B][I] SIC   [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -233,7 +235,7 @@
 </item>
  <item>
 <title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>rtmp://83.149.126.139/live playpath=desafiofinaltoppp?id=90078&pk=64b4d04da4876278062c10a1868076df3844fe92c1bf10d81b6c29c2e1e41d3d swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf pageUrl=http://www.embeducaster.com/embedplayer/desafiofinaltoppp/1/545/380 swfVfy=1 live=1 timeout=15</link>
+<link>rtmp://95.211.184.105/live/ playPath=desafiofinaltoppp?id=90078&pk=f79a7bf4a4bf40051d8422cf3278b0e4b7fe0903e39d39beb98cc6f3201a31d0 swfVfy=1 timeout=10 conn=S:OK live=true swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf flashver=WIN\2024,0,0,186 pageUrl=http://www.embeducaster.com/embedplayer/desafiofinaltoppp/1/730/430 swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 <fanart></fanart>
 </item>
