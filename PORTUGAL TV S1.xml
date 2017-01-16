@@ -25,17 +25,17 @@
  
  
 <item>
-<title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevil>http://www.tvtuga.com/rtp-1/</sportsdevil>
-<referer>http://ucaster.eu/</referer>
+<title>[COLOR white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?url=http://tv.kitboxtv.com:8000/live/Marvel/Hurrel/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 1 LOGAN</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-<item> 
+<fanart></fanart>
+</item>
  
  
  
 <item>
 <title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV ON)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/pack.bntv@gmail.com/pack2017/12518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 2 LOGAN</link>
+<link>rtmp://94.176.148.234/live?token=QVbobozsZryKac9ywhpk3AExpired=1484607084 playpath=vera76f9de3c310cf2ad86811 swfUrl=http://abcast.net/ob.swf pageUrl=http://abcast.net/app.php?file=siciio&width=600&height=450</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -101,32 +101,46 @@
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
 <item>
+
+
 <item>
-<title> [COLOR white][B][I] SIC HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mazane/mazane/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
+<title>[COLOR white][B][I]  SIC  [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevil>http://www.tvtuga.com/sic/</sportsdevil>
+<referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
-<fanart></fanart>
 </item>
+
+
 <item>
 <title> [COLOR white][B][I] SIC   [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://5.255.90.94:1339/live/Zaza/Zaza/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://185.142.236.82:2500/live/Jacques1/Jacques1/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+
 <item>
 <title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC Noticias LOGAN</link>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
+<fanart></fanart>
+</item> 
+
+
+<item>
+<title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>http://213.188.51.185:9981/play/a00k</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
 <fanart></fanart>
 </item> 
+
 <item>
 <title>[COLOR white][B][I] SIC KIDS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/mazane/mazane/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC K LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</thumbnail>
 <fanart></fanart>
 </item> 
+
 <item>
 <title>[COLOR white][B][I] SIC KIDS HD:2 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://62.4.21.70:8000/live/akdim/akdim/3576.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC K LOGAN</link>
