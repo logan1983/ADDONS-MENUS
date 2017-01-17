@@ -2,7 +2,7 @@
 
 
 <item>       
-<title>  [COLOR lime] •S4 UPDATE 17-01-2017 BY LOGAN  [/COLOR]  </title>
+<title>  [COLOR lime] •S4 UPDATE 20-01-2017 BY LOGAN  [/COLOR]  </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -26,220 +26,129 @@
 
 
    
+ 
           <item> 
-            <title>PT: Benfica TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV HD</link> 
+            <title>PT-RTP_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_1</link> 
         </item> 
           <item> 
-            <title>PT: Benfica TV SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV SD</link> 
+            <title>PT-RTP_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV1 HD</link> 
+            <title>PT-TV_Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV2</link> 
+            <title>PT-TVCine1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3</link> 
+            <title>Sport TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 4</link> 
+            <title>Sport TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 2</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV5 HD</link> 
+            <title>PT-SPORT_TV_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV_3</link> 
         </item> 
           <item> 
-            <title>PT: EuroSport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport News</link> 
+            <title>PT-SPORT_TV_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV_4</link> 
         </item> 
           <item> 
-            <title>PT: Sporting TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
+            <title>PT-SPORT_TV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV5</link> 
         </item> 
           <item> 
-            <title>PT: Caca &amp; Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca &amp; Pesca</link> 
+            <title>PT-TVCine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1</link> 
+            <title>PT-TVCine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2</link> 
+            <title>PT-Fox_Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3</link> 
+            <title>PT-SIC_Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SIC_Caras</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4</link> 
+            <title>PT-Fox_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
         </item> 
           <item> 
-            <title>PT: CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
+            <title>PT-Fox_Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
         </item> 
           <item> 
-            <title>PT: Fox hd</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox hd</link> 
+            <title>PT-Fox_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
         </item> 
           <item> 
-            <title>PT: Fox Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies</link> 
+            <title>PT-Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
         </item> 
           <item> 
-            <title>PT: Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+            <title>PT-Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
         </item> 
           <item> 
-            <title>PT: FoxLife HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FoxLife HD</link> 
+            <title>PT-TVI_Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
         </item> 
           <item> 
-            <title>PT: HollyWood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HollyWood</link> 
+            <title>PT-TV_Cseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cseries</link> 
         </item> 
           <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+            <title>PT-Toros_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
         </item> 
           <item> 
-            <title>PT: AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
+            <title>PT-Sic_Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
         </item> 
           <item> 
-            <title>PT: AXN White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White HD</link> 
+            <title>PT-Sic_Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
         </item> 
           <item> 
-            <title>PT: SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
+            <title>PT-RTP_Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
         </item> 
           <item> 
-            <title>PT: Mov HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Mov HD</link> 
+            <title>PT-Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
         </item> 
           <item> 
-            <title>PT: Toros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros TV</link> 
+            <title>PT-Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
         </item> 
           <item> 
-            <title>PT: EuroSport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 1</link> 
+            <title>PT-Jim_Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
         </item> 
           <item> 
-            <title>PT: TVseries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVseries</link> 
+            <title>PT-Discovery_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
         </item> 
           <item> 
-            <title>PT: TVI FicÃ§Ã£o</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FicÃ§Ã£o</link> 
+            <title>PT-Canal_Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
         </item> 
           <item> 
-            <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <title>PT-AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
         </item> 
           <item> 
-            <title>PT: TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC noticias</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic K</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Internacional</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Internacional</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP</link> 
-        </item> 
-          <item> 
-            <title>PT: Porto canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto canal</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP InformaÃ§Ã£o</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP InformaÃ§Ã£o</link> 
-        </item> 
-          <item> 
-            <title>PT: TV Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
-        </item> 
-          <item> 
-            <title>PT: TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
-        </item> 
-          <item> 
-            <title>PT: CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
-        </item> 
-          <item> 
-            <title>PT: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney JR</link> 
-        </item> 
-          <item> 
-            <title>PT: Cartoon NetWork</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geographic wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic wild</link> 
-        </item> 
-          <item> 
-            <title>PT: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery</link> 
-        </item> 
-          <item> 
-            <title>PT: TVI Reality (A Quinta)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Reality (A Quinta)</link> 
-        </item> 
-          <item> 
-            <title>PT: Economico TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Economico TV</link> 
-        </item> 
-          <item> 
-            <title>PT: CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>PT: A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&amp;E</link> 
+            <title>PT-Abola_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://electro-tunis.biz:8000/live/chaaben202/chaaben202/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
         </item> 
   
