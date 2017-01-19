@@ -33,7 +33,7 @@
 </item> 
 
 
-
+===============================================================================================================================================================================================
 
 
 <item>       
@@ -45,30 +45,33 @@
 </item> 
 
 
-<item> 
-<title>[COLOR=white][B][I] SPORT TV1  [/I][/B][/COLOR][COLOR=lime] [ LOGAN WEBTV ][/COLOR]</title 
-<link>http://198.255.76.34:8080/sporttv1/index.m3u8</link> 
+<item>
+<title>[COLOR=white][B][I] SPORT TV1  [/I][/B][/COLOR][COLOR=lime] [ LOGAN WEBTV ][/COLOR]</title>
+<link>http://198.255.76.34:8080/sporttv1/index.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/xvrxyp1437951106.png</thumbnail>
 </item>
+
  
-
-<item> 
-<title>[COLOR=white][B][I] SPORT TV2  [/I][/B][/COLOR][COLOR=lime] [ LOGAN WEBTV ][/COLOR]</title 
-<link>http://198.255.76.34:8080/sporttv2/index.m3u8</link> 
+<item>
+<title>[COLOR white][B][I] SPORT TV2  [/I][/B][/COLOR][COLOR lime] [ LOGAN WEBTV ][/COLOR]</title>
+<link>http://198.255.76.34:8080/sporttv2/index.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png</thumbnail>
-</item> 
+</item>
 
-<item> 
-<title>[COLOR=white][B][I] SPORT TV3  [/I][/B][/COLOR][COLOR=lime] [ LOGAN WEBTV ][/COLOR]</title
-<link>http://198.255.76.34:8080/sporttv3/index.m3u8</link> 
+
+<item>
+<title>[COLOR white][B][I] SPORT TV3 SD [/I][/B][/COLOR] [COLOR lime] [ LOGAN WEBTV ][/COLOR]</title>
+<link>http://198.255.76.34:8080/sporttv3/index.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-_HCodjaRFYg/VOxTDebOWWI/AAAAAAAAAoQ/VvJkC-yg3iA/s320/SPT3HD.png</thumbnail>
-</item> 
-         
-<item> 
-<title>[COLOR=white][B][I] SPORT TV4  [/I][/B][/COLOR][COLOR=lime] [ LOGAN WEBTV ][/COLOR]</title
-<link>http://198.255.76.34:8080/sporttv4/index.m3u8</link> 
+</item>
+ 
+  
+<item>
+<title>[COLOR=white][B][I] SPORT TV4  [/I][/B][/COLOR][COLOR=lime] [ LOGAN WEBTV ][/COLOR]</title>
+<link>http://198.255.76.34:8080/sporttv4/index.m3u8</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png?w=300?resize=100%2C123</thumbnail>
-</item> 
+</item>
+
 
 <item>
 <title>[COLOR white][B][I] SPORT TV5  [/I][/B][/COLOR] [COLOR lime] [ LOGAN WEBTV ][/COLOR] </title>
@@ -103,7 +106,7 @@
 
 <item>
 <title>[COLOR white][B][I] SPORT TV1 HD/SD  [/I][/B][/COLOR] [COLOR lime] [ LOGAN WEBTV ][/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/bassem3000/bassem3000/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV1 LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://stsvs.dyndns.tv:8000/live/carina/andreia/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV1 LOGAN</link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 <fanart>http://cdn1.wallpapersok.com/uploads/picture/234/162/162234/picture-162234.jpg?width=2048&height=1365&crop=true</fanart>
 </item>
@@ -129,7 +132,7 @@
 
 <item>
 <title>[COLOR white][B][I] SPORT TV4 HD/SD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>rtmp://80.82.78.22/live?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDE2IDU6MjA6MTYgUE0maGFzaF92YWx1ZT10UGJZV2RyQkVCZG9kMTY3aGVRazl3PT0mdmFsaWRtaW51dGVzPTEw swfUrl=http://www.bigcast.us/myplayer/jwplayer.flash.swf pageUrl=http://www.bigcast.us/embed.php?v=bt3&vw;=620&vh;=490 playpath=yhl3rOmJcn_4447 swfVfy=1 live=1 timeout=15</link>
+<link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/832.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - Sport TV4 LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/vtxqpw1436886719.png?w=300?resize=100%2C123</thumbnail>
 <fanart></fanart>
 </item>
