@@ -8,7 +8,7 @@
 
 
 <item>       
-<title>  [COLOR lime] •S3 UPDATE 20-01-2017 BY LOGAN  [/COLOR] </title>
+<title>  [COLOR lime] •S3 UPDATE 24-01-2017 BY LOGAN  [/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -36,18 +36,7 @@
    
        
       
-          <item> 
-            <title>PT: RTP_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_2</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_1</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP_memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_memoria</link> 
-        </item> 
+    
           <item> 
             <title>PT: TVI_24</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI_24</link> 
@@ -59,26 +48,6 @@
           <item> 
             <title>PT: TV_GLOBO</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV_GLOBO</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC_NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC_CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_CARAS</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
-        </item> 
-          <item> 
-            <title>PT: Cine_Mundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine_Mundo</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC_K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_K</link> 
         </item> 
           <item> 
             <title>PT: TV_CINE_4_HD</title> 
@@ -125,8 +94,40 @@
             <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT_TV_1_HD</link> 
         </item> 
           <item> 
+            <title>PT: SIC_NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC_CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_CARAS</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
+            <title>PT: Cine_Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine_Mundo</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP_memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_memoria</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC_K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_K</link> 
+        </item> 
+          <item> 
             <title>PT: Sport_TV+</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport_TV+</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/3517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_1</link> 
         </item> 
           <item> 
             <title>PT: TV_Record</title> 
