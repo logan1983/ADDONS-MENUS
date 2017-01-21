@@ -26,116 +26,392 @@
   
   
  
-          <item> 
-            <title>ES_LA_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA_1</link> 
+         <item> 
+            <title>----TDT----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=----TDT----</link> 
         </item> 
           <item> 
-            <title>ES_LA_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA_2</link> 
+            <title>La 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 HD</link> 
         </item> 
           <item> 
-            <title>ES_REAL_MADRID_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_REAL_MADRID_HD</link> 
+            <title>TV1 2 OPCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV1 2 OPCION</link> 
         </item> 
           <item> 
-            <title>ES_SYFY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_SYFY_HD</link> 
+            <title>La 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2</link> 
         </item> 
           <item> 
-            <title>ES_TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELECINCO</link> 
+            <title>TV3cat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/964.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3cat</link> 
         </item> 
           <item> 
-            <title>ES_TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TNT</link> 
+            <title>Esport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/965.ts&amp;streamtype=TSDOWNLOADER&amp;name=Esport 3</link> 
         </item> 
           <item> 
-            <title>ES_Movistar_Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Movistar_Hollywood</link> 
+            <title>Canal 33</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/966.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal 33</link> 
         </item> 
           <item> 
-            <title>ES_HISTORY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_HISTORY</link> 
+            <title>Cuatro HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro HD</link> 
         </item> 
           <item> 
-            <title>ES_FOX_LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_FOX_LIFE</link> 
+            <title>Telecinco HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco HD</link> 
         </item> 
           <item> 
-            <title>ES_Movistar_Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Movistar_Disney_Channel</link> 
+            <title>TELECINCO 2 OPCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO 2 OPCION</link> 
         </item> 
           <item> 
-            <title>ES_Barca_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Barca_tv</link> 
+            <title>FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_SERIES</link> 
+            <title>ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_LIGA</link> 
+            <title>ENERGY 2 OPCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY 2 OPCION</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_GOLF</link> 
+            <title>Antena 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_FUTBOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_FUTBOL</link> 
+            <title>ANTENA 3 2 OPCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 2 OPCION</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_ESTRENOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_ESTRENOS</link> 
+            <title>Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_DEPORTES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_DEPORTES</link> 
+            <title>Neox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_DCINE</link> 
+            <title>MEGA 2 OPCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA 2 OPCION</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_COMEDIA</link> 
+            <title>A3 SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=A3 SERIES</link> 
         </item> 
           <item> 
-            <title>ES_CANAL_ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL_ACCION</link> 
+            <title>La sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=La sexta</link> 
         </item> 
           <item> 
-            <title>ES_Canal_T_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Canal_T_HD</link> 
+            <title>LA SEXTA 2 OCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA 2 OCION</link> 
         </item> 
           <item> 
-            <title>ES_CANAL+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CANAL+</link> 
+            <title>M SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=M SERIES XTRA HD</link> 
         </item> 
           <item> 
-            <title>ES_AXN_WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_AXN_WHITE</link> 
+            <title>M Series HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Series HD</link> 
         </item> 
           <item> 
-            <title>ES_AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_AXN</link> 
+            <title>M Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Xtra HD</link> 
         </item> 
           <item> 
-            <title>ES_A-E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_A-E</link> 
+            <title>Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life</link> 
         </item> 
           <item> 
-            <title>ES_Moviestar_MotoGP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Moviestar_MotoGP</link> 
+            <title>AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White</link> 
         </item> 
           <item> 
-            <title>ES-TV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.104.34/live/majed/majed/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES-TV3</link> 
+            <title>--- CINE ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=--- CINE ---</link> 
         </item> 
-   
- 
- 
-
+          <item> 
+            <title>sundance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=sundance</link> 
+        </item> 
+          <item> 
+            <title>Paramount</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount</link> 
+        </item> 
+          <item> 
+            <title>PARAMOUNT CHANEL OPCION 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANEL OPCION 2</link> 
+        </item> 
+          <item> 
+            <title>TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT HD</link> 
+        </item> 
+          <item> 
+            <title>TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM HD</link> 
+        </item> 
+          <item> 
+            <title>M DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=M DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>M COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=M COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>M ACCI©N HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=M ACCI©N HD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>M Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Estrenos HD</link> 
+        </item> 
+          <item> 
+            <title>COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>Crime Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/948.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime Investigation</link> 
+        </item> 
+          <item> 
+            <title>Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD</link> 
+        </item> 
+          <item> 
+            <title>Dcine Espa?ol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dcine Espa?ol</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD</link> 
+        </item> 
+          <item> 
+            <title>#0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD</link> 
+        </item> 
+          <item> 
+            <title>--- DEPORTES ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=--- DEPORTES ---</link> 
+        </item> 
+          <item> 
+            <title>Real Madrid TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV HD</link> 
+        </item> 
+          <item> 
+            <title>PartidazoHD(Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PartidazoHD(Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>M Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Moto GP HD</link> 
+        </item> 
+          <item> 
+            <title>M Golf HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/938.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Golf HD</link> 
+        </item> 
+          <item> 
+            <title>M F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=M F1 HD</link> 
+        </item> 
+          <item> 
+            <title>M Futbol HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Futbol HD</link> 
+        </item> 
+          <item> 
+            <title>M Deportes HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Deportes HD</link> 
+        </item> 
+          <item> 
+            <title>M Deportes 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Deportes 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Gol tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/939.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol tv</link> 
+        </item> 
+          <item> 
+            <title>BEIN Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BEIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=BEIN Sports HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 1 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 1 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 2 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 2 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 3 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 3 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 4 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 4 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 5 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 5 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 6 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 6 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 7 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 7 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>BEIN MAX 8 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 8 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>Bar la liga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bar la liga HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>beIN LaLIga 3 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LaLIga 3 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>beIN LaLIga 2 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LaLIga 2 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>beIN LaLIga 1 (Solo partidos)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LaLIga 1 (Solo partidos)</link> 
+        </item> 
+          <item> 
+            <title>PartidazoHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=PartidazoHD</link> 
+        </item> 
+          <item> 
+            <title>Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV</link> 
+        </item> 
+          <item> 
+            <title>---INFANTILES---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=---INFANTILES---</link> 
+        </item> 
+          <item> 
+            <title>Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+        </item> 
+          <item> 
+            <title>Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon HD</link> 
+        </item> 
+          <item> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item> 
+          <item> 
+            <title>Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
+        </item> 
+          <item> 
+            <title>---DOCUMENTALES Y CULTURALES---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=---DOCUMENTALES Y CULTURALES---</link> 
+        </item> 
+          <item> 
+            <title>Nasa tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/961.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nasa tv</link> 
+        </item> 
+          <item> 
+            <title>Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia</link> 
+        </item> 
+          <item> 
+            <title>Caza y Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza y Pesca</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo HD</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD</link> 
+        </item> 
+          <item> 
+            <title>ECONÓMICO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=ECONÓMICO TV</link> 
+        </item> 
+          <item> 
+            <title>M Toros HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=M Toros HD</link> 
+        </item> 
+          <item> 
+            <title>---ADULTOS---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=---ADULTOS---</link> 
+        </item> 
+          <item> 
+            <title>Playboy tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/969.ts&amp;streamtype=TSDOWNLOADER&amp;name=Playboy tv</link> 
+        </item> 
+          <item> 
+            <title>Hustler HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/970.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hustler HD</link> 
+        </item> 
+          <item> 
+            <title>brazzers</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/971.ts&amp;streamtype=TSDOWNLOADER&amp;name=brazzers</link> 
+        </item> 
+          <item> 
+            <title>--- Autonomicos y Nacionales ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=--- Autonomicos y Nacionales ---</link> 
+        </item> 
+          <item> 
+            <title>TV ANDORRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV ANDORRA</link> 
+        </item> 
+          <item> 
+            <title>Videoclub</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/962.ts&amp;streamtype=TSDOWNLOADER&amp;name=Videoclub</link> 
+        </item> 
+          <item> 
+            <title>IBERALIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA TV</link> 
+        </item> 
+          <item> 
+            <title>---MUSICA---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=---MUSICA---</link> 
+        </item> 
+          <item> 
+            <title>La otra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://164.132.171.155:8000/live/1/123456/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=La otra</link> 
+        </item> 
   
