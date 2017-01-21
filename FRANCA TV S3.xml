@@ -33,307 +33,613 @@
  
    
    
-   
  
-    
           <item> 
-            <title>FR: Voyage</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Voyage</link> 
+            <title>FR:SFR_SPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR_SPORT_1_HD</link> 
         </item> 
           <item> 
-            <title>FR: TV5Monde</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5Monde</link> 
+            <title>FR:SFR_SPORT_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR_SPORT_2_HD</link> 
         </item> 
           <item> 
-            <title>FR: Toute l'Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Toute l'Histoire</link> 
+            <title>FR:SFR_SPORT_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR_SPORT_3_HD</link> 
         </item> 
           <item> 
-            <title>FR: TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
+            <title>FR:SFR_SPORT_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR_SPORT_5_HD</link> 
         </item> 
           <item> 
-            <title>FR: Teva HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Teva HD</link> 
+            <title>FR:BEINSPORT_1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT_1HD</link> 
         </item> 
           <item> 
-            <title>FR: Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD</link> 
+            <title>FR:BEINSPORT_2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT_2HD</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 3</link> 
+            <title>FR:BEINSPORT-3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1527.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-3HD</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 2</link> 
+            <title>FR:BEINSPORT-MAX-4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-4HD</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 1</link> 
+            <title>FR:BEINSPORT-MAX-5HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-5HD</link> 
         </item> 
           <item> 
-            <title>FR: Serie Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Serie Club</link> 
+            <title>FR:BEINSPORT-MAX-6HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-6HD</link> 
         </item> 
           <item> 
-            <title>FR: RTS Un</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Un</link> 
+            <title>FR:BEINSPORT-MAX-7HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-7HD</link> 
         </item> 
           <item> 
-            <title>FR: RTS Deux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Deux</link> 
+            <title>FR:BEINSPORT-MAX-8HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-8HD</link> 
         </item> 
           <item> 
-            <title>FR: RTL9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1962.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL9 HD</link> 
+            <title>FR:BEINSPORT-MAX-9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3794.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-9HD</link> 
         </item> 
           <item> 
-            <title>FR: Planete +CI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete +CI HD</link> 
+            <title>FR:BEINSPORT-MAX-10HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3795.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT-MAX-10HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS MAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS MAX HD</link> 
+            <title>FR:CANAL+_SPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+_SPORT_HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS City</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1965.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City</link> 
+            <title>FR:Foot+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Foot+</link> 
         </item> 
           <item> 
-            <title>FR: OCS CHOC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC HD</link> 
+            <title>FR:INFOSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:INFOSPORT</link> 
         </item> 
           <item> 
-            <title>FR: NRJ 22</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 22</link> 
+            <title>FR:L-EQUIPE-21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:L-EQUIPE-21</link> 
         </item> 
           <item> 
-            <title>FR: Nicklodeon Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nicklodeon Junior</link> 
+            <title>FR:Eurosport-1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Eurosport-1</link> 
         </item> 
           <item> 
-            <title>FR: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National Geographic</link> 
+            <title>FR:Eurosport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Eurosport1</link> 
         </item> 
           <item> 
-            <title>FR: MTV Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1970.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV Music</link> 
+            <title>FR:Eurosport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Eurosport2</link> 
         </item> 
           <item> 
-            <title>FR: MTV Base</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV Base</link> 
+            <title>FR:EQUIDIA_live_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EQUIDIA_live_HD</link> 
         </item> 
           <item> 
-            <title>FR: M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD</link> 
+            <title>FR:Equida_Life_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4366.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Equida_Life_HD</link> 
         </item> 
           <item> 
-            <title>FR: LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI</link> 
+            <title>FR:GOLF+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:GOLF+</link> 
         </item> 
           <item> 
-            <title>FR: L'equipe 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1974.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'equipe 21</link> 
+            <title>_¤_¤_¤_¤_¤_PPV_CSAT_FR__¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=_¤_¤_¤_¤_¤_PPV_CSAT_FR__¤_¤_¤_¤_¤</link> 
         </item> 
           <item> 
-            <title>FR: InfoSport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1976.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: InfoSport</link> 
+            <title>FR:BOX-OFFICE-1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2562.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-1HD</link> 
         </item> 
           <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1977.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
+            <title>FR:BOX-OFFICE-2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-2HD</link> 
         </item> 
           <item> 
-            <title>FR: Gulli HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1978.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Gulli HD</link> 
+            <title>FR:BOX-OFFICE-3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2560.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-3HD</link> 
         </item> 
           <item> 
-            <title>FR: France O HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O HD</link> 
+            <title>FR:BOX-OFFICE-4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2559.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-4HD</link> 
         </item> 
           <item> 
-            <title>FR: France 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 HD</link> 
+            <title>FR:BOX-OFFICE-5HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2558.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-5HD</link> 
         </item> 
           <item> 
-            <title>FR: France 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD</link> 
+            <title>FR:BOX-OFFICE-6HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-6HD</link> 
         </item> 
           <item> 
-            <title>FR: France 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3 HD</link> 
+            <title>FR:BOX-OFFICE-7HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-7HD</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 24</link> 
+            <title>FR:BOX-OFFICE-8HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2940.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-8HD</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2 HD</link> 
+            <title>FR:BOX-OFFICE-9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2941.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-9HD</link> 
         </item> 
           <item> 
-            <title>FR: Foot + 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1984.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Foot + 24</link> 
+            <title>FR:BOX-OFFICE-10HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2942.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOX-OFFICE-10HD</link> 
         </item> 
           <item> 
-            <title>FR: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1985.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport</link> 
+            <title>FR:A_LA_CARTE_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_1</link> 
         </item> 
           <item> 
-            <title>FR: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney XD</link> 
+            <title>FR:A_LA_CARTE_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2506.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_2</link> 
         </item> 
           <item> 
-            <title>FR: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1987.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
+            <title>FR:A_LA_CARTE_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2507.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_3</link> 
         </item> 
           <item> 
-            <title>FR: Disney CineMagic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1988.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney CineMagic</link> 
+            <title>FR:A_LA_CARTE_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_4</link> 
         </item> 
           <item> 
-            <title>FR: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Channel</link> 
+            <title>FR:A_LA_CARTE_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_5</link> 
         </item> 
           <item> 
-            <title>FR: Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science</link> 
+            <title>FR:A_LA_CARTE_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_6</link> 
         </item> 
           <item> 
-            <title>FR: D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8</link> 
+            <title>FR:A_LA_CARTE_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_7</link> 
         </item> 
           <item> 
-            <title>FR: CStar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CStar</link> 
+            <title>FR:A_LA_CARTE_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_8</link> 
         </item> 
           <item> 
-            <title>FR: Comedie Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Comedie Plus</link> 
+            <title>FR:A_LA_CARTE_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_9</link> 
         </item> 
           <item> 
-            <title>FR: Ciné Premier HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné Premier HD</link> 
+            <title>FR:A_LA_CARTE_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_10</link> 
         </item> 
           <item> 
-            <title>FR: Ciné FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné FX</link> 
+            <title>FR:A_LA_CARTE_11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A_LA_CARTE_11</link> 
         </item> 
           <item> 
-            <title>FR: Ciné Frisson HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné Frisson HD</link> 
+            <title>_¤_¤_¤_¤_¤_CSAT_CINEMA_FR__¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2575.ts&amp;streamtype=TSDOWNLOADER&amp;name=_¤_¤_¤_¤_¤_CSAT_CINEMA_FR__¤_¤_¤_¤_¤</link> 
         </item> 
           <item> 
-            <title>FR: Ciné Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné Emotion HD</link> 
+            <title>FR:CANAL+HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+HD</link> 
         </item> 
           <item> 
-            <title>FR: Ciné Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné Classic</link> 
+            <title>FR:CANAL+CINEMA-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+CINEMA-HD</link> 
         </item> 
           <item> 
-            <title>FR: Ciné + Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné + Premier</link> 
+            <title>FR:CANAL_FAMILY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL_FAMILY_HD</link> 
         </item> 
           <item> 
-            <title>FR: Chérie 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chérie 25</link> 
+            <title>FR:CANAL+_SERIES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+_SERIES_HD</link> 
         </item> 
           <item> 
-            <title>FR: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network</link> 
+            <title>FR:Canal_Decale_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal_Decale_HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal + Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2002.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal + Sport HD</link> 
+            <title>FR:Canal-DECALE-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal-DECALE-HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal + Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal + Family HD</link> 
+            <title>FR:Cine_Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine_Classic</link> 
         </item> 
           <item> 
-            <title>FR: Canal + Decale HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal + Decale HD</link> 
+            <title>FR:Cine_Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine_Emotion</link> 
         </item> 
           <item> 
-            <title>FR: Canal + Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal + Cinema HD</link> 
+            <title>FR:Cine_Famiz</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine_Famiz</link> 
         </item> 
           <item> 
-            <title>FR: Canal +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal +</link> 
+            <title>FR:Cine_Frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine_Frisson</link> 
         </item> 
           <item> 
-            <title>FR: Boomerang HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boomerang HD</link> 
+            <title>FR:Cine_Premier</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine_Premier</link> 
         </item> 
           <item> 
-            <title>FR: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2008.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boing</link> 
+            <title>FR:CINE_POLAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE_POLAR</link> 
         </item> 
           <item> 
-            <title>FR: BFM Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM Tv</link> 
+            <title>FR:Cine-FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine-FX</link> 
         </item> 
           <item> 
-            <title>FR: beIN Sport 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2010.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN Sport 3</link> 
+            <title>FR:OCS_CityHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_CityHD</link> 
         </item> 
           <item> 
-            <title>FR: beIN Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN Sport 1</link> 
+            <title>FR:OCS_GeantsHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:OCS_Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_GeantsHD</link> 
         </item> 
           <item> 
-            <title>FR: Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Animaux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux</link> 
+            <title>FR:OCS_MaxHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_MaxHD</link> 
         </item> 
           <item> 
-            <title>FR: Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action</link> 
+            <title>FR:SERIE_CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SERIE_CLUB</link> 
         </item> 
           <item> 
-            <title>FR: AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 HD</link> 
+            <title>FR:Comedie+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Comedie+</link> 
         </item> 
           <item> 
-            <title>FR: A la Carte 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 6</link> 
+            <title>_¤_¤_¤_¤_¤_CSAT_ENTERTAINMENT_FR__¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2576.ts&amp;streamtype=TSDOWNLOADER&amp;name=_¤_¤_¤_¤_¤_CSAT_ENTERTAINMENT_FR__¤_¤_¤_¤_¤</link> 
         </item> 
           <item> 
-            <title>FR: A la Carte 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 5</link> 
+            <title>FR:TF1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1-HD</link> 
         </item> 
           <item> 
-            <title>FR: A la Carte 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 4</link> 
+            <title>FR:M6-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6-HD</link> 
         </item> 
           <item> 
-            <title>FR: A la Carte 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2019.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 3</link> 
+            <title>FR:France-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France-2-HD</link> 
         </item> 
           <item> 
-            <title>FR: A la Carte 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 2</link> 
+            <title>FR:France3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2290.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France3</link> 
         </item> 
           <item> 
-            <title>FR: A la Carte 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2021.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 1</link> 
+            <title>FR:France-4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France-4</link> 
         </item> 
           <item> 
-            <title>FR: 6ter HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2022.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6ter HD</link> 
+            <title>FR:France5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France5</link> 
         </item> 
           <item> 
-            <title>FR: 13 Eme Rue HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/2023.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 Eme Rue HD</link> 
+            <title>FR:FRANCE_O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE_O</link> 
         </item> 
           <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
+            <title>FR:RTL9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Arte</link> 
+        </item> 
+          <item> 
+            <title>FR:Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Action</link> 
+        </item> 
+          <item> 
+            <title>FR:AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:AB1</link> 
+        </item> 
+          <item> 
+            <title>FR:13Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13Rue</link> 
+        </item> 
+          <item> 
+            <title>FR:D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:D17</link> 
+        </item> 
+          <item> 
+            <title>FR:C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C8</link> 
+        </item> 
+          <item> 
+            <title>FR:Itele</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Itele</link> 
+        </item> 
+          <item> 
+            <title>FR:NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2288.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
+        </item> 
+          <item> 
+            <title>FR:NRJ-TV12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ-TV12</link> 
+        </item> 
+          <item> 
+            <title>FR:W9-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9-HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Ushuaia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Ushuaia</link> 
+        </item> 
+          <item> 
+            <title>FR:Teva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Teva</link> 
+        </item> 
+          <item> 
+            <title>FR:Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Syfy</link> 
+        </item> 
+          <item> 
+            <title>FR:TMC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3770.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:RTS_LA_DEUX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTS_LA_DEUX_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:LA_UNE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2271.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LA_UNE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Cherie25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4363.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cherie25</link> 
+        </item> 
+          <item> 
+            <title>FR:RMC_Découverte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4364.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RMC_Découverte</link> 
+        </item> 
+          <item> 
+            <title>FR: E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3781.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>_¤_¤_¤_¤_¤_CSAT_DECOUVERTES_FR__¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=_¤_¤_¤_¤_¤_CSAT_DECOUVERTES_FR__¤_¤_¤_¤_¤</link> 
+        </item> 
+          <item> 
+            <title>FR:Chasse_et_Pêche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Chasse_et_Pêche</link> 
+        </item> 
+          <item> 
+            <title>FR:Animaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Animaux</link> 
+        </item> 
+          <item> 
+            <title>FR:Toute-l'Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Toute-l'Histoire</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE_CI_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE_CI_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:PlaneteCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PlaneteCI</link> 
+        </item> 
+          <item> 
+            <title>FR:PlaneteA.EHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PlaneteA.EHD</link> 
+        </item> 
+          <item> 
+            <title>FR:Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planet</link> 
+        </item> 
+          <item> 
+            <title>FR:NATIONAL-GEO-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NATIONAL-GEO-HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Discovery-Science-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Discovery-Science-HD</link> 
+        </item> 
+          <item> 
+            <title>FR:VOYAGE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3773.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:VOYAGE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:SEASON_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SEASON_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:SCIENCE_ET_VIE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SCIENCE_ET_VIE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:PLANETE _HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3775.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PLANETE _HD</link> 
+        </item> 
+          <item> 
+            <title>FR:NAT_GEO_WILD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NAT_GEO_WILD_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY_HD</link> 
+        </item> 
+          <item> 
+            <title>_¤_¤_¤_¤_¤_CSAT_INFOS_FR__¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2577.ts&amp;streamtype=TSDOWNLOADER&amp;name=_¤_¤_¤_¤_¤_CSAT_INFOS_FR__¤_¤_¤_¤_¤</link> 
+        </item> 
+          <item> 
+            <title>FR:France24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France24</link> 
+        </item> 
+          <item> 
+            <title>FR:TV5_MONDE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5_MONDE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:BFMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFMTV</link> 
+        </item> 
+          <item> 
+            <title>FR:EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>FR:LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4365.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI</link> 
+        </item> 
+          <item> 
+            <title>_¤_¤_¤_¤_¤_CSAT_JEUNESSE_FR__¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2578.ts&amp;streamtype=TSDOWNLOADER&amp;name=_¤_¤_¤_¤_¤_CSAT_JEUNESSE_FR__¤_¤_¤_¤_¤</link> 
+        </item> 
+          <item> 
+            <title>FR:TIJI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3008.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TIJI</link> 
+        </item> 
+          <item> 
+            <title>FR:TeleToon_Plus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3006.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TeleToon_Plus</link> 
+        </item> 
+          <item> 
+            <title>FR:TELETOON+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TELETOON+</link> 
+        </item> 
+          <item> 
+            <title>FR:PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3011.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:PIWI</link> 
+        </item> 
+          <item> 
+            <title>FR:Mangas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Mangas</link> 
+        </item> 
+          <item> 
+            <title>FR:J-ONE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:J-ONE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Gulli</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Gulli</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3014.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_XD</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3010.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_CINE_MAGIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3009.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CINE_MAGIC</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3012.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY_CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>FR:DisneyJunior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DisneyJunior</link> 
+        </item> 
+          <item> 
+            <title>FR:Disney-Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney-Cinemagic</link> 
+        </item> 
+          <item> 
+            <title>FR:CARTOON_NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3015.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CARTOON_NETWORK</link> 
+        </item> 
+          <item> 
+            <title>FR:CartoonNetworkHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CartoonNetworkHD</link> 
+        </item> 
+          <item> 
+            <title>FR:Canal-J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal-J</link> 
+        </item> 
+          <item> 
+            <title>FR:BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3016.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOOMERANG</link> 
+        </item> 
+          <item> 
+            <title>FR:NICKELODEON_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3779.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NICKELODEON_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:NICKELODEON_JUNIOR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3778.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NICKELODEON_JUNIOR_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:BOING_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3780.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BOING_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Boing</link> 
+        </item> 
+          <item> 
+            <title>FR:Nicklodeon_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3788.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Nicklodeon_Junior</link> 
+        </item> 
+          <item> 
+            <title>FR:ZOUZOUS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/4362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ZOUZOUS</link> 
+        </item> 
+          <item> 
+            <title>¤_¤_¤_¤_¤_ ORANGE_ FR_¤_¤_¤_¤_¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=¤_¤_¤_¤_¤_ ORANGE_ FR_¤_¤_¤_¤_¤</link> 
+        </item> 
+          <item> 
+            <title>FR:Orange_Cine_Action_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Orange_Cine_Action_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Orange_Cine_Aventure_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Orange_Cine_Aventure_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Orange_Documentaire_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Orange_Documentaire_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Orange_Cine_horreur_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Orange_Cine_horreur_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Orange_enquete_exclusive_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Orange_enquete_exclusive_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:M6_Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6_Music</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3783.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_BASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_BASE</link> 
+        </item> 
+          <item> 
+            <title>FR:MTV_HITS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3784.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV_HITS_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Nrj12_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3786.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Nrj12_HD</link> 
+        </item> 
+          <item> 
+            <title>FR:NRJ_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.tunisiaiptv.com:8000/live/milena/milena/3787.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ_TV</link> 
         </item> 
   
