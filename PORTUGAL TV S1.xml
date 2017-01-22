@@ -34,67 +34,67 @@
  
  
  <item>
-<title>[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp1</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
+<title[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevilhttp://www.rtp.pt/play/direto/rtp1</sportsdevil>
+<refererhttp://ucaster.eu/</referer>
+<thumbnailhttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <item>
  
  
  
 <item>
 <title>[COLOR white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 1 LOGAN</link>
+<link>http://198.255.76.34:8080/rtp1/index.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <fanart></fanart>
 </item>
  
  
  <item>
-<title>[COLOR white][B][I]  RTP 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
+<title[COLOR white][B][I]  RTP 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
+<sportsdevilhttp://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<refererhttp://ucaster.eu/</referer>
+<thumbnailhttp://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
 <item>
 
 
 <item>
 <title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3621.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 2 LOGAN</link>
+<link>http://198.255.76.34:8080/rtp2/index.m3u8</link>
 <thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
 <fanart></fanart>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I]  RTP 3[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
+<title[COLOR white][B][I]  RTP 3[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevilhttp://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<refererhttp://ucaster.eu/</referer>
+<thumbnailhttp://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
 <item>
 
 
 <item>
 <title>[COLOR white][B][I] RTP 3 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3620.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - RTP 3 LOGAN</link>
+<link>http://198.255.76.34:8080/rtpinformacao/index.m3u8</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
 <item>
-<title>[COLOR white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg</thumbnail>
+<title[COLOR white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevilhttp://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
+<refererhttp://ucaster.eu/</referer>
+<thumbnailhttp://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg</thumbnail>
 <item>
 
  
  
 <item>
-<title>[COLOR white][B][I]  RTP MADEIRA[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
+<title[COLOR white][B][I]  RTP MADEIRA[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<sportsdevilhttp://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
+<refererhttp://ucaster.eu/</referer>
+<thumbnailhttp://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
 <item> 
  
 
@@ -102,22 +102,16 @@
 
 <item>
 <title>[COLOR white][B][I]  SIC  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC LOGAN</link>
+<link>http://198.255.76.34:8080/sic/index.m3u8</link>
+<link>http://163.172.60.151:8000/live/ines/ines/1409.m3u8</link>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
-<item>
-<title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/bc/Tvi_logo.png</thumbnail>
-<fanart></fanart>
-</item>
 
 <item>
 <title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVI LOGAN</link>
+<link>http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-3/livestream.m3u8</link>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/TONY.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/b/bc/Tvi_logo.png</thumbnail>
 <fanart></fanart>
@@ -148,7 +142,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC Noticias LOGAN</link>
+<link>http://198.255.76.34:8080/sicnoticias/index.m3u8</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
 <fanart></fanart>
 </item> 
@@ -156,7 +150,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC Noticias LOGAN</link>
+<link>http://163.172.60.151:8000/live/ines/ines/1417.m3u8</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -195,13 +189,13 @@
 
 <item>
 <title> [COLOR white][B][I] CMTV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CMTV LOGAN</link>
+<link>http://163.172.60.151:8000/live/ines/ines/1419.m3u8</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
 <fanart></fanart>
 </item>
   <item>
 <title>[COLOR white][B][I] CMTV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://46.105.115.37:8000/live/iptv1790/179065287/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CMTV LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CMTV LOGAN</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -210,7 +204,7 @@
 
 <item>
 <title>[COLOR white][B][I] ABOLA  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3600.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - ABOLA LOGAN</link>
+<link>http://163.172.60.151:8000/live/ines/ines/1449.m3u8</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/abolaTV_geral.jpg</thumbnail>
 <fanart></fanart>
 <item>
@@ -234,21 +228,24 @@
 </item>
 
 
-<item>
-<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<link>http://198.255.76.34:8080/sicmulher/index.m3u8</link>
-<sportsdevilhttp://www.estadiofutebol.com/canalmobile.php?c=sicmulher</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
-</item>
-
 
 <item>
 <title>[COLOR white][B][I] SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-
+<link>http://163.172.60.151:8000/live/ines/ines/1423.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
 <fanart></fanart>
 </item>
+
+
+
+<item>
+<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
+<link>http://198.255.76.34:8080/sicmulher/index.m3u8</link>
+<sportsdevil>http://www.estadiofutebol.com/canalmobile.php?c=sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
+</item>
+
 
  
 <item>
