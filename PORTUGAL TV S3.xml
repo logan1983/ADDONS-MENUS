@@ -38,172 +38,129 @@
       
     
   
+    
           <item> 
-            <title>PT: TVI24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI24</link> 
+            <title>PT-RTP_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_1</link> 
         </item> 
           <item> 
-            <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <title>PT-RTP_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
         </item> 
           <item> 
-            <title>PT: TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI HD</link> 
+            <title>PT-RTP_Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
         </item> 
           <item> 
-            <title>PT: TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
+            <title>PT-TV_Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
         </item> 
           <item> 
-            <title>PT: TV Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Series</link> 
+            <title>PT-TVI_Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
         </item> 
           <item> 
-            <title>PT: TV Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Record</link> 
+            <title>PT-Sic_Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
         </item> 
           <item> 
-            <title>PT: TV Lisboa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Lisboa</link> 
+            <title>PT-Sic_Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 4 HD</link> 
+            <title>PT-SIC_Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SIC_Caras</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 3 HD</link> 
+            <title>PT-Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 2 HD</link> 
+            <title>PT-Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 1 HD</link> 
+            <title>PT-Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
         </item> 
           <item> 
-            <title>PT: Travel Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel Channel HD</link> 
+            <title>PT-Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
         </item> 
           <item> 
-            <title>PT: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+            <title>PT-Jim_Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
         </item> 
           <item> 
-            <title>PT: SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
+            <title>PT-Discovery_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
         </item> 
           <item> 
-            <title>PT: Sporting TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV</link> 
+            <title>PT-Canal_Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 5 HD</link> 
+            <title>PT-AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3687.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 4 HD</link> 
+            <title>PT-Abola_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 3 HD</link> 
+            <title>Sport TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 2 HD</link> 
+            <title>Sport TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 2</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV 1 HD</link> 
+            <title>PT-SPORT_TV_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV_3</link> 
         </item> 
           <item> 
-            <title>PT: Sic Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
+            <title>PT-SPORT_TV_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV_4</link> 
         </item> 
           <item> 
-            <title>PT: SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+            <title>PT-SPORT_TV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV5</link> 
         </item> 
           <item> 
-            <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <title>PT-TVCine1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
         </item> 
           <item> 
-            <title>PT: SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
+            <title>PT-TVCine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
         </item> 
           <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <title>PT-TVCine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
         </item> 
           <item> 
-            <title>PT: RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
+            <title>PT-Fox_Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
         </item> 
           <item> 
-            <title>PT: RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+            <title>PT-TV_Cseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cseries</link> 
         </item> 
           <item> 
-            <title>PT: RTP International</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP International</link> 
+            <title>PT-Toros_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
         </item> 
           <item> 
-            <title>PT: RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
+            <title>PT-Fox_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
         </item> 
           <item> 
-            <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+            <title>PT-Fox_Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
         </item> 
           <item> 
-            <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Food Network</link> 
-        </item> 
-          <item> 
-            <title>PT: CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
-        </item> 
-          <item> 
-            <title>PT: Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3669.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cinemundo</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>PT: Cacavision HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cacavision HD</link> 
-        </item> 
-          <item> 
-            <title>PT: CACA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACA E PESCA</link> 
-        </item> 
-          <item> 
-            <title>PT: BH News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BH News</link> 
-        </item> 
-          <item> 
-            <title>PT: BENFICA TV2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BENFICA TV2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: BENEFICA TV1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtreamcodes.electrotv-sat.pro:8000/live/abdul-mohsenalfaraj/jhgjghljlokli/3663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BENEFICA TV1 HD</link> 
+            <title>PT-Fox_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
         </item> 
   
