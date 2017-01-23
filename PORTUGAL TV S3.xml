@@ -39,128 +39,385 @@
     
   
     
-         <item> 
-            <title>PT-Rtp_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/11223344/11223344/3622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_1_-_Portugal</link> 
+     
+          <item> 
+            <title>PT | RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 1</link> 
         </item> 
           <item> 
-            <title>PT-RTP_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
+            <title>PT | RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 2</link> 
         </item> 
           <item> 
-            <title>PT-RTP_Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
+            <title>PT | RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7590.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 3</link> 
         </item> 
           <item> 
-            <title>PT-TV_Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
+            <title>PT | RTP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/8909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 1 HD</link> 
         </item> 
           <item> 
-            <title>PT-TVI_Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
+            <title>PT | Eurosport 2 Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/8911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Eurosport 2 Xtra HD</link> 
         </item> 
           <item> 
-            <title>PT-Sic_Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
+            <title>PT | Cancao Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/8915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Cancao Nova</link> 
         </item> 
           <item> 
-            <title>PT-Sic_Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
+            <title>PT | Sic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sic</link> 
         </item> 
           <item> 
-            <title>PT-SIC_Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SIC_Caras</link> 
+            <title>PT | SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7596.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC K</link> 
         </item> 
           <item> 
-            <title>PT-Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
+            <title>PT | TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI</link> 
         </item> 
           <item> 
-            <title>PT-Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
+            <title>PT | TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7591.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI 24</link> 
         </item> 
           <item> 
-            <title>PT-Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
+            <title>PT | TVI Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/6282.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI Reality</link> 
         </item> 
           <item> 
-            <title>PT-Motors_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
+            <title>PT | TVI FICAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI FICAO</link> 
         </item> 
           <item> 
-            <title>PT-Jim_Jim</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
+            <title>PT | SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT-Discovery_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
+            <title>PT | Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sic Radical</link> 
         </item> 
           <item> 
-            <title>PT-Canal_Porto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
+            <title>PT | Sic Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sic Caras</link> 
         </item> 
           <item> 
-            <title>PT-AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
+            <title>PT | PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | PORTO CANAL</link> 
         </item> 
           <item> 
-            <title>PT-Abola_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
+            <title>PT | RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7593.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>Sport TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 1</link> 
+            <title>PT | RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7594.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP ACORES</link> 
         </item> 
           <item> 
-            <title>Sport TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/1237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport TV 2</link> 
+            <title>PT:BR | TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BR | TV RECORD</link> 
         </item> 
           <item> 
-            <title>PT-SPORT_TV_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV_3</link> 
+            <title>PT:BR | TV GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4250.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BR | TV GLOBO</link> 
         </item> 
           <item> 
-            <title>PT-SPORT_TV_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV_4</link> 
+            <title>PT:BR | PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/3167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BR | PFC</link> 
         </item> 
           <item> 
-            <title>PT-SPORT_TV5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SPORT_TV5</link> 
+            <title>PT:BR | REDE RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7608.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BR | REDE RECORD</link> 
         </item> 
           <item> 
-            <title>PT-TVCine1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
+            <title>PT | TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCine 1</link> 
         </item> 
           <item> 
-            <title>PT-TVCine2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
+            <title>PT | TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCine 2</link> 
         </item> 
           <item> 
-            <title>PT-TVCine3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
+            <title>PT | TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCine 3</link> 
         </item> 
           <item> 
-            <title>PT-Fox_Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
+            <title>PT | TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCine 4</link> 
         </item> 
           <item> 
-            <title>PT-TV_Cseries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cseries</link> 
+            <title>PT | TV Cine 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TV Cine 5</link> 
         </item> 
           <item> 
-            <title>PT-Toros_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
+            <title>PT | TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7600.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TOROS</link> 
         </item> 
           <item> 
-            <title>PT-Fox_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
+            <title>PT | Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Hollywood</link> 
         </item> 
           <item> 
-            <title>PT-Fox_Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
+            <title>PT | Trace Urban TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10759.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Trace Urban TV</link> 
         </item> 
           <item> 
-            <title>PT-Fox_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/manbo/manbo/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
+            <title>PT | VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10757.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | VH1</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV Plus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/12547.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV Plus</link> 
+        </item> 
+          <item> 
+            <title>PT | Sport TV 5 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10752.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sport TV 5 SD*</link> 
+        </item> 
+          <item> 
+            <title>PT | Sport TV 4 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sport TV 4 SD*</link> 
+        </item> 
+          <item> 
+            <title>PT | Sport TV 3 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sport TV 3 SD*</link> 
+        </item> 
+          <item> 
+            <title>PT | Sport TV 2 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sport TV 2 SD*</link> 
+        </item> 
+          <item> 
+            <title>PT | Sport TV 1 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sport TV 1 SD*</link> 
+        </item> 
+          <item> 
+            <title>PT | RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/12132.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP Memoria</link> 
+        </item> 
+          <item> 
+            <title>PT | RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10746.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP Africa</link> 
+        </item> 
+          <item> 
+            <title>PT | MTV Portugal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MTV Portugal</link> 
+        </item> 
+          <item> 
+            <title>PT | MCM Top</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10762.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MCM Top</link> 
+        </item> 
+          <item> 
+            <title>PT | MCM Pop</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10761.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MCM Pop</link> 
+        </item> 
+          <item> 
+            <title>PT | Kombat Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT | Kombat Sports&amp;streamtype=TSDOWNLOADER&amp;name=PT | Kombat Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10754.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>PT | Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10755.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Food Network</link> 
+        </item> 
+          <item> 
+            <title>PT | Canal Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10745.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Canal Q</link> 
+        </item> 
+          <item> 
+            <title>PT | Benfica TV SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/10753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Benfica TV SD*</link> 
+        </item> 
+          <item> 
+            <title>PT | AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AMC</link> 
+        </item> 
+          <item> 
+            <title>PT | Fox Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2715.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Fox Movies</link> 
+        </item> 
+          <item> 
+            <title>PT | Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4252.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Cinemundo</link> 
+        </item> 
+          <item> 
+            <title>PT | AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT | AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2712.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>PT | AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>PT | FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX HD</link> 
+        </item> 
+          <item> 
+            <title>PT | Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>PT |  FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7599.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT |  FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>PT | Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT | E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>PT | CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4255.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>PT | Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Syfy</link> 
+        </item> 
+          <item> 
+            <title>PT | MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4254.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5547.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORTING TV</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5543.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 1 SD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 4 HD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5545.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 5 SD</link> 
+        </item> 
+          <item> 
+            <title>PT | SPORT TV 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SPORT TV 5 HD</link> 
+        </item> 
+          <item> 
+            <title>PT | Benfica TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Benfica TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT | Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Hollywood HD</link> 
+        </item> 
+          <item> 
+            <title>PT | Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>PT | Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>PT | MOTORVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7598.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | MOTORVISION</link> 
+        </item> 
+          <item> 
+            <title>PT | Fuel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Fuel</link> 
+        </item> 
+          <item> 
+            <title>PT | CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT | Nat Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/6166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Nat Geo HD</link> 
+        </item> 
+          <item> 
+            <title>PT | Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>PT | DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>PT | TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/7602.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TLC</link> 
+        </item> 
+          <item> 
+            <title>PT | Odissea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4249.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Odissea</link> 
+        </item> 
+          <item> 
+            <title>PT | Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4257.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Historia</link> 
+        </item> 
+          <item> 
+            <title>PT | A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>PT | 24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | 24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>PT | CAZA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/6725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CAZA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>PT | Sic Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Sic Noticias</link> 
+        </item> 
+          <item> 
+            <title>PT | Nick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/4253.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Nick</link> 
+        </item> 
+          <item> 
+            <title>PT | Disney JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5770.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Disney JR</link> 
+        </item> 
+          <item> 
+            <title>PT | Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Disney</link> 
+        </item> 
+          <item> 
+            <title>PT | CN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5877.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CN</link> 
+        </item> 
+          <item> 
+            <title>PT | Jim Jam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/6724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Jim Jam</link> 
+        </item> 
+          <item> 
+            <title>PT | CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/2713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>PT | Bigss</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/3159.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | Bigss</link> 
+        </item> 
+          <item> 
+            <title>PT | CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5769.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | CMTV</link> 
+        </item> 
+          <item> 
+            <title>PT | A BOLA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.248.96:11000/live/B8BKjVYl5R/wmReHg4HpS/5546.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | A BOLA</link> 
         </item> 
   
