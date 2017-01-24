@@ -27,97 +27,232 @@
 
    
  
- 
- 
- 
           <item> 
-            <title>RTP1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4405.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP1</link> 
+            <title>PT: Toros tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv</link> 
         </item> 
           <item> 
-            <title>RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4406.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+            <title>PT: TVI Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
         </item> 
           <item> 
-            <title>TV_GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4364.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_GLOBO</link> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT_CANAL_PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL_PANDA</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>ODESSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODESSEIA</link> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
         </item> 
           <item> 
-            <title>SPORT_TV_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4371.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV_1</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>SPORT_TV_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4370.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV_2</link> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
         </item> 
           <item> 
-            <title>SPORT_TV_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4369.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV_3</link> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
         </item> 
           <item> 
-            <title>SPORT TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4368.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4</link> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
         </item> 
           <item> 
-            <title>SPORT_TV_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4367.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_TV_5</link> 
+            <title>PT: SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
         </item> 
           <item> 
-            <title>TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4363.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 HD</link> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
         </item> 
           <item> 
-            <title>TV CINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4362.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 HD</link> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
         </item> 
           <item> 
-            <title>PT_TVCINE_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4361.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_3_HD</link> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
         </item> 
           <item> 
-            <title>PT_TVCINE_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4360.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE_4_HD</link> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
         </item> 
           <item> 
-            <title>DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4378.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PT_AXN_WHITE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD</link> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
         </item> 
           <item> 
-            <title>PT_AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4399.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD</link> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
         </item> 
           <item> 
-            <title>PT_AXN_BLACK_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD</link> 
+            <title>PT: Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record</link> 
         </item> 
           <item> 
-            <title>PT_FOX_LIFE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_LIFE_HD</link> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
         </item> 
           <item> 
-            <title>CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4388.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
+            <title>PT: Jim Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim</link> 
         </item> 
           <item> 
-            <title>SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdliveiptv.mazian.info:7879/live/Karim/karim/4365.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
         </item> 
-  
-  
+          <item> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CartoonNet Work</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSpor News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
+        </item> 
+          <item> 
+            <title>PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Abola tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv</link> 
+        </item> 
+          <item> 
+            <title>PT: Spor tv 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Spor tv 1</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 3</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 4</link> 
+        </item> 
+          <item> 
+            <title>PT: SporTV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SporTV 5</link> 
+        </item> 
+          <item> 
+            <title>PT: Sporting TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Benfica TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 2</link> 
+        </item> 
+          <item> 
+            <title>PT: Benfica TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/test11/test11/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+        </item> 
   
