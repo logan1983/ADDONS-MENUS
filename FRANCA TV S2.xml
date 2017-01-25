@@ -23,630 +23,748 @@
   
   
   
-         <item> 
-            <title>FR: TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
+       
+          <item> 
+            <title>TF1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1_HD</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_2_HD</link> 
+        </item> 
+          <item> 
+            <title>FRANCE_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_3_HD</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5</link> 
+        </item> 
+          <item> 
+            <title>FRANCE O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE O</link> 
+        </item> 
+          <item> 
+            <title>M6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_HD</link> 
+        </item> 
+          <item> 
+            <title>W9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9HD</link> 
+        </item> 
+          <item> 
+            <title>Cherie_25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie_25</link> 
+        </item> 
+          <item> 
+            <title>FR_C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3474.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C8</link> 
+        </item> 
+          <item> 
+            <title>RTL_9HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_9HD</link> 
+        </item> 
+          <item> 
+            <title>6TER_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER_HD</link> 
+        </item> 
+          <item> 
+            <title>NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2698.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
+        </item> 
+          <item> 
+            <title>Numero_23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numero_23</link> 
+        </item> 
+          <item> 
+            <title>C star</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=C star</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*CSAT_INFO*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4026.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_INFO*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>TV5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5</link> 
+        </item> 
+          <item> 
+            <title>I_Tele</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=I_Tele</link> 
+        </item> 
+          <item> 
+            <title>LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
+        </item> 
+          <item> 
+            <title>EURONEWS FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS FR</link> 
+        </item> 
+          <item> 
+            <title>France24 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=France24 FR</link> 
+        </item> 
+          <item> 
+            <title>BFM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_TV</link> 
+        </item> 
+          <item> 
+            <title>Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*CSAT_CINEMA*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4023.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_CINEMA*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>CANAL+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ DECALE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE</link> 
+        </item> 
+          <item> 
+            <title>CANAL+_FAMILY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_FAMILY_HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA</link> 
+        </item> 
+          <item> 
+            <title>CANAL+SERIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+SERIE</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT</link> 
         </item> 
           <item> 
-            <title>FR: France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
+            <title>CINE PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE PREMIER</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 3</link> 
+            <title>CINE EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE EMOTION</link> 
         </item> 
           <item> 
-            <title>FR: ARTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE</link> 
+            <title>CINE+ FRISSON FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FRISSON FR</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 5</link> 
+            <title>CINE+ FAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ FAMIZ</link> 
         </item> 
           <item> 
-            <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <title>CINE+ CLASSIC FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ CLASSIC FR</link> 
         </item> 
           <item> 
-            <title>FR: C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: C8</link> 
+            <title>Ocs_Geants</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Ocs_Geants&amp;streamtype=TSDOWNLOADER&amp;name=Ocs_Geants</link> 
         </item> 
           <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
+            <title>OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX</link> 
         </item> 
           <item> 
-            <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
+            <title>OCS_CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY</link> 
         </item> 
           <item> 
-            <title>FR: NRJ 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12</link> 
+            <title>OCS_Choc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_Choc</link> 
         </item> 
           <item> 
-            <title>FR: CSTAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CSTAR</link> 
+            <title>TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA</link> 
         </item> 
           <item> 
-            <title>FR: BFMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFMTV</link> 
+            <title>Comedie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie</link> 
         </item> 
           <item> 
-            <title>FR: 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
+            <title>*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4025.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: PARIS PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE</link> 
+            <title>FR: Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action</link> 
         </item> 
           <item> 
-            <title>FR: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! Entertainment</link> 
+            <title>FR_AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1</link> 
         </item> 
           <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
+            <title>13_Eme_Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=13_Eme_Rue</link> 
         </item> 
           <item> 
-            <title>FR: LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2125.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI</link> 
+            <title>FR.Cine_Polar_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine_Polar_HD</link> 
         </item> 
           <item> 
-            <title>FR: NUMERO 23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23</link> 
+            <title>Paris_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris_Premiere</link> 
         </item> 
           <item> 
-            <title>FR: RMC DECOVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC DECOVERTE</link> 
+            <title>Serie_Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie_Club</link> 
         </item> 
           <item> 
-            <title>FR: ELLE GIRL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ELLE GIRL</link> 
+            <title>FR_TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3475.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV_BREIZH</link> 
         </item> 
           <item> 
-            <title>FR: L'EQUIPE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'EQUIPE 21</link> 
+            <title>SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
         </item> 
           <item> 
-            <title>FR: iTELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2126.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: iTELE</link> 
+            <title>HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 24</link> 
+            <title>NRJ_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2560.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12</link> 
         </item> 
           <item> 
-            <title>FR: France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
+            <title>TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
         </item> 
           <item> 
-            <title>FR: France O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O</link> 
+            <title>FR:_TVA_Montreal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_TVA_Montreal</link> 
         </item> 
           <item> 
-            <title>FR: CHERIE 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CHERIE 25</link> 
+            <title>FR.Paramount_Channel_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Paramount_Channel_HD</link> 
         </item> 
           <item> 
-            <title>▃ ▄ ▅ ▆ ▇ █ CINEMA █ ▇ ▆ ▅ ▄ ▃</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=▃ ▄ ▅ ▆ ▇ █ CINEMA █ ▇ ▆ ▅ ▄ ▃</link> 
+            <title>FR.OL_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.OL_TV</link> 
         </item> 
           <item> 
-            <title>FR: CANAL+ SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+ SD</link> 
+            <title>FR:_Oui_FM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Oui_FM_TV</link> 
         </item> 
           <item> 
-            <title>FR: CANAL+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+ HD</link> 
+            <title>FR:_Trek_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Trek_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANAL CINEMA SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL CINEMA SD</link> 
+            <title>FR:_Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Weo</link> 
         </item> 
           <item> 
-            <title>FR: CANAL CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL CINEMA HD</link> 
+            <title>RMC_Decouverte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2565.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC_Decouverte</link> 
         </item> 
           <item> 
-            <title>FR: CANAL FAMILY SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL FAMILY SD</link> 
+            <title>*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4027.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: CANAL FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL FAMILY HD</link> 
+            <title>Planete+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+</link> 
         </item> 
           <item> 
-            <title>FR: CANAL DECALE SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3870.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL DECALE SD</link> 
+            <title>Planet+ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2564.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planet+ci</link> 
         </item> 
           <item> 
-            <title>FR: CANAL DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL DECALE HD</link> 
+            <title>FR.Planet_A&amp;E_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Planet_A&amp;E_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE  FAMIZ SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  FAMIZ SD</link> 
+            <title>NATIONAL GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEO</link> 
         </item> 
           <item> 
-            <title>FR: CINE  FAMIZ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  FAMIZ HD</link> 
+            <title>National_Geo_Wild_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2559.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geo_Wild_FR</link> 
         </item> 
           <item> 
-            <title>FR: CINE  FRISSON SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  FRISSON SD</link> 
+            <title>Science_et_Vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science_et_Vie</link> 
         </item> 
           <item> 
-            <title>FR: CINE  FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  FRISSON HD</link> 
+            <title>DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE PREMIER SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE PREMIER SD</link> 
+            <title>DISCOVERY_SCIENCE_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_SCIENCE_FR</link> 
         </item> 
           <item> 
-            <title>FR: CINE PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE PREMIER HD</link> 
+            <title>Chasse et peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et peche</link> 
         </item> 
           <item> 
-            <title>FR: CINE EMOTION SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3869.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE EMOTION SD</link> 
+            <title>USHUAIA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE EMOTION HD</link> 
+            <title>Voyage_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE CLASSIC SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE CLASSIC SD</link> 
+            <title>FR ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ANIMAUX</link> 
         </item> 
           <item> 
-            <title>FR: CINE  CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  CLASSIC HD</link> 
+            <title>FR.Histoire_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Histoire_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANAL SERIES SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL SERIES SD</link> 
+            <title>Equidia_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia_Live</link> 
         </item> 
           <item> 
-            <title>FR: CANAL SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL SERIES HD</link> 
+            <title>Equidia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2552.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia</link> 
         </item> 
           <item> 
-            <title>FR: OCS MAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS MAX HD</link> 
+            <title>*-*-*-*-*CSAT_SPORT*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4028.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_SPORT*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: OCS GEANT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT HD</link> 
+            <title>BEINSPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT_1_HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD</link> 
+            <title>BEINSPORT_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT_2_HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS CHOC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC HD</link> 
+            <title>BEINSPORT_3 _HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEINSPORT_3 _HD</link> 
         </item> 
           <item> 
-            <title>FR: CANALPLAY 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY 1</link> 
+            <title>FR:_Bein_Sports_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:_Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Bein_Sports_1_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANALPLAY 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3081.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY 2</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3370.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: CANALPLAY 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3082.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY 3</link> 
+            <title>FR:_Bein_Sports_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:_Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Bein_Sports_2_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANALPLAY 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3083.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY 4</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3369.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: CANALPLAY 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3084.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY 5</link> 
+            <title>FR:_Bein_Sports_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:_Bein_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Bein_Sports_3_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANALPLAY 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3085.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANALPLAY 6</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3368.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: A.LA.CARTE.1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3070.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A.LA.CARTE.1</link> 
+            <title>BEIN_SPORT_MAX_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3900.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_4</link> 
         </item> 
           <item> 
-            <title>FR: A.LA.CARTE.2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3071.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A.LA.CARTE.2</link> 
+            <title>BEIN_SPORT_MAX_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3901.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_5</link> 
         </item> 
           <item> 
-            <title>FR: A.LA.CARTE.3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3072.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A.LA.CARTE.3</link> 
+            <title>BEIN_SPORT_MAX_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3902.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_6</link> 
         </item> 
           <item> 
-            <title>FR: A.LA.CARTE.4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3073.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A.LA.CARTE.4</link> 
+            <title>BEIN_SPORT_MAX_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3903.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_7</link> 
         </item> 
           <item> 
-            <title>FR: A LA CARTE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3074.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 5</link> 
+            <title>BEIN_SPORT_MAX_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3904.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_8</link> 
         </item> 
           <item> 
-            <title>FR: A LA CARTE 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3075.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 6</link> 
+            <title>BEIN_SPORT_MAX_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4040.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_9</link> 
         </item> 
           <item> 
-            <title>FR: A LA CARTE 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3076.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 7</link> 
+            <title>BEIN_SPORT_MAX_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4041.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORT_MAX_10</link> 
         </item> 
           <item> 
-            <title>FR: A LA CARTE 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3077.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 8</link> 
+            <title>SFR_SPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD</link> 
         </item> 
           <item> 
-            <title>FR: PARAMOUNT CHANEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT CHANEL</link> 
+            <title>SFR_SPORT_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD</link> 
         </item> 
           <item> 
-            <title>FR: RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL9</link> 
+            <title>SFR_SPORT_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD</link> 
         </item> 
           <item> 
-            <title>FR: ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ACTION</link> 
+            <title>INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+</link> 
         </item> 
           <item> 
-            <title>FR: SERIE CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB</link> 
+            <title>Foot+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+</link> 
         </item> 
           <item> 
-            <title>FR: TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TEVA</link> 
+            <title>FR.Foot_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Foot_24</link> 
         </item> 
           <item> 
-            <title>FR: TV BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV BREIZH</link> 
+            <title>EUROSPORT_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_1</link> 
         </item> 
           <item> 
-            <title>FR: CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2113.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FX</link> 
+            <title>EUROSPORT_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2555.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2</link> 
         </item> 
           <item> 
-            <title>FR: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SYFY</link> 
+            <title>Equipe21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equipe21</link> 
         </item> 
           <item> 
-            <title>FR: COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: COMEDIE</link> 
+            <title>*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4029.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB3</link> 
+            <title>PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI</link> 
         </item> 
           <item> 
-            <title>FR: AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
+            <title>Tiji</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji</link> 
         </item> 
           <item> 
-            <title>FR: 13 EME RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 EME RUE</link> 
+            <title>teletoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=teletoon</link> 
         </item> 
           <item> 
-            <title>FR: TCM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TCM HD</link> 
+            <title>Gulli</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gulli</link> 
         </item> 
           <item> 
-            <title>FR: RTS Un HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Un HD</link> 
+            <title>Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network</link> 
         </item> 
           <item> 
-            <title>FR: RTS Deux HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Deux HD</link> 
+            <title>FR:_Canal_J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Canal_J</link> 
         </item> 
           <item> 
-            <title>▃ ▄ ▅ ▆ ▇ █ DOCUMENTAIRE █ ▇ ▆ ▅ ▄ ▃</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=▃ ▄ ▅ ▆ ▇ █ DOCUMENTAIRE █ ▇ ▆ ▅ ▄ ▃</link> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>FR: DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY</link> 
+            <title>FR:_Disney_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_XD</link> 
         </item> 
           <item> 
-            <title>FR: SEASON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/977.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SEASON</link> 
+            <title>FR:_Disney_Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Disney_Cinemagic</link> 
         </item> 
           <item> 
-            <title>FR: WEO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2112.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: WEO_HD</link> 
+            <title>FR: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
         </item> 
           <item> 
-            <title>FR: VOYAGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: VOYAGE</link> 
+            <title>FR:_Nickelodeon_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Nickelodeon_Junior</link> 
         </item> 
           <item> 
-            <title>FR: USHUAIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/983.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: USHUAIA TV</link> 
+            <title>FR:_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3356.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Nickelodeon</link> 
         </item> 
           <item> 
-            <title>FR: TREK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TREK</link> 
+            <title>FR:_Zouzou</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:_Zouzou</link> 
         </item> 
           <item> 
-            <title>FR: TOUTE l'HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TOUTE l'HISTOIRE</link> 
+            <title>MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS</link> 
         </item> 
           <item> 
-            <title>FR: EQUIDIA LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIFE</link> 
+            <title>BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG</link> 
         </item> 
           <item> 
-            <title>FR: ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ANIMAUX</link> 
+            <title>Game_One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name=Game_One</link> 
         </item> 
           <item> 
-            <title>FR: SCIENCES &amp; VIE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SCIENCES &amp; VIE TV</link> 
+            <title>*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4030.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE+</link> 
+            <title>FR_M6_Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4032.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6_Music</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE CI</link> 
+            <title>FR_MTV_HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4031.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MTV_HITS</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE AE</link> 
+            <title>*-*-*-*-*CSAT_PPV_VOD*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4033.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_PPV_VOD*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT GEO WILD</link> 
+            <title>A.LA.CARTE.1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.1</link> 
         </item> 
           <item> 
-            <title>FR: AB MOTEUR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2378.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB MOTEUR</link> 
+            <title>A.LA.CARTE.2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.2</link> 
         </item> 
           <item> 
-            <title>FR: CHASSE ET PECHE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CHASSE ET PECHE HD</link> 
+            <title>A.LA.CARTE.3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.3</link> 
         </item> 
           <item> 
-            <title>FR: DISCOVERY SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY SCIENCE</link> 
+            <title>A.LA.CARTE.4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.LA.CARTE.4</link> 
         </item> 
           <item> 
-            <title>FR: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National Geographic</link> 
+            <title>A_LA_CARTE_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_5</link> 
         </item> 
           <item> 
-            <title>FR: Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Histoire</link> 
+            <title>A_LA_CARTE_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_6</link> 
         </item> 
           <item> 
-            <title>▃ ▄ ▅ ▆ ▇ █ CHAINE SPORT █ ▇ ▆ ▅ ▄ ▃</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=▃ ▄ ▅ ▆ ▇ █ CHAINE SPORT █ ▇ ▆ ▅ ▄ ▃</link> 
+            <title>A_LA_CARTE_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2653.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_7</link> 
         </item> 
           <item> 
-            <title>FR: CANAL SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL SPORT HD</link> 
+            <title>A_LA_CARTE_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2654.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_8</link> 
         </item> 
           <item> 
-            <title>FR: SFR_SPORT 4k</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR_SPORT 4k</link> 
+            <title>A_LA_CARTE_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_9</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 1</link> 
+            <title>A_LA_CARTE_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_10</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 2</link> 
+            <title>A_LA_CARTE_11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_11</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORT 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 3</link> 
+            <title>A_LA_CARTE_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_12</link> 
         </item> 
           <item> 
-            <title>FR: beIN SPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORT 1</link> 
+            <title>A_LA_CARTE_13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_13</link> 
         </item> 
           <item> 
-            <title>FR: beIN SPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORT 2</link> 
+            <title>A_LA_CARTE_14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2657.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_14</link> 
         </item> 
           <item> 
-            <title>FR: beIN SPORT 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORT 3</link> 
+            <title>A_LA_CARTE_15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2656.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_15</link> 
         </item> 
           <item> 
-            <title>FR: BEIN MAX 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2379.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN MAX 4</link> 
+            <title>A_LA_CARTE_16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2648.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_16</link> 
         </item> 
           <item> 
-            <title>FR: BEIN MAX 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN MAX 5</link> 
+            <title>A_LA_CARTE_17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_17</link> 
         </item> 
           <item> 
-            <title>FR: BEIN MAX 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2381.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN MAX 6</link> 
+            <title>A_LA_CARTE_18</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_18</link> 
         </item> 
           <item> 
-            <title>FR: BEIN MAX 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2382.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN MAX 10</link> 
+            <title>A_LA_CARTE_19</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_19</link> 
         </item> 
           <item> 
-            <title>FR: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1</link> 
+            <title>A_LA_CARTE_20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=A_LA_CARTE_20</link> 
         </item> 
           <item> 
-            <title>FR: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/993.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2</link> 
+            <title>_FR:_CANALPLAY_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4042.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_1</link> 
         </item> 
           <item> 
-            <title>FR: INFOSPORT+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INFOSPORT+</link> 
+            <title>_FR:_CANALPLAY_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4043.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_2</link> 
         </item> 
           <item> 
-            <title>FR: BFM SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM SPORT</link> 
+            <title>_FR:_CANALPLAY_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4044.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_3</link> 
         </item> 
           <item> 
-            <title>FR: GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GOLF</link> 
+            <title>_FR:_CANALPLAY_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4045.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_4</link> 
         </item> 
           <item> 
-            <title>▃ ▄ ▅ ▆ ▇ █ JEUNESSE █ ▇ ▆ ▅ ▄ ▃</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=▃ ▄ ▅ ▆ ▇ █ JEUNESSE █ ▇ ▆ ▅ ▄ ▃</link> 
+            <title>_FR:_CANALPLAY_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4046.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_5</link> 
         </item> 
           <item> 
-            <title>FR: CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CARTOON NETWORK</link> 
+            <title>_FR:_CANALPLAY_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4047.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_6</link> 
         </item> 
           <item> 
-            <title>FR: NICKELODEAN 4TEEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEAN 4TEEN</link> 
+            <title>_FR:_CANALPLAY_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4048.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_7</link> 
         </item> 
           <item> 
-            <title>FR: TIJI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TIJI HD</link> 
+            <title>_FR:_CANALPLAY_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4049.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_8</link> 
         </item> 
           <item> 
-            <title>FR: GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GULLI</link> 
+            <title>_FR:_CANALPLAY_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4050.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_9</link> 
         </item> 
           <item> 
-            <title>FR: TELETOON   HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON   HD</link> 
+            <title>_FR:_CANALPLAY_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4051.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_10</link> 
         </item> 
           <item> 
-            <title>FR: PIWI+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PIWI+</link> 
+            <title>_FR:_CANALPLAY_11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4052.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANALPLAY_11</link> 
         </item> 
           <item> 
-            <title>FR: MANGAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MANGAS</link> 
+            <title>_FR:_CANAL_PLAY_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4053.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANAL_PLAY_12</link> 
         </item> 
           <item> 
-            <title>FR: GAME ONE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE HD</link> 
+            <title>_FR:_CANAL_PLAY_13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4054.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANAL_PLAY_13</link> 
         </item> 
           <item> 
-            <title>FR: DISNEY XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY XD HD</link> 
+            <title>_FR:_CANAL_PLAY_14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4055.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANAL_PLAY_14</link> 
         </item> 
           <item> 
-            <title>FR: DISNEY JUNIOR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY JUNIOR HD</link> 
+            <title>_FR:_CANAL_PLAY_15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4056.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANAL_PLAY_15</link> 
         </item> 
           <item> 
-            <title>FR: DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CINEMA</link> 
+            <title>_FR:_CANAL_PLAY_16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/4057.ts&amp;streamtype=TSDOWNLOADER&amp;name=_FR:_CANAL_PLAY_16</link> 
         </item> 
           <item> 
-            <title>FR: DISNEY Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY Channel</link> 
+            <title>=====_Swiss_======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3380.ts&amp;streamtype=TSDOWNLOADER&amp;name======_Swiss_======</link> 
         </item> 
           <item> 
-            <title>FR: Nickelodeon_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nickelodeon_HD</link> 
+            <title>RTS_UN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2864.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_UN</link> 
         </item> 
           <item> 
-            <title>FR: Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boomerang</link> 
+            <title>RTS_DEUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2865.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_DEUX</link> 
         </item> 
           <item> 
-            <title>FR: BOING HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOING HD</link> 
+            <title>CH:_SRF_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3381.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH:_SRF_1_HD</link> 
         </item> 
           <item> 
-            <title>FR: Zouzou TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Zouzou TV</link> 
+            <title>CH:_SRF_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3382.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH:_SRF_2_HD</link> 
         </item> 
           <item> 
-            <title>▃ ▄ ▅ ▆ ▇ █ CHAINE MUSIQUE █ ▇ ▆ ▅ ▄ ▃</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=▃ ▄ ▅ ▆ ▇ █ CHAINE MUSIQUE █ ▇ ▆ ▅ ▄ ▃</link> 
+            <title>====BELGIQUE_TELESAT====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=====BELGIQUE_TELESAT====</link> 
         </item> 
           <item> 
-            <title>FR: M6music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6music</link> 
+            <title>LA UNE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA UNE HD</link> 
         </item> 
           <item> 
-            <title>FR: Virgin Radio TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Virgin Radio TV</link> 
+            <title>LA.DEUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA.DEUX</link> 
         </item> 
           <item> 
-            <title>FR: MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV</link> 
+            <title>LA.TROIS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA.TROIS</link> 
         </item> 
           <item> 
-            <title>FR: MTV MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV MUSIC</link> 
+            <title>RTL_TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2639.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_TVI</link> 
         </item> 
           <item> 
-            <title>FR: NRJ HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ HITS</link> 
+            <title>BE_Vtm_Kazoom_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3461.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vtm_Kazoom_-_Belgium</link> 
         </item> 
           <item> 
-            <title>FR: MCM Top</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2852.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MCM Top</link> 
+            <title>BE_Vtm_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3462.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vtm_-_Belgium</link> 
         </item> 
           <item> 
-            <title>FR: RMC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC 1</link> 
+            <title>BE_Vitaya_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3463.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vitaya_-_Belgium</link> 
         </item> 
           <item> 
-            <title>▃ ▄ ▅ ▆ ▇ █ BELGIQUE █ ▇ ▆ ▅ ▄ ▃</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1752.ts&amp;streamtype=TSDOWNLOADER&amp;name=▃ ▄ ▅ ▆ ▇ █ BELGIQUE █ ▇ ▆ ▅ ▄ ▃</link> 
+            <title>BE_Vijf_TV_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3464.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vijf_TV_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: CLUB RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/3898.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: CLUB RTL</link> 
+            <title>BE_Vier_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3465.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vier_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: LA UNE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: LA UNE HD</link> 
+            <title>BE_Rtl_Tvi_HD_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3466.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Rtl_Tvi_HD_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: LA DEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: LA DEUX</link> 
+            <title>BE_Plug_Rtl_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3467.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Plug_Rtl_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: LA TROIS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1776.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: LA TROIS</link> 
+            <title>BE_Ket_op_2_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3468.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Ket_op_2_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: RTC LIEGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: RTC LIEGE</link> 
+            <title>BE_Een_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3469.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Een_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: CINEMA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: CINEMA 2</link> 
+            <title>BE_Club_Rtl_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3470.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Club_Rtl_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: TELE MB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/2716.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: TELE MB</link> 
+            <title>BE_Canvas_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3471.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Canvas_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: TELE  BIELINGUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: TELE  BIELINGUE</link> 
+            <title>BE_2Be_-_Belgium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/3472.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_2Be_-_Belgium</link> 
         </item> 
           <item> 
-            <title>BE: RTL TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: RTL TVI HD</link> 
+            <title>BE:Club_RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:Club_RTL</link> 
         </item> 
           <item> 
-            <title>BE: PLUG RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: PLUG RTL</link> 
+            <title>BE:Plug_RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:Plug_RTL</link> 
         </item> 
           <item> 
-            <title>BE: CINEMA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvmega.dyndns.tv:8040/live/comenchero/comenchero/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: CINEMA 1</link> 
+            <title>BE:RTL_TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/mihnea/mihnea/2641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:RTL_TVI</link> 
         </item> 
+  
   
 
 
