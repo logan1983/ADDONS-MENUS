@@ -218,7 +218,7 @@
 
 <item>
 <title>[COLOR white][B][I] ABOLA TV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://198.255.76.34:8080/abolatv/index.m3u8</link>
+<link>http://188.250.214.28:8889/play/a02h</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/abolaTV_geral.jpg</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <item>
@@ -238,7 +238,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a00e</link>
+<link>http://163.172.60.151:8000/live/ines/ines/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC MULHER LOGAN</link>
 <thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -247,7 +247,7 @@
 
 <item>
 <title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<link>http://198.255.76.34:8080/sicmulher/index.m3u8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://198.255.76.34:8080/sicmulher/index.m3u8</link>
 <sportsdevil>http://www.estadiofutebol.com/canalmobile.php?c=sicmulher</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
@@ -274,15 +274,15 @@
 
 <item>
 <title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://213.188.51.185:9981/play/a007</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI REALITY LOGAN</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI REALITY LOGAN</link>
+<title>[COLOR white] [B] TVI REALITY [/COLOR] [/B]</title>
+<sportsdevil>http://buefixe.net/ss1.php?</sportsdevil>
+<referer>http://ucaster.eu/</referer>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
 
 
@@ -296,7 +296,7 @@
 
 <item>
 <title>[COLOR white][B][I] TVI FICCAO  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/25662.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI FICCAO LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI FICCAO LOGAN</link>
 <thumbnail>http://www.lux.iol.pt/multimedia/oratvi/multimedia/imagem/id/13706672/420</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -312,8 +312,7 @@
 
 <item>
 <title>[COLOR white][B][I] KITCHEN HD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://213.188.51.185:9981/play/a00l</link>
-<fanart></fanart>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
 <thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/24kitchen/logo.jpg</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -355,7 +354,7 @@
 
 <item>
 <title>[COLOR white][B][I] MOV [/I][/B][/COLOR] [COLOR lime] (LOGAN WEBTV)[/COLOR]</title>
-<link>http://213.188.51.185:9981/play/a00d</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - MOV HD LOGAN</link>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/0/07/Logo_principal0_MOV.png/revision/latest?cb=20140112144245</thumbnail>
 </item>
@@ -363,7 +362,7 @@
 
 <item>
 <title>[COLOR white][B][I] MOV [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://smartiptvspain.mine.nu:980/live/lorenzo/lorenzo/25698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - MOV HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - MOV HD LOGAN</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/0/07/Logo_principal0_MOV.png/revision/latest?cb=20140112144245</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -378,7 +377,7 @@
 
 <item>
 <title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
-<link>lugin://plugin.video.f4mTester/?url=http://masteriptv.dnsfor.me:8000/live/Albino/Albino/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
+<link>lugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -433,7 +432,7 @@
 
 <item>
 <title>[COLOR white][B][I] FOX Movies [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a00p</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES HD LOGAN</link>
 <thumbnail>http://static.myhdmedia.co/hd/channels/Movies/dark/foxmovies.png</thumbnail>
 <fanart></fanart>
@@ -442,7 +441,7 @@
 
 <item>
 <title>[COLOR white][B][I] FOX Crime HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a010</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
 <thumbnail>http://www.hypptv.info/wordpress/wp-content/uploads/fox_crime_asia_hd.gif</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
@@ -451,7 +450,7 @@
 
 <item>
 <title>[COLOR white][B][I] FOX Life HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a00z</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
@@ -469,8 +468,8 @@
 
 <item>
 <title>[COLOR white][B][I] BIGGS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a00x</link>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -BIGGS HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -BIGGS HD LOGAN</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -478,8 +477,8 @@
 
 <item>
 <title>[COLOR white][B][I] NICKELODEON [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a00b</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
 <thumbnail>http://www.kidvertisers.com/images/biglogo_nickelodeon.gif</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -487,7 +486,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC KIDS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC KIDS LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/354.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC KIDS LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item> 
@@ -518,7 +517,7 @@
 
 <item>
 <title>[COLOR white][B][I]  DISNEY JUNIOR [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://213.188.51.185:9981/play/a00n</link>
+<link>plugin://plugin.video.f4mTester/?urlhttp://ipro.newtvhd.com:8789/live/adil/adil/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a6/32/93/a632933d32b39a078b033604ada8f70f.jpg</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
