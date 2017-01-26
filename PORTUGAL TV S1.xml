@@ -102,8 +102,8 @@
 
 <item>
 <title>[COLOR white][B][I]  SIC  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<link>http://188.250.214.28:8889/play/a02a</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.60.151:8000/live/ines/ines/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
-<link>http://198.255.76.34:8080/sic/index.m3u8</link>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
@@ -151,7 +151,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://198.255.76.34:8080/sicnoticias/index.m3u8</link>
+<link>http://188.250.214.28:8889/play/a02b</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item> 
@@ -202,7 +202,7 @@
 
 <item>
 <title>[COLOR white][B][I] CMTV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/1234567/1234567/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CMTV LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CMTV LOGAN</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 </item>
