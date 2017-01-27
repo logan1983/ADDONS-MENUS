@@ -29,184 +29,373 @@
  
  
    
+      
           <item> 
-            <title>UK:SKY_PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_PREMIERE</link> 
+            <title>----|UK GENERALE|----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=----|UK GENERALE|----</link> 
         </item> 
           <item> 
-            <title>UK:SKY_Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_Family HD</link> 
+            <title>UK|RTÉ One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|RTÉ One</link> 
         </item> 
           <item> 
-            <title>UK:SKY_Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_Action</link> 
+            <title>UK|RTÉ Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|RTÉ Two</link> 
         </item> 
           <item> 
-            <title>UK:SKY_Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_Drama</link> 
+            <title>UK|TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|TLC</link> 
         </item> 
           <item> 
-            <title>UK:SKY_THRILLER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/993.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_THRILLER</link> 
+            <title>UK|BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC News</link> 
         </item> 
           <item> 
-            <title>UK:SKY_SciFi&amp;Hor</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_SciFi&amp;Hor</link> 
+            <title>UK|BBC One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC One HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_Select</link> 
+            <title>UK|BBC Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Two HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_Comedy</link> 
+            <title>UK|BBC Three HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Three HD</link> 
         </item> 
           <item> 
-            <title>UK:SKY_showcast</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1109.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY_showcast</link> 
+            <title>UK|BBC Four</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Four</link> 
         </item> 
           <item> 
-            <title>Movies4Men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=Movies4Men</link> 
+            <title>UK|TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|TG4</link> 
         </item> 
           <item> 
-            <title>RealLives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=RealLives</link> 
+            <title>UK|ITV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV HD</link> 
         </item> 
           <item> 
-            <title>==== Sky-Uk-Kids ====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name===== Sky-Uk-Kids ====</link> 
+            <title>UK|ITV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV2 HD</link> 
         </item> 
           <item> 
-            <title>UK:Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1119.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney_Channel</link> 
+            <title>UK|ITV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV3 HD</link> 
         </item> 
           <item> 
-            <title>UK:Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1120.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney_Junior</link> 
+            <title>UK|ITV4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV4 HD</link> 
         </item> 
           <item> 
-            <title>UK:Disney_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney_XD</link> 
+            <title>UK|Cbs Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Reality</link> 
         </item> 
           <item> 
-            <title>UK:Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nickelodeon</link> 
+            <title>UK|Cbs Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Drama</link> 
         </item> 
           <item> 
-            <title>UK:Nickelodeon_JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nickelodeon_JR</link> 
+            <title>UK|Cbs Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Action</link> 
         </item> 
           <item> 
-            <title>Nick_Jr.2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick_Jr.2</link> 
+            <title>UK|London Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|London Live</link> 
         </item> 
           <item> 
-            <title>Nick_Jr.1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick_Jr.1</link> 
+            <title>UK|Channel 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Channel 4 HD</link> 
         </item> 
           <item> 
-            <title>Nicktoon_Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nicktoon_Ireland</link> 
+            <title>UK|Channel 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Channel 5 HD</link> 
         </item> 
           <item> 
-            <title>==== Sky-Uk-Entertainment ====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name===== Sky-Uk-Entertainment ====</link> 
+            <title>UK|Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Home</link> 
         </item> 
           <item> 
-            <title>SKY_ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_ONE</link> 
+            <title>UK|Sky News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky News HD</link> 
         </item> 
           <item> 
-            <title>SKY_TWO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_TWO</link> 
+            <title>--|UK SPORT|--</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK SPORT|--</link> 
         </item> 
           <item> 
-            <title>BBC.1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC.1</link> 
+            <title>UK|BT Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 1 HD</link> 
         </item> 
           <item> 
-            <title>UK:ITV1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1114.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV1</link> 
+            <title>UK|BT Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 2 HD</link> 
         </item> 
           <item> 
-            <title>UK:ITV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1115.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV2</link> 
+            <title>UK|BT Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 3 HD</link> 
         </item> 
           <item> 
-            <title>UK:ITV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1116.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV3</link> 
+            <title>UK|BT Sport // ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport // ESPN</link> 
         </item> 
           <item> 
-            <title>UK:ITV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1117.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV4</link> 
+            <title>UK|BT Sport EuroHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport EuroHD</link> 
         </item> 
           <item> 
-            <title>ID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=ID</link> 
+            <title>UK|Sky Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 1 HD</link> 
         </item> 
           <item> 
-            <title>FOXNews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOXNews</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FOX-UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX-UK</link> 
+            <title>UK|Sky Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 2 HD</link> 
         </item> 
           <item> 
-            <title>UK:ComedyCentral</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1118.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ComedyCentral</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>ALJAZEERA_ENG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALJAZEERA_ENG</link> 
+            <title>UK|Sky Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 3 HD</link> 
         </item> 
           <item> 
-            <title>QUEST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>==== Sky-Uk-Culture ====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name===== Sky-Uk-Culture ====</link> 
+            <title>UK|Sky Sports 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 4 HD</link> 
         </item> 
           <item> 
-            <title>UK:Nat_Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nat_Geo</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Nat_GeoWild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nat_GeoWild</link> 
+            <title>UK|Sky Sports 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 5 HD</link> 
         </item> 
           <item> 
-            <title>UK:Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Travel_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1126.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Travel_Channel</link> 
+            <title>UK|Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports F1 HD</link> 
         </item> 
           <item> 
-            <title>UK:ID_Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ID_Xtra</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Discovery.History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery.History</link> 
+            <title>UK|MU TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|MU TV</link> 
         </item> 
           <item> 
-            <title>NatGeoWild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeoWild</link> 
+            <title>UK|LFC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|LFC TV</link> 
         </item> 
           <item> 
-            <title>History.1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name=History.1</link> 
+            <title>UK|Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Chelsea TV</link> 
         </item> 
           <item> 
-            <title>History2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1347.ts&amp;streamtype=TSDOWNLOADER&amp;name=History2</link> 
+            <title>UK|BOX NATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BOX NATION</link> 
         </item> 
           <item> 
-            <title>GoodFood.1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/adil/adil/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=GoodFood.1</link> 
+            <title>UK|Setanta Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Setanta Ireland</link> 
+        </item> 
+          <item> 
+            <title>UK|Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Racing</link> 
+        </item> 
+          <item> 
+            <title>UK|MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>--|UK CINEMA|--</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK CINEMA|--</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky2</link> 
+        </item> 
+          <item> 
+            <title>UK|Film4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Film4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Arts 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Arts 1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1254.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Select HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Select HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Great&amp;Modern</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Great&amp;Modern</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Disney HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Drama</link> 
+        </item> 
+          <item> 
+            <title>UK|DinsenyChannel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DinsenyChannel</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Disney HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Atlantic HD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky ScFi/HorHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky ScFi/HorHD</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Showcase</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Family</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Action</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Living</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Movies Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Thriller</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky True Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky True Movies</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky True Movies 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky True Movies 2</link> 
+        </item> 
+          <item> 
+            <title>UK|Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Dave</link> 
+        </item> 
+          <item> 
+            <title>UK|Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Fox</link> 
+        </item> 
+          <item> 
+            <title>UK|Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Syfy</link> 
+        </item> 
+          <item> 
+            <title>UK|Good Food</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Good Food</link> 
+        </item> 
+          <item> 
+            <title>UK|Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Food Network</link> 
+        </item> 
+          <item> 
+            <title>--|UK CULTURE|--</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK CULTURE|--</link> 
+        </item> 
+          <item> 
+            <title>UK|NatGeoGraphic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|NatGeoGraphic</link> 
+        </item> 
+          <item> 
+            <title>UK|NationalGeography-Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|NationalGeography-Wild</link> 
+        </item> 
+          <item> 
+            <title>UK|DiscoverySc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoverySc</link> 
+        </item> 
+          <item> 
+            <title>UK|DiscoveryHistory</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryHistory</link> 
+        </item> 
+          <item> 
+            <title>UK|Disc Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Disc Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK|DiscoveryCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryCI</link> 
+        </item> 
+          <item> 
+            <title>UK|Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>UK|DiscoveryWorld</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryWorld</link> 
+        </item> 
+          <item> 
+            <title>UK|AnimalPlanet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|AnimalPlanet</link> 
+        </item> 
+          <item> 
+            <title>--|UK ENFANTS|--</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK ENFANTS|--</link> 
+        </item> 
+          <item> 
+            <title>UK|Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Nick Jr</link> 
+        </item> 
+          <item> 
+            <title>UK|Sky Baby</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Baby</link> 
+        </item> 
+          <item> 
+            <title>UK|Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK|nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>UK|Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>UK|Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cartoon Network</link> 
         </item> 
   
