@@ -3,12 +3,13 @@
 
  
  
+ 
  <item>       
-<title>        [COLOR blue] :)•S1••••LISTA••••BY LOGAN TV••••CHANNELS(:  [/COLOR]        </title>
+<title>     [COLOR blue] •••••FR••GENERAL••••• [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
-<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
-<fanart></fanart>
+<thumbnail>http://image.noelshack.com/fichiers/2013/32/1375808805-france.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
  
@@ -18,25 +19,85 @@
  
  
 <item>
-<title>[COLOR white][B][I] TF1 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] TF1 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=tf_1_hd</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1775.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 LOGAN</link>
 <thumbnail>http://static.ccm2.net/www.commentcamarche.net/sites/images/tf1.fr-4edb8081.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
  
-
-
 <item>
-<title>[COLOR white][B][I] M6  [/I][/B][/COLOR][COLOR red](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=m_6_hd</link>
-<thumbnail>http://2.bp.blogspot.com/-NgADJHBCnBI/VLsHrlnZkAI/AAAAAAAAAGw/zN4WwVgGJoI/s1600/M6-tv-logo.png</thumbnail>
+<title>[COLOR lime][B][I] FRANCE 2  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=france_2_hd</link>
+<thumbnail>http://www.generationcable.net/NewsModule/ImagesNews/EntryId_3207_France_2_HD.jpeg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
+<item>
+<title>[COLOR lime][B][I] FRANCE 3 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=france_3</link>
+<thumbnail>https://i65.servimg.com/u/f65/13/15/84/38/12748210.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
 
 <item>
-<title>[COLOR white][B][I] rts_un [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] FRANCE 4  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=france_4</link>
+<thumbnail>https://www.brandeps.com/logo-download/F/France4-HD-01.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B][I] FRANCE 5 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=france_5</link>
+<thumbnail>https://alloforfait.fr/wp-content/uploads/2011/10/France-5-HD.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item> 
+
+<item>
+<title>[COLOR lime][B][I] France Ô  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=france_o</link>
+<thumbnail>http://www.akasat.com/images/France-%C3%94-HD.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] M6  [/I][/B][/COLOR][COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=m_6_hd</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1777.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 LOGAN</link>
+<thumbnail>http://2.bp.blogspot.com/-NgADJHBCnBI/VLsHrlnZkAI/AAAAAAAAAGw/zN4WwVgGJoI/s1600/M6-tv-logo.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] W9 [/I][/B][/COLOR] [COLOR orange] (LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=w_9</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 LOGAN</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/8/86/20140417175821!W9_2010.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] C8 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV) [/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=direct_8</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 LOGAN</link>
+<thumbnail>http://www.userlogos.org/files/logos/1air2philou/Direct8-imitation.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] 6TER  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=6_ter</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER LOGAN</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/M6_6ter_2012.png/170px-M6_6ter_2012.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] RTS Un [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RTS_un_HD.svg/120px-RTS_un_HD.svg.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -45,47 +106,96 @@
 
 
 <item>
-<title>[COLOR white][B][I] rts_deux  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] RTS Deux  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rts_deux_hd</link>
 <thumbnail>http://4.bp.blogspot.com/-0QPQOKscqVM/VHrgeUtowBI/AAAAAAAABKs/PhSoUW96HYk/s1600/rts_deux_hd.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
-<item>
-<title>[COLOR white][B][I] FRANCE 2  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=france_2_hd</link>
-<thumbnail>http://www.generationcable.net/NewsModule/ImagesNews/EntryId_3207_France_2_HD.jpeg</thumbnail>
+ <item>       
+<title>     [COLOR blue] •••••FR••INFO••••• [/COLOR]     </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://referentiel.nouvelobs.com/file/15603117-franceinfo-l-histoire-secrete.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] FRANCE 3 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=france_3</link>
-<thumbnail>https://i65.servimg.com/u/f65/13/15/84/38/12748210.png</thumbnail>
+<title>[COLOR lime][B][I] BFM  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=bfm_tv</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM LOGAN</link>
+<thumbnail>http://www.marbotic.fr/wp-content/uploads/2014/11/logo-BFMTV.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] EURONEWS [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=euronews</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews LOGAN</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_wxomVmpnjDiAq91nRrWNCAfVwWEsgk1IR3cmEDnd9AZSC1y</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] FRANCE24 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=france_24</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=France24 LOGAN</link>
+<thumbnail>http://static.france24.com/infographies/meta_og_twcards/F24_TW.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+ <item>       
+<title>     [COLOR blue] •••••FR••SPORT••••• [/COLOR]     </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/0c/8b/65/0c8b65616b02096d88208913ded4872d.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] FRANCE 4  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=france_4</link>
-<thumbnail>https://www.brandeps.com/logo-download/F/France4-HD-01.png</thumbnail>
+<title>[COLOR lime][B][I] beIN SPORT HD1 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORT HD1 LOGAN</link>
+<thumbnail>http://mytv-online.fr/wp-content/uploads/2015/09/Bein-sport-1.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] beIN SPORT HD2 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORT HD2 LOGAN</link>
+<thumbnail>http://tivi.thongtin24h.net/wp-content/uploads/2016/05/bein-sports-2-hd.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] FRANCE 5 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=france_5</link>
-<thumbnail>https://alloforfait.fr/wp-content/uploads/2011/10/France-5-HD.jpg</thumbnail>
+<title>[COLOR lime][B][I] beIN SPORT HD3 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORT HD3 LOGAN</link>
+<thumbnail>http://4.bp.blogspot.com/-7V3VxjDCgVg/U-d3i2FnmRI/AAAAAAAABdo/QvA7pni90pY/s1600/bein+3.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item> 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <item>
-<title>[COLOR white][B][I] ARTE HD [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] ARTE HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=arte_fr_hd</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/2000px-Arte_HD_Verlauf_Logo.svg.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -93,7 +203,7 @@
 
 
 <item>
-<title>[COLOR=white][B][I] ROUGE TV HD [/I][/B][/COLOR][COLOR=red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR=lime][B][I] ROUGE TV HD [/I][/B][/COLOR][COLOR=orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rouge_tv</link>
 <thumbnail>http://www.rougetv.ch/imgs/menu/logo.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -101,7 +211,7 @@
 
 
 <item>
-<title>[COLOR=white][B][I] TV5MONDE [/I][/B][/COLOR][COLOR=red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR=lime][B][I] TV5MONDE [/I][/B][/COLOR][COLOR=orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=tv_5_monde</link>
 <thumbnail>http://institutfrancais.tv/assets/partner/logo/grand_tv5monde.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -109,31 +219,23 @@
 
 
 <item>
-<title> [COLOR white][B][I] CARTOON NETWORK  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title> [COLOR lime][B][I] CARTOON NETWORK  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=cartoon_network</link>
 <thumbnail>http://orig07.deviantart.net/50b7/f/2014/332/e/9/cn_memorial_logo__remake__by_oldcartoonnavy47-d880be4.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
-<item>
-<title>[COLOR white][B][I] 6TER  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=6_ter</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/M6_6ter_2012.png/170px-M6_6ter_2012.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-
 
 <item>
-<title>[COLOR white][B][I] lemanbleu  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] lemanbleu  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=leman_bleu</link>
 <thumbnail>http://www.autrefoisgeneve.ch/wp-content/uploads/2016/02/logo-leman-bleu-client.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <item>
 
 <item>
-<title>[COLOR white][B][I] L'ÉQUIPE  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] L'ÉQUIPE  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=equipe_tv</link>
 <thumbnail>https://www.sportbuzzbusiness.fr/wp-content/uploads/2012/07/logo-lequipe-HD.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -141,7 +243,7 @@
 
 
 <item>
-<title>[COLOR white][B][I] TVM3 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] TVM3 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=tvm_3</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_TVM3_2015.png/250px-Logo_TVM3_2015.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -150,7 +252,7 @@
 
 
 <item>
-<title>[COLOR white][B][I] Cherie25 HD [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR lime][B][I] Cherie25 HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=cherie_hd</link>
 <thumbnail>http://images.programme.tv/2012/10/CHER25.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -159,15 +261,15 @@
 
  
 <item>
-<title> [COLOR white][B][I] N23 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title> [COLOR lime][B][I] N23 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=numero_23</link>
-<thumbnail>http://www.numero23.fr/wp-content/themes/numero-23/assets/images/numero-23-logo-white.png</thumbnail>
+<thumbnail>http://www.numero23.fr/wp-content/themes/numero-23/assets/images/numero-23-logo-lime.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] RMC DECOUVERTE  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR lime][B][I] RMC DECOUVERTE  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rmc_decouverte</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_D%C3%A9couverte_2012.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -175,7 +277,7 @@
 
 
 <item>
-<title>[COLOR white][B][I] HD1  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR lime][B][I] HD1  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=hd_1</link>
 <thumbnail>http://www.lettreaudiovisuel.com/wp-content/uploads/2013/05/HD1-logo.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -183,15 +285,7 @@
 
 
 <item>
-<title>[COLOR white][B][I] BFMtv  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=bfm_tv</link>
-<thumbnail>http://www.marbotic.fr/wp-content/uploads/2014/11/logo-BFMTV.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] NRJ12  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR lime][B][I] NRJ12  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=nrj_12</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/e/ea/NRJ12.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -199,46 +293,31 @@
 
 
 
-
 <item>
-<title>[COLOR white][B][I] France Ô  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=france_o</link>
-<thumbnail>http://www.akasat.com/images/France-%C3%94-HD.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] NT1  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR lime][B][I] NT1  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=nt_1</link>
 <thumbnail>https://superrepo.org/static/images/fanart/original/plugin.video.NT1Replay.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
  
 <item>
-<title>[COLOR white][B][I] TMC  [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR lime][B][I] TMC  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=tmc</link>
 <thumbnail>http://www.webmaster-gratuit.com/pict/play-tmc.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B][I] W9 [/I][/B][/COLOR] [COLOR red] (LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=w_9</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/8/86/20140417175821!W9_2010.png</thumbnail>
-</item>
 
 
 <item>
-<title>[COLOR white][B][I] GULLI [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR lime][B][I] GULLI [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=gulli</link>
 <thumbnail>http://www.cbnews.fr/var/media/203/original/gulli-202165.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B][I] EURONEWS [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV] [/COLOR]</title>
+<title>[COLOR lime][B][I] EURONEWS [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=euronews</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_wxomVmpnjDiAq91nRrWNCAfVwWEsgk1IR3cmEDnd9AZSC1y</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -246,29 +325,16 @@
 
 
 <item>
-<title>[COLOR white][B][I] FRANCE24 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV] [/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=france_24</link>
-<thumbnail>http://static.france24.com/infographies/meta_og_twcards/F24_TW.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B][I] MONT+BLANC [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV) [/COLOR]</title>
+<title>[COLOR lime][B][I] MONT+BLANC [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV) [/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=8_mont_blanc</link>
 <thumbnail>http://www.bierelarochoise.com/____assets/uploads/2015/01/logo8montblanc.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B][I] D8 [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV) [/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=direct_8</link>
-<thumbnail>http://www.userlogos.org/files/logos/1air2philou/Direct8-imitation.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
 
 
 <item>
-<title>[COLOR white][B][I] Canal Alpha Neuchatel [/I][/B][/COLOR] [COLOR red](LOGAN WEBTV) [/COLOR]</title>
+<title>[COLOR lime][B][I] Canal Alpha Neuchatel [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV) [/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=canal_alpha_ne_hd</link>
 <thumbnail>http://www.canalalpha.ch/wp-content/uploads/2014/07/logocanalalphaHD-456x300.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -276,7 +342,7 @@
 
 
 <item>
-<title>[COLOR white][B][I] RTL9 [/I][/B][/COLOR] [COLOR red] [LOGAN WEBTV][/COLOR]</title>
+<title>[COLOR lime][B][I] RTL9 [/I][/B][/COLOR] [COLOR orange] [LOGAN WEBTV][/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTL9 LOGAN</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://3.bp.blogspot.com/-WQvvR99YweA/VlYpyTDtBvI/AAAAAAAAASs/k31DEg7mwe8/s1600/RTL9-Tv%255B1%255D.png</thumbnail>
