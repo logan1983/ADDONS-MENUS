@@ -285,40 +285,183 @@
 
 
 <item>
-<title>[COLOR lime][B][I] CANAL+EMOTION [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+EMOTION LOGAN</link>
-<thumbnail>http://pcrwr.hd.free.fr/harmony/piwigo/galleries/noir/cine_emotion.jpg</thumbnail>
+<title>[COLOR lime][B][I] CINÉ POLAR [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINÉ POLAR LOGAN</link>
+<thumbnail>http://www.gentv.be/logos/cinepolar.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] CINÉ FX [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINÉ FX LOGAN</link>
+<thumbnail>http://medias.lenodal.com/medias/photos/cinefx-jingle-31-07-2013.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] CINE+ CLASSIC [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+ CLASSIC LOGAN</link>
+<thumbnail>http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/288X218/CHN43FB_16.PNG</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] Ciné +Famiz [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné +Famiz LOGAN</link>
+<thumbnail>http://media8.canal-plus.net/image/66/2/447662.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] CANAL+ DECALE [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE LOGAN</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/321px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] TCM Cinema [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1891.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM Cinema LOGAN</link>
+<thumbnail>http://www.universfreebox.com/UserFiles/image/tcmcinema.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+
+ <item>       
+<title>     [COLOR blue] •••••FR••DIVERTISSEMENT••••• [/COLOR]     </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://fr.canoe.ca/archives/divertissement/cinema/critiques/media/2015/07/20150723-155449-g.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
 
 
+<item>
+<title>[COLOR lime][B][I] AB1 HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1 HD LOGAN</link>
+<thumbnail>http://www.tv-en-direct.fr/images/ab1-live.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] HD1 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=hd_1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 LOGAN</link>
+<thumbnail>http://www.lettreaudiovisuel.com/wp-content/uploads/2013/05/HD1-logo.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] TMC [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=tmc</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1123.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC LOGAN</link>
+<thumbnail>http://www.userlogos.org/files/logos/Karmody/tmc_01.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] NT1  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=nt_1</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 LOGAN</link>
+<thumbnail>https://superrepo.org/static/images/fanart/original/plugin.video.NT1Replay.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] TEVA [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA LOGAN</link>
+<thumbnail>https://camembert.tv/modules/addons/iptv/icons/teva.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
+<item>
+<title>[COLOR lime][B][I] RTL9 [/I][/B][/COLOR] [COLOR orange] [LOGAN WEBTV][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=: RTL9 LOGAN</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://3.bp.blogspot.com/-WQvvR99YweA/VlYpyTDtBvI/AAAAAAAAASs/k31DEg7mwe8/s1600/RTL9-Tv%255B1%255D.png</thumbnail>
+</item>
 
 
+<item>
+<title>[COLOR lime][B][I] TV BREIZH [/I][/B][/COLOR] [COLOR orange] [LOGAN WEBTV][/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=:TV BREIZH LOGAN</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://static.numericable.tv/logos/vod/202x173/TVBFRA0001.png</thumbnail>
+</item>
 
 
+ 
+<item>
+<title> [COLOR lime][B][I] Numero 23 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=numero_23</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name=:Numero 23 LOGAN</link>
+<thumbnail>http://www.numero23.fr/wp-content/themes/numero-23/assets/images/speed-dial-icon384x240.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
+<item>
+<title> [COLOR lime][B][I] Syfy Universal HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=numero_23</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=:Syfy Universal HD LOGAN</link>
+<thumbnail>https://fiber.storage.googleapis.com/channels/logos/syfyHd.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title> [COLOR lime][B][I] COMEDIE+ [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=numero_23</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=:COMEDIE+ LOGAN</link>
+<thumbnail>https://pbs.twimg.com/profile_images/459641793252835328/o38VygvJ_200x200.jpeg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
-
-
-
-
-
-
-
-
+<item>
+<title>[COLOR lime][B][I] Cherie25 HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=cherie_hd</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1125.ts&amp;streamtype=TSDOWNLOADER&amp;name=:Cherie 25 LOGAN</link>
+<thumbnail>http://images.programme.tv/2012/10/CHER25.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
 <item>
 <title>[COLOR lime][B][I] ARTE HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=arte_fr_hd</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=:Arte HD LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Arte_HD_Verlauf_Logo.svg/2000px-Arte_HD_Verlauf_Logo.svg.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR lime][B][I] Wéo HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
+<link>https://streams.wilmaa.com/m3u8/get?channelId=arte_fr_hd</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=:Wéo HD LOGAN</link>
+<thumbnail>http://img.over-blog-kiwi.com/0/66/76/15/20160229/ob_f755ac_640px-logoweorvb-4e79c29.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <item>
@@ -362,24 +505,6 @@
 </item>
 
 
-
-<item>
-<title>[COLOR lime][B][I] Cherie25 HD [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=cherie_hd</link>
-<thumbnail>http://images.programme.tv/2012/10/CHER25.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-
- 
-<item>
-<title> [COLOR lime][B][I] N23 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=numero_23</link>
-<thumbnail>http://www.numero23.fr/wp-content/themes/numero-23/assets/images/numero-23-logo-lime.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-
 <item>
 <title>[COLOR lime][B][I] RMC DECOUVERTE  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rmc_decouverte</link>
@@ -388,34 +513,11 @@
 </item>
 
 
-<item>
-<title>[COLOR lime][B][I] HD1  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=hd_1</link>
-<thumbnail>http://www.lettreaudiovisuel.com/wp-content/uploads/2013/05/HD1-logo.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLOR lime][B][I] NRJ12  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=nrj_12</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/e/ea/NRJ12.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR lime][B][I] NT1  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=nt_1</link>
-<thumbnail>https://superrepo.org/static/images/fanart/original/plugin.video.NT1Replay.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
- 
-<item>
-<title>[COLOR lime][B][I] TMC  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
-<link>https://streams.wilmaa.com/m3u8/get?channelId=tmc</link>
-<thumbnail>http://www.webmaster-gratuit.com/pict/play-tmc.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
@@ -453,12 +555,6 @@
 </item>
 
 
-<item>
-<title>[COLOR lime][B][I] RTL9 [/I][/B][/COLOR] [COLOR orange] [LOGAN WEBTV][/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTL9 LOGAN</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://3.bp.blogspot.com/-WQvvR99YweA/VlYpyTDtBvI/AAAAAAAAASs/k31DEg7mwe8/s1600/RTL9-Tv%255B1%255D.png</thumbnail>
-</item>
 
 
 
