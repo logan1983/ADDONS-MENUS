@@ -241,7 +241,7 @@
 <item>
 <title>[COLOR lime][B][I] CANAL+ [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ LOGAN</link>
-<thumbnail>http://service.canal-overseas.com/ott-frontend/image/logo/6ed0658384642848156ea1c4215487c003bac9f0.png</thumbnail>
+<thumbnail>http://www.canalplus-afrique.com/var/canalplus_cos/storage/images/media/images/offres-afrique/logo-leschainescanal-2x/138541966-1-fre-FR/logo-leschainescanal-2x.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
@@ -254,8 +254,42 @@
 </item>
 
 
+<item>
+<title>[COLOR lime][B][I] CANAL+CINEMA [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL CINEMA LOGAN</link>
+<thumbnail>http://service.canal-overseas.com/ott-frontend/image/logo/6ed0658384642848156ea1c4215487c003bac9f0.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] CANAL+FAMILY [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name= CANAL+FAMILY LOGAN</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Canal%2B_Family_HD_2013.svg/240px-Canal%2B_Family_HD_2013.svg.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B][I] CANAL+PREMIER [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+PREMIER LOGAN</link>
+<thumbnail>http://media.canal-plus.com/image/69/1/330691.ogfb.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
+<item>
+<title>[COLOR lime][B][I] CANAL+FRISSON [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+FRISSON LOGAN</link>
+<thumbnail>https://camembert.tv/modules/addons/iptv/icons/cine-frisson.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B][I] CANAL+EMOTION [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+EMOTION LOGAN</link>
+<thumbnail>http://pcrwr.hd.free.fr/harmony/piwigo/galleries/noir/cine_emotion.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
 
