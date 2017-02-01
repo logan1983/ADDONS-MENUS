@@ -24,56 +24,21 @@
 
 
 <item>
-<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE[/B][/COLOR]</title>
-
+<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE 2[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param4][/COLOR][COLOR skyblue] [makelist.param5][/COLOR] ([makelist.param6])  </title>
-<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=Adryanlist+[makelist.param3]+Arenavision</link>
-			<regex>
-			<name>hash</name> 
-			<expres>this.loadPlayer\("(.*?)"</expres>
-			<page>http://www.arenavision.in/AV[makelist.param6]</page>
-			<referer>http://www.arenavision.in</referer>
-			<setcookie>beget=begetok</setcookie>
-			</regex>
-			<thumbnail></thumbnail>
+<item><title>[COLOR lightyellow][makelist.param1][/COLOR] [COLOR lightblue][makelist.param2][/COLOR] [COLOR lightgreen][makelist.param3][/COLOR][COLOR skyblue] [makelist.param4][/COLOR] ([makelist.param6])  </title>
+<link>plugin://program.plexus/?url=[makelist.param4]&amp;mode=1&amp;name=666list+[makelist.param3]+Arenavision</link>
 </item>	
 ]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,80}317px">([0-9]+)</expres>
-<page>http://arenavision.in/schedule</page>
-<Agent>Mozilla</Agent>
-</regex><thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white][B]ARENAVISION AGENDA / SCHEDULE P2P[/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<item><title>[COLOR orange][makelist.param1][/COLOR] [COLOR gray][makelist.param2][/COLOR] [COLOR mintcream][makelist.param4][/COLOR][COLOR gold] [makelist.param5][/COLOR]  </title>
-<link>plugin://plugin.video.p2p-streams/?url=$doregex[hash]&amp;mode=1&amp;name=Pluribus Unum P2P - Arenavision</link>
-            <regex>
-            <name>hash</name>
-            <expres>this.loadPlayer\("(.*?)"</expres>
-            <page>http://www.arenavision.in/AV[makelist.param6]</page>
-            <referer>http://www.arenavision.in</referer>
-            <setcookie>beget=begetok</setcookie>
-            </regex>
-            <thumbnail>http://1.bp.blogspot.com/-GZfR6HXoeWU/UvembREuV5I/AAAAAAAAS6I/pKy1zp9N1cs/s1600/arenavision.jpg</thumbnail>
-                        <fanart>http://cdn2.hubspot.net/hub/360031/file-1957232534-jpg/study-schedule-for-ACT-SAT.jpg</fanart>
-</item>
-]]></listrepeat>
-<expres>190px">(.*?)<[\w\W\s]{0,45}182px">(.*?)<[\w\W\s]{0,45}188px">(.*?)<[\w\W\s]{0,45}283px">(.*?)<[\w\W\s]{0,45}685px">(.*?)<[\w\W\s]{0,45}317px">(.*?)-</expres>
-<page>http://arenavision.in/schedule</page>
+<expres><![CDATA[center'>(.*?)<[\w\W\s]{0,120}<td>(.*?)<br>(.*?)<[\w\W\s]{0,40}acestream://(.*?)"]]></expres>
+<page>https://avezy.tk/</page>
 <Agent>Mozilla</Agent>
 </regex>
-<thumbnail>http://www.redeneobux.com/wp-content/uploads/2015/03/p2p-streams-xbmc-kodi-addon-1.png</thumbnail>
 <fanart>http://cdn2.hubspot.net/hub/360031/file-1957232534-jpg/study-schedule-for-ACT-SAT.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
 </item>
 
 
