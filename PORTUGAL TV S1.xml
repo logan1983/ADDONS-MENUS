@@ -40,21 +40,8 @@
 <thumbnailhttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
 <item>
  
- 
- <item>
-<title>[COLOR=white] [B] RTP PLAY [/B] [/COLOR]</title>
-<fanart>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</fanart>
-<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</thumbnail>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.rtpplay/?url=http%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto&amp;mode=1&amp;name=%5BCOLOR+white%5D%5BB%5DAo+rtp diretos%5B%2FB%5D%5B%2FCOLOR%5D</jsonrpc>
- 
- 
-<item>
-<title>[COLOR white][B][I] RTP 1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/teamblue.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
+
+
  
  
  <item>
@@ -65,13 +52,6 @@
 <item>
 
 
-<item>
-<title>[COLOR=white][B][I] RTP 2 [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/teamblue.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
-<thumbnail>http://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-
 
 <item>
 <title[COLOR white][B][I]  RTP 3[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
@@ -80,13 +60,6 @@
 <thumbnailhttp://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
 <item>
 
-
-<item>
-<title>[COLOR white][B][I] RTP 3 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://revendedor.amxiptv.club:8000/live/antonioR21092016/21092016antonioR/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -RTP 3 LOGAN</link>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
 
 <item>
 <title[COLOR white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
@@ -105,7 +78,15 @@
 <item> 
  
 
-
+ <item>
+<title>[COLOR=white] [B] RTP PLAY [/B] [/COLOR]</title>
+<fanart>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</fanart>
+<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</thumbnail>
+<link>http://ignore.me</link>
+<jsonrpc>plugin://plugin.video.rtpplay/?url=http%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto&amp;mode=1&amp;name=%5BCOLOR+white%5D%5BB%5DAo+rtp diretos%5B%2FB%5D%5B%2FCOLOR%5D</jsonrpc>
+ 
+ 
+ 
 
 <item>
 <title>[COLOR white][B][I]  SIC  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
@@ -158,7 +139,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3590.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC NOTICIAS LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://ns339063.ip-46-105-115.eu:8000/live/iptv1790/179065287/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC NOTICIAS LOGAN</link>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item> 
@@ -245,7 +226,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC MULHER LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC MULHER LOGAN</link>
 <thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -282,6 +263,7 @@
 <item>
 <title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI REALITY LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3628.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI REALITY LOGAN</link>
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
 </item>
 
@@ -319,7 +301,7 @@
 
 <item>
 <title>[COLOR white][B][I] KITCHEN HD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://5.199.161.135:8000/live/banani/banani/4506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
 <thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/24kitchen/logo.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -329,7 +311,7 @@
 
 <item>
 <title>[COLOR white][B][I] KITCHEN HD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://portalipt.ddns.net:12000/live/mustafa/mustafa/12496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/1111/1111/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
 <thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/24kitchen/logo.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -376,7 +358,7 @@
 
 <item>
 <title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -392,7 +374,7 @@
 <item>
 <title>[COLOR white][B][I] TVCINE 2 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV) [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3617.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3617.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -411,7 +393,7 @@
  
 <item>
 <title>[COLOR white][B][I] TVCINE 3 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item> 
@@ -421,7 +403,7 @@
 <item>
 <title>[COLOR white][B][I] TVCINE 4 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4HD.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -431,7 +413,7 @@
 <item>
 <title>[COLOR white][B][I] TVCINE 5 SERIES HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
 <thumbnail>http://www.bantumen.com/wp-content/uploads/2015/07/tvcine-840x420.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -449,7 +431,7 @@
 <item>
 <title>[COLOR white][B][I] FOX Crime HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
 <thumbnail>http://www.hypptv.info/wordpress/wp-content/uploads/fox_crime_asia_hd.gif</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -457,7 +439,7 @@
 
 <item>
 <title>[COLOR white][B][I] FOX Life HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
 <thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -485,7 +467,7 @@
 <item>
 <title>[COLOR white][B][I] NICKELODEON [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://163.172.30.64:8789/live/1111/1111/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
 <thumbnail>http://www.kidvertisers.com/images/biglogo_nickelodeon.gif</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -500,7 +482,7 @@
 
 <item>
 <title>[COLOR white][B][I] SIC KIDS HD:2 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC K LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC K LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -508,7 +490,7 @@
 <item>
 <title>[COLOR white][B][I]  CANAL PANDA [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
 <thumbnail>https://yt3.ggpht.com/-ubWyeh3t5E0/AAAAAAAAAAI/AAAAAAAAAAA/gQO3Nla8KiM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -524,7 +506,7 @@
 
 <item>
 <title>[COLOR white][B][I]  DISNEY JUNIOR [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3548.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3548.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
 <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a6/32/93/a632933d32b39a078b033604ada8f70f.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -562,7 +544,7 @@
  
 <item>
 <title>[COLOR=white][B][I] DISCOVERY CHANNEL [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3608.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3609.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
 <thumbnail>https://i.ytimg.com/vi/Tsbi0vU-WQE/maxresdefault.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <item>
@@ -570,7 +552,7 @@
 
 <item>
 <title>[COLOR=white][B][I] NATIONAL GEOGRAPHIC HD [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.hebergbox.host:6500/live/HIjTUOzY7X/B1M1klFCbY/8406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -579,7 +561,7 @@
 
 <item>
 <title>[COLOR=white][B][I] NAT GEO WILD [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NAT GEO WILD LOGAN</link>
 <thumbnail>http://www.maxmegatvonlinehd.com/wp-content/uploads/2015/07/nat_geo_wild.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -588,7 +570,7 @@
 
 <item>
 <title>[COLOR=white][B][I] ODISSEIA [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -ODISSEIA LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -ODISSEIA LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NAT GEO WILD LOGAN</link>
 <thumbnail>http://www.logotipo.pt/wp-content/uploads/2011/03/logotipoptodisseia.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -597,7 +579,7 @@
 
 <item>
 <title>[COLOR=white][B][I] HISTORIA [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/adam11/adam11/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -HISTORIA LOGAN</link>
+<link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/dream08/info80/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -HISTORIA LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://163.172.42.47:8000/live/antonioR21092016/21092016antonioR/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NAT GEO WILD LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Historia_Logo_2015.png/200px-Historia_Logo_2015.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
