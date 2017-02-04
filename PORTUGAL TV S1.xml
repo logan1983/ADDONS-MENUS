@@ -41,7 +41,7 @@
  
  
  <item>
-<title>[COLOR=white] [B] SIC [/B] [/COLOR]</title>
+<title>[COLOR white][B][I]  SIC  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/sic</sportsdevil>
 <referer>http://ucaster.eu/</referer>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
@@ -190,7 +190,7 @@
 
 
 <item>  
-<title>[COLOR white] [B] AUTO HOJE TV [/B] [/COLOR]</title>
+<title>[COLOR white][B][I] AUTO HOJE TV [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>mms://195.22.25.134/mpltv</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>https://s32.postimg.org/s76r6no6d/ndice.jpg</thumbnail>
@@ -309,7 +309,7 @@
 
 
 <item>
-<title>[COLOR white] [B] AMC [/B] [/COLOR]</title>
+<title>[COLOR white][B][I]  AMC  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -531,7 +531,7 @@
 
 
  <item>
-<title>[COLOR white] [B] EURONEWS [/B] [/COLOR]</title>
+<title>[COLOR white][B][I]  EURONEWS  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
