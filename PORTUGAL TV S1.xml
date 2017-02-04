@@ -31,52 +31,6 @@
 <fanart></fanart>
 </item>
  
- 
- 
- <item>
-<title[COLOR white][B][I]  RTP 1 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevilhttp://istvfree.me/rtp-1-online-em-direto</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnailhttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>
-<item>
- 
-
-
- 
- 
- <item>
-<title[COLOR white][B][I]  RTP 2 [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL)[/COLOR]</title>
-<sportsdevilhttp://www.rtp.pt/play/direto/rtp2</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnailhttp://alcateiadesigngroupnews.files.wordpress.com/2007/03/310.gif</thumbnail>
-<item>
-
-
-
-<item>
-<title[COLOR white][B][I]  RTP 3[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevilhttp://www.sporttvonlinehd.com/index.php?canal=rtp3</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnailhttp://www.tvtuga.com/wp-content/uploads/2013/07/rtp3.jpg</thumbnail>
-<item>
-
-
-<item>
-<title[COLOR white][B][I] RTP MEMORIA [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevilhttp://www.rtp.pt/play/direto/rtpmemoria</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnailhttp://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg</thumbnail>
-<item>
-
- 
- 
-<item>
-<title[COLOR white][B][I]  RTP MADEIRA[/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevilhttp://www.rtp.pt/play/direto/rtpmadeira</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnailhttp://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/08/thumb_rtpMadeira02jpg.jpg</thumbnail>
-<item> 
- 
 
  <item>
 <title>[COLOR=white] [B] RTP PLAY [/B] [/COLOR]</title>
@@ -202,6 +156,14 @@
 </item>
 
 
+<item>
+<title>[COLOR white] [B] CMTV [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
+<referer>http://www.liveflashplayer.net/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR white][B][I] ABOLA TV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
@@ -218,6 +180,21 @@
 <item>
 
 
+<item>
+<title>[COLOR white] [B] ABOLA TV [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/abolatv</sportsdevil>
+<referer>http://www.sporttvsonline.com/</referer>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>
+</item>
+
+
+<item>  
+<title>[COLOR white] [B] AUTO HOJE TV [/B] [/COLOR]</title>
+<link>mms://195.22.25.134/mpltv</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://s32.postimg.org/s76r6no6d/ndice.jpg</thumbnail>
+ </item>
 
 
  <item>       
@@ -228,13 +205,12 @@
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
-
-
 <item>
-<title>[COLOR white][B][I] SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/Manus/Manus/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC MULHER LOGAN</link>
-<thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
+<title>[COLOR white] [B] SIC MULHER [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
 </item>
 
 
@@ -242,8 +218,8 @@
 <item>
 <title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://masteriptv.dnsfor.me:8000/live/manuel/manuel/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC MULHER LOGAN</link>
-<sportsdevilhttp://www.estadiofutebol.com/canalmobile.php?c=sicmulher</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<referer>http://ucaster.eu/</referer>
 <thumbnail>http://1.bp.blogspot.com/-3ibtDNrpXGQ/VR7TDObs-uI/AAAAAAAACNw/N_JvYabLWYo/s245/botaosicmulherlogo.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -329,6 +305,33 @@
 <externallink></externallink>
 <thumbnail>http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/1et.png</thumbnail>
 <fanart></fanart>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] AMC [/B] [/COLOR]</title>
+<link>$doregex[select_Url]</link>
+<regex>
+<name>select_Url</name>
+<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
+<page></page>
+</regex>
+<regex>
+<name>get_sxstream</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<regex>
+<name>get_sxstream1</name>
+<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
+<page>http://www.liveonlinetv247.info/embed/amc.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+<agent></agent>
+</regex>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
 </item>
 
 
@@ -527,7 +530,12 @@
 </item> 
 
 
- 
+ <item>
+<title>[COLOR white] [B] EURONEWS [/B] [/COLOR]</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
+</item>
  
 <item>
 <title[COLOR white][B][I] DISCOVERY CHANNEL [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
