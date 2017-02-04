@@ -38,29 +38,14 @@
 
 
 
-<item>
-<title>[COLOR=white] [B] RTP 1 [/B] [/COLOR]</title>
-<sportsdevil>http://istvfree.me/rtp-1-online-em-direto</sportsdevil>
-<referer>http://www.rtp.pt/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=white] [B] RTP 2 [/B] [/COLOR]</title>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
-<referer>http://www.rtp.pt/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white] [B] RTP 3 [/B] [/COLOR]</title>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://s20.postimg.org/i21rf4drx/rtp_3_pt.png</thumbnail>
-<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8|User-Agent=AppleCoreMedia/1.0.0.13A452 (iPhone; U; CPU OS 9_0_2 like Mac OS X; en_gb)</link>
-</item>
+ <item>
+<title>[COLOR=white] [B] RTP PLAY [/B] [/COLOR]</title>
+<fanart>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</fanart>
+<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</thumbnail>
+<link>http://ignore.me</link>
+<jsonrpc>plugin://plugin.video.rtpplay/?url=http%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto&amp;mode=1&amp;name=%5BCOLOR+white%5D%5BB%5DAo+rtp diretos%5B%2FB%5D%5B%2FCOLOR%5D</jsonrpc>
+ 
+ 
 
 
 <item>
