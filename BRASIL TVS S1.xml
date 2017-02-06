@@ -1,1047 +1,1520 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-<item>       
-<title>  [COLOR lime] •S1 UPDATE 06-02-2017 BY LOGAN  [/COLOR]  </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
+#EXTM3U
+#EXTINF:0 channelId="-1" tvg-logo="http://i.imgur.com/QBbZPwG.jpg" , = BY LOGAN TV ===
+tvg-logo="http://i.imgur.com/QBbZPwG.jpg",= BY LOGAN TV ===
 
 
 
+#EXTINF:0 channelId="-1" tvg-logo="http://eltex.nsk.ru/upload/resize_cache/iblock/985/34_34_2/iptv.png" ,  GENERALISTAS
+tvg-logo="http://eltex.nsk.ru/upload/resize_cache/iblock/985/34_34_2/iptv.png",  GENERALISTAS
 
 
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo 
+http://200.194.238.226:5000/live/x16t_rbs/playlist.m3u8
 
-<item>       
-<title>                         [COLOR blue] BY LOGAN TV:1 [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://i.imgsafe.org/fe957d1165.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item> 
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo 
+http://91.205.174.38:8081/look/globo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo
+http://173.236.10.10:1935/redecanaisbobo/redecanaisbobo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT SP
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT SP HD
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="Canais abertos" pltv-subgroup="Portugues", SBT
+http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/aA6t9hY419/epL7xgiBiQTd8GNk.png" group-title="CANAL ABERTO",SBT PI 
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/RS48KvdxvK/PSON9qyrOrW9d3Za.png" group-title="CANAL ABERTO", SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT RS
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r3seqz92l/SBT.png" group-title="TV Aberta",SBT Recife
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band SP
+http://200.194.238.226:5000/live/x16t_band/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band Pará
+http://evce.mm.uol.com.br:1935/band/band.smil/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-dOES3chGXMs/TWLSmk9eiKI/AAAAAAAACKQ/68k5Zhn2RcE/s1600/New_logo_band_20101.png" group-title="band",BAND VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png Band" group-title="",Band 
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/sR9hSAYmhq/eyVOxg3CkXmhVvFZ.png" group-title="CANAL ABERTO",REDETV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/r2wU9uyHvS/L8At8iKsPCP7tRGt.png" group-title="CANAL ABERTO",REDETV RN
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV PR
+http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://lut.im/dVGvRFx4zd/9DR8ZGuDFAvXaMcp.png" group-title="CANAL ABERTO",REDETV ARAPUAN -  PB
+http://mediacp.ciclanohost.com.br:1935/8064/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/A5lt2LXanv/Lfwm9l9SZfzOfoi9.png" group-title="JORNALISMO", RECORD NEWS TO
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/P0XMqwI.jpg" group-title="ABERTAS-NOTICIAS",RECORD NEWS
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="CANAL ABERTO", RECORD 
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/44uGKRTU0x/96UUnFZAYBfXuppf.png" group-title="CANAL ABERTO", TV Vitoria RECORD ES HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto", Record HD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto" , Record (AM)
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2143012/e/0_dm4rwkh4/t/BEPMXlN7c-EKVDYFPMUGzg/index-s32-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://rederecord.r7.com/files/2011/08/recordHD1.jpg" group-title="canal aberto" , Record (PB)
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/redemeionorte.png" group-title="Abertos", Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/39pLYC1PRJ/0pjAT8CBbwj7fYMU.png" group-title="CANAL ABERTO", TV CORREIO PB
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title="CANAL ABERTO", REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title="Canais abertos", REDE FAMILIA
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/2R3A4U7Abd/P3uLvqZ8Xpuaf2B7.png" group-title="CANAL ABERTO", LIVRE TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/5vZQuLLt8w/sNvwtlfliDFCyHfX.png" group-title="CANAL ABERTO", MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/ywPwtyRjKD/3gCocou245KVB3nH.png" group-title="CANAL ABERTO",TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://famososnaweb.com/wp-content/uploads/2014/06/Logo-G-Gazeta-2014-e1394566177583.jpg" group-title="Canais Abertos",TV Gazeta
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/jy9ug0er1/TV_Gazeta.png" , TV Gazeta
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="CANAL ABERTO", TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FRwvfI-C_FA/U5crLqzLcCI/AAAAAAAAEGY/HLScmFMnEDo/s1600/tv-futura.fw.png" group-title="Canais Abertos",TV Futura
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-FRwvfI-C_FA/U5crLqzLcCI/AAAAAAAAEGY/HLScmFMnEDo/s1600/tv-futura.fw.png" group-title="CANAL ABERTO", FUTURA TV UP HD
+http://caikron.com.br:8081/unipar/tvup/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/z07gtsm99/TV_Cultura.png" group-title="TV Aberta",TV Cultura
+http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" group-title="CANAL ABERTO", TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-5fvxfxmJzog/VckWKg5QLtI/AAAAAAAAAvI/HGnvLZ2q_4o/s400/TVSomZoom.jpg" group-title="CANAL ABERTO",TV SOM ZOOM
+http://srv3.zoeweb.tv:1935/z443-live/stream1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV Aberta",TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/4LeikAY7IP/CmMDuTuJ9MVPbJIc.png" group-title="CANAL ABERTO", REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://s20.postimg.org/bw7017iy5/TV_Brasil.png" group-title="TV Aberta",TV Brasil
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-logo="http://s20.postimg.org/bw7017iy5/TV_Brasil.png" group-title="TV Aberta",TV Brasil HD
+http://liveabr2.sambatech.com.br/abr/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/AIywZYNCnM/JNmQMcJ3hr5OQlg5.png" group-title="CANAL ABERTO", NGT - TVTC
+http://streaming59.sitehosting.com.br:1935/tvtc/_definst_/tvtc/chunklist_w2043059567.m3u8
+
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/axul05l4l/TV_Paran.jpg" group-title="TV Aberta",TV Paraná
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Yp-BrHpa-SQ/Uk26K2QOOPI/AAAAAAAAAEQ/UyV0XDl3Wdc/s400/tvjustiça.png" group-title="CANAL ABERTO", TV JUSTIÇA
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="TV Aberta",TV Medicina & Saúde
+http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title="CANAL ABERTO", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/gdUIR2tVzW/KMReXh3bBL0Khhlp.png" group-title="REGIONAIS", TV APERIPÊ
+http://cdn-br-002938543.comets.com.br/tvaperipe/aovivo/chunklist_w1894049196.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/z56eF3FMrt/eRrr26Z3xGz3ePPy.png" group-title="CANAL ABERTO", TV UNIÃO
+http://38.96.175.108:1935/tvuniao/tvuniao/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/8kWElvKu3g/M7UKLyqqpkUWss2B.png" group-title="CANAL ABERTO", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?IPTVBRASILHD
+
+#EXTINF:-1 tvg-logo="https://lut.im/8vKdYbyXez/OVc98UkvjPozTTS5.png" group-title="CANAL ABERTO", E-PARANÁ
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="CANAIS", AGRO BRASIL
+http://192.99.101.129:1935/agrobrasiltv/agrobrasiltv_720p/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/60/Logo_AgroBrasilTV.jpg" group-title="CANAIS", AGRO CANAL 
+http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sUUeGc" group-title="Canais BR", TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo=""group-title="canal aberto",Ricos
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="canal aberto",CANAL SAUDE
+http://gbbrlive2.sambatech.com.br:80/liveevent/CanalSaude_1d664cc5aa583759e0550c79d8e4e5b8/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/nUgDVTyQgd/vukvGGlWGji1gOXR.png" group-title="CANAL ABERTO", SHOPTIME
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/3pzwDPiAa2/b5lFOJ5g19hvjTDG.png" group-title="CANAL ABERTO", AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/SOPtBc9rxD/a21WCnGZh58XW1Sb.png" group-title="CANAL ABERTO", G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/rjohkemCX3/Kp1IiI2SW2tTW8pL.png" group-title="WEBTV",TV GUARANY
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/PqXSFJm4o8/mSOTTt1UlJH0x9Fl.PNG" group-title="CANAL ABERTO", TVE BAHIA - TV BRASIL
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvestudiobrasil.com/wp-content/uploads/Logomarca300x160-1.png" group-title="CANAL ABERTO",TV ESTÚDIO BRASIL
+http://45.43.208.2:1935/tvestudiobrasil/tvestudiobrasil/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/YsRgTjnDOO/E4nuHDIFHqY6mBmY.png" group-title="WEB TV", WEB TV VIA MORENA
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://dezoito.com/site/wp-content/uploads/2014/03/tv-aberta-logo1-805x525.jpg" group-title="" TV ABERTA SP
+http://108.168.175.138:1935/tvabertalive/tvabertalive/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Y63tt-XJap0/AAAAAAAAAAI/AAAAAAAAAAA/Y5GN_v-zHnU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tboanapolis.com/img/tbo.png" group-title="WEBTV",TBO ANAPOLIS
+http://173.236.10.10:1935/tboanapolis/tboanapolis/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvpantanalms.com.br/images/logo_menor.png" group-title="WEBTV",TV PANTANAL
+http://78.46.36.212:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2010/04/canal-do-boi.jpg" group-title="TV Aberta",Canal Do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-0UHIHRw4PJ4/VcPt6fCjWaI/AAAAAAAAIY0/xjaeDVod51k/s1600/LogoCanalRuralPNG.png" group-title="TV Aberta",Canal Rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.padrereginaldomanzotti.org.br/cache/expansao/tv-foz-foz-dQS5A.jpg",FOZ TV
+http://gw01.7idi.com:8087/hls/foztv.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hTOl09Q.png" group-title="ABERTAS-NOTICIAS",MULTI TV
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/kKxu5SnI7R/l0kMU9FixWdq3Yk7.jpg" group-title="WEBTV", TV BIRIGUI
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qAo25SS.png" group-title="ABERTAS-NOTICIAS",LIVRE TV
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gazetadevotorantim.com.br/arquivos/noticias/18734/14993ef29fbc95203538f7452e655bfe.jpg",TV VOTORANTIM
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1923801888/logo_face_e_twitter.jpg",ADONAI TV
+http://wse8.player.tv.br:1935/adonaitv/adonaitv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CRjrQO68i56DOsk2gekuGVbNdvUZRlD8SilN5GPfw0T2A1Kn",TV RIO NOROESTE
+http://wpc.17585.edgecastcdn.net:80/hls-live/2017585/default/canaldagente/canaldagente.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-76jIdTy2sS4/UKK4gm09omI/AAAAAAAAAGE/4XP5hitnPqY/s1600/TV+RIO.png",CANAL TV RIO
+http://104.156.60.74:1935/canaltvrio/canaltvrio/live.m3u8
+
+#EXTINF:-1 tvg-logo"https://i0.wp.com/mariapina.es/wp-content/uploads/2016/10/97397_2.png?resize=405%2C270",FEB TV
+http://plenus6000.com:1935/febtv1/febtv1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s23.postimg.org/bxsx521vv/download.png" group-title="TV Aberta",Rede Minas
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s14.postimg.org/q5ktdtgxt/TV_Goi_s.jpg" group-title="TV Aberta",TV GOÍAIS
+http://painelvj.com.br:1935/tvgoias/tvgoias.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K5NXEII.png" group-title="Portugues", MIX TV HD
+http://abr.mixtv.upx.net.br/1352/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-group="TV Aberta" tvg-logo="http://s20.postimg.org/pirdnrjxp/SESC_TV.png" , SESC TV
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i291.photobucket.com/albums/ll292/blogodorium/album2010/AudienciadaTv2009.jpg" group-title="CANAIS RELIGIOSOS",[COLOR gold](CANAIS RELIGIOSOS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="Evangélicos", Vem & Vê TV
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv/livestream.m3u8
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="Evangélicos",VEM E VÊ TV 1
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv3/livestream.m3u8
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="Evangélicos",VEM E VÊ TV 2
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-id="http://i.imgur.com/yIyAemJ.png" tvg-logo="" group-title="Evangélicos",VEM E VÊ TV 3
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+
+#EXTINF:-1 group-title="Canais de Variedades" tvg-logo="",TV FÁTIMA
+http://stmv2.euroti.com.br:1935/tvfatimatb/tvfatimatb/live.m3u8?Compartilhandolink
+
+#EXTINF:0,TV DIVINA MISERICÓRDIA
+http://177.124.131.250:1935/b108/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s14.postimg.org/k9exx981d/Rede_S_culo_21.png" group-title="Religiosos",Rede Século 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/3CWGTn" group-title="TV Aberta",TV EVANGELIZA
+rtmp://tvevangelizar01.crossdigital.com.br/evangelizar/tv
+
+#EXTINF:-1 tvg-logo="https://lut.im/4dpYzeY5ga/LxqrxrjkXcIeOSn1.png" group-title="RELIGIOSO", TV APARECIDA
+http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/bBrQSFqK33/hf10xiHhdZvx5Y2y.png" group-title="RELIGIOSO", CANÇÃO NOVA
+http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/athr2e65p/TV_Can_o_Nova.png" group-title="Religiosos",TV Canção Nova HD
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/M6XzAMj8cC/hpRcOL0Jv7rvMGmH.png" group-title="RELIGIOSO",REDE GOSPEL
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/KYnEXhyYhC/p67CCl1OZjgtFplG.png" group-title="RELIGIOSO",RIT
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/iCpjYuGEYQ/w22enlsIB8F9IoqV.png" group-title="RELIGIOSO",IMPD TV
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/wJnpc56UYN/SxZIwjQckIaSaQaX.png" group-title="RELIGIOSO",TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w128671060_b256000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-nkkojQhTQm4/VLVSwA8vm6I/AAAAAAAAP7A/vhouf-U_jHo/s1600/19-11-2007_14-40-53logo%2B2.bmp" group-title="" ,BOAS NOVAS
+http://api.new.livestream.com:80/accounts/722680/events/2457479/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/87/Logo-cjc-canal-da-juventude-crista.png group-title="",CANAL DA JUVENTUDE CRISTÃ
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@389008/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hvwwcq4cp/boavontadetv.png" group-title="Religiosos",Boa Vontade TV
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s22.postimg.org/7wnx3ndht/TV_Louvar.png" group-title="Religiosos",TV Louvar
+http://173.236.10.10:1935/renascer/renascer/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/v8fioif1p/Igreja_Online.jpg" group-title="Religiosos",Igreja Online TV
+http://195.22.19.179:1935/igronl/igronline2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/63oib3fl9/TV_Verdade.jpg" group-title="Religiosos",TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/njiocsejx/TV_a_Caminho_da_Luz.jpg" group-title="Religiosos",TV a Caminho da Luz
+http://streaming50.sitehosting.com.br:1935/angra/angra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-dTa0O1XNrfs/UOYNzCOrjtI/AAAAAAAAH0Q/OXGQL7kKsKQ/s1600/terceiro_anjo.png" group-title="Religiosos",TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.donome.com.br/wp-content/uploads/2012/05/Master-TV-TV-Online-Pela-Internet-410x219.jpg",MASTER TV
+http://wowza.catve.com.br:1935/live2/livestream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://farm9.staticflickr.com/8008/29086517776_a959f93e80.jpg",CANAL UM EUROPA
+http://nossatvhls01-lh.akamaihd.net:80/i/nossatv_hls@366619/index_600_av-p.m3u8
 
- 
-   
+#EXTINF:0,CANAL DAS IGREJAS
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@381920/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://vejonatv.com.br/images/posters_alternativos/showdafe.jpg" group-title"",CANAL SHOW DA FÉ
+http://nossatvhls02-lh.akamaihd.net:80/i/nossatv_hls@381916/index_600_av-p.m3u8
+
+#EXTINF:0,REDE GÊNESIS
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hsnwlbh65/TV_Universal.jpg" group-title="Religiosos",TV Universal
+http://api.new.livestream.com/accounts/4486152/events/2780306/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/j1yr3lukp/REDE_SUPER.png" group-title="Religiosos",Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-mtf-UNEK5SA/AAAAAAAAAAI/AAAAAAAAAAA/ITiiEvIRsx8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",WEB TV LEÃO DE JUDÁ
+http://streaming42.sitehosting.com.br:1935/juda/juda/live.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/5fpobb4j1/cwbtv.png" group-title="Religiosos",CWB TV
+http://38.96.175.108:1935/cwbtv/cwbtv/playlist.m3u8
+
+#EXTINF:-1,SHALOM WORLD
+http://wpc.faa3.edgecastcdn.net:80/80FAA3/shalom/LIVE01B-1VKNY5L2PYDF/live_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2013/04/catholic-tv.jpg",CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/5c/2d/95/5c2d95b35c59c299fa3db77718de5fd7.jpg",EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/900.mp4/livestream.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-1VVpovNOV0k/UmcFVA62ugI/AAAAAAAAAL8/4gBlzko_rWQ/s1600/Logo%2BEsporte%2BNot%C3%ADcias.png" group-title="CANAIS DE ESPORTES",[COLOR gold](CANAIS DE ESPORTES)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jwerczf61/Premiere_Combate.png" group-title="Esportes",Combate HD
+http://live.hls.globo.com/dvr/m/cbt24ha/playlist.m3u8?h=0401749423785012345678914383837859876543210q88Q5ilA2rWunikfHMtmcg&k=html5&u=&a=A
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/band-sports.png",BAND SPORTS 
+http://ev.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/pU5j4pYK8D/W8yObJT7bRPdH0gH.png" group-title="ESPORTES", ESPORTE INTERATIVO
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4v476zfkd/eimaxx.png" group-title="Esportes", EI MAX HD
+http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/xm10x1le5/eimaxx2.png" group-title=" group-title="ESPORTES", EI MAXX 02
+http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0032_fox_sports.png" group-title="Esportes", Fox sports
+http://91.205.174.38:8081/look/foxsport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0032_fox_sports.png" group-title="Esportes", Fox sports
+http://hls.megadash.xyz/s/foxsportsbrasil535/oe69e.m3u8?h=a9BX4GPzpdvfM8KzqemF4A
   
- 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 1</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 2</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/840.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 3</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 4</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 5</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 6</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 7</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 8</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 9</link> 
-        </item> 
-          <item> 
-            <title>BIG BROTHER BRASIL BBB - CAMERA 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIG BROTHER BRASIL BBB - CAMERA 10</link> 
-        </item> 
-          <item> 
-            <title>TV ANHANGUERA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/834.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV ANHANGUERA HD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO SP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO SP HD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO RJ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO RJ HD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO MG HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO MG HD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO VITORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO VITORIA</link> 
-        </item> 
-          <item> 
-            <title>GLOBO NORDESTE- HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO NORDESTE- HD</link> 
-        </item> 
-          <item> 
-            <title>SBT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>SBT SP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=SBT SP HD</link> 
-        </item> 
-          <item> 
-            <title>REDE RECORD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDE RECORD HD</link> 
-        </item> 
-          <item> 
-            <title>REDE RECORD.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDE RECORD.</link> 
-        </item> 
-          <item> 
-            <title>RECORD.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD.</link> 
-        </item> 
-          <item> 
-            <title>BAND HD PR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND HD PR</link> 
-        </item> 
-          <item> 
-            <title>BAND REDE-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND REDE-</link> 
-        </item> 
-          <item> 
-            <title>REDE TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/414.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDE TV HD</link> 
-        </item> 
-          <item> 
-            <title>TV CULTURA.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CULTURA.</link> 
-        </item> 
-          <item> 
-            <title>CANAL RURAL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL RURAL.</link> 
-        </item> 
-          <item> 
-            <title>NBR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/763.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBR</link> 
-        </item> 
-          <item> 
-            <title>TV APARECIDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV APARECIDA</link> 
-        </item> 
-          <item> 
-            <title>TV GAZETA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GAZETA</link> 
-        </item> 
-          <item> 
-            <title>REDE BRASIL-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDE BRASIL-</link> 
-        </item> 
-          <item> 
-            <title>GLOBO NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS HD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO NEWS-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO NEWS-</link> 
-        </item> 
-          <item> 
-            <title>TV GLOBO INTERNACIONAL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO INTERNACIONAL.</link> 
-        </item> 
-          <item> 
-            <title>TV GLOBO INTERNACIONAL-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GLOBO INTERNACIONAL-</link> 
-        </item> 
-          <item> 
-            <title>RECORD NEWS.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS.</link> 
-        </item> 
-          <item> 
-            <title>BAND NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND NEWS HD</link> 
-        </item> 
-          <item> 
-            <title>BAND NEWS INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND NEWS INTERNACIONAL</link> 
-        </item> 
-          <item> 
-            <title>CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
-        </item> 
-          <item> 
-            <title>BAND SPORTS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND SPORTS HD</link> 
-        </item> 
-          <item> 
-            <title>BAND SPORTS.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=BAND SPORTS.</link> 
-        </item> 
-          <item> 
-            <title>FOX SPORTS-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS-HD</link> 
-        </item> 
-          <item> 
-            <title>FOX SPORTS.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS.</link> 
-        </item> 
-          <item> 
-            <title>FOX SPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FOX SPORTS. 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX SPORTS. 2</link> 
-        </item> 
-          <item> 
-            <title>SPORTV  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV  HD</link> 
-        </item> 
-          <item> 
-            <title>SPORTV-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV-</link> 
-        </item> 
-          <item> 
-            <title>SPORTV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2 HD</link> 
-        </item> 
-          <item> 
-            <title>SPORTV 2-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 2-</link> 
-        </item> 
-          <item> 
-            <title>SPORTV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3 HD</link> 
-        </item> 
-          <item> 
-            <title>SPORTV 3-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV 3-</link> 
-        </item> 
-          <item> 
-            <title>ESPN BRASIL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN BRASIL HD</link> 
-        </item> 
-          <item> 
-            <title>ESPN BRASIL- HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN BRASIL- HD</link> 
-        </item> 
-          <item> 
-            <title>ESPN BRASIL- SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN BRASIL- SD</link> 
-        </item> 
-          <item> 
-            <title>ESPN- HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN- HD</link> 
-        </item> 
-          <item> 
-            <title>ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN</link> 
-        </item> 
-          <item> 
-            <title>ESPN + HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN + HD</link> 
-        </item> 
-          <item> 
-            <title>ESPN +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPN +</link> 
-        </item> 
-          <item> 
-            <title>ESPORTE INTERATIVO - HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESPORTE INTERATIVO - HD</link> 
-        </item> 
-          <item> 
-            <title>EI MAXX - HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=EI MAXX - HD</link> 
-        </item> 
-          <item> 
-            <title>EI MAXX - 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=EI MAXX - 2 HD</link> 
-        </item> 
-          <item> 
-            <title>COMBATE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMBATE HD</link> 
-        </item> 
-          <item> 
-            <title>COMBATE-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMBATE-</link> 
-        </item> 
-          <item> 
-            <title>ALL SPORTS BR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALL SPORTS BR</link> 
-        </item> 
-          <item> 
-            <title>MULTISHOW HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTISHOW HD</link> 
-        </item> 
-          <item> 
-            <title>MULTISHOW-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=MULTISHOW-</link> 
-        </item> 
-          <item> 
-            <title>MTV-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV-HD</link> 
-        </item> 
-          <item> 
-            <title>OFF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=OFF</link> 
-        </item> 
-          <item> 
-            <title>VIVA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIVA HD</link> 
-        </item> 
-          <item> 
-            <title>VIVA-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIVA-</link> 
-        </item> 
-          <item> 
-            <title>BIS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIS</link> 
-        </item> 
-          <item> 
-            <title>VH1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 HD</link> 
-        </item> 
-          <item> 
-            <title>VH 1 MEGA HITS.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH 1 MEGA HITS.</link> 
-        </item> 
-          <item> 
-            <title>VH1 CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>VH1 SHUFFLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 SHUFFLE</link> 
-        </item> 
-          <item> 
-            <title>ICONCERTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=ICONCERTS</link> 
-        </item> 
-          <item> 
-            <title>FASHION TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=FASHION TV</link> 
-        </item> 
-          <item> 
-            <title>MIX. TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/715.ts&amp;streamtype=TSDOWNLOADER&amp;name=MIX. TV</link> 
-        </item> 
-          <item> 
-            <title>TRUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRUTV</link> 
-        </item> 
-          <item> 
-            <title>MUSIC BOX BRASIL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/762.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUSIC BOX BRASIL.</link> 
-        </item> 
-          <item> 
-            <title>PLAY TV.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAY TV.</link> 
-        </item> 
-          <item> 
-            <title>PRIME BOX BRASIL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIME BOX BRASIL.</link> 
-        </item> 
-          <item> 
-            <title>GLOBOSAT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBOSAT HD</link> 
-        </item> 
-          <item> 
-            <title>GNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=GNT</link> 
-        </item> 
-          <item> 
-            <title>GNT SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=GNT SD</link> 
-        </item> 
-          <item> 
-            <title>COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
-        </item> 
-          <item> 
-            <title>FOX-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX-HD</link> 
-        </item> 
-          <item> 
-            <title>FOX HQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HQ</link> 
-        </item> 
-          <item> 
-            <title>FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
-        </item> 
-          <item> 
-            <title>FX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=FX HD</link> 
-        </item> 
-          <item> 
-            <title>FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=FX</link> 
-        </item> 
-          <item> 
-            <title>FOX ACTION.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ACTION.</link> 
-        </item> 
-          <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>UNIVERSAL CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=UNIVERSAL CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>STUDIO UNIVERSAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=STUDIO UNIVERSAL</link> 
-        </item> 
-          <item> 
-            <title>SONY  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=SONY  HD</link> 
-        </item> 
-          <item> 
-            <title>SONY SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=SONY SD</link> 
-        </item> 
-          <item> 
-            <title>WARNER CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>WARNER CHANNEL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=WARNER CHANNEL.</link> 
-        </item> 
-          <item> 
-            <title>LIFETIME.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIFETIME.</link> 
-        </item> 
-          <item> 
-            <title>AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
-        </item> 
-          <item> 
-            <title>SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>A&amp;E HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E HD</link> 
-        </item> 
-          <item> 
-            <title>TBS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=TBS</link> 
-        </item> 
-          <item> 
-            <title>I-SAT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=I-SAT</link> 
-        </item> 
-          <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
-        </item> 
-          <item> 
-            <title>AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
-        </item> 
-          <item> 
-            <title>CINEMAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMAX HD</link> 
-        </item> 
-          <item> 
-            <title>CINEMAX-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMAX-</link> 
-        </item> 
-          <item> 
-            <title>PARAMOUNT. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT. HD</link> 
-        </item> 
-          <item> 
-            <title>SPACE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPACE HD</link> 
-        </item> 
-          <item> 
-            <title>SPACE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPACE</link> 
-        </item> 
-          <item> 
-            <title>MEGAPIX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGAPIX HD</link> 
-        </item> 
-          <item> 
-            <title>MEGAPIX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGAPIX</link> 
-        </item> 
-          <item> 
-            <title>MAX UP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX UP HD</link> 
-        </item> 
-          <item> 
-            <title>MAX UP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX UP</link> 
-        </item> 
-          <item> 
-            <title>MAX PRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX PRIME HD</link> 
-        </item> 
-          <item> 
-            <title>MAX PRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX PRIME</link> 
-        </item> 
-          <item> 
-            <title>MAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX HD</link> 
-        </item> 
-          <item> 
-            <title>MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX</link> 
-        </item> 
-          <item> 
-            <title>TNT SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT SERIES</link> 
-        </item> 
-          <item> 
-            <title>TNT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT HD</link> 
-        </item> 
-          <item> 
-            <title>TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
-        </item> 
-          <item> 
-            <title>HBO SIGNATURE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE HD</link> 
-        </item> 
-          <item> 
-            <title>HBO SIGNATURE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO SIGNATURE</link> 
-        </item> 
-          <item> 
-            <title>HBO PLUS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO PLUS HD</link> 
-        </item> 
-          <item> 
-            <title>HBO PLUS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO PLUS</link> 
-        </item> 
-          <item> 
-            <title>HBO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO HD</link> 
-        </item> 
-          <item> 
-            <title>HBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO</link> 
-        </item> 
-          <item> 
-            <title>HBO FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO FAMILY HD</link> 
-        </item> 
-          <item> 
-            <title>HBO FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO FAMILY</link> 
-        </item> 
-          <item> 
-            <title>HBO 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 2 HD</link> 
-        </item> 
-          <item> 
-            <title>HBO 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=HBO 2</link> 
-        </item> 
-          <item> 
-            <title>TELECINE TOUCH HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINE TOUCH.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE TOUCH.</link> 
-        </item> 
-          <item> 
-            <title>TELECINE PREMIUM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINE PREMIUM.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE PREMIUM.</link> 
-        </item> 
-          <item> 
-            <title>TELECINE PIPOCA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINE PIPOCA.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE PIPOCA.</link> 
-        </item> 
-          <item> 
-            <title>TELECINE FUN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE FUN HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINE FUN.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE FUN.</link> 
-        </item> 
-          <item> 
-            <title>TELECINE CULT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE CULT HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINE CULT.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE CULT.</link> 
-        </item> 
-          <item> 
-            <title>TELECINE ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINE ACTION.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINE ACTION.</link> 
-        </item> 
-          <item> 
-            <title>TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
-        </item> 
-          <item> 
-            <title>CANAL BRASIL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL BRASIL.</link> 
-        </item> 
-          <item> 
-            <title>BOOMERANG HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG HD</link> 
-        </item> 
-          <item> 
-            <title>DISNEY XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD HD</link> 
-        </item> 
-          <item> 
-            <title>DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>DISNEY JUNIOR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR HD</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY KIDS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY KIDS HD</link> 
-        </item> 
-          <item> 
-            <title>CARTOON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON HD</link> 
-        </item> 
-          <item> 
-            <title>CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>TOONCAST HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOONCAST HD</link> 
-        </item> 
-          <item> 
-            <title>TOONCAST.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOONCAST.</link> 
-        </item> 
-          <item> 
-            <title>NICKLODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKLODEON HD</link> 
-        </item> 
-          <item> 
-            <title>NICK JR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR HD</link> 
-        </item> 
-          <item> 
-            <title>GLOOB- HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOOB- HD</link> 
-        </item> 
-          <item> 
-            <title>GLOOB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOOB</link> 
-        </item> 
-          <item> 
-            <title>HISTORY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>HISTORY CHANNEL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORY CHANNEL.</link> 
-        </item> 
-          <item> 
-            <title>H2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=H2 HD</link> 
-        </item> 
-          <item> 
-            <title>H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/714.ts&amp;streamtype=TSDOWNLOADER&amp;name=H2</link> 
-        </item> 
-          <item> 
-            <title>TLC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC HD</link> 
-        </item> 
-          <item> 
-            <title>TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
-        </item> 
-          <item> 
-            <title>E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
-        </item> 
-          <item> 
-            <title>NATGEO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATGEO HD</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD HD</link> 
-        </item> 
-          <item> 
-            <title>NATGEO WILD-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATGEO WILD-</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY CHANNEL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL.</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY CIVILIZATION.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CIVILIZATION.</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY SCIENCE.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE.</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY HOME &amp; HEALTH - HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME &amp; HEALTH - HD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY HOME &amp; HEALTH-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HOME &amp; HEALTH-</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY THEATER - HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY THEATER - HD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY TURBO.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY TURBO.</link> 
-        </item> 
-          <item> 
-            <title>Discovery Turbo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Turbo HD</link> 
-        </item> 
-          <item> 
-            <title>INVESTIGATION DISCOVERY - HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=INVESTIGATION DISCOVERY - HD</link> 
-        </item> 
-          <item> 
-            <title>ANIMAL PLANET. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL PLANET. HD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO PORTUGAL.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PORTUGAL.</link> 
-        </item> 
-          <item> 
-            <title>GLOBO PREMIUM-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM-</link> 
-        </item> 
-          <item> 
-            <title>RECORD PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/416.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD PT</link> 
-        </item> 
-          <item> 
-            <title>TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>TV CINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/778.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>TV CINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/779.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>TV CINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>TV CINE SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE SERIES HD</link> 
-        </item> 
-          <item> 
-            <title>AMC HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/767.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD - PT</link> 
-        </item> 
-          <item> 
-            <title>AXN HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD - PT</link> 
-        </item> 
-          <item> 
-            <title>AXN BLACK HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD - PT</link> 
-        </item> 
-          <item> 
-            <title>AXN White HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White HD - PT</link> 
-        </item> 
-          <item> 
-            <title>FOX MOVIES FULL HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES FULL HD - PT</link> 
-        </item> 
-          <item> 
-            <title>FOX HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD - PT</link> 
-        </item> 
-          <item> 
-            <title>FOX COMEDY HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY HD - PT</link> 
-        </item> 
-          <item> 
-            <title>FOX CRIME HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD - PT</link> 
-        </item> 
-          <item> 
-            <title>MOV PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV PT</link> 
-        </item> 
-          <item> 
-            <title>HOLLYWOOD- HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD- HD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY SHOW CASE. HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOW CASE. HD - PT</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD. HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD. HD - PT</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO. HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO. HD - PT</link> 
-        </item> 
-          <item> 
-            <title>RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
-        </item> 
-          <item> 
-            <title>RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD</link> 
-        </item> 
-          <item> 
-            <title>RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
-        </item> 
-          <item> 
-            <title>SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
-        </item> 
-          <item> 
-            <title>SIC RADICAL FULL. HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL FULL. HD</link> 
-        </item> 
-          <item> 
-            <title>SYFY FULL. HD - PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY FULL. HD - PT</link> 
-        </item> 
-          <item> 
-            <title>FOX LIFE FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE FULL HD</link> 
-        </item> 
-          <item> 
-            <title>MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
-        </item> 
-          <item> 
-            <title>CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
-        </item> 
-          <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>24 KITCHEN FULL. HD.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN FULL. HD.</link> 
-        </item> 
-          <item> 
-            <title>FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
-        </item> 
-          <item> 
-            <title>MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
-        </item> 
-          <item> 
-            <title>MCM TOP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM TOP</link> 
-        </item> 
-          <item> 
-            <title>MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
-        </item> 
-          <item> 
-            <title>TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/774.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
-        </item> 
-          <item> 
-            <title>SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
-        </item> 
-          <item> 
-            <title>CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
-        </item> 
-          <item> 
-            <title>SPORT TV + FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV + FULL HD</link> 
-        </item> 
-          <item> 
-            <title>SPORTV  PT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV  PT 1</link> 
-        </item> 
-          <item> 
-            <title>SPORTV  PT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV  PT 2</link> 
-        </item> 
-          <item> 
-            <title>SPORTV  PT 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV  PT 3</link> 
-        </item> 
-          <item> 
-            <title>SPORTV  PT 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV  PT 4</link> 
-        </item> 
-          <item> 
-            <title>SPORTV   PT 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV   PT 5</link> 
-        </item> 
-          <item> 
-            <title>BENFICA TV.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV.</link> 
-        </item> 
-          <item> 
-            <title>SPORTING TV FULL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV FULL HD</link> 
-        </item> 
-          <item> 
-            <title>CHELSEA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHELSEA TV</link> 
-        </item> 
-          <item> 
-            <title>REAL MADRID TV.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV.</link> 
-        </item> 
-          <item> 
-            <title>BEIN SPORTS.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS.</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT 2 XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2 XTRA HD</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS</link> 
-        </item> 
-          <item> 
-            <title>PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
-        </item> 
-          <item> 
-            <title>BR PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=BR PFC</link> 
-        </item> 
-          <item> 
-            <title>PREMIERE 24HS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIERE 24HS HD</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 1</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 2</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 3</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 4</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 5</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 6</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 7</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 8</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 9</link> 
-        </item> 
-          <item> 
-            <title>PREMIER - 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIER - 10</link> 
-        </item> 
-          <item> 
-            <title>PREMIERE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIERE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PREMIERE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIERE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PREMIERE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIERE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PREMIERE 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.tvdigitalsbl.net:8081/live/netiptv482/482/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIERE 5 HD</link> 
-        </item> 
+#EXTINF:-1 tvg-logo="https://lut.im/b3hVCvidgz/9JpLSkjA8whmeX39.png" group-title="VARIEDADES", FISH TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8
   
+ #EXTINF:-1 tvg-logo="http://s20.postimg.org/fqjnl02p9/TV_Guarulhos.png" group-title="Esportes",TV Guarulhos
+http://flash1.crossdigital.com.br:1935/476_1/476_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/79k5a2y0d/TV_Guaruj.png" group-title="Esportes",TV Guarujá
+http://wse.transmissaodigital.com:1935/3880/3880/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eqtcpanjh/TV_Geral.png" group-title="Esportes",TV Geral
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="esportes", SporTV 
+http://200.194.238.226:5000/live/x16t_sportv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="",SporTV 2
+http://200.194.238.226:5000/live/x16t_sportv_2_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/lg17li0lp/ESPNBrasil.png" group-title="Esportes",ESPN Brasil
+https://watch.auth.api.espn.go.com/video/auth/media/577e8642edb8b4b540e8b11d/video.m3u8?token=PHBrYW4+CiAgPGlzc3VlZEF0PjIwMTctMDItMDMgMTU6MjE6MjEuNzEwIFVUQzwvaXNzdWVkQXQ+CiAgPHR0bE1zPjYwNDgwMDAwMDwvdHRsTXM+CiAgPGNoYW5uZWw+Ti9BPC9jaGFubmVsPgogIDxhaXJpbmdJZD5OL0E8L2FpcmluZ0lkPgogIDxhZmZpbGlhdGVJZD40ZmVmYTQ3OS1kMWFhLTZkMmItZjU5MC0wMjBiZmZhZjg2OWE8L2FmZmlsaWF0ZUlkPgogIDxTaWduYXR1cmU+Rnl6RldoVmc3ZWk5WmVZOWRpRG03eTdDNnFscDZZaXBXS01RZTF5b0hHOVBCYUFzWVVXZnhhYWtKWG5RL0tNQmtwSGFkL1ZFQ2lHNU9PcEo0YTlBa2c9PTwvU2lnbmF0dXJlPgogIDxhbGlhcz41YzA3ZDAwODJkYjNkNDJmMTRlNTdhZTBhZjAwMzcxODU0YzE3YmQwPC9hbGlhcz4KICA8c2lnbmF0dXJlVHlwZT5KQ0U8L3NpZ25hdHVyZVR5cGU+CiAgPGlzU2lnbmVkPmZhbHNlPC9pc1NpZ25lZD4KPC9wa2FuPg==&apikey=iay88gnrz4un1jiaclo88df33
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uwr0s4kgd/ESPN.png" group-title="Esportes",ESPN
+https://watch.auth.api.espn.go.com/video/auth/media/577e8643edb8b4b540e8b11e/video.m3u8?token=PHBrYW4+CiAgPGlzc3VlZEF0PjIwMTctMDItMDMgMTU6MjE6MjEuNzEwIFVUQzwvaXNzdWVkQXQ+CiAgPHR0bE1zPjYwNDgwMDAwMDwvdHRsTXM+CiAgPGNoYW5uZWw+Ti9BPC9jaGFubmVsPgogIDxhaXJpbmdJZD5OL0E8L2FpcmluZ0lkPgogIDxhZmZpbGlhdGVJZD40ZmVmYTQ3OS1kMWFhLTZkMmItZjU5MC0wMjBiZmZhZjg2OWE8L2FmZmlsaWF0ZUlkPgogIDxTaWduYXR1cmU+Rnl6RldoVmc3ZWk5WmVZOWRpRG03eTdDNnFscDZZaXBXS01RZTF5b0hHOVBCYUFzWVVXZnhhYWtKWG5RL0tNQmtwSGFkL1ZFQ2lHNU9PcEo0YTlBa2c9PTwvU2lnbmF0dXJlPgogIDxhbGlhcz41YzA3ZDAwODJkYjNkNDJmMTRlNTdhZTBhZjAwMzcxODU0YzE3YmQwPC9hbGlhcz4KICA8c2lnbmF0dXJlVHlwZT5KQ0U8L3NpZ25hdHVyZVR5cGU+CiAgPGlzU2lnbmVkPmZhbHNlPC9pc1NpZ25lZD4KPC9wa2FuPg==&apikey=iay88gnrz4un1jiaclo88df33
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/78biwunwt/ESPN.png" group-title="Esportes",ESPN+
+https://watch.auth.api.espn.go.com/video/auth/media/577e875c1781327bd7064f61/video.m3u8?token=PHBrYW4+CiAgPGlzc3VlZEF0PjIwMTctMDItMDMgMTU6MjE6MjEuNzEwIFVUQzwvaXNzdWVkQXQ+CiAgPHR0bE1zPjYwNDgwMDAwMDwvdHRsTXM+CiAgPGNoYW5uZWw+Ti9BPC9jaGFubmVsPgogIDxhaXJpbmdJZD5OL0E8L2FpcmluZ0lkPgogIDxhZmZpbGlhdGVJZD40ZmVmYTQ3OS1kMWFhLTZkMmItZjU5MC0wMjBiZmZhZjg2OWE8L2FmZmlsaWF0ZUlkPgogIDxTaWduYXR1cmU+Rnl6RldoVmc3ZWk5WmVZOWRpRG03eTdDNnFscDZZaXBXS01RZTF5b0hHOVBCYUFzWVVXZnhhYWtKWG5RL0tNQmtwSGFkL1ZFQ2lHNU9PcEo0YTlBa2c9PTwvU2lnbmF0dXJlPgogIDxhbGlhcz41YzA3ZDAwODJkYjNkNDJmMTRlNTdhZTBhZjAwMzcxODU0YzE3YmQwPC9hbGlhcz4KICA8c2lnbmF0dXJlVHlwZT5KQ0U8L3NpZ25hdHVyZVR5cGU+CiAgPGlzU2lnbmVkPmZhbHNlPC9pc1NpZ25lZD4KPC9wa2FuPg==&apikey=iay88gnrz4un1jiaclo88df33
+
+
+#EXTINF:-1 tvg-logo="http://lnee.com.br/site/images/logos/IeSF_logo.gif" group-title="ESPORTES INTERNACIONAIS",[COLOR gold](ESPORTES INTERNACIONAIS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://alphachannel.tv.br/wp-content/uploads/2015/03/FISH.png",FISH PLUS
+http://streamingbr.com.br:1935/st87-live/st87-live_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.spelaspel.se/wp-content/uploads/2014/04/Viasatsport.png" group-title="ESPORTES INTERNACIONAIS", Viasat Sport
+http://85.118.116.84:80/viasatsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/meg97lm7h/Horse_Brasil_TV.png" group-title="Esportes",Horse Brasil HD
+http://490636978.r.worldcdn.net/490636978/_definst_/horsebrasil1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images9.engageya.com/8e/ec/website_122794/01/cf/01/tvtuga.com.setanta_2Dsports_2Dplus_2_170679_2.jpg" group-title="ESPORTES INTERNACIONAIS", SETANTA SPORTS+
+http://85.118.116.84:80/setantaplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.arax.md/assets/channels/188.png" group-title="ESPORTES INTERNACIONAIS", SETANTA SPORTS
+http://85.118.116.84:80/setanta/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://okteve.com/wp-content/uploads/media/219b37df93e0272dd9f586fa98dd9f51.jpeg" group-title="ESPORTES INTERNACIONAIS", SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES INTERNACIONAIS", SPORT 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2013/07/canal-combate.jpg" group-title="lutas" , Combate
+http://190.57.234.164/V3/6/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGw9HXm8zuTYCXZqv8LPLVEAEIrgtsl_w_pVvE_7NH3tHjudCi" group-title="Esportes",TV Esporte Mais
+http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
+
+#EXTINF:-1  tvg-logo="http://tudotv.tv/fotos/2d8a22bfa2b8e07eb5ad0ed85815fe60.jpg" group-title="Esportes",Eurosport1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES",TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pllt5rw.png" group-title="ESPORTES",ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/musmOsl.png" group-title="ESPORTES",NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cqQlQ4O.gif" group-title="ESPORTES",MOTOR SPORTS
+http://motorsport.hopto.org:8080/ 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1DwScuq.png" group-title="ESPORTES",VERSUS HD
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/Z2fMvcPllL/Uln7zzzHV8ip53wK.png" group-title="ESPORTES", VERSUS (ENG)
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/98gc46P.jpg" group-title="ESPORTES",RED BULL TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ugOfaha.gif" group-title="ESPORTES",EUROSPORT
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Qx9Sgf1.jpg" group-title="ESPORTES",POKER CENTRAL
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/mZoR62iGnA/lleFYQ8dsZLoho0B.jpg" group-title="ESPORTES", POKER CENTRAL (ENG)
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/sQatkv4K24/QgdTCYPgaqe7XVwn.jpg" group-title="ESPORTES", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://media.crossclubebrasil.com.br/news/ESPN_transmite_AMA_Motocross.jpg" group-title="Noticias", ESPN (USA)
+http://208.86.19.123:8080/live/202.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Fox sports 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",Abu Dabi Sport 5 HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://e.i.mundook.net/media/640x480/imagesjpg1307708642.jpg" group-title="Esportes", Spor.TV 
+http://198.255.76.34:8080/sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg" group-title="Esportes", Spor.TV HD(01)
+http://84.227.62.211:9000/play/a03p
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg" group-title="Esportes", Spor.TV HD(02)
+http://84.227.62.211:9000/play/a03o
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/6/6b/SportTVHD.jpg" group-title="Esportes", Spor.TV HD(03)
+http://84.227.62.211:9000/play/a00l
+
+#EXTINF:-1-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnXM3GA0FxY0UrFQwKYKl-A4zdGH_gbsFYKW9MJyZ7hniBPJbGRg" group-title="Esportes",Benfica TV 1
+http://198.255.76.34:8080/benfica1/index.m3u8
+
+#EXTINF:-1, SPORTS USA 
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, DXTV SPORTS
+http://186.33.227.197/DXTV/smil:DXTV.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png" group-title="Canais Internacionais", CANAL 2 HD
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZkYMNG-uvv4/AAAAAAAAAAI/AAAAAAAAAAA/_gDqN8rbxTw/s900-c-k-no/photo.jpg" group-title="Canais Internacionais", Telpin Canal 2 HD Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmgZoXTFEYZwLC4lXW2UR2f1WqiixrLj8c_tCF3hLO-iJUbpHdRw" group-title="CANAIS DE MUSICAS",[COLOR gold](CANAIS DE MUSICAS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-id="Mix TV [Brazil]" tvg-logo="http://s20.postimg.org/jbmv7tfnx/Mix_Tv.png" group-title="Musicas",Mix TV
+http://api.new.livestream.com/accounts/19845366/events/5550262/live.m3u8
+
+#EXTINF:1 tvg-logo="http://i.imgur.com/SOlq1O6.png" group-title="Canais de Variedades",Milk TV BR
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://a3.mzstatic.com/us/r30/Purple62/v4/e3/ef/72/e3ef72ed-5785-734c-0a6b-c9b983028807/icon175x175.png" group-title="CANAIS", VIA MIDIA TV
+http://d3e1993t7xu9fk.cloudfront.net/viamidia/aovivo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lut.im/rH7p3zCNqb/gtYtQg3rvTcfnisz.png" group-title="MUSICA", K-POP TV
+http://167.114.211.85:1935/deivison424/deivison424/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.jornaldamadeira.pt/sites/default/files/mtv.jpg" group-title="musicas" ,MTV
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="Musicas",Hot Music
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/92tgz8tql/kisstv.jpg" group-title="Musicas",Kiss
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnmrHtD8ftFcT0nRzS_-2FRzbRDxB_NHlOS_z8c_R3h1p95EBq2L30B5g" group-title="Musicas",I Concerts HD
+
+#EXTINF:-1, 1HD Music Television
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+
+#EXTINF:0, CAPITAL TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+
+#EXTINF:-1, CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-izxJXFWKKzU/UwNTygBUjmI/AAAAAAAAAP4/R4GvcBglvvk/s1600/multishow.jpg" group-title="musica", MULTISHOW
+http://200.194.238.226:5000/live/x16t_multishow/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/RwrzuLEhkQxbz_ArR_n2RBfsyyDQuHJwmpExDweiNrFIoz-HdGixxa_8qOZvMp3w/g.glbimg.com/og/gs/gsat1/f/original/2014/10/29/bisplay-destaque.jpg group-title="musicas",BIS
+
+#EXTINF:-1 tvg-logo="https://lut.im/8GWlkoeV6n/8Z03YH2qrOdt78d4.png" group-title="MUSICA", TV CLIPES GOSPEL 
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="MUSICA", TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.g2ptv.tv.br/logo.png",G2P TV
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="MUSICA", DIJING IBIZA HD
+http://cdn.djing.com/tv/d-03.m3u8
+
+#EXTINF:-1 tvg-logo="http://us.djing.com/newimages/logo.png" group-title="MUSICA", DIJING ANIMATION
+http://cdn.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.hittv.es/images/logo.png" group-title="MUSICA", HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d9/NRJ_Hits.png" group-title="MUSICA", NRJ HITS - BELJIQUE
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREZjmyiD7tWVaDPBSbomIT4eAauFIj6Wpvh7Xvm_BaxW516T3AbQ" group-title="musicas", TV TOP (O1)
+http://stmv1.euroti.com.br:1935/stmdemo/stmdemo/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREZjmyiD7tWVaDPBSbomIT4eAauFIj6Wpvh7Xvm_BaxW516T3AbQ" group-title="musica",TV TOP (02)
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREZjmyiD7tWVaDPBSbomIT4eAauFIj6Wpvh7Xvm_BaxW516T3AbQ" group-title="musica", TV TOP (03)
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREZjmyiD7tWVaDPBSbomIT4eAauFIj6Wpvh7Xvm_BaxW516T3AbQ" group-title="musica", TV TOP (04)
+http://104.156.60.74:1935/canaltvrio/canaltvrio/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREZjmyiD7tWVaDPBSbomIT4eAauFIj6Wpvh7Xvm_BaxW516T3AbQ" group-title="musica", TOP TV (05)
+http://209.133.205.130:1935/toptv/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/City_tv_bulgaria.gif" group-title="Canais Internacionais" ,CityTV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?Compartilhandolink
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.ligacaoteen.com.br/wp-content/uploads/2014/07/Tooncast-CN20.jpg" group-title="CANAIS DE DESENHOS",[COLOR gold](CANAIS DE DESENHOS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
+http://213.188.51.185:9981/play/a00b
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/e7rgp8w3t/nick.png" group-title="Infantil",Nickelodeon
+
+
+#EXTINF:-1 tvg-logo="" group-title="Canais de Variedades" , TV ONLINE
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/0PkD5Ji20w/LrmgZX4VnJE8z58Q.png" group-title="INFANTIL", DISCOVERY KIDS
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-logo="http://s20.postimg.org/o9v67go09/Discovery_Kids.png" group-title="Infantil",Discovery Kids
+http://31.204.128.117:8081/live/discoverykids/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/nickelodeon.jpg" group-title="Desenhos",Nickelodeon
+http://142.4.219.208:1935/redecanaisnick/redecanaisnick/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/cartoon-network.jpg" group-title="Desenhos", Cartoon Network
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/urLcPA14lU/cfkfKqyGf9mWTYlK.png" group-title="INFANTIL", CARTOON NETWORK
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-7IaTHTRwS_E/TySJlrTtpUI/AAAAAAAAAB0/-l16EWYJYk8/s1600/animeTV.png" group-title="Infantil", ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-7IaTHTRwS_E/TySJlrTtpUI/AAAAAAAAAB0/-l16EWYJYk8/s1600/animeTV.png" group-title="Infantil", ANIME TV (2)
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ubWyeh3t5E0/AAAAAAAAAAI/AAAAAAAAAAA/gQO3Nla8KiM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="desenhos" ,CANAL PANDA
+http://84.227.62.211:9000/play/a01w
+
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="desenhos", GLOOB
+http://187.49.86.238:10000/bysid/94
+
+#EXTINF:-1 tvg-logo="http://www.planetadisney.com.br/wp-content/uploads/2011/03/DisneyJunior.png" group-title="desenhos" ,DISNEY JUNIOR
+http://213.188.51.185:9981/play/a00n
+
+#EXTINF:-1 tvg-logo="http://www.tudoemfoco.com.br/imagens/2013/12/cartoon-network-programacao-2014-5.jpg" group-title="DESENHOS", CARTOON NETWORK
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/07/cartoon-network.jpg" group-title="Desenhos", Cartoon Network
+http://31.204.128.117:8081/live/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/5/A/7/3/2/0/Dlox/CD1.jpg" group-title="DESENHOS", TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_-C_ejcKBFWo/SJsyuzk-x9I/AAAAAAAADlg/8CoV_WI5ORk/s400/Disney+XD.jpg" group-title="DESENHOS", DISNEY CHANNEL
+http://84.227.62.211:9000/play/a018
+
+#EXTINF:-1 tvg-logo="http://www.novasdodia.com.br/wp-content/uploads/2012/02/HBO-signature-azbox-azamerica.jpg" group-title="Desenhos", HBO SIGNATURE
+http://31.204.128.117:8081/live/megapix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://png-1.vector.me/files/images/7/9/798395/history_hd_thumb.png" group-title="Filmes e Séries", History HD
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.tvsky.com.br/new/admin/fotos/tvsky23.jpg" group-title="CANAIS DE FILMES E SERIES",[COLOR gold](CANAIS DE FILMES E SERIES)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="",TNT
+http://200.194.238.226:5000/live/x16t_tnt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.themarysue.com/wp-content/uploads/2016/08/FX-Logo.jpg" group-title="CANAIS", FX
+http://200.194.238.226:5000/live/x16t_fx_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c8pzk1iul/RBX_TV.png" group-title="",RBX
+http://78.129.184.15:3891/streaming/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png",CLASSIQUE TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/ilha.png" group-title="FILMES", TV NA ILHA 
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://goo.gl/auhiJf" group-title="CANAIS", CINEMA TV PLAY
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://xdfilmeseseries.files.wordpress.com/2014/10/the-giver1-600x881.jpg?w=590&h=590&crop=1" group-title="filmes", FILMES 24 HRS
+http://flash1.crossdigital.com.br/ponto10/latina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Ke8LDecQTWA/VjQd-DqSBMI/AAAAAAAAC9o/V_5egndMp3o/s1600/4-29-2015-1-21-26-PM-6174523.jpg" group-title="filmes" ,CINEMAX
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7rlpqry4p/Megapix.png" group-title="",MEGAPIX
+http://200.194.238.226:5000/live/x16t_megapix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.compretvclaro.com.br/blog/wp-content/uploads/2015/07/megapix-claro.jpg" group-title="Filmes Series",MEGAPIX (Opcão2)
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4Qq2b8qTAYQ/T3-RkqGA-iI/AAAAAAAAE5M/iVpauY9qj0E/s1600/FOX%2BHD.png" group-title="Filmes Series", FOX
+http://200.194.238.226:5000/live/x16t_fox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/447" group-title"",TELECINE ACTION
+http://best.dnsfor.me:25461/live/pxU3n6wH7Y/ZAJeQSObE4/1251.ts
+
+#EXTINF:-1 tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="",Telecine Action
+http://200.194.238.226:5000/live/x16t_telecine_action/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertv.net/wp-content/uploads/2016/02/FUN_fundo_claro.jpg" group-title="",TELECINE FUN
+http://200.194.238.226:5000/live/x16t_telecine_fun/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://clarotv.claro.com.br/image/Get/453" group-title="",TELECINE PIPOCA 
+http://200.194.238.226:5000/live/x16t_telecine_pipoca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://edhyghellen.files.wordpress.com/2010/10/tcpremium.gif" group-title="",TELECINE PREMIUM
+http://200.194.238.226:5000/live/x16t_telecine_premium/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112151535-canal-telecine-touch-hd.png" group-title="",TELECINE TOUCH
+http://187.49.86.238:10000/bysid/63 
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="",Telecine Touch
+http://200.194.238.226:5000/live/x16t_telecine_touch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="",SONNY
+http://200.194.238.226:5000/live/x16t_sony/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png", group-title="CANAIS PLUS",WARNER CHANNEL
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tateti.png" group-title="ARGENTINA", TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-6TlvfJ3AZMo/T8edZlaF3cI/AAAAAAAAAJ4/qVA5E76ehdM/s1600/HBO.jpg" group-title"",HBO 2
+http://200.194.238.226:5000/live/x16t_hbo2_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-pzLrR5uHmQw/TvtV3yZNJwI/AAAAAAAAAxY/v-ebpnDLIkQ/s1600/family%2Bbr.jpg" group-title"",HBO FAMILY
+http://200.194.238.226:5000/live/x16t_hbo_family/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2711" , Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus
+http://200.194.238.226:5000/live/x16t_hbo_plus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature
+http://200.194.238.226:5000/live/x16t_hbo_signature/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="",SPACE
+http://200.194.238.226:5000/live/x16t_space/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="",Waner Channel
+http://200.194.238.226:5000/live/x16t_warner/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1719" , Paramount Channel
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/10/CinemaTVPlay-Logo.jpg" group-title="variedades",CINEMA TV PLAY
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/j755s3te1/Sy_Fy.png" group-title="Filmes e Series",Syfy HD
+http://89.109.65.126:4022/udp/239.251.0.93:5501/
+
+#EXTINF:-1 tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Series",Paramount LT
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount
+http://viacomitalytest-lh.akamaihd.net:80/i/sbshdlive_1@195657/index_1200_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.vodafone.pt/NR/rdonlyres/DECE6C2A-7AEF-47BB-A0A2-452D61546683/0/Logo_TVCineeSeries_Vodaf_449x196px.jpg" group-title="Filmes e Séries",TV CINE (01)
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vodafone.pt/NR/rdonlyres/DECE6C2A-7AEF-47BB-A0A2-452D61546683/0/Logo_TVCineeSeries_Vodaf_449x196px.jpg" group-title="Filmes e Séries",TV CINE (02)
+http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-2/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vodafone.pt/NR/rdonlyres/DECE6C2A-7AEF-47BB-A0A2-452D61546683/0/Logo_TVCineeSeries_Vodaf_449x196px.jpg" group-title="Filmes e Séries",TV CINE (03)
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vodafone.pt/NR/rdonlyres/DECE6C2A-7AEF-47BB-A0A2-452D61546683/0/Logo_TVCineeSeries_Vodaf_449x196px.jpg" group-title="Filmes e Séries",TV CINE (04)
+http://78.129.184.15:3891/streaming/stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBjGrHtgwZJdG7PREyX9UAL70Nvih390IriddCLi3GcflLNc6v" group-title="CANAIS DE DOCUMENTARIOS",[COLOR gold](CANAIS DE DOCUMENTARIOS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://www.byutvi.org/content/images/byutv-logo.png" group-title="VARIEDADES", Byu Television HD
+http://byuhd2-lh.akamaihd.net/i/byutvintporthd2_live@103132/master.m3u8?MWINFOwmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?
+
+#EXTINF:-1 tvg-logo="https://maquinadefazerdoido.files.wordpress.com/2011/04/gnt.png?w=388&h=217" group-title="variedades", GNT
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários", RT Documentary Channel
+http://RTCDN.api.visionip.tv/live/ASHTTP/rtcdn-rtcdn-doc-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2jgszuqb93di8.cloudfront.net/IMAGES/00/00/00/290_4207B126F3F18531.png" group-title="varieadade" ,DISCOVERY ID
+
+#EXTINF:-1 tvg-logo="http://www.vectorsland.com/imgd/l7230-discovery-hd-theater-logo-96334.png" group-title="variedades" ,DISCOVERY THEATER
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="",History Channel
+http://91.205.174.38:8081/look/history/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/plh7s2h6x/History_Channel.png" group-title="canais digitalsbl 2",HISTORY CHANNEL HD
+http://200.194.238.226:5000/live/x16t_history/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentarios",H2
+http://5.226.137.3/loadbalance/canal-h2-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/rt.png" group-title="RUSSIA", RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2012/12/canal-hollywood-HD.jpg" group-title="VARIEDADES",,Hollywood HD
+
+#EXTINF:-1 tvg-logo="" group-title="Canais Internacionais",OnceTV
+http://159.203.34.7:8081/rstm/OnceTV/playlist.m3u8?Compartilhandolink
+
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2lbnbd0.jpg",ANIMAL PLANET
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zmdytk.jpg",DW 2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zmdytk.jpg",DW 4
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_4_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2m4ss2f.jpg",DISCOVERY CHANNEL
+http://187.49.86.238:10000/bysid/120
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2m4ss2f.jpg",DISCOVERY CHANNEL
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2m4ss2f.jpg",DISCOVERY CHANNEL
+http://5.226.137.3/loadbalance/canal-discovery-channel-hd/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="341" , Discovery HD
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/7utEIfh26f/ogx65mqAlRB7m8Z5.png" group-title="EUA", DISCOVERY CHANNEL HD EUA (temp)
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/7e56RrpX1R/o5azQfqrk8DY0sAg.png" group-title="EUA", ANIMAL PLANET L!VE HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.arax.md/assets/channels/226.png" group-title="Canais Internacionais", CANAL 3 HD
+http://74.63.97.188:1935/gpacifico1/videogpacifico1/live.m3u8?Compartilhandolink
+
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-pMqL1PKr6bs/UHVV-UTeg8I/AAAAAAAAC4s/gWO_vzo_ksU/s1600/TVI+Internacional+logo.png" group-title="TV INTERNACIONAL",[COLOR gold](TV INTERNACIONAL)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41Bb2x1cL9L.png" group-title="CANAIS", HEARTV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://publicidade.rtp.pt/wp-content/uploads/2016/03/Imagem1olfj-e1457521148746-700x500.png",  RTP 1 
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+
+#EXTINF:-1tvg-logo="http://www.thelogodb.com/images/media/logo/sprrps1460358907.png",  RTP 3 
+http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisiongratis.com.ar/components/com_televisiongratis/images/dw-deutsche-welle-latinoamrica-594.jpg",DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisiongratis.com.ar/components/com_televisiongratis/images/dw-deutsche-welle-latinoamrica-594.jpg",DW
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qwwusv1434076725.png/medium",TVI 
+http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="TCV" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium",TCV 
+http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="TCV" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium",TCV
+http://213.13.26.13:1935/live/rtc_teste/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvi24.iol.pt/images/logotvi24.png" group-title="Internacionais",TVI24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvi24.iol.pt/images/logotvi24.png" group-title="Internacionais",TVI24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvi24.iol.pt/images/logotvi24.png" group-title="Internacionais",TVI24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tvi24.iol.pt/images/logotvi24.png" group-title="Internacionais",tvi24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacionais",Porto Canal
+http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jm1Ypp2KzmM/UwVZ1AUxzfI/AAAAAAAAEi4/zdHkMkYTtsk/s1600/Logo_TVL_TVLisboa1.png",TVL [SD]
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="PORTUGAL", EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.earthhour.org/sites/default/files/euronews-logo.png" group-title="ESPANHOL", EURONEWS ES
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/24-live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.prisa.com/uploads/2016/03/televisao-independente-current-logo.png" group-title="PORTUGAL", TVI PT
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/rYolQcQuV7/2sdrvQwSCtd0wyj1.png" group-title="PORTUGAL", TVI 24
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-3/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/0mgJIxRRyw/PYRS4ya5VmztTPhY.png" group-title="EUA", CBS NEWS HD (KODI)
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/11hxmc7.jpg",FOX 23 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2qwh309.jpg",FOX 30 NEWS
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/256y1w8.jpg",GV NEWS
+rtmp://172.93.110.130:1935/gvnews/ playpath=gvnews swfUrl=http://wse01.logicahost.com.br/wseplugins/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://gvnews.com.br/tv-online-gv-news/
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.gif" group-title="EUA", CNN INTERNATIONAL
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD177L240P/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://seeklogo.com/images/C/CNN-logo-8DA6D1FC28-seeklogo.com.gif" group-title="EUA", CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+
+#EXTINF:- tvg-logo"http://www.atelevisao.com/wp-content/uploads/2014/05/SIC-Not%C3%ADcias.jpg" group-title="noticias" ,Sic Noticias
+
+#EXTINF:-1 tvg-logo="https://lut.im/b1MtH9sOXG/NENpGqayGCCyj8Iv.png" group-title="EUA", H2 EUA
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imoveis.culturamix.com/blog/wp-content/uploads/sites/1/nggallery/canais-de-filmes-da-tv-paga3/canais-de-filmes-da-tv-paga-4.jpg" group-title=,CANAL OFF
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/606133707225718786/N3wDCmg2.png" group-title="EUA", WGN NEWS
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/27wt9jl.jpg",HORSE BRASIL CHANNEL
+rtmp://490636978.r.worldcdn.net/490636978/_definst_/ playpath=horsebrasil1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/horse-brasil-channel
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-nnhbnDDvdOM/T-TGcKkyZlI/AAAAAAAAULU/jhPwmcNM3Uw/s1600/canaldelasestrellas-2012.png" group-title="MEXICO", CANAL DE LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/MuWOQE60Ye/vbTaP0eDEUnUSRsd.png" group-title="MEXICO", FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b2/El_trece_logo.jpg/revision/latest?cb=20120113020918" group-title="MEXICO", AZTECA TRECE
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/EnuqEv8ovX/dLoFkHGUExYwUjU1.png" group-title="ITALIA", RAI NEWS
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/SjANRk53Pp/eArS77PYT546O01N.png" group-title="ITALIA", HISTORY LAB - ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/W3pGaGB2bv/2AtcC21ywagcfdvU.png" group-title="FRANÇA", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tv5monde.png" group-title="FRANÇA",TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://lut.im/gJNC2QyE5E/0H6qgfUBtws62l8j.png" group-title="ARABIC", ALJAZEERA ENGLISH
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",ABC News
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8  
+
+#EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-cnn-logo_092046_CNN_logo.png" group-title="Noticias",CNN HD
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/45iawh419/Euronews_Portugal.jpg" group-title="Noticias",Euronews Portugal
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/drbvcrv71/Euronews_Germany.jpg" group-title="Noticias",Euronews Germany
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/725bwr9v1/Euronews_Espa_ol.jpg" group-title="Noticias",Euronews Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",Bloomberg 
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Noticias",France 24 
+http://f24hls-i.akamaihd.net:80/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cW679hQ.jpg" group-title="ABERTAS-NOTICIAS",FOX NEWS 23 HD
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/65hxAwH.png" group-title="ABERTAS-NOTICIAS",FOX NEWS 30 HD
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jmy9KU6.jpg" group-title="ABERTAS-NOTICIAS",KIRO 7 NEWS HD
+http://cmghlslive-i.akamaihd.net:80/hls/live/224708/KIRO/904k/prog.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qxmR1JE.jpg" group-title="ABERTAS-NOTICIAS",EURONEWS PT
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/wnyw/logo-fox-5-new-york-wnyw-alt.png" , Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1317" tvg-logo=" " , Fox News
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://logok.org/wp-content/uploads/2014/03/CBS-Eye-logo-880x660.png" , CBS
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="http://img.zanda.com/item/43060230000008/1024x768/The_CW_logo.png" , the cw
+http://209.126.106.202:8080/pixii/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Bloomberg.png" group-title="NEWS",BLOOMBERG TV
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M10K.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/1g57a8.jpg",H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-CoB8_ifqY88/Uv0aiJYbkxI/AAAAAAAAATQ/tbp2lZNsmUQ/s1600/profundigital.jpg" group-title="DESENHOS E SERIES 24 HORAS",[COLOR gold](DESENHOS E SERIES 24 HORAS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" group-title="Desenhos 24 Horas",The Simpsons Dublado
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/simpsons.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3q0ya4ebx/SOUTHPARK.png" group-title="Desenhos 24 Horas",South Park Dublado
+rtmp://208.53.164.194/live/ playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ezy9it8r1/THUNDERCATS.png" group-title="Desenhos 24 Horas",ThunderCats Dublado
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bq5lnqzkd/FAMILIADAPESADApng.png" group-title="Desenhos 24 Horas",Family Guy Dublado
+rtmp://208.53.164.194/live/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4r5sczkp9/YU_GI_OH.png" group-title="Desenhos 24 Horas",Yu-Gi-Oh! Dublado
+rtmp://208.53.164.194/live/ playpath=yugioh swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/yugioh.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pk3lnnnv1/PENGUINS_MADAGASCAR.png" group-title="Desenhos 24 Horas",The Penguins of Madagascar Dublado
+rtmp://208.53.164.194/live/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ot5tkrf65/PADRINHOSMAGICOS.png" group-title="Desenhos 24 Horas",The Fairly OddParents Dublado
+rtmp://208.53.164.194/live/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5o7m846tp/SCOOBYDOO.png" group-title="Desenhos 24 Horas",Scooby Doo Dublado
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2k8r839p/JASPION.png" group-title="Desenhos 24 Horas",Jaspion Dublado
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jaspion.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/szqo03erx/NARUTO.png" group-title="Desenhos 24 Horas",Watch Naruto Shippuden Dublado
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eupwvec25/THEFLINTSTONES.png" group-title="Desenhos 24 Horas",The Flintstones Dublado
+rtmp://208.53.164.194/live/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nw4g909zh/PICA_PAL.png" group-title="Desenhos 24 Horas",Woody Woodpecker Dublado
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hv92j7anh/Bleach.png" group-title="Desenhos 24 Horas",Bleach Dublado
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chbleachbr/2012/02/09/4ec860e2-b1b9-4765-8ae6-4ca41ed73ace swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.assistirtvgratisonline.org/canais/bleach.html
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/8yyaf9k19/One_Piece.png" group-title="Desenhos 24 Horas",One Piece Dublado
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chonepeacehd/2012/02/13/ef364302-7cdf-4c9f-ba5b-7c43b09d32e1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.assistirtvgratisonline.org/canais/one-piece.html
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/eb7n4wvn5/Turtles.png" group-title="Desenhos 24 Horas",Teenage Mutant Ninja Turtles Dublado
+rtmp://srv1.iptvonlinebrasil.ml:4722/live/ playpath=tartarugas swfUrl=http://iptvonlinebrasil.rf.gd/swf/player.swf pageUrl=http://iptvonlinebrasil.rf.gd/canais/tartarugas.php token=wReXuqA4eWRa
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/408vuwm9t/The_Amazing_World_of_Gumball.png" group-title="Desenhos 24 Horas",The Amazing World of Gumball Dublado
+rtmp://srv1.iptvonlinebrasil.ml:4722/live/ playpath=gumball swfUrl=http://iptvonlinebrasil.rf.gd/swf/player.swf pageUrl=http://iptvonlinebrasil.rf.gd/canais/gumball.php token=wReXuqA4eWRa
+
+#EXTINF:-1 tvg-logo="http://s30.postimg.org/oj3rzz075/Garfield.png" group-title="Desenhos 24 Horas",Garfield Dublado
+rtmp://srv1.iptvonlinebrasil.ml:4722/live/ playpath=garfield swfUrl=http://iptvonlinebrasil.rf.gd/swf/player.swf pageUrl=http://iptvonlinebrasil.rf.gd/canais/garfield.php token=wReXuqA4eWRa
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vtyvann9p/TOMEJERRY.png" group-title="Desenhos 24 Horas",Tom and Jerry
+rtmp://208.53.164.194/live/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tomejerry.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b111zzk3x/XMEN.png" group-title="Desenhos 24 Horas",X-Men Dublado
+rtmp://208.53.164.194/live/ playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/xmen.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9s3j3hwg9/MUNDODEBOBBYS.png" group-title="Desenhos 24 Horas",Bobby's World Dublado
+rtmp://208.53.164.194/live/ playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bobby.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jg7sf5ci5/DUNGEONS_E_DRAGONS.png" group-title="Desenhos 24 Horas",Dungeons & Dragons Dublado
+rtmp://208.53.164.194/live/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/caverna.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hyviv2mj1/MASCARA.png" group-title="Desenhos 24 Horas",The Mask Dublado
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c1n20ig09/JACK_CHAN.png" group-title="Desenhos 24 Horas",Jackie Chan Adventures Dublado
+rtmp://208.53.164.194/live/ playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jackie.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/65xpquq31/LIGA_DA_JUSTICA.png" group-title="Desenhos 24 Horas",Justice League Dublado
+rtmp://208.53.164.194/live/ playpath=liga swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/liga.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/twjb3qm4t/BATMAN.png" group-title="Desenhos 24 Horas",Batman Dublado
+rtmp://208.53.164.194/live/ playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7mgs0ln1/BEN10.png" group-title="Desenhos 24 Horas",Ben 10 Dublado
+rtmp://208.53.164.194/live/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ben10.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mhtzbd099/BOB_ESPONJA.png" group-title="Desenhos 24 Horas",SpongeBob - SquarePants Dublado
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pfqy527wt/CAVALEIROS_DO_ZODIACO.png" group-title="Desenhos 24 Horas",Os Cavaleiros do Zodíaco Dublado
+rtmp://208.53.164.194/live/ playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/cdz.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/egac776vh/DUCKTALES.png" group-title="Desenhos 24 Horas",DuckTales Dublado
+rtmp://208.53.164.194/live/ playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7ail4qxsd/DOUG.png" group-title="Desenhos 24 Horas",Doug Dublado
+rtmp://208.53.164.194/live/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/doug.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tesr1mlxp/DRAGON_BALL_Z.png" group-title="Desenhos 24 Horas",Dragon Ball Z Dublado
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dbz.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/o7c9awuq5/FAMILIA_DINOSAUROS.png" group-title="Desenhos 24 Horas",Dinosaurs Dublado
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dinossauros.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/l5lh0yhl9/FUTURAMA.png" group-title="Desenhos 24 Horas",Futurama Dublado
+rtmp://208.53.164.194/live/ playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/futurama.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pc6bgah6x/GALINHA_PINTADINHA.png" group-title="Desenhos 24 Horas",Galinha Pintadinha
+rtmp://208.53.164.194/live/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5s1fodcb1/SMALLVILLE.png" group-title="Séries 24 Horas",Smallville Dublado
+rtmp://208.53.164.194/live/ playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/small.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/iai14y9al/SUPERNATURAL.png" group-title="Séries 24 Horas",Supernatural Dublado
+rtmp://208.53.164.194/live/ playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/supernatural.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r6st8vzwt/TODOMUNDOONDEIOCRIS.png" group-title="Séries 24 Horas",Everybody Hates Chris Dublado
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/cris.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5e4p2ihl9/UMMALUCONOPEDA_O.png" group-title="Séries 24 Horas",The Fresh Prince of Bel-Air Dublado
+rtmp://208.53.164.194/live/ playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5t1q6xifh/EUAPATROAEASCRIANCAS.png" group-title="Séries 24 Horas",My Wife and Kids Dublado
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6l4e64mml/GOSSIO_GIRL.png" group-title="Séries 24 Horas",Gossip Girl Dublado
+rtmp://208.53.164.194/live/ playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/gossip.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vvay26x9/HEROES.png" group-title="Séries 24 Horas",Heroes Reborn Dublado
+rtmp://208.53.164.194/live/ playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/heroes.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3uv28xpxp/ICARLY.png" group-title="Séries 24 Horas",iCarly Dublado
+rtmp://208.53.164.194/live/ playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/icarly.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uxxby379p/KENAN_E_KEL.png" group-title="Séries 24 Horas",Kenan & Kel Dublado
+rtmp://208.53.164.194/live/ playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/kenanekel.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pp2b07oul/LOST.png" group-title="Séries 24 Horas",Lost Dublado
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/71u76azrh/PRISONBREAK.png" group-title="Séries 24 Horas",Prison Break Dublado
+rtmp://208.53.164.194/live/ playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/prisonbreak.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u5unyw32j/GLEE.png" group-title="Séries 24 Horas",Glee Dublado
+rtmp://208.53.164.194/live/ playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/glee.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ibdq9rq19/DRAKE_E_JOSH.png" group-title="Séries 24 Horas",Drake & Josh Dublado
+rtmp://208.53.164.194/live/ playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/drakejosh.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ppygoemj1/CASTELO_RA_TIM_BUM.png" group-title="Séries 24 Horas",Castelo Rá-Tim-Bum!
+rtmp://208.53.164.194/live/ playpath=castelo swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/castelo.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ydz3ii07h/TWO_ANDAHALF_MEN.png" group-title="Séries 24 Horas",Two And a Half Men Dublado
+rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/two.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cpmpryzyl/BIGBANGTHEORY.png" group-title="Séries 24 Horas",The Big Bang Theory Dublado
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bigbang.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5p3bcxnkd/BREAKING_BAD.png" group-title="Séries 24 Horas",Breaking Bad Dublado
+rtmp://208.53.164.194/live/ playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/breaking.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/d6cis5d3h/CHAVES.png" group-title="Séries 24 Horas",El Chavo del Ocho Dublado
+rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chaves.php
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/f88esnlot/CHAPOLIN.png" group-title="Séries 24 Horas",El Chapulín Colorado Dublado
+rtmp://208.53.164.194/live/ playpath=chapolin swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chapolin.php
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/uLI7sUQQrPk/maxresdefault.jpg" group-title="DESENHOS",[COLOR gold](DESENHOS ANIMADOS)[/COLOR]
+http://
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",ESPECIAL As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=a26c778913efd643
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",01 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=911a98efccde9681
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",02 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=6313b101add32721
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",03 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=da13b39423945eb1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",04 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=99d68e155136cbc0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",05 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=7a3d726f72d5f80e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",06 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=a6b9b8409ad04d2a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",07 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=9b8aabf892a95500
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",08 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=6e9bfbabec8dddbb
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",09 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=b08a3ddd8f5f65aa
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",10 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=ee4fa59ec9440240
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",11 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=1ce137826a22007c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",(OFF)12 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",(OFF)13 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",14 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=9bf42839ff1837c1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",15 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=f121455d682ff3d7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",16 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=f7038cf2a80b8adf
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",17 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=dbbaa48cd65f2557
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",18 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=5f9d9ba71cc28548
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",(OFF)19 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ABovYtL.jpg" group-title="As Meninas Superpoderosas (2016)",20 As Meninas Superpoderosas (2016)
+http://www.blogger.com/video-play.mp4?contentId=688cfa2b2d5dc8d8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",01 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=c32f848fea3b797a
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",02 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=8fdb2bf0baea1541
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",03 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=517366282f4a1e64
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",04 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=dfade3ea4aeb61c2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",05 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=f879a455780b58db
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",06 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=72e2f170a13ec489
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",07 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=212ea80abe80619f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",08 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=38b932f1b6cc93ba
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",09 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=259622776e0cfbe9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",10 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=3e59b9bae6a27259
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",11 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=7721d6ed430f7185
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",12 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=b54d66adc553aa68
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",13 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=165137bcf4eef903
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",14 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=30aabee8efdd5f4c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",15 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=4dd067ed9e042ac5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",16 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=8e9639902053aa89
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",17 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=a59ee1a3c8c42843
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",18 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=cd15e21b5b4adc82
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",19 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=92db57d07d1785db
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",20 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=a621c1560b0ec59d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",21 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=e6870d00f3281d4d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",22 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=f6c8b7473ec636fd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",23 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=1dfbedae391318b7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",24 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=9d0c16041852d167
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",25 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=33f15a2decdf8230
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",26 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=87a03c05b238b5b3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",27 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=f416f205487dc25
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",28 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=2c115ff68606c2f8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",29 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=f43341bd7fe9135d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NYrnA5o.jpg" group-title="American Dad!",30 American Dad!
+http://www.blogger.com/video-play.mp4?contentId=6eefa3d7412dff89
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",01 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=1d8fd000345d2c46
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",02 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=f509575b167ee4c9
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",03 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=e45f7930153dedc0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",04 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=ba4ff5e184d16896
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",05 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=7ff5f5eb171d5dd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",06 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=384c166a6be3017c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",07 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=29e0610a5466a03
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",08 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=8e03a4b242f141b0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",09 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=7bf5b752ee9efa98
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",10 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=e1f73dfb79394b32
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",11 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=b7e57be5112a8ec3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",12 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=5cf9b9efd3f8a84
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",13 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=8ccc621f338202f1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",14 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=d6ecd3803b3220bc
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",15 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=b412b73b52847a5c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",16 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=b3445bf075f68536
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",17 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=6aeeb3c0aad0ee4c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",18 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=c97f9b5d13fe462
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",19 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=f5e234fd63e1aee8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",20 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=37478fe480eeefb4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",21 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=39df04850bcc29cd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",22 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=4834024e39be283
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",23 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=b4382357adfd940b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",24 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=d354f79540f3e1aa
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",25 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=daaa2c2e0536e0bd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",26 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=8db3d8d962478f40
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",27 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=4e54d22e4e4badb5
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",28 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=f624cac616ae925
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",29 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=18c4adc794b1ca52
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZKhFzi5.jpg" group-title="Mutante Rex",30 Mutante Rex
+http://www.blogger.com/video-play.mp4?contentId=34becc7dce88e678
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",01 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=8f6727c43094eb9d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",02 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=6349fb3329e9bd1d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",03 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=c82d39180f670827
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",04 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=cbc646ef086ecf8f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",05 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=d18ef5780b3602f0
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",06 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=d67a49214f6c61cd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",07 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=c7705b95f979e286
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",08 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=67d7e39bc5fff77
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",09 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=15749ffe80de52b3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",10 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=14e7b085ae75d34b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",11 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=2df1cac356878473
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",12 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=607e8f46e624f42e
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",13 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=3fa08b18ac98bf81
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",14 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=548fa5d3ba849f30
+#EXTINF:-1 tvg-logo="http://i.imgur.com/d0klfjk.jpg" group-title="Adolepeixes",15 Adolepeixes
+http://www.blogger.com/video-play.mp4?contentId=6eeee2ca77f457af
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",01 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=fcdfd128975be4c4
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",02 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=3b4ab593f0381b46
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",03 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=34d6ecf53b7ef46b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",04 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=9018b909d9cafd0d
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",05 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=9bf7f3e8c6beadba
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",06 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=d6e8b59fd2f66830
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",07 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=305824425af04afd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",08 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=89e3d46bd5e3daa1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",09 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=d4ed38264e205ec7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",10 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=18921ecfcf8bda5b
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",11 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=756cb7cccc2955b3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",12 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=4d3765a9b15f929c
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",13 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=d1782b7b53f3682f
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",14 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=d576145c3f4e8ec7
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",15 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=af292e05503eb007
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",16 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=dcd087ec5c95ceef
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",17 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=f91b7d5d7f799764
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",18 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=b51c0edc7fb736ff
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",19 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=74fb177fe9b53141
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EHvLLv0.jpg" group-title="Titã Simbiônico",20 Titã Simbiônico
+http://www.blogger.com/video-play.mp4?contentId=fa70fda7c819ec9d
+
+
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-3YbkKgqTVxM/Vw60titC6rI/AAAAAAAAFzE/64ctw8CMqs0l2eLXOLMIRVvkiww5e3yUwCLcB/s640/sexy.jpg" group-title="CANAIS ADULTO",[COLOR gold](CANAIS ADULTO)[/COLOR]
+http://
+
+#EXTINF:0 type="stream" channelId="1813" , Candy TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1801" , NuArt
+http://cdn-01.bonus-tv.ru/btv/candy/type/user/devname/LG-SmartTV/devid/LG-1469816054/eol/20200101T0000/hash/e822f177cb4785c93f7b0a50a3534432478f512b/track_2_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",BUTGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-id="ButGo" tvg-name="ButGo" tvg-logo="https://s24.postimg.org/h5wt0qrut/219576_LOGO.jpg" group-title="Canais adultos", ButGO!
+http://edge2.everyon.tv:1935/etv2sb/pld10772/chunklist_w1599318248.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",SEXY SAT BRASIL
+http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",ASK TV
+http://edge2.everyon.tv/etv2sb/phd10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",PENTHOUSE ASIA 18+
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",SAKURA PORN TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10771/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",JASMIN TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",LIVETING TV
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",VISIT-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/08/PLAYBOY-TV-HD.png" group-title="ADULTO" group-title="ADULTO", PLAYBOY TV MWINFO (APENAS KODI)
+rtmp://edge2.everyon.tv/etv2sb//pld10499?MWINFO
+
+#EXTINF:0 type="stream" , Sexy Sat 1
+http://publish.thewebstream.co:1935/leved/studio66tv_channel41/chunklist.m3u8
+
+#EXTINF:1 tvg-logo="http://s9.postimg.org/euw2t5pwv/Brasileirinhas_1_Homem_para_10_Mulheres.jpg" group-title="Filmes Adultos",Brasileirinhas - Homem para 10 Mulheres Parte 
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/1HomemPara10Mulheres/Low/1HomemPara10Mulheres_cena1.mp4
+
+#EXTINF:1 tvg-logo="http://s9.postimg.org/8anbmnplr/Brasileirinhas_Liga_o_Ardente.jpg" group-title="Filmes Adultos",Brasileirinhas - Ligação Ardente Parte 
+http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_DV/LigacaoArdente/Low/LigacaoArdente_cena1.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s10.postimg.org/wkyrrzns9/PrivateTV.png" group-title="Adulto",Private TV
+rtmp://5.196.189.39/live/ playpath=n2409 swfUrl=http://ero-tv.org/uppod/uppod32.swf pageUrl=http://ero-tv.org/hallo-tv_online/
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",  +18
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://fonteremita.com.br/wp-content/uploads/2016/02/18-only.png" group-title="Canais Porno",Ramdomly live
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RNHgI0Z.png" group-title="Canais adultos" pltv-subgroup="Inglês", Penthouse Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RNHgI0Z.png" group-title="Canais adultos" pltv-subgroup="Inglês", Live Ting
+http://main2sb.everyon.tv:1935/etv2sb/pld10062/HasBahCa.m3u8
+
+
+#EXTINF:1 tvg-logo="http://www.novasdodia.com.br/wp-content/uploads/2014/02/facebook-whatsapp-quanto.jpg" group-title="DIAR LIMA",facebook.com/DIAR LIMA 
+http:// whatsap:8892751575
