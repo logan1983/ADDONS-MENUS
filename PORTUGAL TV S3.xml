@@ -39,413 +39,313 @@
     
  
  
-   
+    
           <item> 
-            <title>LOCAL:RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3517.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP 1 HD</link> 
+            <title>PT:RTP-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7086.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-1-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP 1</link> 
+            <title>PT:RTP-2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7087.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-2</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3518.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP 2 HD</link> 
+            <title>PT:RTP-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7088.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-3</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP 2</link> 
+            <title>[PT]:play3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/5679.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT]:play3</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP 3</link> 
+            <title>PT:RTP-Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Acores</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP A?ores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3583.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP A?ores</link> 
+            <title>PT:RTP-Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Africa</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3584.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP Madeira</link> 
+            <title>PT:RTP-International</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7091.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-International</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP Memðria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3585.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP Memðria</link> 
+            <title>PT:RTP-Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7092.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Madeira</link> 
         </item> 
           <item> 
-            <title>LOCAL:RTP .frica</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:RTP .frica</link> 
+            <title>PT:RTP-MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7093.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-MEMORIA</link> 
         </item> 
           <item> 
-            <title>LOCAL:SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3586.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SIC</link> 
+            <title>PT_RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP 3</link> 
         </item> 
           <item> 
-            <title>LOCAL:SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3587.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SIC Caras</link> 
+            <title>PT_RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP Africa</link> 
         </item> 
           <item> 
-            <title>LOCAL:SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SIC K</link> 
+            <title>PT_RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP Memoria</link> 
         </item> 
           <item> 
-            <title>LOCAL:SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SIC Mulher</link> 
+            <title>PT_SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Caras</link> 
         </item> 
           <item> 
-            <title>LOCAL:SIC Not?cias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3590.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SIC Not?cias</link> 
+            <title>PT_SIC Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Kids</link> 
         </item> 
           <item> 
-            <title>LOCAL:SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3591.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SIC Radical</link> 
+            <title>PT_SIC Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Mulher</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3623.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVI</link> 
+            <title>PT_SIC Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Radical</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3626.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVI 24</link> 
+            <title>PT_TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI 24</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVI Fic?ªo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3627.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVI Fic?ªo</link> 
+            <title>PT_TVI Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI Reality</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVI International HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3625.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVI International HD</link> 
+            <title>PT:TVI-FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7107.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-FICCAO</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVI International</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3624.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVI International</link> 
+            <title>PT:TVI-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7108.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVI Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3628.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVI Reality</link> 
+            <title>PT:TVI-REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7109.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-REALITY</link> 
         </item> 
           <item> 
-            <title>---Cinema_LOCAL---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3655.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Cinema_LOCAL---</link> 
+            <title>PT:TVI24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI24</link> 
         </item> 
           <item> 
-            <title>LOCAL:TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TV CINE 1 HD</link> 
+            <title>PT_AandE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7025.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AandE</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVCine 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVCine 1</link> 
+            <title>PT_AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVCine 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3617.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVCine 2 HD</link> 
+            <title>PT_AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7027.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN White</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVCine 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3616.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVCine 2</link> 
+            <title>PT_Benfica TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Benfica TV HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVCine 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3618.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVCine 3</link> 
+            <title>PT_Caça e Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Caça e Pesca</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVCine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3619.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVCine 3 HD</link> 
+            <title>PT_Canal Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7022.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Canal Q</link> 
         </item> 
           <item> 
-            <title>LOCAL:TV CINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TV CINE 4 HD</link> 
+            <title>PT_CançaoNova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7021.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CançaoNova</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVCine 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3620.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVCine 4</link> 
+            <title>PT_Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7019.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Cinemundo</link> 
         </item> 
           <item> 
-            <title>LOCAL:Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3541.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Cinemundo</link> 
+            <title>PT_CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7030.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CMTV</link> 
         </item> 
           <item> 
-            <title>LOCAL:CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3542.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:CMTV</link> 
+            <title>PT_Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7010.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney Channel</link> 
         </item> 
           <item> 
-            <title>LOCAL: FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3646.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: FOX HD</link> 
+            <title>PT_E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7031.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_E! Entertainment</link> 
         </item> 
           <item> 
-            <title>LOCAL: FOX Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3647.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: FOX Life HD</link> 
+            <title>PT_Euronews PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Euronews PT</link> 
         </item> 
           <item> 
-            <title>LOCAL: HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3648.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: HOLLYWOOD HD</link> 
+            <title>PT_Eurosport News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Eurosport News</link> 
         </item> 
           <item> 
-            <title>LOCAL:AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3524.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:AXN Black HD</link> 
+            <title>PT_FoxCrime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7035.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FoxCrime</link> 
         </item> 
           <item> 
-            <title>LOCAL:FOX Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3555.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:FOX Comedy</link> 
+            <title>PT_FoxMovies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7033.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FoxMovies</link> 
         </item> 
           <item> 
-            <title>LOCAL:FOX Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3556.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:FOX Crime HD</link> 
+            <title>PT_Fuel TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fuel TV</link> 
         </item> 
           <item> 
-            <title>LOCAL:FOX Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3557.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:FOX Movies</link> 
+            <title>PT_Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7018.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Historia</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVSØries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3629.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVSØries</link> 
+            <title>PT_JimJam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7008.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JimJam</link> 
         </item> 
           <item> 
-            <title>LOCAL:TVSØries HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TVSØries HD</link> 
+            <title>PT_Mov HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7039.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Mov HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3605.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TLC</link> 
+            <title>PT_National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_National Geographic Wild</link> 
         </item> 
           <item> 
-            <title>LOCAL:MOV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3572.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:MOV</link> 
+            <title>PT_Nicke</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Nicke</link> 
         </item> 
           <item> 
-            <title>LOCAL: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3635.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: AMC</link> 
+            <title>PT_Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia</link> 
         </item> 
           <item> 
-            <title>LOCAL: AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3636.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: AMC HD</link> 
+            <title>PT_Panda Biggs</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Panda Biggs</link> 
         </item> 
           <item> 
-            <title>LOCAL: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3637.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: AXN</link> 
+            <title>PT_Panda HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Panda HD</link> 
         </item> 
           <item> 
-            <title>LOCAL: AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3640.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: AXN Black HD</link> 
+            <title>PT_PFC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7012.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PFC HD</link> 
         </item> 
           <item> 
-            <title>LOCAL: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3638.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: AXN HD</link> 
+            <title>PT_Porto Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7017.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Porto Canal</link> 
         </item> 
           <item> 
-            <title>LOCAL: Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3652.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Syfy</link> 
+            <title>PT_Sport TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sport TV 2 HD</link> 
         </item> 
           <item> 
-            <title>---Soprts_LOCAL---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,---Soprts&amp;streamtype=TSDOWNLOADER&amp;name=---Soprts_LOCAL---</link> 
+            <title>PT_Sport TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sport TV 3 HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3654.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>PT_Sporting TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sporting TV</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3595.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 1 HD</link> 
+            <title>PT_SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7016.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SyFy</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3594.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 1</link> 
+            <title>PT_TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7015.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3597.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 2 HD</link> 
+            <title>PT_Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7014.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Toros TV</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3596.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 2</link> 
+            <title>PT_TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV Globo</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3599.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 3 HD</link> 
+            <title>PT_TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV Globo Premium</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3598.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 3</link> 
+            <title>PT_TV Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV Record</link> 
         </item> 
           <item> 
-            <title>LOCAL:Sport TV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3601.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Sport TV 4 HD</link> 
+            <title>PT:Canal-Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal-Panda</link> 
         </item> 
           <item> 
-            <title>LOCAL:SPORT TV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3600.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:SPORT TV 4</link> 
+            <title>PT:Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cinemundo</link> 
         </item> 
           <item> 
-            <title>LOCAL:Sport TV 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3603.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Sport TV 5 HD</link> 
+            <title>PT:CM-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7084.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CM-TV</link> 
         </item> 
           <item> 
-            <title>LOCAL:Sport TV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3602.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Sport TV 5</link> 
+            <title>PT:Food-Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Food-Network</link> 
         </item> 
           <item> 
-            <title>LOCAL: Eurosport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3645.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Eurosport HD</link> 
+            <title>PT:Sport-TV-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-1-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL: Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3643.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Eurosport 1</link> 
+            <title>PT:Sport-TV-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7095.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-2-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL: Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3644.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Eurosport 2</link> 
+            <title>PT:Sport-TV-3-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7096.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-3-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:EUROSPORT 2 XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3553.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:EUROSPORT 2 XTRA HD</link> 
+            <title>PT:Sport-TV-5-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-5-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:Eurosport 2 Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3552.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Eurosport 2 Xtra</link> 
+            <title>PT:Sporting-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting-TV</link> 
         </item> 
           <item> 
-            <title>LOCAL:BTV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3531.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:BTV 1 HD</link> 
+            <title>PT:TV-Cine-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-1-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:BTV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3530.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:BTV 1</link> 
+            <title>PT:TV-Cine-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-2-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:A Bola TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3520.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:A Bola TV</link> 
+            <title>PT:TV-Cine-4-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7103.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-4-HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3577.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Porto Canal</link> 
+            <title>PT:TV-Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7105.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Record</link> 
         </item> 
           <item> 
-            <title>LOCAL:Sport TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3593.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Sport TV</link> 
+            <title>[PT] FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6801.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] FOX COMEDY</link> 
         </item> 
           <item> 
-            <title>LOCAL:Sporting TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3604.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Sporting TV</link> 
+            <title>[PT] HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6805.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] HOLLYWOOD HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:kombat sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3564.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:kombat sport</link> 
+            <title>[PT] SPORT TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6822.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORT TV 1 HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Motors TV</link> 
+            <title>[PT] SPORT TV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6826.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORT TV 3</link> 
         </item> 
           <item> 
-            <title>LOCAL:Motorvision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3571.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Motorvision</link> 
+            <title>[PT] SPORT TV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6824.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORT TV 4 HD</link> 
         </item> 
           <item> 
-            <title>LOCAL:Eurosport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3554.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Eurosport News</link> 
+            <title>[PT] SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6825.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORTING TV</link> 
         </item> 
           <item> 
-            <title>---Culturales_LOCAL---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3656.ts&amp;streamtype=TSDOWNLOADER&amp;name=---Culturales_LOCAL---</link> 
-        </item> 
-          <item> 
-            <title>LOCAL: A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3634.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Travel Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3609.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Travel Channel HD</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:TRAVEL CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3608.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:TRAVEL CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:DISCOVERY SHOWCASE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3546.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:DISCOVERY SHOWCASE HD</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:DISCOVERY SHOWCASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3545.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:DISCOVERY SHOWCASE</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Ca?a e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3539.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Ca?a e Pesca</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Histðria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3561.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Histðria</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:NATGEO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3574.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:NATGEO HD</link> 
-        </item> 
-          <item> 
-            <title>LOCAL: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3575.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Odisseia</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:24 Kitchen</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3519.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:24 Kitchen</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:24 Kitchen HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3521.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:24 Kitchen HD</link> 
-        </item> 
-          <item> 
-            <title>---Enfants_LOCAL---</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,---Enfants&amp;streamtype=TSDOWNLOADER&amp;name=---Enfants_LOCAL---</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3657.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>LOCAL: Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3639.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Baby TV</link> 
-        </item> 
-          <item> 
-            <title>LOCAL: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3642.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>LOCAL: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL: Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Baby First</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3525.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Baby First</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3529.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3536.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Canal Q</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3538.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3547.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3548.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>LOCAL:Jim Jam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://topiptv.net:5890/live/holanda/holanda/3563.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCAL:Jim Jam</link> 
+            <title>[PT]: TCV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6870.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT]: TCV</link> 
         </item> 
   
