@@ -39,440 +39,509 @@
   
   
   
-         <item> 
-            <title>IT_RAI_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_1_HD</link> 
+   
+          <item> 
+            <title>IT-Rai1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai1</link> 
+        </item> 
+          <item> 
+            <title>IT-Rai2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai2</link> 
+        </item> 
+          <item> 
+            <title>IT-Rai3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai3</link> 
+        </item> 
+          <item> 
+            <title>IT-Rai4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai4</link> 
+        </item> 
+          <item> 
+            <title>IT-Rai5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai5</link> 
+        </item> 
+          <item> 
+            <title>IT:Rai_Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Premium</link> 
+        </item> 
+          <item> 
+            <title>IT:Rai_Gulp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Gulp</link> 
+        </item> 
+          <item> 
+            <title>IT-RAI_YOYO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-RAI_YOYO</link> 
+        </item> 
+          <item> 
+            <title>IT-RAI_NEWS24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-RAI_NEWS24</link> 
+        </item> 
+          <item> 
+            <title>IT-Mediaset_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Mediaset_1</link> 
+        </item> 
+          <item> 
+            <title>IT-Mediaset_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Mediaset_2</link> 
+        </item> 
+          <item> 
+            <title>ITi-Mediaset Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Mediaset Extra</link> 
+        </item> 
+          <item> 
+            <title>IT-Mediaset_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Mediaset_5</link> 
+        </item> 
+          <item> 
+            <title>IT-La.1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-La.1.HD</link> 
+        </item> 
+          <item> 
+            <title>IT-LA_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1724.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-LA_2</link> 
+        </item> 
+          <item> 
+            <title>IT-Rete4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rete4</link> 
+        </item> 
+          <item> 
+            <title>IT-LA5(mediaset)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-LA5(mediaset)</link> 
+        </item> 
+          <item> 
+            <title>IT-La7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-La7</link> 
         </item> 
           <item> 
-            <title>IT_RAI_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_2_HD</link> 
+            <title>IT-TG_NORBA_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-TG_NORBA_24</link> 
         </item> 
           <item> 
-            <title>IT_RAI_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_3_HD</link> 
+            <title>IT-EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-EURONEWS</link> 
         </item> 
           <item> 
-            <title>IT_RAI_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_4_HD</link> 
+            <title>IT-Sky_TG24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_TG24</link> 
         </item> 
           <item> 
-            <title>IT_ RAI _5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ RAI _5</link> 
+            <title>IT-Cartonito</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3138.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Cartonito</link> 
         </item> 
           <item> 
-            <title>IT_RAI_SCUOLA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_SCUOLA</link> 
+            <title>IT:Pre_Disney_Xd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Disney_Xd</link> 
         </item> 
           <item> 
-            <title>IT_RAI_MOVIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_MOVIE</link> 
+            <title>IT-Teleticino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Teleticino</link> 
         </item> 
           <item> 
-            <title>IT_RAI_PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_PREMIUM</link> 
+            <title>IT-Pre_Disney_junor</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Pre_Disney_junor</link> 
         </item> 
           <item> 
-            <title>IT_RAI_NEW_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_NEW_24</link> 
+            <title>IT:Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Boing</link> 
         </item> 
           <item> 
-            <title>IT_SKY_UNO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_UNO_HD</link> 
+            <title>ITi-Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Disney Channel</link> 
         </item> 
           <item> 
-            <title>IT_ITALIA_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ITALIA_1_HD</link> 
+            <title>IT-MAN-GA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3126.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-MAN-GA</link> 
         </item> 
           <item> 
-            <title>IT_LA_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1301.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_LA_5</link> 
+            <title>IT-Sky_Fox_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_Fox_HD</link> 
         </item> 
           <item> 
-            <title>IT_LA_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_LA_7</link> 
+            <title>IT:FOX_Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:FOX_Crime</link> 
         </item> 
           <item> 
-            <title>IT_CANALE_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_CANALE_5</link> 
+            <title>IT-Fox_Life_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Fox_Life_HD</link> 
         </item> 
           <item> 
-            <title>IT_CANALE_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_CANALE_7</link> 
+            <title>IT-Galicia_america</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3123.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Galicia_america</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CINEMA_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CINEMA_1_HD</link> 
+            <title>IT-Fox Animation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Fox Animation HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY _CINEMA _FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY _CINEMA _FAMILY</link> 
+            <title>IT-Sportitalia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sportitalia</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CINEMA_PASSION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CINEMA_PASSION_HD</link> 
+            <title>IT:Rai_Sport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Sport1</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CINEMA_CULT_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CINEMA_CULT_HD</link> 
+            <title>IT:Rai_Sport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Sport2</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CINEMA_COMEDY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CINEMA_COMEDY_HD</link> 
+            <title>IT-Sky_F1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_F1_HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CINEMA_MAX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CINEMA_MAX_HD</link> 
+            <title>IT-Fox Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT-Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=IT-Fox Sports HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CINEMA_HITS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CINEMA_HITS_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>IT_SKY_FOX_COMEDY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_FOX_COMEDY_HD</link> 
+            <title>IT-SKY_SPORT1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-SKY_SPORT1_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA+_24_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA+_24_HD</link> 
+            <title>IT-SKY_SPORT2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-SKY_SPORT2_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_ACTION_+24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_ACTION_+24</link> 
+            <title>IT-Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3117.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Sport 3 HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CRIME_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CRIME_HD</link> 
+            <title>IT:Sky_Sport24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Sport24</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CRIME_ 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CRIME_ 24</link> 
+            <title>IT-Sport MotorGP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sport MotorGP_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA_HD</link> 
+            <title>IT:Super_tennis_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Super_tennis_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_COMEDY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_COMEDY_HD</link> 
+            <title>IT-Sky Sport plus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3118.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Sport plus HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA_ENERGY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA_ENERGY_HD</link> 
+            <title>IT-Sky Calcio 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3106.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 9 HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA_EMOTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA_EMOTION_HD</link> 
+            <title>IT-Premium Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3108.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Sport HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA_2</link> 
+            <title>IT-Premium SPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3107.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium SPORT2</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA_24</link> 
+            <title>IT-Sky_Supercalcio_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3120.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_Supercalcio_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CINEMA_2_+24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CINEMA_2_+24</link> 
+            <title>IT-Premium Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 1</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_ACTION_HD</link> 
+            <title>IT-Premium Calcio 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 2</link> 
         </item> 
           <item> 
-            <title>IT_MEDIASET_EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_MEDIASET_EXTRA</link> 
+            <title>IT-Premium Calcio 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 3</link> 
         </item> 
           <item> 
-            <title>IT_RSI_LA_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RSI_LA_1_HD</link> 
+            <title>IT-Premium Calcio 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3102.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 4</link> 
         </item> 
           <item> 
-            <title>IT_RSI_LA_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RSI_LA_2_HD</link> 
+            <title>IT-Premium Calcio 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3103.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 5</link> 
         </item> 
           <item> 
-            <title>IT_RAI_SPORT_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_SPORT_1_HD</link> 
+            <title>IT-Premium Calcio 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3104.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 6</link> 
         </item> 
           <item> 
-            <title>IT_RAI_SPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_SPORT_2</link> 
+            <title>IT-Premium Calcio 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3105.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 7</link> 
         </item> 
           <item> 
-            <title>IT_SKY_SPORT_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_SPORT_1_HD</link> 
+            <title>IT-Sky Calcio 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3109.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 1 HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_SPORT_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_SPORT_2_HD</link> 
+            <title>IT-Sky Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3110.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 2 HD</link> 
         </item> 
           <item> 
-            <title>IT_ SKY_ SPORT_ 3 _HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ SKY_ SPORT_ 3 _HD</link> 
+            <title>IT-Sky Calcio 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3111.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 3 HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_SPORT_24_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_SPORT_24_HD</link> 
+            <title>IT-Sky Calcio 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 4 HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_SPORT_MOTO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_SPORT_MOTO_HD</link> 
+            <title>IT-Sky Calcio 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 5 HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_SPORTS_F1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_SPORTS_F1_HD</link> 
+            <title>IT-Sky Calcio 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 6 HD</link> 
         </item> 
           <item> 
-            <title>IT_FOX_SPORTS_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1312.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_FOX_SPORTS_1_HD</link> 
+            <title>IT-Sky Calcio 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3115.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 7 HD</link> 
         </item> 
           <item> 
-            <title>IT_SPORT_ITALIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SPORT_ITALIA</link> 
+            <title>IT-Sky Calcio 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3116.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 8 HD</link> 
         </item> 
           <item> 
-            <title>IT_EUROSPORT_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_EUROSPORT_HD</link> 
+            <title>IT:Sky_Uno_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Uno_HD</link> 
         </item> 
           <item> 
-            <title>IT_EUROSPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1311.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_EUROSPORT_2</link> 
+            <title>IT-SKY_Cinema 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-SKY_Cinema 1</link> 
         </item> 
           <item> 
-            <title>IT_STUDIO_UNIVERSAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1327.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_STUDIO_UNIVERSAL</link> 
+            <title>IT-Sky_Cine_Passion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_Cine_Passion</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CALCIO_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CALCIO_1_HD</link> 
+            <title>IT-sky_Cinema_Cult</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-sky_Cinema_Cult</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CALCIO_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1811.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CALCIO_2_HD</link> 
+            <title>IT-sky-Cinema-Comdy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-sky-Cinema-Comdy</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CALCIO_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CALCIO_3_HD</link> 
+            <title>IT-Sky Cinema max hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Cinema max hd</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_SPORT_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_SPORT_HD</link> 
+            <title>IT-Sky_CINEMA 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_CINEMA 24</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CALCIO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CALCIO_HD</link> 
+            <title>IT-Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Cinema Family HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CALCIO_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CALCIO_1_HD</link> 
+            <title>IT-Sky Cine Classics_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3094.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Cine Classics_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CALCIO_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CALCIO_3</link> 
+            <title>IT-sky_Cine_Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-sky_Cine_Max</link> 
         </item> 
           <item> 
-            <title>IT_SKY_CIELO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_CIELO</link> 
+            <title>IT-History_LAB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1731.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-History_LAB</link> 
         </item> 
           <item> 
-            <title>IT_SUPER!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1314.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SUPER!</link> 
+            <title>IT-Premium Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3093.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Crime HD</link> 
         </item> 
           <item> 
-            <title>IT_SUPER_TENNIS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1313.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SUPER_TENNIS_HD</link> 
+            <title>ITi-Pre-Cinema24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Pre-Cinema24 HD</link> 
         </item> 
           <item> 
-            <title>IT_FOX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_FOX_HD</link> 
+            <title>ITi-Premium Cinema2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Premium Cinema2 HD</link> 
         </item> 
           <item> 
-            <title>IT_FOX_LIFE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_FOX_LIFE_HD</link> 
+            <title>ITi-Premium Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Premium Action HD</link> 
         </item> 
           <item> 
-            <title>IT_FOX_CRIME_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_FOX_CRIME_HD</link> 
+            <title>IT:Pre_Cinema_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Cinema_HD</link> 
         </item> 
           <item> 
-            <title>IT_EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_EURONEWS</link> 
+            <title>IT:Pre_Cine_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Cine_Comedy</link> 
         </item> 
           <item> 
-            <title>IT_TG_COM_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TG_COM_24</link> 
+            <title>ITi-Pre_Cinema_Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Pre_Cinema_Emotion</link> 
         </item> 
           <item> 
-            <title>IT_SKY_TG_24_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_TG_24_HD</link> 
+            <title>IT:Pre_Stories</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Stories</link> 
         </item> 
           <item> 
-            <title>IT_RAI_GULP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_GULP</link> 
+            <title>IT:Pre-Studio_Uni</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre-Studio_Uni</link> 
         </item> 
           <item> 
-            <title>IT_RAI_YOYO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_RAI_YOYO</link> 
+            <title>IT:Premium_Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium_Energy</link> 
         </item> 
           <item> 
-            <title>IT_DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/960.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DISNEY_JUNIOR</link> 
+            <title>IT-PRE_JOY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRE_JOY</link> 
         </item> 
           <item> 
-            <title>IT_DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DISNEY_CHANNEL</link> 
+            <title>IT-ATLANTIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-ATLANTIC</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_JOY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_JOY</link> 
+            <title>IT-Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Dmax</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_DISNEY_CHANNEL</link> 
+            <title>IT-AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3119.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-AXN HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_DISNEY_JUNIOR</link> 
+            <title>IT-History_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-History_HD</link> 
         </item> 
           <item> 
-            <title>IT_CARTOONITO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_CARTOONITO</link> 
+            <title>IT:Discovery_Trave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery_Trave</link> 
         </item> 
           <item> 
-            <title>IT_DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DISNEY_XD</link> 
+            <title>IT:Nat_Geo_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Nat_Geo_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_CARTOON_NETWORK</link> 
+            <title>IT-ANIMAL_PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-ANIMAL_PLANET</link> 
         </item> 
           <item> 
-            <title>IT_SKY_AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_AXN_HD</link> 
+            <title>IT-Realtime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/2534.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Realtime HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_ATLANTIC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_ATLANTIC_HD</link> 
+            <title>IT-Alice</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Alice</link> 
         </item> 
           <item> 
-            <title>IT_IRIS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_IRIS</link> 
+            <title>IT-Primafila1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Primafila1_HD</link> 
         </item> 
           <item> 
-            <title>IT_DMAX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DMAX_HD</link> 
+            <title>IT-Primafila2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Primafila2_HD</link> 
         </item> 
           <item> 
-            <title>IT_TV_2000</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TV_2000</link> 
+            <title>IT:Primafila3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila3_HD</link> 
         </item> 
           <item> 
-            <title>IT_JUVENTUS_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_JUVENTUS_TV</link> 
+            <title>IT:Primafila4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila4_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_STORIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_STORIES</link> 
+            <title>IT:Primafila5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila5_HD</link> 
         </item> 
           <item> 
-            <title>IT_NATIONALGEO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_NATIONALGEO_HD</link> 
+            <title>IT:Primafila6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila6_HD</link> 
         </item> 
           <item> 
-            <title>IT_SKY_HISTORY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SKY_HISTORY_HD</link> 
+            <title>IT:Primafila7_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila7_HD</link> 
         </item> 
           <item> 
-            <title>IT_DISCOVERY_TRAVEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DISCOVERY_TRAVEL</link> 
+            <title>IT:Primafila8_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila8_HD</link> 
         </item> 
           <item> 
-            <title>IT_DISCOVERY_SCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DISCOVERY_SCI</link> 
+            <title>IT:Primafila9_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila9_HD</link> 
         </item> 
           <item> 
-            <title>IT_PREMIUM_DISCOVERY_WORLD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PREMIUM_DISCOVERY_WORLD_HD</link> 
+            <title>IT: Primafila10_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila10_HD</link> 
         </item> 
           <item> 
-            <title>IT_DISCOVERY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_DISCOVERY_HD</link> 
+            <title>IT-TV2000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-TV2000</link> 
         </item> 
           <item> 
-            <title>IT_PESCA_E_CACCIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PESCA_E_CACCIA</link> 
+            <title>IT_VideoLINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_VideoLINA</link> 
         </item> 
           <item> 
-            <title>IT_NATIONALGEO_WILD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_NATIONALGEO_WILD_HD</link> 
+            <title>IT_Uninettuno_University</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3287.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Uninettuno_University</link> 
         </item> 
           <item> 
-            <title>IT_NATIONALGEO_PEOPLE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_NATIONALGEO_PEOPLE_HD</link> 
+            <title>IT_TRENTINO_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3310.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TRENTINO_TV</link> 
         </item> 
           <item> 
-            <title>IT_ANIMAL_PLANET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ANIMAL_PLANET</link> 
+            <title>IT_TeleSTAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TeleSTAR</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_1_HD</link> 
+            <title>IT_Tele_MILANO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3328.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Tele_MILANO</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_2_HD</link> 
+            <title>IT_Tele_ARENA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3315.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Tele_ARENA</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_3_HD</link> 
+            <title>IT_TC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3283.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TC</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_4_HD</link> 
+            <title>IT_SARONNO_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3306.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_SARONNO_TV</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_5_HD</link> 
+            <title>IT_Rete_8_SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3326.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Rete_8_SPORT</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_6_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_6_HD</link> 
+            <title>IT_Rete_55</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Rete_55</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_7_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_7_HD</link> 
+            <title>IT_Radio_VIRGIN_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Radio_VIRGIN_TV</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_8_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_8_HD</link> 
+            <title>IT_Radio_Monte_Carlo_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3321.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Radio_Monte_Carlo_TV</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_9_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_9_HD</link> 
+            <title>IT_Radio_105_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3322.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Radio_105_TV</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_10_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_10_HD</link> 
+            <title>IT_OTTO_8_FM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_OTTO_8_FM_TV</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_11</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_11</link> 
+            <title>IT_ORLER_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ORLER_CHANNEL</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_12</link> 
+            <title>IT_E_TV_MARCHE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_E_TV_MARCHE</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_13_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_13_HD</link> 
+            <title>IT_Camera_Dei_DEPUTATI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Camera_Dei_DEPUTATI</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_14</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_14</link> 
+            <title>IT_ANTENNA_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3295.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ANTENNA_3</link> 
         </item> 
           <item> 
-            <title>IT_PRIMAFILA_15</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.200.81:8000/live/moroco/moroco/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_PRIMAFILA_15</link> 
+            <title>IT_ALTO_ADIGE_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben151/chaaben151/3330.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ALTO_ADIGE_TV</link> 
         </item> 
   
