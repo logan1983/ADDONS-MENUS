@@ -33,332 +33,489 @@
     
        
  
+        
           <item> 
-            <title>PT_RTP1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP1</link> 
+            <title>PT RTP Mem</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23202.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Mem</link> 
         </item> 
           <item> 
-            <title>PT_RTP2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP2</link> 
+            <title>PT RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23201.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Madeira</link> 
         </item> 
           <item> 
-            <title>PT_RTP3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP3</link> 
+            <title>PT RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23200.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 3</link> 
         </item> 
           <item> 
-            <title>PT_RTP_AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_AFRICA</link> 
+            <title>PT RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23199.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 2</link> 
         </item> 
           <item> 
-            <title>PT_RTP_Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_Madeira</link> 
+            <title>PT RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23198.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 1</link> 
         </item> 
           <item> 
-            <title>PT_RTP_memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_memoria</link> 
+            <title>PT RTP .frica</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23197.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP .frica</link> 
         </item> 
           <item> 
-            <title>PT_SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC</link> 
+            <title>PT SIC Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23207.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Radical</link> 
         </item> 
           <item> 
-            <title>PT_SIC_K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_K</link> 
+            <title>PT SIC Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Mulher</link> 
         </item> 
           <item> 
-            <title>PT_SIC_noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_noticias</link> 
+            <title>PT SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC K</link> 
         </item> 
           <item> 
-            <title>PT_Sic_radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sic_radical</link> 
+            <title>PT SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23204.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Caras</link> 
         </item> 
           <item> 
-            <title>PT: SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
+            <title>PT SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23203.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC</link> 
         </item> 
           <item> 
-            <title>PT: Sic Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
+            <title>PT TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23238.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI</link> 
         </item> 
           <item> 
-            <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
+            <title>PT TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23239.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI 24</link> 
         </item> 
           <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <title>PT TVI Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23240.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality</link> 
         </item> 
           <item> 
-            <title>PT: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
+            <title>PT 24 Kitchen</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23124.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT 24 Kitchen</link> 
         </item> 
           <item> 
-            <title>PT: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
+            <title>PT 24 Kitchen HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23126.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT 24 Kitchen HD</link> 
         </item> 
           <item> 
-            <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+            <title>PT A Bola TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23125.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT A Bola TV</link> 
         </item> 
           <item> 
-            <title>PT: FOX-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX-HD</link> 
+            <title>PT A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23127.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT A&amp;E</link> 
         </item> 
           <item> 
-            <title>PT: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+            <title>PT ARTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23132.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT ARTV</link> 
         </item> 
           <item> 
-            <title>PT: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+            <title>PT AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN Black HD</link> 
         </item> 
           <item> 
-            <title>PT: FOX Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime HD</link> 
+            <title>PT AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23134.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN HD</link> 
         </item> 
           <item> 
-            <title>PT: FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY</link> 
+            <title>PT AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23136.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN White HD</link> 
         </item> 
           <item> 
-            <title>PT: EUROSPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT HD</link> 
+            <title>PT AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AMC HD</link> 
         </item> 
           <item> 
-            <title>PT: Disney JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney JR</link> 
+            <title>PT AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AMC</link> 
         </item> 
           <item> 
-            <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+            <title>PT AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23133.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN</link> 
         </item> 
           <item> 
-            <title>PT: CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK</link> 
+            <title>PT TVCine 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23232.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCine 2 HD</link> 
         </item> 
           <item> 
-            <title>PT: CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+            <title>PT TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23231.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCine 2</link> 
         </item> 
           <item> 
-            <title>PT: ABOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ABOLA TV</link> 
+            <title>PT TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23230.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCine 1</link> 
         </item> 
           <item> 
-            <title>PT: A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&amp;E</link> 
+            <title>PT TV5 Monde</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23229.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV5 Monde</link> 
         </item> 
           <item> 
-            <title>PT_ CACA_E_PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ CACA_E_PESCA</link> 
+            <title>PT TV Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23228.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Record</link> 
         </item> 
           <item> 
-            <title>PT_ E!_ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ E!_ENTERTAINMENT</link> 
+            <title>PT TV Galicia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23227.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Galicia</link> 
         </item> 
           <item> 
-            <title>PT_ FOX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ FOX_HD</link> 
+            <title>PT TV CINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23226.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV CINE 4 HD</link> 
         </item> 
           <item> 
-            <title>PT_amc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_amc</link> 
+            <title>PT TV CINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23225.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV CINE 1 HD</link> 
         </item> 
           <item> 
-            <title>PT_AXN_Black</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_Black</link> 
+            <title>PT Travel Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23224.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Travel Channel HD</link> 
         </item> 
           <item> 
-            <title>PT_AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD</link> 
+            <title>PT TRAVEL CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23223.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TRAVEL CHANNEL</link> 
         </item> 
           <item> 
-            <title>PT_AXN_White</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_White</link> 
+            <title>PT Trace TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23222.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Trace TV</link> 
         </item> 
           <item> 
-            <title>PT_Canal_Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Canal_Q</link> 
+            <title>PT Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23221.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Toros TV</link> 
         </item> 
           <item> 
-            <title>PT_CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CARTOON_NETWORK</link> 
+            <title>PT TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23220.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TLC</link> 
         </item> 
           <item> 
-            <title>PT_Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Cinemundo</link> 
+            <title>PT Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23219.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Syfy</link> 
         </item> 
           <item> 
-            <title>PT_Discovery_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Discovery_Channel</link> 
+            <title>PT Sporting TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23218.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sporting TV</link> 
         </item> 
           <item> 
-            <title>PT_Discovery_Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Discovery_Showcase</link> 
+            <title>PT Sport TV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23217.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sport TV 5</link> 
         </item> 
           <item> 
-            <title>PT_Disney_channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney_channel</link> 
+            <title>PT SPORT TV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23216.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 4</link> 
         </item> 
           <item> 
-            <title>PT_Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney_Junior</link> 
+            <title>PT SPORT TV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23215.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 3 HD</link> 
         </item> 
           <item> 
-            <title>PT_EUROSPORT_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT_1</link> 
+            <title>PT SPORT TV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23214.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 3</link> 
         </item> 
           <item> 
-            <title>PT_Eurosport_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Eurosport_2</link> 
+            <title>PT SPORT TV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23213.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 2 HD</link> 
         </item> 
           <item> 
-            <title>PT_Fox_crime_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox_crime_HD</link> 
+            <title>PT SPORT TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23212.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 2</link> 
         </item> 
           <item> 
-            <title>PT_Fox_movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox_movies</link> 
+            <title>PT SPORT TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23211.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 1 HD</link> 
         </item> 
           <item> 
-            <title>PT_Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Hollywood</link> 
+            <title>PT SPORT TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23210.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SPORT TV 1</link> 
         </item> 
           <item> 
-            <title>PT_Jim_Jam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4949.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Jim_Jam</link> 
+            <title>PT Sport TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23209.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sport TV</link> 
         </item> 
           <item> 
-            <title>PT_mov_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_mov_HD</link> 
+            <title>PT SKY News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23208.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SKY News</link> 
         </item> 
           <item> 
-            <title>PT_National_Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_National_Geographic</link> 
+            <title>PT Record News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Record News</link> 
         </item> 
           <item> 
-            <title>PT_National_Geo_Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_National_Geo_Wild</link> 
+            <title>PT Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Real Madrid TV</link> 
         </item> 
           <item> 
-            <title>PT_Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia</link> 
+            <title>PT Porto Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23194.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Porto Canal</link> 
         </item> 
           <item> 
-            <title>PT_SPORT_TV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4939.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV3</link> 
+            <title>PT PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT PFC</link> 
         </item> 
           <item> 
-            <title>PT_SPORT_TV_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_1</link> 
+            <title>PT Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23192.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Odisseia</link> 
         </item> 
           <item> 
-            <title>PT_SPORT_TV_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_2</link> 
+            <title>PT Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23191.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Nickelodeon</link> 
         </item> 
           <item> 
-            <title>PT_SPORT_TV_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_4</link> 
+            <title>PT NATGEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23190.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT NATGEO HD</link> 
         </item> 
           <item> 
-            <title>PT_SPORT_TV_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4938.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SPORT_TV_5</link> 
+            <title>PT Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23189.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>PT_SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4940.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY</link> 
+            <title>PT MTV Portugal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23188.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MTV Portugal</link> 
         </item> 
           <item> 
-            <title>PT_TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4941.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC</link> 
+            <title>PT MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23187.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MOV</link> 
         </item> 
           <item> 
-            <title>PT_TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4948.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI</link> 
+            <title>PT TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23233.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCine 3</link> 
         </item> 
           <item> 
-            <title>PT_TVI_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4950.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24</link> 
+            <title>PT TVCine 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23234.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCine 3 HD</link> 
         </item> 
           <item> 
-            <title>PT_TV_CINE_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4942.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_CINE_1_HD</link> 
+            <title>PT MCS Extreme</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23184.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MCS Extreme</link> 
         </item> 
           <item> 
-            <title>PT_TV_CINE_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4943.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_CINE_2_HD</link> 
+            <title>PT MCM POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23183.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MCM POP</link> 
         </item> 
           <item> 
-            <title>PT_TV_CINE_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4944.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_CINE_3_HD</link> 
+            <title>PT Jim Jam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23182.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Jim Jam</link> 
         </item> 
           <item> 
-            <title>PT_TV_CINE_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4945.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_CINE_4_HD</link> 
+            <title>PT Hot</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23181.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Hot</link> 
         </item> 
           <item> 
-            <title>PT_TV_GLOBO_PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4946.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUM</link> 
+            <title>PT HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23180.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT HOLLYWOOD HD</link> 
         </item> 
           <item> 
-            <title>PT_TV_SERIES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/4947.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_SERIES_HD</link> 
+            <title>PT Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Hollywood</link> 
         </item> 
           <item> 
-            <title>PT: TVCine 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 HD</link> 
+            <title>PT Hist</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Hist</link> 
         </item> 
           <item> 
-            <title>PT: TVCine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 HD</link> 
+            <title>PT Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Globo Premium</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
+            <title>PT Fuel TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fuel TV</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
+            <title>PT FTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FTV</link> 
         </item> 
           <item> 
-            <title>PT: Travel Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel Channel HD</link> 
+            <title>PT FOX Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23174.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX Movies</link> 
         </item> 
           <item> 
-            <title>PT: SPORTTV 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORTTV 5</link> 
+            <title>PT FOX Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX Life HD</link> 
         </item> 
           <item> 
-            <title>PT: Sporting TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sporting TV HD</link> 
+            <title>PT FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX HD</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV4</link> 
+            <title>PT FOX Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX Crime HD</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV2 HD</link> 
+            <title>PT FOX Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX Comedy</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV2</link> 
+            <title>PT Eurosport News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport News</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV1 HD</link> 
+            <title>PT Eurosport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport HD</link> 
         </item> 
           <item> 
-            <title>PT: Sport TV1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sport TV1</link> 
+            <title>PT EUROSPORT 2 XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT EUROSPORT 2 XTRA HD</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3 HD</link> 
+            <title>PT Eurosport 2 Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport 2 Xtra</link> 
         </item> 
           <item> 
-            <title>PT: SPORT TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.201.60:8000/live/damian/damian/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV 3</link> 
+            <title>PT Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23165.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>PT TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23235.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCine 4</link> 
+        </item> 
+          <item> 
+            <title>PT EuroNews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23163.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT EuroNews</link> 
+        </item> 
+          <item> 
+            <title>PT Econ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23162.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Econ</link> 
+        </item> 
+          <item> 
+            <title>PT E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23161.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>PT Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23160.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23159.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT DISCOVERY SHOWCASE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23158.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT DISCOVERY SHOWCASE HD</link> 
+        </item> 
+          <item> 
+            <title>PT DISCOVERY SHOWCASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23157.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT DISCOVERY SHOWCASE</link> 
+        </item> 
+          <item> 
+            <title>PT Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23156.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>PT Deutsche Welle</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT Deuts&amp;streamtype=TSDOWNLOADER&amp;name=PT Deutsche Welle</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23155.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>PT CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23154.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CNN</link> 
+        </item> 
+          <item> 
+            <title>PT CNBC Europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23153.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CNBC Europe</link> 
+        </item> 
+          <item> 
+            <title>PT CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23152.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CMTV</link> 
+        </item> 
+          <item> 
+            <title>PT Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23151.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Cinemundo</link> 
+        </item> 
+          <item> 
+            <title>PT CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23150.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>PT Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23149.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>PT Canal Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23148.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal Q</link> 
+        </item> 
+          <item> 
+            <title>PT Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23147.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal Panda</link> 
+        </item> 
+          <item> 
+            <title>PT Canal NOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23146.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal NOS</link> 
+        </item> 
+          <item> 
+            <title>PT C-Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT C-Music</link> 
+        </item> 
+          <item> 
+            <title>PT BTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BTV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT BTV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23143.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BTV 1</link> 
+        </item> 
+          <item> 
+            <title>PT Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23142.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>PT Biggs</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23141.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Biggs</link> 
+        </item> 
+          <item> 
+            <title>PT BBC World News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23140.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BBC World News</link> 
+        </item> 
+          <item> 
+            <title>PT BBC Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23139.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BBC Entertainment</link> 
+        </item> 
+          <item> 
+            <title>PT Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23138.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Baby TV</link> 
+        </item> 
+          <item> 
+            <title>PT Baby First</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Baby First</link> 
+        </item> 
+          <item> 
+            <title>PT TVE 24h</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23236.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVE 24h</link> 
+        </item> 
+          <item> 
+            <title>PT TVE Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23237.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVE Internacional</link> 
+        </item> 
+          <item> 
+            <title>PT TVS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23241.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVS</link> 
+        </item> 
+          <item> 
+            <title>PT VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23243.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT VH1</link> 
+        </item> 
+          <item> 
+            <title>PT Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23128.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Afro Music</link> 
+        </item> 
+          <item> 
+            <title>PT Motorvision</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23186.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Motorvision</link> 
+        </item> 
+          <item> 
+            <title>PT Venus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23242.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Venus</link> 
+        </item> 
+          <item> 
+            <title>PT VH1 Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23244.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT VH1 Classic</link> 
+        </item> 
+          <item> 
+            <title>PT Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23185.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/admin/admin/23164.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport 1</link> 
         </item> 
   
