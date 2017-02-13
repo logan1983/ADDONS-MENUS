@@ -40,312 +40,345 @@
  
  
     
+      
           <item> 
-            <title>PT:RTP-1-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7086.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-1-HD</link> 
+            <title>PT:RTP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2993.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 1 HD</link> 
         </item> 
           <item> 
-            <title>PT:RTP-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7087.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-2</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>PT:RTP-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7088.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-3</link> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
-            <title>[PT]:play3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/5679.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT]:play3</link> 
+            <title>PT:RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 3</link> 
         </item> 
           <item> 
-            <title>PT:RTP-Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Acores</link> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
         </item> 
           <item> 
-            <title>PT:RTP-Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Africa</link> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
         </item> 
           <item> 
-            <title>PT:RTP-International</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7091.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-International</link> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
         </item> 
           <item> 
-            <title>PT:RTP-Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7092.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-Madeira</link> 
+            <title>PT: RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
         </item> 
           <item> 
-            <title>PT:RTP-MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7093.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP-MEMORIA</link> 
+            <title>PT: TV Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2994.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Record</link> 
         </item> 
           <item> 
-            <title>PT_RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP 3</link> 
+            <title>PT: AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
         </item> 
           <item> 
-            <title>PT_RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP Africa</link> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
         </item> 
           <item> 
-            <title>PT_RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP Memoria</link> 
+            <title>PT: Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
         </item> 
           <item> 
-            <title>PT_SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Caras</link> 
+            <title>PT: Fox Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3002.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies</link> 
         </item> 
           <item> 
-            <title>PT_SIC Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Kids</link> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2996.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
         </item> 
           <item> 
-            <title>PT_SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Mulher</link> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
         </item> 
           <item> 
-            <title>PT_SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC Radical</link> 
+            <title>PT: Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
         </item> 
           <item> 
-            <title>PT_TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI 24</link> 
+            <title>PT: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD</link> 
         </item> 
           <item> 
-            <title>PT_TVI Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI Reality</link> 
+            <title>PT: SYFY SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY SD</link> 
         </item> 
           <item> 
-            <title>PT:TVI-FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7107.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-FICCAO</link> 
+            <title>PT: AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White HD</link> 
         </item> 
           <item> 
-            <title>PT:TVI-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7108.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-HD</link> 
+            <title>PT: AXN.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN.HD</link> 
         </item> 
           <item> 
-            <title>PT:TVI-REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7109.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-REALITY</link> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
         </item> 
           <item> 
-            <title>PT:TVI24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI24</link> 
+            <title>PT:HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD</link> 
         </item> 
           <item> 
-            <title>PT_AandE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7025.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AandE</link> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
         </item> 
           <item> 
-            <title>PT_AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC</link> 
+            <title>PT: TV Cine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 1</link> 
         </item> 
           <item> 
-            <title>PT_AXN White</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7027.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN White</link> 
+            <title>PT: TV Cine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 2</link> 
         </item> 
           <item> 
-            <title>PT_Benfica TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Benfica TV HD</link> 
+            <title>PT: TV Cine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2180.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 3</link> 
         </item> 
           <item> 
-            <title>PT_Caça e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Caça e Pesca</link> 
+            <title>PT: TV Cine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2181.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 4</link> 
         </item> 
           <item> 
-            <title>PT_Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7022.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Canal Q</link> 
+            <title>PT:BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY TV</link> 
         </item> 
           <item> 
-            <title>PT_CançaoNova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7021.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CançaoNova</link> 
+            <title>PT:CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3000.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CANAL PANDA</link> 
         </item> 
           <item> 
-            <title>PT_Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7019.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Cinemundo</link> 
+            <title>PT:PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2978.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PANDA BIGGS</link> 
         </item> 
           <item> 
-            <title>PT_CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7030.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CMTV</link> 
+            <title>PT:CARTOON  NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2999.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CARTOON  NETWORK</link> 
         </item> 
           <item> 
-            <title>PT_Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7010.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney Channel</link> 
+            <title>PT:NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2995.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NICKELODEON</link> 
         </item> 
           <item> 
-            <title>PT_E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7031.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_E! Entertainment</link> 
+            <title>PT: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
         </item> 
           <item> 
-            <title>PT_Euronews PT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Euronews PT</link> 
+            <title>PT: Disney JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney JR</link> 
         </item> 
           <item> 
-            <title>PT_Eurosport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Eurosport News</link> 
+            <title>PT:JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2981.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM JAM</link> 
         </item> 
           <item> 
-            <title>PT_FoxCrime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7035.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FoxCrime</link> 
+            <title>PT: Sic Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Kids</link> 
         </item> 
           <item> 
-            <title>PT_FoxMovies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7033.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FoxMovies</link> 
+            <title>PT: MCS EXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2970.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCS EXTREME</link> 
         </item> 
           <item> 
-            <title>PT_Fuel TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fuel TV</link> 
+            <title>PT: Porto Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3016.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal</link> 
         </item> 
           <item> 
-            <title>PT_Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7018.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Historia</link> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
         </item> 
           <item> 
-            <title>PT_JimJam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7008.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JimJam</link> 
+            <title>PT: NBA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NBA TV</link> 
         </item> 
           <item> 
-            <title>PT_Mov HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7039.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Mov HD</link> 
+            <title>PT: LIfestyle TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3715.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: LIfestyle TV</link> 
         </item> 
           <item> 
-            <title>PT_National Geographic Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_National Geographic Wild</link> 
+            <title>PT:TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT_Nicke</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Nicke</link> 
+            <title>PT:TVC SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC SERIES HD</link> 
         </item> 
           <item> 
-            <title>PT_Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia</link> 
+            <title>PT:TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2962.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TLC</link> 
         </item> 
           <item> 
-            <title>PT_Panda Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7006.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Panda Biggs</link> 
+            <title>PT:SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SPORTING TV</link> 
         </item> 
           <item> 
-            <title>PT_Panda HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Panda HD</link> 
+            <title>PT:SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT_PFC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7012.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PFC HD</link> 
+            <title>PT:REDE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2976.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REDE TV</link> 
         </item> 
           <item> 
-            <title>PT_Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7017.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Porto Canal</link> 
+            <title>PT:Q CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2977.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Q CANAL</link> 
         </item> 
           <item> 
-            <title>PT_Sport TV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sport TV 2 HD</link> 
+            <title>PT:PFC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2963.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PFC HD</link> 
         </item> 
           <item> 
-            <title>PT_Sport TV 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sport TV 3 HD</link> 
+            <title>PT:CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2989.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CBS REALITY</link> 
         </item> 
           <item> 
-            <title>PT_Sporting TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Sporting TV</link> 
+            <title>PT:ONE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3010.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:ONE 1 HD</link> 
         </item> 
           <item> 
-            <title>PT_SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7016.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SyFy</link> 
+            <title>PT:MOTORVISION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2980.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION HD</link> 
         </item> 
           <item> 
-            <title>PT_TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7015.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC</link> 
+            <title>PT:MOTORVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION</link> 
         </item> 
           <item> 
-            <title>PT_Toros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7014.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Toros TV</link> 
+            <title>PT:GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2982.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:GLOBO</link> 
         </item> 
           <item> 
-            <title>PT_TV Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV Globo</link> 
+            <title>PT:FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FUEL TV</link> 
         </item> 
           <item> 
-            <title>PT_TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV Globo Premium</link> 
+            <title>PT:EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2988.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT</link> 
         </item> 
           <item> 
-            <title>PT_TV Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV Record</link> 
+            <title>PT: Kombat Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT: Kombat Sports&amp;streamtype=TSDOWNLOADER&amp;name=PT: Kombat Sports</link> 
         </item> 
           <item> 
-            <title>PT:Canal-Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal-Panda</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2997.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>PT:Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7083.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Cinemundo</link> 
+            <title>PT:DISCOVERY SHOWCASE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3012.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISCOVERY SHOWCASE HD</link> 
         </item> 
           <item> 
-            <title>PT:CM-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7084.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CM-TV</link> 
+            <title>PT:CAMARA REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3001.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CAMARA REALITY</link> 
         </item> 
           <item> 
-            <title>PT:Food-Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Food-Network</link> 
+            <title>PT:CACAVISION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CACAVISION HD</link> 
         </item> 
           <item> 
-            <title>PT:Sport-TV-1-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-1-HD</link> 
+            <title>PT:CAÃ‡A E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3014.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CAÃ‡A E PESCA</link> 
         </item> 
           <item> 
-            <title>PT:Sport-TV-2-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7095.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-2-HD</link> 
+            <title>PT: ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2991.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ENTERTAINMENT</link> 
         </item> 
           <item> 
-            <title>PT:Sport-TV-3-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7096.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-3-HD</link> 
+            <title>PT:BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3003.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BIGGS</link> 
         </item> 
           <item> 
-            <title>PT:Sport-TV-5-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport-TV-5-HD</link> 
+            <title>PT: Sic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic</link> 
         </item> 
           <item> 
-            <title>PT:Sporting-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting-TV</link> 
+            <title>PT: Sic Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2174.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Noticias</link> 
         </item> 
           <item> 
-            <title>PT:TV-Cine-1-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-1-HD</link> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
         </item> 
           <item> 
-            <title>PT:TV-Cine-2-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-2-HD</link> 
+            <title>PT:A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3007.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&amp;E</link> 
         </item> 
           <item> 
-            <title>PT:TV-Cine-4-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7103.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-4-HD</link> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/4924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT:TV-Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/7105.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Record</link> 
+            <title>PT: Tvi 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24</link> 
         </item> 
           <item> 
-            <title>[PT] FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6801.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] FOX COMEDY</link> 
+            <title>PT: Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia</link> 
         </item> 
           <item> 
-            <title>[PT] HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6805.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] HOLLYWOOD HD</link> 
+            <title>PT: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>[PT] SPORT TV 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6822.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORT TV 1 HD</link> 
+            <title>PT:TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2971.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TRAVEL CHANNEL HD</link> 
         </item> 
           <item> 
-            <title>[PT] SPORT TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6826.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORT TV 3</link> 
+            <title>PT: Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
         </item> 
           <item> 
-            <title>[PT] SPORT TV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6824.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORT TV 4 HD</link> 
+            <title>PT:24KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3015.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:24KITCHEN HD</link> 
         </item> 
           <item> 
-            <title>[PT] SPORTING TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6825.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SPORTING TV</link> 
+            <title>PT: Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
         </item> 
           <item> 
-            <title>[PT]: TCV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.122.5:9000/live/Nour/Nour/6870.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT]: TCV</link> 
+            <title>PT: Benfica TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV</link> 
+        </item> 
+          <item> 
+            <title>PT:BENFICA TV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3005.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BENFICA TV 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT:BENFICA TV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3004.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BENFICA TV 2</link> 
+        </item> 
+          <item> 
+            <title>PT:CHELSEA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2984.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CHELSEA TV HD</link> 
+        </item> 
+          <item> 
+            <title>PT:WOOHOO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:WOOHOO</link> 
+        </item> 
+          <item> 
+            <title>PT:VH1 CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3018.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1 CLASSIC</link> 
+        </item> 
+          <item> 
+            <title>PT:VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/3019.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1</link> 
+        </item> 
+          <item> 
+            <title>PT:TRACE URBAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TRACE URBAN</link> 
+        </item> 
+          <item> 
+            <title>PT:MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://51.255.76.67:1557/live/9999/9999/2979.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MTV PORTUGAL</link> 
         </item> 
   
