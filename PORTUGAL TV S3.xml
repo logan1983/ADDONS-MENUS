@@ -42,15 +42,18 @@
     
       
  
-     
-          <item> 
-            <title>PT: RTP_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_3</link> 
-        </item> 
-          <item> 
+           <item> 
+            <title>PT RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://masteriptv.dnsfor.me:8000/live/ines/ines/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 1</link> 
+        </item>
+              <item> 
             <title>PT: RTP_2</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_2</link> 
-        </item> 
+        </item>
+		  <item> 
+            <title>PT: RTP_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP_3</link> 
+        </item>  
           <item> 
             <title>PT: SIC_Radical</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://portal.onlineiptv.net:5210/live/BjEIUMnFrF/Y67lSzxsWh/7632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC_Radical</link> 
