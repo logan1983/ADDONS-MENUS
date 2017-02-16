@@ -114,10 +114,10 @@
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
 
-<item
-<title[COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<linkplugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/casa/casa/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1+ LOGAN</link> 
-<thumbnailhttp://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
+<item>
+<title>[COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/Costa/Costa/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV1+ LOGAN</link> 
+<thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 <fanart></fanart>
 </item>
 
