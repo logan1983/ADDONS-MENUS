@@ -31,220 +31,325 @@
      
       
     
+ 
           <item> 
-            <title>ES: TVE LA1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA1</link> 
+            <title>ES HD: Canal Futbol HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2035.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Canal Futbol HD</link> 
         </item> 
           <item> 
-            <title>ES: TVE LA2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TVE LA2</link> 
+            <title>ES HD: Bein Liga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2034.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Bein Liga HD</link> 
         </item> 
           <item> 
-            <title>ES: RealMadrid</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: RealMadrid</link> 
+            <title>ES HD: Bein Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2033.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Bein Sport HD</link> 
         </item> 
           <item> 
-            <title>ES: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2291.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+            <title>ES HD: Eurosport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2027.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Eurosport HD</link> 
         </item> 
           <item> 
-            <title>ES: NEOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
+            <title>ES HD: Canal Deportes HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Canal Deportes HD</link> 
         </item> 
           <item> 
-            <title>ES: NATGEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATGEO WILD</link> 
+            <title>ES HD: CANAL DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2037.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CANAL DEPORTES 2 HD</link> 
         </item> 
           <item> 
-            <title>ES: Movistar  Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar  Xtra</link> 
+            <title>ES HD: CANAL Golf HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CANAL Golf HD</link> 
         </item> 
           <item> 
-            <title>ES: Movistar  Accion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar  Accion</link> 
+            <title>ES HD: Movistar GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2040.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Movistar GP HD</link> 
         </item> 
           <item> 
-            <title>ES: La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
+            <title>ES HD: MoviStar F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: MoviStar F1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: Canal Accion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2045.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Canal Accion HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: Canal Comedia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2044.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Canal Comedia HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: Canal Dcine HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2043.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Canal Dcine HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: CANAL XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2042.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CANAL XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: Canal Estrenos HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2041.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: Canal Estrenos HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: CANAL  TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CANAL  TOROS HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: CANAL SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2046.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CANAL SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: CANAL SERIES Xtra HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2047.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CANAL SERIES Xtra HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2048.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2049.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2053.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2054.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2055.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: AMC HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2056.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: VIAJAR HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2052.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2051.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: COSMO HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: TELEDEPORTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: TELEDEPORTE HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2030.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2029.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: ANTENA3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2028.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: ANTENA3 HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: NICKELODEON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2057.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: NICKELODEON HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>ES HD: NAT GEO WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES HD: NAT GEO WILD HD</link> 
+        </item> 
+          <item> 
+            <title>ES: beIN SPORT ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: beIN SPORT ES</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL+ LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL+ LIGA</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL+ GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL+ GOLF</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ DEPORTES</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal + Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Futbol</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Deportes 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Deportes 2</link> 
+        </item> 
+          <item> 
+            <title>ES: MoviStar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MoviStar F1</link> 
+        </item> 
+          <item> 
+            <title>ES: MoviStar Moto Gp HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MoviStar Moto Gp HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Teledeporte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Teledeporte</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport ES</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Liga 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Liga 2 HD</link> 
+        </item> 
+          <item> 
+            <title>ES: Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>ES: Real MadridTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real MadridTV</link> 
+        </item> 
+          <item> 
+            <title>ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/380.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Barca TV</link> 
+        </item> 
+          <item> 
+            <title>ES: NonStop People</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NonStop People</link> 
+        </item> 
+          <item> 
+            <title>ES: Calle 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Calle 13</link> 
+        </item> 
+          <item> 
+            <title>ES: #O HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #O HD</link> 
+        </item> 
+          <item> 
+            <title>ES: LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1</link> 
+        </item> 
+          <item> 
+            <title>ES: Canal+ Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal+ Series Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ ACCIAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ ACCIAN</link> 
+        </item> 
+          <item> 
+            <title>ES: CANAL+ Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL+ Estrenos</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>ES: DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DCINE</link> 
+        </item> 
+          <item> 
+            <title>ES: C+ Toros HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ Toros HD</link> 
         </item> 
           <item> 
             <title>ES: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD</link> 
         </item> 
           <item> 
-            <title>ES: GALICIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GALICIA</link> 
-        </item> 
-          <item> 
-            <title>ES: Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Energy</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>ES: CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
-        </item> 
-          <item> 
-            <title>ES: Clan TVe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan TVe</link> 
-        </item> 
-          <item> 
-            <title>ES: CANAL DEPORTES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DEPORTES HD</link> 
-        </item> 
-          <item> 
-            <title>ES: CANAL DECASA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DECASA</link> 
-        </item> 
-          <item> 
-            <title>ES: C+GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+GOLF</link> 
-        </item> 
-          <item> 
-            <title>ES: C+ SERIES XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ SERIES XTRA</link> 
-        </item> 
-          <item> 
-            <title>ES: AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2288.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
+            <title>ES: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Fox</link> 
         </item> 
           <item> 
             <title>ES: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
         </item> 
           <item> 
-            <title>ES: Antena3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2289.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena3</link> 
-        </item> 
-          <item> 
-            <title>ES: ANDALUCIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2290.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANDALUCIA</link> 
-        </item> 
-          <item> 
-            <title>ES: Tring Jolly HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Tring Jolly HD</link> 
-        </item> 
-          <item> 
-            <title>ES: Tring History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1352.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Tring History</link> 
-        </item> 
-          <item> 
-            <title>ES: Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedy Central</link> 
-        </item> 
-          <item> 
-            <title>ES: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal + Toros</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal + Toros</link> 
-        </item> 
-          <item> 
-            <title>ES: C+ SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: C+ SERIES</link> 
-        </item> 
-          <item> 
-            <title>ES: BARCA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BARCA TV</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/764.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Futbol</link> 
-        </item> 
-          <item> 
-            <title>ES: Canal Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Liga</link> 
-        </item> 
-          <item> 
-            <title>ES: NATIONAL-GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NATIONAL-GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>ES: HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>ES: FOX-LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX-LIFE</link> 
-        </item> 
-          <item> 
-            <title>ES: DISNEY-JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY-JUNIOR</link> 
+            <title>ES: AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN White</link> 
         </item> 
           <item> 
             <title>ES: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
         </item> 
           <item> 
-            <title>ES: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
+            <title>ES: Comedia Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Comedia Central</link> 
         </item> 
           <item> 
-            <title>ES: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
+            <title>ES: Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Energy</link> 
         </item> 
           <item> 
-            <title>ES: CANAL  ESTRENOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  ESTRENOS</link> 
+            <title>ES: Clan Tve</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Clan Tve</link> 
         </item> 
           <item> 
-            <title>ES: CANAL  DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  DCINE</link> 
+            <title>ES: La 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/371.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La 1 HD</link> 
         </item> 
           <item> 
-            <title>ES: CANAL  COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  COMEDIA</link> 
+            <title>ES: La2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La2</link> 
         </item> 
           <item> 
-            <title>ES: CANAL  ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL  ACCION</link> 
+            <title>ES: M Cine N</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M Cine N</link> 
         </item> 
           <item> 
-            <title>ES: CANAL SERIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL SERIE</link> 
+            <title>ES: La Sexta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
         </item> 
           <item> 
-            <title>ES: CANAL DEPORTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CANAL DEPORTE</link> 
+            <title>ES: TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TV GALICIA</link> 
         </item> 
           <item> 
-            <title>ES: CALLE 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13</link> 
+            <title>ES: A3 Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A3 Series</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1470.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
+            <title>ES: 40 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: 40 TV</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
+            <title>ES: Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/402.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Canal Cocina</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1472.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
+            <title>ES: Antena 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3 HD</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
+            <title>ES: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Channel</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
+            <title>ES: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney Junior</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
-        </item> 
-          <item> 
-            <title>ES: Caza Y Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2386.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Caza Y Pesca</link> 
-        </item> 
-          <item> 
-            <title>ES: Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.91.205:8000/live/user1/user1/2387.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Baby TV</link> 
+            <title>ES: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/suca/83pC0XI6tV/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Disney XD</link> 
         </item> 
   
