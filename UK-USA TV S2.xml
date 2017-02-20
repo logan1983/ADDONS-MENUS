@@ -35,752 +35,217 @@
         
       
          
+       
           <item> 
-            <title>UK: Sky News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News HD</link> 
+            <title>UK_BBC1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC1</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports News HD</link> 
+            <title>UK_BBC2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC2</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_BBC3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1974.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC3</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD</link> 
+            <title>UK_BBC4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBC4</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_BBCNEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BBCNEWS</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sport 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 1 SD</link> 
+            <title>UK_ITV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV1</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 2 HD</link> 
+            <title>UK_ITV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV2</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_ITV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV3</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sport 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2 SD</link> 
+            <title>UK_ITV_One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_One</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 3 HD</link> 
+            <title>UK_ITV_Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ITV_Encore</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_SKYone</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2326.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKYone</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sport 3 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3 SD</link> 
+            <title>UK_skytwo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_skytwo</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD</link> 
+            <title>UK_Sky_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Action</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_Sky_Alantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Alantic</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sport 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4 SD</link> 
+            <title>UK_Sky_Movies_Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD</link> 
+            <title>UK_Sky_Movie_Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movie_Family</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_Sky_Movies_Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Disney</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sport 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5 SD</link> 
+            <title>UK_Sky_Movies_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Comedy</link> 
         </item> 
           <item> 
-            <title>UK: Sky Sports F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1</link> 
+            <title>UK_Sky_Movies_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Action</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_Sky_Movies_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Premiere</link> 
         </item> 
           <item> 
-            <title>UK: Sky Premier Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premier Sports HD</link> 
+            <title>UK_nick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2765.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_nick</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_Nick_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Junior</link> 
         </item> 
           <item> 
-            <title>UK: Sky Setanta Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Setanta Sports</link> 
+            <title>UK_Nick_Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Toons</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nickelodeon</link> 
         </item> 
           <item> 
-            <title>UK: Sky Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 1 HD</link> 
+            <title>UK_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Channel</link> 
         </item> 
           <item> 
-            <title>UK: Sky Eurosport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Eurosport 2 HD</link> 
+            <title>UK_Cartoon_NetWork</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Cartoon_NetWork</link> 
         </item> 
           <item> 
-            <title>UK: Sky BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1</link> 
+            <title>UK_Animal_Planet_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Animal_Planet_HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2</link> 
+            <title>UK_National_Geo_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_National_Geo_WILD</link> 
         </item> 
           <item> 
-            <title>UK: Sky BT Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 1 HD</link> 
+            <title>UK_National_Geography_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/1985.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_National_Geography_HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky BT Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport 2 HD</link> 
+            <title>UK_Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery</link> 
         </item> 
           <item> 
-            <title>UK: Sky BT Sport Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/453.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Europe</link> 
+            <title>UK_Discovery_Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_Science</link> 
         </item> 
           <item> 
-            <title>UK: Sky BT Sport Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BT Sport Extra</link> 
+            <title>UK_SKY_SPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT1</link> 
         </item> 
           <item> 
-            <title>UK: Sky Liverpool FC TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Liverpool FC TV HD</link> 
+            <title>UK_SKY_SPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT2</link> 
         </item> 
           <item> 
-            <title>UK: Sky Chelsea TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Chelsea TV HD</link> 
+            <title>UK_SKY_SPORT3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2243.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT3</link> 
         </item> 
           <item> 
-            <title>UK: Sky MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MUTV</link> 
+            <title>UK_SKY_SPORT4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2244.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT4</link> 
         </item> 
           <item> 
-            <title>Uk: Sky At the Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk: Sky At the Races</link> 
+            <title>UK_SKY_SPORT5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2245.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT5</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Premiere HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Disney</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Select HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Select HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Greats</link> 
+            <title>UK_SKYSportsF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_SKYSports&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKYSportsF1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2349.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family HD</link> 
+            <title>UK_Eurosport_1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Eurosport_1HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Drama HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama HD</link> 
+            <title>UK_Eurosport_2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Eurosport_2HD</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Comedy HD</link> 
+            <title>UK_Mio_STADIUM_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2773.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_1</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime</link> 
+            <title>UK_Mio_STADIUM_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2774.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_2</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies Sci-Fi+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Sci-Fi+</link> 
+            <title>UK_Mio_STADIUM_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2775.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_3</link> 
         </item> 
           <item> 
-            <title>UK: Sky Movies 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies 24</link> 
+            <title>UK_Mio_STADIUM_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2776.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_4</link> 
         </item> 
           <item> 
-            <title>UK: Sky True Movies 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 1</link> 
+            <title>UK_Mio_STADIUM_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2777.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Mio_STADIUM_5</link> 
         </item> 
           <item> 
-            <title>UK: Sky True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky True Movies 2</link> 
+            <title>UK_MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV</link> 
         </item> 
           <item> 
-            <title>UK: Sky More 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky More 4 HD</link> 
+            <title>UK_MTV_Rocks</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_Rocks</link> 
         </item> 
           <item> 
-            <title>UK: Sky Film 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Film 4 HD</link> 
+            <title>UK_MTV_Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_Music</link> 
         </item> 
           <item> 
-            <title>UK: Sky ITV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 1</link> 
+            <title>UK_MTV_HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_HITS</link> 
         </item> 
           <item> 
-            <title>UK: Sky ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 2</link> 
+            <title>UK_MTV_CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_MTV_CLASSIC</link> 
         </item> 
           <item> 
-            <title>UK: Sky ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 3</link> 
+            <title>UK_CBS_Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Reality</link> 
         </item> 
           <item> 
-            <title>UK: Sky ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV 4</link> 
+            <title>UK_CBS_Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2346.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Drama</link> 
         </item> 
           <item> 
-            <title>UK: Sky ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ITV Encore</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cbs Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Drama</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cbs Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cbs Action</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC One HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Two HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC Three HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Three HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BBC Four HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BBC Four HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Comedy Central Ex</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy Central Ex</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Food Network</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Good Food HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Good Food HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Bloomberg HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Bloomberg HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Boomerang</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky NickToons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/446.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky NickToons</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Disney XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney XD HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Disney Junior HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Junior HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Disney Chaneel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney Chaneel HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery History</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/445.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Discovery</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky National Geographic HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Nat Geo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Nat Geo Wild HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Animal Planet HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Animal Planet HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky History HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky History 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/452.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky History 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Ci</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Ci</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/447.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E!</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky VH1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Syfy</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky CNBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNBC</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Dave HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dave HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky RTE One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE One</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky RTE Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/478.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky RTE Two</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Fox</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Five</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/473.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Five</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Arts 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Alibi</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Living HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Living HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky BoxNation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky BoxNation</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Racing</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Gold</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Gold</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 USA</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 5 star</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 5 star</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky life Time</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky life Time</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky E4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky E4+1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/459.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TCM</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky CNN</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Dmax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Dmax</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky TLC</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky STV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/448.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky STV</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Rocks</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Rocks HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Rocks HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Hits HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Dance HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Dance HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Live HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Classic</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky MTV Base</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky MTV Base</link> 
-        </item> 
-          <item> 
-            <title>US: Famly HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1161.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Famly HD</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Pag TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Pag TV</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Network</link> 
-        </item> 
-          <item> 
-            <title>US: Sports Footbal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Footbal HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: World Fashion TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: World Fashion TV</link> 
-        </item> 
-          <item> 
-            <title>US: Sports NFL Now HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports NFL Now HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: HBO 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO 1</link> 
-        </item> 
-          <item> 
-            <title>US: Sports MLS Soccer</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports MLS Soccer</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1151.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: Sports Tonight</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports Tonight</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1158.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Sports West HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports West HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: FOX 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX 1</link> 
-        </item> 
-          <item> 
-            <title>US: Sport LTVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1153.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport LTVE HD</link> 
-        </item> 
-          <item> 
-            <title>US: Starz Edge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Edge</link> 
-        </item> 
-          <item> 
-            <title>US: C-Span 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1148.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 1 HD</link> 
-        </item> 
-          <item> 
-            <title>US: C-Span 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1160.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 2 HD</link> 
-        </item> 
-          <item> 
-            <title>US: C-Span 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1162.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 3 HD</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 1</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 2</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 3</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 4</link> 
-        </item> 
-          <item> 
-            <title>US: Sport TSN 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport TSN 5</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Sports Florida HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports Florida HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: NHL Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NHL Network HD</link> 
-        </item> 
-          <item> 
-            <title>US: Sport Snet Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Sport Snet Central</link> 
-        </item> 
-          <item> 
-            <title>US: Espn Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Espn Sport</link> 
-        </item> 
-          <item> 
-            <title>US: AFN Movies HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Movies HD</link> 
-        </item> 
-          <item> 
-            <title>US: Thai CH8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Thai CH8</link> 
-        </item> 
-          <item> 
-            <title>US: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1157.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMC</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Movies</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Action</link> 
-        </item> 
-          <item> 
-            <title>US: Amazing Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Music</link> 
-        </item> 
-          <item> 
-            <title>US: TBS Channle</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TBS Channle</link> 
-        </item> 
-          <item> 
-            <title>US: Starz East</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz East</link> 
-        </item> 
-          <item> 
-            <title>US: NFL Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Live HD</link> 
-        </item> 
-          <item> 
-            <title>US: ShowTime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ShowTime HD</link> 
-        </item> 
-          <item> 
-            <title>US: A&amp;E Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&amp;E Network</link> 
-        </item> 
-          <item> 
-            <title>US: BeIN Sports US</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: BeIN Sports US</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>US: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1154.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>US: Bravo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bravo</link> 
-        </item> 
-          <item> 
-            <title>US: Fox Clasic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Clasic</link> 
-        </item> 
-          <item> 
-            <title>US: Disccovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1150.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disccovery HD</link> 
-        </item> 
-          <item> 
-            <title>US: FX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1149.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FX HD</link> 
-        </item> 
-          <item> 
-            <title>US: TMN 1 Moves</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1152.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TMN 1 Moves</link> 
-        </item> 
-          <item> 
-            <title>US: AMG Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMG Entertainment</link> 
-        </item> 
-          <item> 
-            <title>US: Daystart</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Daystart</link> 
-        </item> 
-          <item> 
-            <title>US: Hallmark HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1159.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Hallmark HD</link> 
-        </item> 
-          <item> 
-            <title>US: HSN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN</link> 
-        </item> 
-          <item> 
-            <title>US: Cinemax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax</link> 
-        </item> 
-          <item> 
-            <title>US: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1156.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TNT</link> 
-        </item> 
-          <item> 
-            <title>US: NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA TV</link> 
-        </item> 
-          <item> 
-            <title>US: ABC NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC NEWS HD</link> 
-        </item> 
-          <item> 
-            <title>US: Poker Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1155.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Poker Central</link> 
-        </item> 
-          <item> 
-            <title>US: California TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: California TV</link> 
-        </item> 
-          <item> 
-            <title>US: Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>US: Amazing Discoveries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Discoveries</link> 
-        </item> 
-          <item> 
-            <title>US: BYU</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.com:8000/live/alsama/alsama/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BYU</link> 
+            <title>UK_CBS_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://151.80.100.30:8088/live/ali/ali/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CBS_Action</link> 
         </item> 
   
