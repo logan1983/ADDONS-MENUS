@@ -27,560 +27,510 @@
 
  
          
+ 
+        
           <item> 
-            <title>DE:ARD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ARD</link> 
+            <title>DE - Das Erste</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Das Erste</link> 
         </item> 
           <item> 
-            <title>DE:ZDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ZDF</link> 
+            <title>DE - ZDF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - ZDF HD</link> 
         </item> 
           <item> 
-            <title>DE: Vox Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4444.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Vox Local</link> 
+            <title>DE - WDR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2437.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - WDR</link> 
         </item> 
           <item> 
-            <title>DE:RTL Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4443.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Local</link> 
+            <title>DE - SAT.1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SAT.1 HD</link> 
         </item> 
           <item> 
-            <title>DE: Kabel 1 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4448.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Kabel 1 Local</link> 
+            <title>DE - RTL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - RTL HD</link> 
         </item> 
           <item> 
-            <title>DE: Pro 7 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4447.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Pro 7 Local</link> 
+            <title>DE - RTL II HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - RTL II HD</link> 
         </item> 
           <item> 
-            <title>DE: RTL 2 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4446.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL 2 Local</link> 
+            <title>DE - SUPER RTL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SUPER RTL HD</link> 
         </item> 
           <item> 
-            <title>DE: Sat1 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4445.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sat1 Local</link> 
+            <title>DE - KABEL 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - KABEL 1 HD</link> 
         </item> 
           <item> 
-            <title>*****Sky Deutschland*****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,*****Sky Deuts&amp;streamtype=TSDOWNLOADER&amp;name=*****Sky Deutschland*****</link> 
+            <title>DE - ProSieben HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2350.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - ProSieben HD</link> 
+        </item> 
+          <item> 
+            <title>DE - VOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - VOX HD</link> 
+        </item> 
+          <item> 
+            <title>======  DE - Sky Kino ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Sky Kino ======</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Cinema HD</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Cinema +1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2349.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Cinema +1 HD</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Cinema+24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Cinema+24 HD</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Action HD</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Comedy</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Emotion</link> 
+        </item> 
+          <item> 
+            <title>DE - SKY Nostalgie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SKY Nostalgie</link> 
+        </item> 
+          <item> 
+            <title>DE - Sky Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,DE - Sky Hits&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Hits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/2084.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>DE:Sky Nostalgie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Nostalgie</link> 
+            <title>DE - Sky  MGM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky  MGM HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY KRIMI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY KRIMI</link> 
+            <title>DE - Kinowelt</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Kinowelt</link> 
         </item> 
           <item> 
-            <title>DE:SKY HITS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY HITS HD</link> 
+            <title>DE - TNT Film</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - TNT Film</link> 
         </item> 
           <item> 
-            <title>DE:Sky Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Emotion</link> 
+            <title>DE - Romance HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Romance HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY COMEDY</link> 
+            <title>DE - 13th Street HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - 13th Street HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY CINEMA 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY CINEMA 24</link> 
+            <title>DE - Universal HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Universal HD</link> 
         </item> 
           <item> 
-            <title>DE: Sky Cinema Family ...</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5575.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Sky Cinema Family ...</link> 
+            <title>De - Sky Heimatkanal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=De - Sky Heimatkanal</link> 
         </item> 
           <item> 
-            <title>DE:SKY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY CINEMA</link> 
+            <title>====== DE - Sky Unterhaltung ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name======= DE - Sky Unterhaltung ======</link> 
         </item> 
           <item> 
-            <title>DE: SKY CINEMA  1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5556.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY CINEMA  1 HD</link> 
+            <title>DE - Sky Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Atlantic HD</link> 
         </item> 
           <item> 
-            <title>DE:Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sky Atlantic</link> 
+            <title>DE - Sky Atlantic+1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2361.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Atlantic+1 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY ACTION</link> 
+            <title>DE - Sky Syfy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Syfy HD</link> 
         </item> 
           <item> 
-            <title>DE: 13 STREET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: 13 STREET</link> 
+            <title>DE - Sky Krimi HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2434.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Krimi HD</link> 
         </item> 
           <item> 
-            <title>DE:SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SYFY</link> 
+            <title>DE - Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Fox HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY 1 HD</link> 
+            <title>DE - Sky Fox Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Fox Serie</link> 
         </item> 
           <item> 
-            <title>DE:MGM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:MGM HD</link> 
+            <title>DE - TNT Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - TNT Serie</link> 
         </item> 
           <item> 
-            <title>DE:Kinowelt</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Kinowelt</link> 
+            <title>DE - AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - AXN HD</link> 
         </item> 
           <item> 
-            <title>DE: TNT Film</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT Film</link> 
+            <title>DE - RTL Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - RTL Crime</link> 
         </item> 
           <item> 
-            <title>DE:TNT SERIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:TNT SERIE</link> 
+            <title>DE - RTL Passion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - RTL Passion</link> 
         </item> 
           <item> 
-            <title>DE:RTL PASSION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL PASSION</link> 
+            <title>DE - RTL Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - RTL Living</link> 
         </item> 
           <item> 
-            <title>DE:RTL Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL Living</link> 
+            <title>DE - Pro7 MAXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Pro7 MAXX</link> 
         </item> 
           <item> 
-            <title>DE:RTL CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:RTL CRIME</link> 
+            <title>DE - SKY E! Entertainment HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SKY E! Entertainment HD</link> 
         </item> 
           <item> 
-            <title>DE: RTL Nitro</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL Nitro</link> 
+            <title>DE - Sixx HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2476.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sixx HD</link> 
         </item> 
           <item> 
-            <title>*****DE Sky Unterhaltung*****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/2086.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****DE Sky Unterhaltung*****</link> 
+            <title>DE - Ran 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2471.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Ran 1</link> 
         </item> 
           <item> 
-            <title>DE:SIXX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SIXX HD</link> 
+            <title>DE -  Dwelle</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE -  Dwelle</link> 
         </item> 
           <item> 
-            <title>DE: E! Entertainement</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5551.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: E! Entertainement</link> 
+            <title>====== Svizzeri ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2795.ts&amp;streamtype=TSDOWNLOADER&amp;name======= Svizzeri ======</link> 
         </item> 
           <item> 
-            <title>DE: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: AXN HD</link> 
+            <title>CH - TeleZüri</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - TeleZüri</link> 
         </item> 
           <item> 
-            <title>DE: JUKE_BOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5550.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: JUKE_BOX</link> 
+            <title>CH - Teleticino HD DE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2806.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - Teleticino HD DE</link> 
         </item> 
           <item> 
-            <title>DE: NTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5553.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NTV HD</link> 
+            <title>CH - TC Star</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2799.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - TC Star</link> 
         </item> 
           <item> 
-            <title>DE: PLANET HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5546.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: PLANET HD</link> 
+            <title>CH - TC Prime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2802.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - TC Prime</link> 
         </item> 
           <item> 
-            <title>DE: QVC_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5549.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: QVC_TV</link> 
+            <title>CH - TC Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2803.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - TC Cinema</link> 
         </item> 
           <item> 
-            <title>DE: RTL2 YOU</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5564.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RTL2 YOU</link> 
+            <title>CH - TC Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2801.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - TC Sport 1</link> 
         </item> 
           <item> 
-            <title>DE: SONY TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5555.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SONY TV HD</link> 
+            <title>CH - TC Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2800.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - TC Sport 2</link> 
         </item> 
           <item> 
-            <title>DE: UNIVERSAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5559.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: UNIVERSAL HD</link> 
+            <title>CH - ORF 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2791.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - ORF 1 HD</link> 
         </item> 
           <item> 
-            <title>DE: Tele 5 HD DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5577.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Tele 5 HD DE</link> 
+            <title>CH - ORF 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2792.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - ORF 2 HD</link> 
         </item> 
           <item> 
-            <title>DE: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5557.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TLC</link> 
+            <title>CH - SRF 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2793.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - SRF 1 HD</link> 
         </item> 
           <item> 
-            <title>DE: TNT COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5560.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: TNT COMEDY HD</link> 
+            <title>CH - SRF 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2794.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH - SRF 2 HD</link> 
         </item> 
           <item> 
-            <title>DE:N24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:N24</link> 
+            <title>===== ORF =====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name====== ORF =====</link> 
         </item> 
           <item> 
-            <title>DE:A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:A&amp;E</link> 
+            <title>DE - ORF 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2348.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - ORF 1 HD</link> 
         </item> 
           <item> 
-            <title>DE:PRO 7 MAXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:PRO 7 MAXX</link> 
+            <title>DE - ORF 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - ORF 2 HD</link> 
         </item> 
           <item> 
-            <title>DE: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: FOX</link> 
+            <title>======  DE - Info ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2575.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Info ======</link> 
         </item> 
           <item> 
-            <title>DE:ORF 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:ORF 1</link> 
+            <title>DE - Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2472.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Euronews</link> 
         </item> 
           <item> 
-            <title>DE: ORF 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5554.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: ORF 2 HD</link> 
+            <title>DE - Autria 24 Ttv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Autria 24 Ttv</link> 
         </item> 
           <item> 
-            <title>DE: Zee ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4019.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Zee ONE</link> 
+            <title>DE - NDR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - NDR HD</link> 
         </item> 
           <item> 
-            <title>*****DE Sky Kinder*****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/2085.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****DE Sky Kinder*****</link> 
+            <title>DE - Filstawelle</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Filstawelle</link> 
         </item> 
           <item> 
-            <title>DE:SUPER RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SUPER RTL</link> 
+            <title>DE - Munchen tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Munchen tv</link> 
         </item> 
           <item> 
-            <title>DE: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Junior</link> 
+            <title>DE - HR-fernsehen HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - HR-fernsehen HD</link> 
         </item> 
           <item> 
-            <title>DE: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney XD</link> 
+            <title>======  DE - Sky Kultur ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2572.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Sky Kultur ======</link> 
         </item> 
           <item> 
-            <title>DE: Disney Cinemagic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Disney Cinemagic</link> 
+            <title>DE - Sky Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Discovery HD</link> 
         </item> 
           <item> 
-            <title>DE: Toggo Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5566.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Toggo Plus</link> 
+            <title>DE - Sky NatGeo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky NatGeo HD</link> 
         </item> 
           <item> 
-            <title>DE: RIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5574.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: RIC</link> 
+            <title>DE - Sky Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Nat Geo Wild HD</link> 
         </item> 
           <item> 
-            <title>DE: CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5561.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: CARTOON NETWORK</link> 
+            <title>DE - Sky History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1370.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky History HD</link> 
         </item> 
           <item> 
-            <title>DE: NICKLODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5552.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: NICKLODEON HD</link> 
+            <title>DE - Sky Spiegel Geschichte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Spiegel Geschichte</link> 
         </item> 
           <item> 
-            <title>DE:DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISNEY CHANNEL</link> 
+            <title>DE - Sky DMAX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky DMAX HD</link> 
         </item> 
           <item> 
-            <title>DE: Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4018.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Boomerang</link> 
+            <title>======  DE - Sky Musik ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2573.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Sky Musik ======</link> 
         </item> 
           <item> 
-            <title>*****DE Sky Select*****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/2088.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****DE Sky Select*****</link> 
+            <title>DE - Sky Goldstar TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Goldstar TV</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4450.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 1</link> 
+            <title>======  DE - Sky Kinder ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2574.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Sky Kinder ======</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4451.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 2</link> 
+            <title>DE - Sky Disney Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Disney Channel HD</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4452.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 3</link> 
+            <title>DE - Sky Nickelodeon HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Nickelodeon HD</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4453.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 4</link> 
+            <title>DE - Sky Disney Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2359.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Disney Cinemagic</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4454.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 5</link> 
+            <title>DE - Sky Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2436.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Disney XD</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4455.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 6</link> 
+            <title>DE - SKY  Disney Junior HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SKY  Disney Junior HD</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4456.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 7</link> 
+            <title>DE - Sky Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Junior</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4457.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 8</link> 
+            <title>DE - Nick junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Nick junior</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4458.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 9</link> 
+            <title>DE -  KiKa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE -  KiKa</link> 
         </item> 
           <item> 
-            <title>DE:Vip Sky Select 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4459.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Vip Sky Select 10</link> 
+            <title>DE - Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Boomerang</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 11</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4460.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 11</link> 
+            <title>DE - SKY Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SKY Cartoon Network</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4461.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 12</link> 
+            <title>======  DE - Sky  Sport  ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Sky  Sport  ======</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4462.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 13</link> 
+            <title>DE - Sky Sport News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2358.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport News HD</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 14</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4463.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 14</link> 
+            <title>DE - Sky Sport Austria HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport Austria HD</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 15</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4464.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 15</link> 
+            <title>DE - Sport 1 US HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sport 1 US HD</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 16</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4465.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 16</link> 
+            <title>DE - Sport1 + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sport1 + HD</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4466.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 17</link> 
+            <title>DE - Sport Digital HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sport Digital HD</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 18</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4467.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 18</link> 
+            <title>DE - Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2493.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Eurosport 1 HD</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 19</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4468.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 19</link> 
+            <title>DE - Sky Motorvision TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Motorvision TV</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 20</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4469.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 20</link> 
+            <title>DE - Sky Sport  HD 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport  HD 1</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4470.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 21</link> 
+            <title>DE - Sky Sport  HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport  HD 2</link> 
         </item> 
           <item> 
-            <title>DE: VIP Sky Select 22</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/4471.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIP Sky Select 22</link> 
+            <title>DE - Sky Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 3</link> 
         </item> 
           <item> 
-            <title>DE:FILM CLUB HD 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FILM CLUB HD 6</link> 
+            <title>DE - Sky Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2581.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 4</link> 
         </item> 
           <item> 
-            <title>DE:FILM CLUB HD 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FILM CLUB HD 5</link> 
+            <title>DE - Sky Sport 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2582.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 5</link> 
         </item> 
           <item> 
-            <title>DE:FILM CLUB HD 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FILM CLUB HD 4</link> 
+            <title>DE - Sky Sport 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 6</link> 
         </item> 
           <item> 
-            <title>DE:FILM CLUB HD 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FILM CLUB HD 3</link> 
+            <title>DE - Sky Sport 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2584.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 7</link> 
         </item> 
           <item> 
-            <title>DE:FILM CLUB HD 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1965.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FILM CLUB HD 2</link> 
+            <title>DE - Sky Sport 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2585.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 8</link> 
         </item> 
           <item> 
-            <title>DE:FILM CLUB HD 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:FILM CLUB HD 1</link> 
+            <title>DE - Sky Sport 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2586.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 9</link> 
         </item> 
           <item> 
-            <title>DE: Teleclub Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5573.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Cinema</link> 
+            <title>DE - Sky Sport 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2588.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 10</link> 
         </item> 
           <item> 
-            <title>DE: Teleclub Prime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5572.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Prime</link> 
+            <title>DE - Sky Sport 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2587.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Sport 11</link> 
         </item> 
           <item> 
-            <title>DE: Teleclub Prime 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5565.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Prime 2</link> 
+            <title>======  DE - Sky Bundesliga ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  DE - Sky Bundesliga ======</link> 
         </item> 
           <item> 
-            <title>DE: Teleclub Star</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5571.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Star</link> 
+            <title>DE - Sky Bundesliga HD 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga HD 1</link> 
         </item> 
           <item> 
-            <title>DE: Teleclub Star 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Star 2</link> 
+            <title>DE - SKY Bundesliga HD 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - SKY Bundesliga HD 2</link> 
         </item> 
           <item> 
-            <title>De: Mascots</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,De: Mascots&amp;streamtype=TSDOWNLOADER&amp;name=De: Mascots</link> 
+            <title>DE - Sky Bundesliga 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2461.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 3 HD</link> 
         </item> 
           <item> 
-            <title>*****DE Sky Sport*****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/2090.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****DE Sky Sport*****</link> 
+            <title>DE - Sky Bundesliga 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2460.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 4 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORT NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5558.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT NEWS HD</link> 
+            <title>DE - Sky Bundesliga 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2459.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 5 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA</link> 
+            <title>DE - Sky Bundesliga 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2589.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 6</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 2 HD</link> 
+            <title>DE - Sky Bundesliga 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 7</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3788.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 3 HD</link> 
+            <title>DE - Sky Bundesliga 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 8</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3787.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 4 HD</link> 
+            <title>DE - Sky Bundesliga 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2592.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 9</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3785.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 5 HD</link> 
+            <title>DE - Sky Bundesliga 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Bundesliga 10</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3784.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 6 HD</link> 
+            <title>====== DE - Sky Select ======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name======= DE - Sky Select ======</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3783.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 7 HD</link> 
+            <title>DE - Sky Select 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 1 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3782.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 8 HD</link> 
+            <title>DE - Sky Select 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 2 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3769.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 9 HD</link> 
+            <title>DE - Sky Select 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 3 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY BUNDESLIGA 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3924.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY BUNDESLIGA 10 HD</link> 
+            <title>DE - Sky Select 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 4 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY SPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY SPORT 1</link> 
+            <title>DE - Sky Select 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 5 HD</link> 
         </item> 
           <item> 
-            <title>DE:SKY SPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY SPORT 2</link> 
+            <title>DE - Sky Select 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 6 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORT 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3798.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 3</link> 
+            <title>DE - Sky Select 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 7 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORT 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 4</link> 
+            <title>DE - Sky Select 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 8 HD</link> 
         </item> 
           <item> 
-            <title>DE: SKY SPORT 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 5</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SPORT 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3946.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 6</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SPORT 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3945.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 7</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SPORT 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 8</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SPORT 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3943.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 9</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY SPORT 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3942.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY SPORT 10</link> 
-        </item> 
-          <item> 
-            <title>DE:Sport 1 + HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Sport 1 + HD</link> 
-        </item> 
-          <item> 
-            <title>DE: Teleclub Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5569.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Sport 1</link> 
-        </item> 
-          <item> 
-            <title>DE: Teleclub Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5568.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Sport 2</link> 
-        </item> 
-          <item> 
-            <title>DE: Teleclub Sport 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5567.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Teleclub Sport 3</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Auto Motor Sport Channel HD DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5578.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Auto Motor Sport Channel HD DE</link> 
-        </item> 
-          <item> 
-            <title>DE: MOTORVISON TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5576.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MOTORVISON TV</link> 
-        </item> 
-          <item> 
-            <title>DE: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/3661.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Eurosport</link> 
-        </item> 
-          <item> 
-            <title>*****DE Sky Kultur*****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=*****DE Sky Kultur*****</link> 
-        </item> 
-          <item> 
-            <title>DE:Spiegel Geschichte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:Spiegel Geschichte</link> 
-        </item> 
-          <item> 
-            <title>DE:HISTORY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:HISTORY HD</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>DE:SKY NAT GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:SKY NAT GEO</link> 
-        </item> 
-          <item> 
-            <title>DE:NAT GEO PEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/460.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:NAT GEO PEOPLE</link> 
-        </item> 
-          <item> 
-            <title>DE:DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE:DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>DE: Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5570.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>DE: SKY Germany Planet HD DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5579.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: SKY Germany Planet HD DE</link> 
-        </item> 
-          <item> 
-            <title>DE: VIVA / COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5548.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: VIVA / COMEDY CENTRAL</link> 
-        </item> 
-          <item> 
-            <title>DE: MTV HD DE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://149.202.205.75:40000/live/ali/baba/5547.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE: MTV HD DE</link> 
+            <title>DE - Sky Select 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://213.136.72.207:18500/live/antonio78-RIVOLIGIUSEPPE/w6JMfERoka/2450.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE - Sky Select 9 HD</link> 
         </item> 
   
