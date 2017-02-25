@@ -33,436 +33,757 @@
    
    
  
+        
           <item> 
-            <title>FR: BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG</link> 
+            <title>TF1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1_HD</link> 
         </item> 
           <item> 
-            <title>FR: AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 HD</link> 
+            <title>FRANCE_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_2_HD</link> 
         </item> 
           <item> 
-            <title>FR :TV-BREIZH-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :TV-BREIZH-HD</link> 
+            <title>FRANCE_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_3_HD</link> 
         </item> 
           <item> 
-            <title>FR :Science-et-Vie-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :Science-et-Vie-TV</link> 
+            <title>FRANCE_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_4_HD</link> 
         </item> 
           <item> 
-            <title>FR :RTL9-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :RTL9-HD</link> 
+            <title>FRANCE_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_5_HD</link> 
         </item> 
           <item> 
-            <title>FR: 13 Eme Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 Eme Rue</link> 
+            <title>FRANCE_O_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_O_HD</link> 
         </item> 
           <item> 
-            <title>FR: 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6448.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
+            <title>M6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_HD</link> 
         </item> 
           <item> 
-            <title>FR: Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6447.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
+            <title>*-*-*-*-*CANAL+_CINEMA*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1553.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CANAL+_CINEMA*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD</link> 
+            <title>CANAL+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5779.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>CANAL+_CINEMA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_CINEMA_HD</link> 
         </item> 
           <item> 
-            <title>FR: ANIMAUX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ANIMAUX HD</link> 
+            <title>CANAL+_DECALE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_DECALE_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE    FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE    FRISSON HD</link> 
+            <title>CANAL+_SERIES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_SERIES_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE    EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE    EMOTION HD</link> 
+            <title>SERIE_CLUB_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/945.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIE_CLUB_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE POLAR</link> 
+            <title>CANAL+_FAMILY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_FAMILY_HD</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 HD</link> 
+            <title>CINE+_PREMIER_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_PREMIER_HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5780.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>CINE+_FRISSON_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_FRISSON_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE Emotion HD</link> 
+            <title>CINE+_FAMIZ_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/450.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_FAMIZ_HD</link> 
         </item> 
           <item> 
-            <title>FR: CINE FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON HD</link> 
+            <title>CINE+_EMOTION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_EMOTION_HD</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2-2</link> 
+            <title>CINE_POLAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1512.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE_POLAR</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6445.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>CINE_FX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1521.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE_FX_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANAL-DECALE-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18385.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL-DECALE-HD</link> 
+            <title>CINE+_CLASSIC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+_CLASSIC_HD</link> 
         </item> 
           <item> 
-            <title>FR: CANAL-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18383.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL-HD</link> 
+            <title>COMEDIE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIE+</link> 
         </item> 
           <item> 
-            <title>FR: CANAL   DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL   DECALE HD</link> 
+            <title>*-*-*-*-*ORANGE_CINEMA*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2133.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*ORANGE_CINEMA*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 3-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3-2</link> 
+            <title>ORANGE_CINE_ACTION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_ACTION_HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6444.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>ORANGE_CINE_AVENTURE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_AVENTURE</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 1-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1-2</link> 
+            <title>ORANGE_CINE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6446.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>ORANGE_CINE_HORREUR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_CINE_HORREUR_HD</link> 
         </item> 
           <item> 
-            <title>FR :OCS-CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :OCS-CITY</link> 
+            <title>ORANGE_DUCUMENTAIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=ORANGE_DUCUMENTAIRE</link> 
         </item> 
           <item> 
-            <title>FR: Canal  Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6441.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Family</link> 
+            <title>OCS_CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CHOC</link> 
         </item> 
           <item> 
-            <title>FR: Canal  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6440.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  HD</link> 
+            <title>OCS_CITY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_CITY_HD</link> 
         </item> 
           <item> 
-            <title>FR: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network</link> 
+            <title>OCS_GEANT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/947.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_GEANT_HD</link> 
         </item> 
           <item> 
-            <title>FR: Cine  Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Premier</link> 
+            <title>OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS_MAX</link> 
         </item> 
           <item> 
-            <title>FR: D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6435.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8</link> 
+            <title>*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_ENTERTAINMENT*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: Cine FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5725.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine FX</link> 
+            <title>PARAMOUNT_CHNANNEL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT_CHNANNEL_HD</link> 
         </item> 
           <item> 
-            <title>FR: DISCOVERY SCIENCES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY SCIENCES HD</link> 
+            <title>ACTION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/948.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACTION_HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal    Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal    Sport HD</link> 
+            <title>ARTE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTE_HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal  Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport</link> 
+            <title>13EME_RUE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=13EME_RUE</link> 
         </item> 
           <item> 
-            <title>FR: Cine-Famiz-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine-Famiz-HD</link> 
+            <title>TCM_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM_HD</link> 
         </item> 
           <item> 
-            <title>FR: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5778.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2</link> 
+            <title>SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/958.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
         </item> 
           <item> 
-            <title>FR: EQUIDIA LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE HD</link> 
+            <title>NRJ_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ_12</link> 
         </item> 
           <item> 
-            <title>FR: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY XD</link> 
+            <title>HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
         </item> 
           <item> 
-            <title>FR: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
+            <title>NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
         </item> 
           <item> 
-            <title>FR: Discovery Science HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science HD</link> 
+            <title>W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE-3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18394.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE-3HD</link> 
+            <title>TEVA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA_HD</link> 
         </item> 
           <item> 
-            <title>FR:  CINE   PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  CINE   PREMIER HD</link> 
+            <title>C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8</link> 
         </item> 
           <item> 
-            <title>FR : CINE   CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : CINE   CLASSIC HD</link> 
+            <title>D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2040.ts&amp;streamtype=TSDOWNLOADER&amp;name=D8</link> 
         </item> 
           <item> 
-            <title>FR: GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE</link> 
+            <title>CSTAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=CSTAR</link> 
         </item> 
           <item> 
-            <title>FR: France 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 1</link> 
+            <title>6TER_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER_HD</link> 
         </item> 
           <item> 
-            <title>FR: France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
+            <title>RTL9_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9_HD</link> 
         </item> 
           <item> 
-            <title>FR: France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
+            <title>TREK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1515.ts&amp;streamtype=TSDOWNLOADER&amp;name=TREK</link> 
         </item> 
           <item> 
-            <title>FR: France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
+            <title>AB3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1513.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB3</link> 
         </item> 
           <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6428.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
+            <title>TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_BREIZH</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE-OHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18392.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE-OHD</link> 
+            <title>AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1</link> 
         </item> 
           <item> 
-            <title>FR: Ch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ch</link> 
+            <title>TMC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC_HD</link> 
         </item> 
           <item> 
-            <title>FR: L'</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'</link> 
+            <title>NUMERO_23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUMERO_23</link> 
         </item> 
           <item> 
-            <title>FR: LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6426.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI</link> 
+            <title>PARIS_PREMIERE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARIS_PREMIERE_HD</link> 
         </item> 
           <item> 
-            <title>FR: LCP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCP</link> 
+            <title>cherie_25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=cherie_25</link> 
         </item> 
           <item> 
-            <title>FR: LEquipe 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6424.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LEquipe 21</link> 
+            <title>WEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=WEO</link> 
         </item> 
           <item> 
-            <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6423.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <title>*-*-*-*-*CSAT_INFO*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_INFO*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT GEO WILD HD</link> 
+            <title>EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
         </item> 
           <item> 
-            <title>FR: BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
+            <title>FRANCE_24_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE_24_FR</link> 
         </item> 
           <item> 
-            <title>FR_PARAMOUNT_CHANNEL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARAMOUNT_CHANNEL_HD</link> 
+            <title>BFM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_TV</link> 
         </item> 
           <item> 
-            <title>FR_OCS_CHOC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5727.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC_HD</link> 
+            <title>LCP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1588.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCP</link> 
         </item> 
           <item> 
-            <title>FR_COMEDIE_</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_COMEDIE_</link> 
+            <title>TV5_MONDE_ORIENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5_MONDE_ORIENT</link> 
         </item> 
           <item> 
-            <title>FR_CANAL  _FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL  _FAMILY HD</link> 
+            <title>LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
         </item> 
           <item> 
-            <title>FR_CANAL  _CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL  _CINEMA_HD</link> 
+            <title>iTELE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/957.ts&amp;streamtype=TSDOWNLOADER&amp;name=iTELE_HD</link> 
         </item> 
           <item> 
-            <title>FR_ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5733.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ACTION_HD</link> 
+            <title>BFM_BUSINESS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM_BUSINESS</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 7</link> 
+            <title>*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1552.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_DECOUVERTES*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12821.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 6</link> 
+            <title>NATIONAL_GEO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL_GEO_HD</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 5</link> 
+            <title>NAT_GEO_WILD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEO_WILD_HD</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 4</link> 
+            <title>Discovery_Science_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Science_HD</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 1</link> 
+            <title>Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery</link> 
         </item> 
           <item> 
-            <title>FR: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo Wild</link> 
+            <title>SCIENCE&amp;VIE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=SCIENCE&amp;VIE HD</link> 
         </item> 
           <item> 
-            <title>FR: NATIONAL  GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATIONAL  GEOGRAPHIC</link> 
+            <title>USHUAIA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/974.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA_TV</link> 
         </item> 
           <item> 
-            <title>FR: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEON</link> 
+            <title>VOYAGE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE_HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD</link> 
+            <title>ANIMAUX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/978.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX_HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS GEANT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT HD</link> 
+            <title>PLANETE+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+_HD</link> 
         </item> 
           <item> 
-            <title>FR: OM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OM TV</link> 
+            <title>PLANETE_Ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE_Ci</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE     HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE     HD</link> 
+            <title>PLANETE_A&amp;E_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE_A&amp;E_HD</link> 
         </item> 
           <item> 
-            <title>FR: Planete  C.I HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete  C.I HD</link> 
+            <title>CHASSE_ET_PECHE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHASSE_ET_PECHE_HD</link> 
         </item> 
           <item> 
-            <title>FR: RMC DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC DECOUVERTE</link> 
+            <title>SEASONS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEASONS</link> 
         </item> 
           <item> 
-            <title>FR: Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5731.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD</link> 
+            <title>Histoire_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2041.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire_HD</link> 
         </item> 
           <item> 
-            <title>FR: Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji</link> 
+            <title>Toute_Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute_Histoire</link> 
         </item> 
           <item> 
-            <title>FR: Toute l'Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Toute l'Histoire</link> 
+            <title>RMC_Decouverte_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC_Decouverte_HD</link> 
         </item> 
           <item> 
-            <title>FR: Ushuaia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia</link> 
+            <title>ANIMAL_PLANET_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL_PLANET_HD</link> 
         </item> 
           <item> 
-            <title>FR: Zouzou TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Zouzou TV</link> 
+            <title>*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_JEUNESSE*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR: i-Tele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: i-Tele</link> 
+            <title>DISNEY__CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY__CINEMA</link> 
         </item> 
           <item> 
-            <title>FR: NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
+            <title>DISNEY_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL</link> 
         </item> 
           <item> 
-            <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
+            <title>DISNEY_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_JUNIOR</link> 
         </item> 
           <item> 
-            <title>FR: Num</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6420.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Num</link> 
+            <title>DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_XD</link> 
         </item> 
           <item> 
-            <title>FR: QVCance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6419.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: QVCance</link> 
+            <title>BOOMERANG_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG_HD</link> 
         </item> 
           <item> 
-            <title>FR: RMC Docouverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6418.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC Docouverte</link> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
         </item> 
           <item> 
-            <title>FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6416.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
+            <title>PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/941.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI</link> 
         </item> 
           <item> 
-            <title>FR: TV5 Monde FBS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6415.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5 Monde FBS</link> 
+            <title>GULLI_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1284.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI_HD</link> 
         </item> 
           <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6414.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
+            <title>Tiji</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji</link> 
         </item> 
           <item> 
-            <title>FR: SERIE CLUB HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB HD</link> 
+            <title>CARTOON_NETWORK_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON_NETWORK_HD</link> 
         </item> 
           <item> 
-            <title>FR: beIN sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN sport 1</link> 
+            <title>NICKELODEON_JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1514.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON_JUNIOR</link> 
         </item> 
           <item> 
-            <title>FR: beIN SPORTS FR 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23829.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORTS FR 3 HD</link> 
+            <title>TELETOON+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELETOON+_HD</link> 
         </item> 
           <item> 
-            <title>FR: TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
+            <title>JUNE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=JUNE</link> 
         </item> 
           <item> 
-            <title>Fr:beIN1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/20095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN1</link> 
+            <title>CANAL_J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_J</link> 
         </item> 
           <item> 
-            <title>Fr:beIN2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/20096.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN2</link> 
+            <title>MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS</link> 
         </item> 
           <item> 
-            <title>FR: NATGEO-WILD-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATGEO-WILD-HD</link> 
+            <title>Zouzou_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zouzou_TV</link> 
         </item> 
           <item> 
-            <title>FR: CANAL   SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL   SERIES HD</link> 
+            <title>*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*CSAT_MUSIQUE*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>Fr:beIN3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/20101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN3</link> 
+            <title>M6_MUSIC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6_MUSIC_HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J</link> 
+            <title>MTV_PULSE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_PULSE</link> 
         </item> 
           <item> 
-            <title>FR:Bein Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/26137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 1 HD</link> 
+            <title>MTV_BASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV_BASE</link> 
         </item> 
           <item> 
-            <title>FR:Bein Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/26138.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 2 HD</link> 
+            <title>*-*-*-*-*BELGIQUE*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*BELGIQUE*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>FR:Bein Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/26139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 3 HD</link> 
+            <title>LA_UNE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_UNE_HD</link> 
+        </item> 
+          <item> 
+            <title>LA_DEUX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_DEUX_HD</link> 
+        </item> 
+          <item> 
+            <title>LA_TROIS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_TROIS_HD</link> 
+        </item> 
+          <item> 
+            <title>BE_CINE_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1780.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CINE_1</link> 
+        </item> 
+          <item> 
+            <title>BE_CINE_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2042.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CINE_2</link> 
+        </item> 
+          <item> 
+            <title>BE_SERIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1779.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_SERIE</link> 
+        </item> 
+          <item> 
+            <title>CINEMA_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1520.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMA_2</link> 
+        </item> 
+          <item> 
+            <title>BE_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1778.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_1</link> 
+        </item> 
+          <item> 
+            <title>PLUG_RTL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLUG_RTL_HD</link> 
+        </item> 
+          <item> 
+            <title>CLUB_RTL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1522.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLUB_RTL_HD</link> 
+        </item> 
+          <item> 
+            <title>RTL_TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL_TVI</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*SWISS*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*SWISS*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>RTS_Un_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Un_HD</link> 
+        </item> 
+          <item> 
+            <title>RTS_Deux_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_Deux_HD</link> 
+        </item> 
+          <item> 
+            <title>•??-BEIN_SPORTS-??•</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=•??-BEIN_SPORTS-??•</link> 
+        </item> 
+          <item> 
+            <title>beIN_NEWS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_NEWS_HD</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTeS_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2132.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTeS_HD1</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD2</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD3</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD4</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD5</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD6</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD7</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD8</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD9</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD10</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD11</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD12</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD13</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1272.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD14</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD15</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD16</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_HD17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_HD17</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*beIN_SECOURS*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2101.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*beIN_SECOURS*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_1_secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_1_secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_2_secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_2_secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_3_secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2174.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_3_secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_4_secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_4_secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_5_secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_5_secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_6_secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_6_secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_7secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_7secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_8secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_8secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_9secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_9secours</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_10secours</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_10secours</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*beIN_INTERNATIONAL*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*beIN_INTERNATIONAL*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>BEIN_SPORTS_1_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2142.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORTS_1_MAX</link> 
+        </item> 
+          <item> 
+            <title>BEIN_SPORTS_2_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_SPORTS_2_MAX</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_3_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1248.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_3_MAX</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*BEIN_MOVIES*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*BEIN_MOVIES*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>beIN_MOVIES_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_MOVIES_1</link> 
+        </item> 
+          <item> 
+            <title>beIN_MOVIES_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_MOVIES_2</link> 
+        </item> 
+          <item> 
+            <title>beIN_MOVIES_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1556.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_MOVIES_3</link> 
+        </item> 
+          <item> 
+            <title>BeIN_MOVIES_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2144.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeIN_MOVIES_4</link> 
+        </item> 
+          <item> 
+            <title>beIN_STAR_WORLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2181.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_STAR_WORLD</link> 
+        </item> 
+          <item> 
+            <title>beIN_AMC_MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_AMC_MOVIES</link> 
+        </item> 
+          <item> 
+            <title>beIN_DISCOVERY_LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_DISCOVERY_LIFE</link> 
+        </item> 
+          <item> 
+            <title>beIN_FOX_FAMILY_MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_FOX_FAMILY_MOVIES</link> 
+        </item> 
+          <item> 
+            <title>beIN_SERIE_ONE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SERIE_ONE_HD</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*BEIN_KIDS*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2180.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*BEIN_KIDS*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>beIN_BARRAEM_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_BARRAEM_HD</link> 
+        </item> 
+          <item> 
+            <title>beIN_DREAM_WORKS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_DREAM_WORKS_HD</link> 
+        </item> 
+          <item> 
+            <title>beIN_FATAFEAT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2182.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_FATAFEAT_HD</link> 
+        </item> 
+          <item> 
+            <title>beIN_JEEM_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_JEEM_HD</link> 
+        </item> 
+          <item> 
+            <title>beIN_BARAEM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_BARAEM</link> 
+        </item> 
+          <item> 
+            <title>*-*-*-*-*beIN_SFR_Csat*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2135.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*beIN_SFR_Csat*-*-*-*-*</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_ES</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_1_HD_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_1_HD_FR</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_2_HD_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_2_HD_FR</link> 
+        </item> 
+          <item> 
+            <title>beIN_SPORTS_3_HD_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/952.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_SPORTS_3_HD_FR</link> 
+        </item> 
+          <item> 
+            <title>SFR_SPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2043.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_1_HD</link> 
+        </item> 
+          <item> 
+            <title>SFR_SPORT_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2044.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_2_HD</link> 
+        </item> 
+          <item> 
+            <title>SFR_SPORT_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/2045.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR_SPORT_3_HD</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/977.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_1</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2</link> 
+        </item> 
+          <item> 
+            <title>INFOSPORT+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/975.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+_HD</link> 
+        </item> 
+          <item> 
+            <title>L'EQUIPE_21_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/976.ts&amp;streamtype=TSDOWNLOADER&amp;name=L'EQUIPE_21_HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL+_SPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+_SPORT_HD</link> 
+        </item> 
+          <item> 
+            <title>MA_CHAINE_SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=MA_CHAINE_SPORT</link> 
+        </item> 
+          <item> 
+            <title>GOLF+_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF+_HD</link> 
+        </item> 
+          <item> 
+            <title>Foot+_24/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/980.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+_24/24</link> 
+        </item> 
+          <item> 
+            <title>EQUIDIA_LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.161.210:8080/live/reda/reda/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA_LIVE</link> 
         </item> 
   
