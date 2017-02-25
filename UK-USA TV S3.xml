@@ -32,264 +32,618 @@
  
  
  
- 
-     
-       
- 
           <item> 
-            <title>UK:Sky_Sports1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports1</link> 
+            <title>UK-Sky-Sport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport1</link> 
+        </item> 
+          <item> 
+            <title>UK-SkySports1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports1 SD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2971.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Sky_Sports2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports2</link> 
+            <title>UK-Sky-Sport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport2</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Sports3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports3</link> 
+            <title>UK-SkySports2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports2 SD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Sky_Sports4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports4</link> 
+            <title>UK-Sky-Sport3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport3</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Sports5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports5</link> 
+            <title>UK-SkySports3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports3 SD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Sky_News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_News</link> 
+            <title>UK-Sky-Sport4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport4</link> 
         </item> 
           <item> 
-            <title>UK:BBC1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC1</link> 
-        </item> 
-          <item> 
-            <title>UK:BBC2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC2</link> 
-        </item> 
-          <item> 
-            <title>UK:BBC3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC3</link> 
-        </item> 
-          <item> 
-            <title>UK:BBC4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC4</link> 
-        </item> 
-          <item> 
-            <title>UK:BBC_News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC_News</link> 
-        </item> 
-          <item> 
-            <title>UK:TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:TCM</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Sports_F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports_F1</link> 
+            <title>UK-SkySports4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports4 SD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Sony_Movie_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sony_Movie_Channel</link> 
+            <title>UK-Sky-Sport5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Sport5</link> 
         </item> 
           <item> 
-            <title>UK:Sky_Sports_News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Sports_News</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Showcase</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Select</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Sci-Fi&amp;Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Sci-Fi&amp;Horror</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Premiere</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky_Movies_Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Greats</link> 
+            <title>UK-SkySports5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-SkySports&amp;streamtype=TSDOWNLOADER&amp;name=UK-SkySports5 SD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Sky_Movies_Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Family</link> 
+            <title>UK-sky_sport_F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-sky_sport_F1</link> 
         </item> 
           <item> 
-            <title>UK:Sky_Movies_Drama&amp;Romance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Drama&amp;Romance</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Disney</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Crime&amp;Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Crime&amp;Thriller</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Comedy</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Movies_Action&amp;Adventure</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Movies_Action&amp;Adventure</link> 
-        </item> 
-          <item> 
-            <title>UK:Sky_Atlantic_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky_Atlantic_HD</link> 
-        </item> 
-          <item> 
-            <title>UK:Premier_Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Premier_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Premier_Sports</link> 
+            <title>UK-Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK-Premier Sports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:National_Geographic_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:National_Geographic_HD</link> 
+            <title>UK-Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Racing</link> 
         </item> 
           <item> 
-            <title>UK:MTV_Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MTV_Classic</link> 
+            <title>UK-Box_Nation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Box_Nation</link> 
         </item> 
           <item> 
-            <title>UK:MTV_Base</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MTV_Base</link> 
+            <title>UK:Setanta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Setanta</link> 
         </item> 
           <item> 
-            <title>UK:MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:MTV</link> 
+            <title>UK-BTsport-europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BTsport-europe</link> 
         </item> 
           <item> 
-            <title>UK:Movies4Men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Movies4Men</link> 
+            <title>UK-BT_Sport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT_Sport1</link> 
         </item> 
           <item> 
-            <title>UK:Motors_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Motors_TV</link> 
+            <title>UK-BT_Sport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1309.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT_Sport2</link> 
         </item> 
           <item> 
-            <title>UK:Lifetime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Lifetime</link> 
+            <title>UK-BT-Espn</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1594.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BT-Espn</link> 
         </item> 
           <item> 
-            <title>UK:Investigation_Discovery_Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Investigation_Discovery_Ireland</link> 
+            <title>UK-Liverpool_FC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Liverpool_FC</link> 
         </item> 
           <item> 
-            <title>UK:Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Fox</link> 
+            <title>UK-AtThe-Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-AtThe-Races</link> 
         </item> 
           <item> 
-            <title>UK:FIGHTBOX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:FIGHTBOX_HD</link> 
+            <title>UK-Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Motors_TV</link> 
         </item> 
           <item> 
-            <title>UK:Eurosport_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eurosport_2HD</link> 
+            <title>UK-Sky_Sports-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Sports-News</link> 
         </item> 
           <item> 
-            <title>UK:Eurosport_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eurosport_1HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK:Disney_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney_XD</link> 
+            <title>UK-True_M1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-True_M1</link> 
         </item> 
           <item> 
-            <title>UK:Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney_Junior</link> 
+            <title>UK-True_M2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-True_M2</link> 
         </item> 
           <item> 
-            <title>UK:Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney_Channel</link> 
+            <title>UK-MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-MUTV</link> 
         </item> 
           <item> 
-            <title>UK:Discovery_Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery_Turbo</link> 
+            <title>UK-Pick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Pick</link> 
         </item> 
           <item> 
-            <title>UK:Discovery_Science_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery_Science_Channel</link> 
+            <title>UK-GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-GOLD</link> 
         </item> 
           <item> 
-            <title>UK:Discovery_Home&amp;Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery_Home&amp;Health</link> 
+            <title>UK-Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Dave</link> 
         </item> 
           <item> 
-            <title>UK:Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery</link> 
+            <title>UK-Yesterday</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Yesterday</link> 
         </item> 
           <item> 
-            <title>UK:Discovery_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery_Channel</link> 
+            <title>UK-Watch</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Watch</link> 
         </item> 
           <item> 
-            <title>UK:Comedy_Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Comedy_Central</link> 
+            <title>UK-BBC1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC1</link> 
         </item> 
           <item> 
-            <title>UK:BT_Sport_Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_Sport_Extra</link> 
+            <title>UK-BBC2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC2</link> 
         </item> 
           <item> 
-            <title>UK:BT_Sport_Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_Sport_Europe</link> 
+            <title>UK-BBC3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1920.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC3_HD</link> 
         </item> 
           <item> 
-            <title>UK:BT_Sport_ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_Sport_ESPN</link> 
+            <title>UK-BBC4_CBEEBIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1921.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BBC4_CBEEBIES</link> 
         </item> 
           <item> 
-            <title>UK:BT_Sport_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_Sport_2HD</link> 
+            <title>UK-SKY-NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY-NEWS</link> 
         </item> 
           <item> 
-            <title>UK:BT_Sport1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT_Sport1</link> 
+            <title>UK_RT_24(En)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_RT_24(En)</link> 
         </item> 
           <item> 
-            <title>UK:CRIME&amp;THRILLER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.jebbari.com:8000/live/big/big/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:CRIME&amp;THRILLER</link> 
+            <title>UK_EuroNews(En)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1539.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_EuroNews(En)</link> 
         </item> 
+          <item> 
+            <title>UK-RT_Document</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1911.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RT_Document</link> 
+        </item> 
+          <item> 
+            <title>UK-CHANNEL4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CHANNEL4</link> 
+        </item> 
+          <item> 
+            <title>UK-CHANNEL5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CHANNEL5</link> 
+        </item> 
+          <item> 
+            <title>UK-Select_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Select_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-SCI-FI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SCI-FI</link> 
+        </item> 
+          <item> 
+            <title>UK-Premiere_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Premiere_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Sky_Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Greats</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-LivingIt</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-LivingIt</link> 
+        </item> 
+          <item> 
+            <title>UK-Crimes &amp; Inv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1619.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Crimes &amp; Inv</link> 
+        </item> 
+          <item> 
+            <title>UK-Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Thriller</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Chelsea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Chelsea</link> 
+        </item> 
+          <item> 
+            <title>UK-SKY-Syfy+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY-Syfy+1</link> 
+        </item> 
+          <item> 
+            <title>UK-RTE1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RTE1</link> 
+        </item> 
+          <item> 
+            <title>UK-RTE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-RTE2</link> 
+        </item> 
+          <item> 
+            <title>UK-Atlantic+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Atlantic+1</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Monsters</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Monsters</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Arts</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK-Sky_Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Arts</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Family</link> 
+        </item> 
+          <item> 
+            <title>UK-Drama_Rom</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Drama_Rom</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky-Mv_Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky-Mv_Disney</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_Action</link> 
+        </item> 
+          <item> 
+            <title>UK-COMEDY_CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-COMEDY_CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>UK-Inves.&amp;Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2093.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Inves.&amp;Crime</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky2</link> 
+        </item> 
+          <item> 
+            <title>UK-sky_one</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-sky_one</link> 
+        </item> 
+          <item> 
+            <title>UK-Quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2033.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Quest</link> 
+        </item> 
+          <item> 
+            <title>UK-E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-E!</link> 
+        </item> 
+          <item> 
+            <title>UK-ABC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ABC HD</link> 
+        </item> 
+          <item> 
+            <title>UK-Disc_History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disc_History</link> 
+        </item> 
+          <item> 
+            <title>UK-Discovery-Sc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery-Sc</link> 
+        </item> 
+          <item> 
+            <title>UK-Discovery_Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery_Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK-Discovery_CH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Discovery_CH</link> 
+        </item> 
+          <item> 
+            <title>UK-Animal_Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Animal_Planet</link> 
+        </item> 
+          <item> 
+            <title>UK-Nat-Geo+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nat-Geo+1</link> 
+        </item> 
+          <item> 
+            <title>UK-NAT-GEO-WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-NAT-GEO-WILD</link> 
+        </item> 
+          <item> 
+            <title>UK-sky_famliy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-sky_famliy</link> 
+        </item> 
+          <item> 
+            <title>UK-FOX-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-FOX-News</link> 
+        </item> 
+          <item> 
+            <title>UK-horror_channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-horror_channel</link> 
+        </item> 
+          <item> 
+            <title>UK-H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-H2</link> 
+        </item> 
+          <item> 
+            <title>UK-CBS_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS_Action</link> 
+        </item> 
+          <item> 
+            <title>UK-CBS_Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS_Reality</link> 
+        </item> 
+          <item> 
+            <title>UK-CBS_Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-CBS_Drama</link> 
+        </item> 
+          <item> 
+            <title>UK-TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2150.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-TG4</link> 
+        </item> 
+          <item> 
+            <title>UK-Nick_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick_Junior</link> 
+        </item> 
+          <item> 
+            <title>UK-Nick Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nick Toons</link> 
+        </item> 
+          <item> 
+            <title>UK-Baby_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Baby_TV</link> 
+        </item> 
+          <item> 
+            <title>UK-BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-BOOMERANG</link> 
+        </item> 
+          <item> 
+            <title>UK-Disney_XD+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney_XD+1</link> 
+        </item> 
+          <item> 
+            <title>UK-Disney_Junior+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney_Junior+1</link> 
+        </item> 
+          <item> 
+            <title>UK-Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>UK:NICKLEODON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NICKLEODON</link> 
+        </item> 
+          <item> 
+            <title>UK:Carton Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Carton Network</link> 
+        </item> 
+          <item> 
+            <title>UK-3E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-3E</link> 
+        </item> 
+          <item> 
+            <title>UK-Sky_fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Sky_fox</link> 
+        </item> 
+          <item> 
+            <title>UK-Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK-Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Food Network</link> 
+        </item> 
+          <item> 
+            <title>UK-Poker Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Poker Central</link> 
+        </item> 
+          <item> 
+            <title>UK-5USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-5USA</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV1_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV2</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV3_HD</link> 
+        </item> 
+          <item> 
+            <title>UK-ITV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-ITV4</link> 
+        </item> 
+          <item> 
+            <title>UK-Itv_Be</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2224.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Itv_Be</link> 
+        </item> 
+          <item> 
+            <title>UK-More4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-More4</link> 
+        </item> 
+          <item> 
+            <title>UK-VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-VH1</link> 
+        </item> 
+          <item> 
+            <title>UK-Peace_TV(en)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/3334.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-Peace_TV(en)</link> 
+        </item> 
+          <item> 
+            <title>USA-CNN_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2806.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-CNN_Live</link> 
+        </item> 
+          <item> 
+            <title>US-CNN News-intl.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-CNN News-intl.</link> 
+        </item> 
+          <item> 
+            <title>USA-ABC_News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-ABC_News</link> 
+        </item> 
+          <item> 
+            <title>USA-BBC-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-BBC-News</link> 
+        </item> 
+          <item> 
+            <title>USA-Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>USA-RT_News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1910.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-RT_News</link> 
+        </item> 
+          <item> 
+            <title>USA_Al-jazeera</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA_Al-jazeera</link> 
+        </item> 
+          <item> 
+            <title>cspan1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2734.ts&amp;streamtype=TSDOWNLOADER&amp;name=cspan1</link> 
+        </item> 
+          <item> 
+            <title>cspan2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2735.ts&amp;streamtype=TSDOWNLOADER&amp;name=cspan2</link> 
+        </item> 
+          <item> 
+            <title>cspan3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2736.ts&amp;streamtype=TSDOWNLOADER&amp;name=cspan3</link> 
+        </item> 
+          <item> 
+            <title>US-USA Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2731.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-USA Network</link> 
+        </item> 
+          <item> 
+            <title>US-TBS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2729.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-TBS HD</link> 
+        </item> 
+          <item> 
+            <title>US-Bravo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Bravo HD</link> 
+        </item> 
+          <item> 
+            <title>USA-AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2113.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-AMC HD</link> 
+        </item> 
+          <item> 
+            <title>Usa- A&amp;E hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=Usa- A&amp;E hd</link> 
+        </item> 
+          <item> 
+            <title>US-Boston City TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2737.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Boston City TV</link> 
+        </item> 
+          <item> 
+            <title>US-AMG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2733.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-AMG</link> 
+        </item> 
+          <item> 
+            <title>USA-Family E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2094.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Family E</link> 
+        </item> 
+          <item> 
+            <title>USA-HBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-HBO</link> 
+        </item> 
+          <item> 
+            <title>USA-HBO1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2115.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-HBO1</link> 
+        </item> 
+          <item> 
+            <title>US-Family FE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1627.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Family FE</link> 
+        </item> 
+          <item> 
+            <title>US-Hallmark HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-Hallmark HD</link> 
+        </item> 
+          <item> 
+            <title>US-WWE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2730.ts&amp;streamtype=TSDOWNLOADER&amp;name=US-WWE</link> 
+        </item> 
+          <item> 
+            <title>USA--NBC_golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA--NBC_golf</link> 
+        </item> 
+          <item> 
+            <title>USA--AFL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1240.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA--AFL</link> 
+        </item> 
+          <item> 
+            <title>USA:ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:ESPN</link> 
+        </item> 
+          <item> 
+            <title>USA-NBCSN sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2116.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NBCSN sport</link> 
+        </item> 
+          <item> 
+            <title>US-Sports Net</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US-Sports&amp;streamtype=TSDOWNLOADER&amp;name=US-Sports Net</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/1625.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>USA-PAC-12 WS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2101.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-PAC-12 WS</link> 
+        </item> 
+          <item> 
+            <title>USA:London live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2084.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:London live</link> 
+        </item> 
+          <item> 
+            <title>USA:FOOD network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2087.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:FOOD network</link> 
+        </item> 
+          <item> 
+            <title>USA-NASA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2097.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-NASA_HD</link> 
+        </item> 
+          <item> 
+            <title>USA-QVC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2114.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-QVC HD</link> 
+        </item> 
+          <item> 
+            <title>USA-London_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2096.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-London_Live</link> 
+        </item> 
+          <item> 
+            <title>USA-Spike</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2099.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Spike</link> 
+        </item> 
+          <item> 
+            <title>USA-Florida_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2102.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-Florida_Channel</link> 
+        </item> 
+          <item> 
+            <title>USA-California_University</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ultime-iptv.net:8000/live/riadh1220/riadh1220/2103.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA-California_University</link> 
+        </item> 
+   
+
   
