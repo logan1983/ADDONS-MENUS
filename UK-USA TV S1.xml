@@ -30,372 +30,365 @@
   
  
  
+ 
           <item> 
-            <title>UK|RTÉ One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|RTÉ One</link> 
+            <title>(UK): TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6278.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TCM</link> 
         </item> 
           <item> 
-            <title>UK|RTÉ Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|RTÉ Two</link> 
+            <title>(UK): TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6279.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TLC</link> 
         </item> 
           <item> 
-            <title>UK|TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|TLC</link> 
+            <title>(UK): TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6280.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TG4</link> 
         </item> 
           <item> 
-            <title>UK|BBC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC News</link> 
+            <title>(UK): Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6281.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Syfy</link> 
         </item> 
           <item> 
-            <title>UK|BBC One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC One HD</link> 
-        </item> 
-          <item> 
-            <title>UK|BBC Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Two HD</link> 
-        </item> 
-          <item> 
-            <title>UK|BBC Three HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Three HD</link> 
-        </item> 
-          <item> 
-            <title>UK|BBC Four</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BBC Four</link> 
-        </item> 
-          <item> 
-            <title>UK|TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|TG4</link> 
-        </item> 
-          <item> 
-            <title>UK|ITV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV HD</link> 
-        </item> 
-          <item> 
-            <title>UK|ITV2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|ITV3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV3 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|ITV4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|ITV4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|Cbs Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Reality</link> 
-        </item> 
-          <item> 
-            <title>UK|Cbs Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Drama</link> 
-        </item> 
-          <item> 
-            <title>UK|Cbs Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cbs Action</link> 
-        </item> 
-          <item> 
-            <title>UK|London Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1128.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|London Live</link> 
-        </item> 
-          <item> 
-            <title>UK|Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Channel 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|Channel 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Channel 5 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Home</link> 
-        </item> 
-          <item> 
-            <title>UK|Sky News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky News HD</link> 
-        </item> 
-          <item> 
-            <title>--|UK SPORT|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK SPORT|--</link> 
-        </item> 
-          <item> 
-            <title>UK|BT Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|BT Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|BT Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport 3 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|BT Sport // ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport // ESPN</link> 
-        </item> 
-          <item> 
-            <title>UK|BT Sport EuroHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BT Sport EuroHD</link> 
-        </item> 
-          <item> 
-            <title>UK|Sky Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 1 HD</link> 
+            <title>(UK): Sky Sports 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sports 1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6282.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK|Sky Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 2 HD</link> 
+            <title>(UK): Sky Sport News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6283.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport News</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>(UK): Sky Sport 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6284.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 5</link> 
         </item> 
           <item> 
-            <title>UK|Sky Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 3 HD</link> 
+            <title>(UK): Sky Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6285.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 4</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>(UK): Sky Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6286.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 3</link> 
         </item> 
           <item> 
-            <title>UK|Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 4 HD</link> 
+            <title>(UK): Sky Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6287.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 2</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>(UK): Sky One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6288.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky One</link> 
         </item> 
           <item> 
-            <title>UK|Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports 5 HD</link> 
+            <title>(UK): Sky News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6289.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky News</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>(UK): Sky Movies Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6290.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Thriller</link> 
         </item> 
           <item> 
-            <title>UK|Sky Sports F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Sports F1 HD</link> 
+            <title>(UK): Sky Movies Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6291.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Showcase</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>(UK): Sky Movies Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6292.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Select</link> 
         </item> 
           <item> 
-            <title>Premiere Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/3676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premiere Sport HD</link> 
+            <title>(UK): Sky Movies Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6293.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Premiere</link> 
         </item> 
           <item> 
-            <title>UK|MU TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|MU TV</link> 
-        </item> 
-          <item> 
-            <title>UK|LFC TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|LFC TV</link> 
-        </item> 
-          <item> 
-            <title>UK|Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Chelsea TV</link> 
-        </item> 
-          <item> 
-            <title>UK|BOX NATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|BOX NATION</link> 
-        </item> 
-          <item> 
-            <title>UK|Setanta Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Setanta Ireland</link> 
-        </item> 
-          <item> 
-            <title>UK|Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Racing</link> 
-        </item> 
-          <item> 
-            <title>UK|MOTORS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|MOTORS TV</link> 
-        </item> 
-          <item> 
-            <title>--|UK CINEMA|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK CINEMA|--</link> 
-        </item> 
-          <item> 
-            <title>UK|Sky1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|Sky2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky2</link> 
-        </item> 
-          <item> 
-            <title>UK|Film4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Film4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK|Sky Arts 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK|Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Arts 1</link> 
+            <title>(UK): Sky Movies Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Greats</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1254.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6294.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK|Sky Select HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Select HD</link> 
+            <title>(UK): Sky Movies Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6295.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Family</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Premiere</link> 
+            <title>(UK): Sky Movies Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6296.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Disney</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Great&amp;Modern</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Great&amp;Modern</link> 
+            <title>(UK): Sky Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6297.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Comedy</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Disney HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Disney HD</link> 
+            <title>(UK): Sky Movies Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6298.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Action</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Drama</link> 
+            <title>(UK): Sky Movie Sci-Fi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6299.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movie Sci-Fi</link> 
         </item> 
           <item> 
-            <title>UK|DinsenyChannel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DinsenyChannel</link> 
+            <title>(UK): Sky Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6300.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Living</link> 
         </item> 
           <item> 
-            <title>UK|Sky Disney HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Disney HD</link> 
+            <title>(UK): Sky Drama &amp; Romance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6301.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Drama &amp; Romance</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Comedy</link> 
+            <title>(UK): Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6302.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Atlantic</link> 
         </item> 
           <item> 
-            <title>UK|Sky Atlantic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Atlantic HD</link> 
+            <title>(UK): Sky Arts 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Arts 1</link> 
         </item> 
           <item> 
-            <title>UK|Sky ScFi/HorHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky ScFi/HorHD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6303.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Showcase</link> 
+            <title>(UK): Setanta</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6304.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Setanta</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Family</link> 
+            <title>(UK): RTE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6305.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): RTE 2</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Action</link> 
+            <title>(UK): RTE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6306.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): RTE 1</link> 
         </item> 
           <item> 
-            <title>UK|Sky Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Living</link> 
+            <title>(UK): Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6307.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Racing</link> 
         </item> 
           <item> 
-            <title>UK|Sky Movies Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Movies Thriller</link> 
+            <title>(UK): Premier Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6308.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Premier Sport</link> 
         </item> 
           <item> 
-            <title>UK|Sky True Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky True Movies</link> 
+            <title>(UK): Pick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6309.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Pick</link> 
         </item> 
           <item> 
-            <title>UK|Sky True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky True Movies 2</link> 
+            <title>(UK): Nickloedon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6310.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nickloedon</link> 
         </item> 
           <item> 
-            <title>UK|Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Dave</link> 
+            <title>(UK): Nick Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6311.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nick Toons</link> 
         </item> 
           <item> 
-            <title>UK|Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Fox</link> 
+            <title>(UK): Nick JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6312.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nick JR</link> 
         </item> 
           <item> 
-            <title>UK|Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Syfy</link> 
+            <title>(UK): National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6313.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): National Geographic</link> 
         </item> 
           <item> 
-            <title>UK|Good Food</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Good Food</link> 
+            <title>(UK): Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6314.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>UK|Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Food Network</link> 
+            <title>(UK): MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6315.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): MUTV</link> 
         </item> 
           <item> 
-            <title>--|UK CULTURE|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK CULTURE|--</link> 
+            <title>(UK): Motors</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6316.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Motors</link> 
         </item> 
           <item> 
-            <title>UK|NatGeoGraphic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|NatGeoGraphic</link> 
+            <title>(UK): ITV Be</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6317.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV Be</link> 
         </item> 
           <item> 
-            <title>UK|NationalGeography-Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|NationalGeography-Wild</link> 
+            <title>(UK): ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6318.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 4</link> 
         </item> 
           <item> 
-            <title>UK|DiscoverySc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoverySc</link> 
+            <title>(UK): ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6319.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 3</link> 
         </item> 
           <item> 
-            <title>UK|DiscoveryHistory</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryHistory</link> 
+            <title>(UK): ITV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6320.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 2</link> 
         </item> 
           <item> 
-            <title>UK|Disc Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1106.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Disc Turbo</link> 
+            <title>(UK): ITV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6321.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 1</link> 
         </item> 
           <item> 
-            <title>UK|DiscoveryCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryCI</link> 
+            <title>(UK): Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6322.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Horror</link> 
         </item> 
           <item> 
-            <title>UK|Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Discovery HD</link> 
+            <title>(UK): History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6323.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): History</link> 
         </item> 
           <item> 
-            <title>UK|DiscoveryWorld</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|DiscoveryWorld</link> 
+            <title>(UK): H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6324.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): H2</link> 
         </item> 
           <item> 
-            <title>UK|AnimalPlanet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|AnimalPlanet</link> 
+            <title>(UK): Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6325.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Fox</link> 
         </item> 
           <item> 
-            <title>--|UK ENFANTS|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|UK ENFANTS|--</link> 
+            <title>(UK): Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6326.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Food Network</link> 
         </item> 
           <item> 
-            <title>UK|Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Nick Jr</link> 
+            <title>(UK): Fine Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6327.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Fine Living</link> 
         </item> 
           <item> 
-            <title>UK|Sky Baby</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/2707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Sky Baby</link> 
+            <title>(UK):SKY SPORTS F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6328.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK):SKY SPORTS F1</link> 
         </item> 
           <item> 
-            <title>UK|Nicktoons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Nicktoons</link> 
+            <title>(UK): Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6329.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Eurosport 2</link> 
         </item> 
           <item> 
-            <title>UK|nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|nickelodeon</link> 
+            <title>(UK): Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6330.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Eurosport</link> 
         </item> 
           <item> 
-            <title>UK|Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Disney Junior</link> 
+            <title>(UK): E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6331.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): E4</link> 
         </item> 
           <item> 
-            <title>UK|Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mrd/mrd/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK|Cartoon Network</link> 
+            <title>(UK): E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6332.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): E!</link> 
+        </item> 
+          <item> 
+            <title>(UK): DMax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6334.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): DMax</link> 
+        </item> 
+          <item> 
+            <title>(UK): Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6335.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney XD</link> 
+        </item> 
+          <item> 
+            <title>(UK): Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6336.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>(UK): Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6337.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney</link> 
+        </item> 
+          <item> 
+            <title>(UK): Discovery World</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6338.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery World</link> 
+        </item> 
+          <item> 
+            <title>(UK): Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6339.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>(UK): Discovery Shed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6340.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Shed</link> 
+        </item> 
+          <item> 
+            <title>(UK): Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6341.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>(UK): Discovery Home &amp; Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6342.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Home &amp; Health</link> 
+        </item> 
+          <item> 
+            <title>(UK): Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6343.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery History</link> 
+        </item> 
+          <item> 
+            <title>(UK): DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6344.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>(UK): CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6345.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CI</link> 
+        </item> 
+          <item> 
+            <title>(UK): Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6346.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>(UK): Channel 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6347.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Channel 5</link> 
+        </item> 
+          <item> 
+            <title>(UK): Channel 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6348.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Channel 4</link> 
+        </item> 
+          <item> 
+            <title>(UK): CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6349.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>(UK): CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6350.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CBS Action</link> 
+        </item> 
+          <item> 
+            <title>(UK): BT Sport Europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6351.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport Europe</link> 
+        </item> 
+          <item> 
+            <title>(UK): BT Sport ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6352.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport ESPN</link> 
+        </item> 
+          <item> 
+            <title>(UK): BT Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6353.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport 2</link> 
+        </item> 
+          <item> 
+            <title>(UK): BT Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6354.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport 1</link> 
+        </item> 
+          <item> 
+            <title>(UK): Boxnation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Boxnation</link> 
+        </item> 
+          <item> 
+            <title>(UK): Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6356.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Boomerang</link> 
+        </item> 
+          <item> 
+            <title>(UK): BBC NEWS 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6357.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC NEWS 24</link> 
+        </item> 
+          <item> 
+            <title>(UK): BBC 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6358.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 4</link> 
+        </item> 
+          <item> 
+            <title>(UK): BBC 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6359.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 3</link> 
+        </item> 
+          <item> 
+            <title>(UK): BBC 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6360.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 2</link> 
+        </item> 
+          <item> 
+            <title>(UK): BBC 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6361.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 1</link> 
+        </item> 
+          <item> 
+            <title>(UK): Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6362.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Baby TV</link> 
+        </item> 
+          <item> 
+            <title>(UK): At The Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6363.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): At The Races</link> 
+        </item> 
+          <item> 
+            <title>(UK): Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6364.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>(UK): Amc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6365.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Amc</link> 
         </item> 
   
