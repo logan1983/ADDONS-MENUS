@@ -30,21 +30,7 @@
  
         
  
-           
- 
-  
-          <item> 
-            <title>DE-Das_Erste</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3011.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Das_Erste</link> 
-        </item> 
-          <item> 
-            <title>DE-ZDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ZDF</link> 
-        </item> 
-          <item> 
-            <title>DE-RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL</link> 
-        </item> 
+     
           <item> 
             <title>DE-RTL_2</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3057.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL_2</link> 
@@ -73,7 +59,19 @@
             <title>DE-N24</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3045.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-N24</link> 
         </item> 
+                <item> 
+            <title>DE-Das_Erste</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3011.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-Das_Erste</link> 
+        </item> 
           <item> 
+            <title>DE-ZDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-ZDF</link> 
+        </item> 
+          <item> 
+            <title>DE-RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3056.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-RTL</link> 
+        </item> 
+		 <item> 
             <title>DE-N-TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/3044.ts&amp;streamtype=TSDOWNLOADER&amp;name=DE-N-TV</link> 
         </item> 
