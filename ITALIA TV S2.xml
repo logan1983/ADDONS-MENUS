@@ -29,22 +29,7 @@
  
  
  
-          <item> 
-            <title>IT-Sky-Cinema1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema1</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky-Cinema_Passion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Passion</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky-Cinema_Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Max</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky-Cinema_Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT-Sky-Cinema_Hits&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Hits</link> 
-        </item> 
+
           <item> 
             <title></title> 
             <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2747.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
@@ -64,6 +49,22 @@
           <item> 
             <title>IT-Sky-Cinema_Classic</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2743.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Classic</link> 
+        </item> 
+		       <item> 
+            <title>IT-Sky-Cinema1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2742.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema1</link> 
+        </item> 
+          <item> 
+            <title>IT-Sky-Cinema_Passion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Passion</link> 
+        </item> 
+          <item> 
+            <title>IT-Sky-Cinema_Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://137.74.93.219:8000/live/ww/ww/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Max</link> 
+        </item> 
+          <item> 
+            <title>IT-Sky-Cinema_Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT-Sky-Cinema_Hits&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky-Cinema_Hits</link> 
         </item> 
           <item> 
             <title>IT-Sky-Cinema+24</title> 
