@@ -34,364 +34,225 @@
  
  
  
+ 
           <item> 
-            <title>(UK): TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6278.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TCM</link> 
-        </item> 
-          <item> 
-            <title>(UK): TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6279.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TLC</link> 
-        </item> 
-          <item> 
-            <title>(UK): TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6280.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TG4</link> 
-        </item> 
-          <item> 
-            <title>(UK): Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6281.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Syfy</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sports 1</link> 
+            <title>UK_Sky_Sports_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_1_HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6282.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6283.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport News</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Sport 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6284.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 5</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Sport 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6285.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 4</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Sport 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6286.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 3</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6287.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 2</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6288.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky One</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6289.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky News</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6290.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Thriller</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6291.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Showcase</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6292.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Select</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6293.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Premiere</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Greats</link> 
+            <title>UK_Sky_Sports_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_2_HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6294.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6295.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Family</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6296.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Disney</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6297.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Comedy</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movies Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6298.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Action</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Movie Sci-Fi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6299.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movie Sci-Fi</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6300.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Living</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Drama &amp; Romance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6301.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Drama &amp; Romance</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6302.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>(UK): Sky Arts 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Arts 1</link> 
+            <title>UK_Sky_Sports_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_3_HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6303.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Setanta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6304.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Setanta</link> 
+            <title>UK_Sky_Sports_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_4_HD</link> 
         </item> 
           <item> 
-            <title>(UK): RTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6305.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): RTE 2</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): RTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6306.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): RTE 1</link> 
+            <title>UK_Sky_Sports_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_5_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6307.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Racing</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Premier Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6308.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Premier Sport</link> 
+            <title>UK_Sky Sports_F1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Sports_F1_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6309.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Pick</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Nickloedon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6310.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nickloedon</link> 
+            <title>UK_BT_Sport_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_1_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Nick Toons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6311.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nick Toons</link> 
+            <title>UK_BT_Sport_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_2_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Nick JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6312.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nick JR</link> 
+            <title>UK_CHELSEA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CHELSEA_TV</link> 
         </item> 
           <item> 
-            <title>(UK): National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6313.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): National Geographic</link> 
+            <title>UK_BT_Sport_Extra_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Extra_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6314.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nat Geo Wild</link> 
+            <title>UK_BT_Sport_Europe_2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Europe_2HD</link> 
         </item> 
           <item> 
-            <title>(UK): MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6315.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): MUTV</link> 
+            <title>UK_BT_Sport_Europe_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Europe_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Motors</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6316.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Motors</link> 
+            <title>UK_Sky_Movies_Action_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Action_HD</link> 
         </item> 
           <item> 
-            <title>(UK): ITV Be</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6317.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV Be</link> 
+            <title>UK_Sky_Movies Action_Adventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies Action_Adventure</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6318.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 4</link> 
+            <title>UK_Sky_Movies_Sci-Fi_Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Sci-Fi_Horror</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6319.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 3</link> 
+            <title>UK_Sky_Movies_Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Movies_Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Greats</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6320.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 2</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6321.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 1</link> 
+            <title>UK_Sky_Movies_Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Family</link> 
         </item> 
           <item> 
-            <title>(UK): Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6322.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Horror</link> 
+            <title>UK_Sky_Movies_Drama_Romance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Drama_Romance</link> 
         </item> 
           <item> 
-            <title>(UK): History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6323.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): History</link> 
+            <title>UK_Sky_Movies_Crime_Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Crime_Thriller</link> 
         </item> 
           <item> 
-            <title>(UK): H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6324.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): H2</link> 
+            <title>UK_Sky_Movies_Premiere_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Premiere_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6325.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Fox</link> 
+            <title>UK_Sky_Movies_Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Showcase</link> 
         </item> 
           <item> 
-            <title>(UK): Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6326.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Food Network</link> 
+            <title>UK_Sky_Movies_Comedy_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Comedy_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Fine Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6327.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Fine Living</link> 
+            <title>UK_Sky_Movies_Select_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select_HD</link> 
         </item> 
           <item> 
-            <title>(UK):SKY SPORTS F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6328.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK):SKY SPORTS F1</link> 
+            <title>UK_Sky_Sci Fi _Hor_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sci Fi _Hor_HD</link> 
         </item> 
           <item> 
-            <title>(UK): Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6329.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Eurosport 2</link> 
+            <title>UK_Sky_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_1</link> 
         </item> 
           <item> 
-            <title>(UK): Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6330.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Eurosport</link> 
+            <title>UK_Sky_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_2</link> 
         </item> 
           <item> 
-            <title>(UK): E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6331.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): E4</link> 
+            <title>UK_Discovery_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_HD</link> 
         </item> 
           <item> 
-            <title>(UK): E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6332.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): E!</link> 
+            <title>UK_Discovery_Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_Science</link> 
         </item> 
           <item> 
-            <title>(UK): DMax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6334.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): DMax</link> 
+            <title>UK_Nat_Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nat_Geo</link> 
         </item> 
           <item> 
-            <title>(UK): Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6335.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney XD</link> 
+            <title>UK_Nat_Geo_Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nat_Geo_Wild</link> 
         </item> 
           <item> 
-            <title>(UK): Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6336.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney Junior</link> 
+            <title>UK_Cartoon_Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Cartoon_Network</link> 
         </item> 
           <item> 
-            <title>(UK): Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6337.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney</link> 
+            <title>UK_Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Boomerang</link> 
         </item> 
           <item> 
-            <title>(UK): Discovery World</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6338.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery World</link> 
+            <title>UK_Baby_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Baby_TV</link> 
         </item> 
           <item> 
-            <title>(UK): Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6339.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Turbo</link> 
+            <title>UK_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nickelodeon</link> 
         </item> 
           <item> 
-            <title>(UK): Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6340.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Shed</link> 
+            <title>UK_Nick_Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Toons</link> 
         </item> 
           <item> 
-            <title>(UK): Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6341.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Science</link> 
+            <title>UK_Nick Jr_Too</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick Jr_Too</link> 
         </item> 
           <item> 
-            <title>(UK): Discovery Home &amp; Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6342.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Home &amp; Health</link> 
+            <title>UK_Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Junior</link> 
         </item> 
           <item> 
-            <title>(UK): Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6343.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery History</link> 
+            <title>UK_Disney_Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Jr</link> 
         </item> 
           <item> 
-            <title>(UK): DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6344.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): DISCOVERY</link> 
+            <title>UK_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Channel</link> 
         </item> 
           <item> 
-            <title>(UK): CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6345.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CI</link> 
+            <title>UK_Nick_Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Jr</link> 
         </item> 
           <item> 
-            <title>(UK): Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6346.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Chelsea TV</link> 
+            <title>UK_Cnn_News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Cnn_News</link> 
         </item> 
           <item> 
-            <title>(UK): Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6347.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Channel 5</link> 
+            <title>UK_Sky_Nwes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Nwes</link> 
         </item> 
           <item> 
-            <title>(UK): Channel 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6348.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Channel 4</link> 
+            <title>UK_Bbc_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Bbc_1_HD</link> 
         </item> 
           <item> 
-            <title>(UK): CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6349.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CBS Reality</link> 
+            <title>UK_Bbc_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Bbc_2_HD</link> 
         </item> 
           <item> 
-            <title>(UK): CBS Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6350.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CBS Action</link> 
+            <title>UK_Zee_Punjabi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Zee_Punjabi</link> 
         </item> 
           <item> 
-            <title>(UK): BT Sport Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6351.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport Europe</link> 
+            <title>UK_Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Euronews</link> 
         </item> 
           <item> 
-            <title>(UK): BT Sport ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6352.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport ESPN</link> 
+            <title>UK_Zee_Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Zee_Cinema</link> 
         </item> 
           <item> 
-            <title>(UK): BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6353.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>(UK): BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6354.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>(UK): Boxnation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Boxnation</link> 
-        </item> 
-          <item> 
-            <title>(UK): Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6356.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Boomerang</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC NEWS 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6357.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC NEWS 24</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6358.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 4</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6359.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 3</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6360.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 2</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6361.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 1</link> 
-        </item> 
-          <item> 
-            <title>(UK): Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6362.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Baby TV</link> 
-        </item> 
-          <item> 
-            <title>(UK): At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6363.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): At The Races</link> 
-        </item> 
-          <item> 
-            <title>(UK): Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6364.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>(UK): Amc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.102.132:8000/live/12345/54321/6365.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Amc</link> 
+            <title>UK_Sony_Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sony_Max</link> 
         </item> 
   

@@ -31,355 +31,544 @@
  
  
  
+ 
           <item> 
-            <title>(UK): TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6278.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TCM</link> 
+            <title>UK: BBC 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26900.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1 HD</link> 
         </item> 
           <item> 
-            <title>(UK): TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6279.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TLC</link> 
+            <title>UK: BBC 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26901.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2 HD</link> 
         </item> 
           <item> 
-            <title>(UK): TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6280.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): TG4</link> 
+            <title>UK: BBC 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26902.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3 HD</link> 
         </item> 
           <item> 
-            <title>(UK): Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6281.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Syfy</link> 
+            <title>UK: BBC 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26903.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4 HD</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sports 1</link> 
+            <title>UK: BBC NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26904.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC NEWS</link> 
+        </item> 
+          <item> 
+            <title>UK: BOXNATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOXNATION</link> 
+        </item> 
+          <item> 
+            <title>UK: CNN NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26899.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CNN NEWS</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26937.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26938.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV_HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26920.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV_HITS</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV_ROCKS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26921.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV_ROCKS</link> 
+        </item> 
+          <item> 
+            <title>UK: MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26934.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV</link> 
+        </item> 
+          <item> 
+            <title>UK: NATGEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26935.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATGEO WILD</link> 
+        </item> 
+          <item> 
+            <title>UK: National_Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26924.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National_Geographic</link> 
+        </item> 
+          <item> 
+            <title>UK: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26905.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>UK: Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26925.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK: Premier Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26906.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sport</link> 
+        </item> 
+          <item> 
+            <title>UK: Quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26907.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest</link> 
+        </item> 
+          <item> 
+            <title>UK: RACING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26936.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RACING</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY ATLANTIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26922.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ATLANTIC HD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY LIVING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26926.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORT NEWS HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26916.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORT NEWS HQ</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 1HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26909.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 1HD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 1SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26908.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 1SD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26911.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 2HD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 2SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26910.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 2SD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26913.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 3HD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 3SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26912.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 3SD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 4HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26914.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 4HD</link> 
+        </item> 
+          <item> 
+            <title>UK: SKY SPORTS 5HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26915.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 5HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky_Movies_Action&amp;Adventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26927.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Action&amp;Adventure</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky_Movies_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26928.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky_Movies_Modern_Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky_Movies_Modern_Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Modern_Greats</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6282.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26929.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6283.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport News</link> 
+            <title>UK: Sky_Movies_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26930.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Premiere</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sport 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6284.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 5</link> 
+            <title>UK: Sky_Movies_ScFi-Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26931.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_ScFi-Horror</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sport 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6285.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 4</link> 
+            <title>UK: Sky_Movies_Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26932.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Select</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sport 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6286.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 3</link> 
+            <title>UK: Sky_Movies_Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26933.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky_Movies_Showcase</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6287.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Sport 2</link> 
+            <title>UK: Sky-movies-Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26917.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky-movies-Thriller</link> 
         </item> 
           <item> 
-            <title>(UK): Sky One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6288.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky One</link> 
+            <title>UK: Sy-Fy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26918.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sy-Fy</link> 
         </item> 
           <item> 
-            <title>(UK): Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6289.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky News</link> 
+            <title>UK: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26919.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6290.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Thriller</link> 
+            <title>UK: 4seven</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27020.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4seven</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6291.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Showcase</link> 
+            <title>UK: 5 usa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27016.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 usa</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Select</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6292.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Select</link> 
+            <title>UK: 5star</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27017.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5star</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6293.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Premiere</link> 
+            <title>UK: Al Jazerra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26939.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Al Jazerra</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Movies Greats&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Greats</link> 
+            <title>UK: Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26940.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>UK: At The Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26941.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: At The Races</link> 
+        </item> 
+          <item> 
+            <title>UK: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26942.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC 1 London</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27027.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1 London</link> 
+        </item> 
+          <item> 
+            <title>UK: BBC 2 Eng</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27026.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2 Eng</link> 
+        </item> 
+          <item> 
+            <title>UK: Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26943.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bloomberg</link> 
+        </item> 
+          <item> 
+            <title>UK: British Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26945.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: British Eurosport</link> 
+        </item> 
+          <item> 
+            <title>UK: British Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26944.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: British Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>UK: CBBC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26946.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC HD</link> 
+        </item> 
+          <item> 
+            <title>UK: CBS Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26947.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Drama</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27019.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 HD</link> 
+        </item> 
+          <item> 
+            <title>UK: Channel 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27018.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5</link> 
+        </item> 
+          <item> 
+            <title>UK: CHS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26948.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHS TV</link> 
+        </item> 
+          <item> 
+            <title>UK: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26949.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>UK: Comedy Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26950.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Xtra</link> 
+        </item> 
+          <item> 
+            <title>UK: Community</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26951.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Community</link> 
+        </item> 
+          <item> 
+            <title>UK: Crime Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26952.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Crime Investigation</link> 
+        </item> 
+          <item> 
+            <title>UK: Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dave</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26953.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26954.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26955.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Shed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26956.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Shed</link> 
+        </item> 
+          <item> 
+            <title>UK: Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26957.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26958.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26959.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Jr</link> 
+        </item> 
+          <item> 
+            <title>UK: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26960.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney XD</link> 
+        </item> 
+          <item> 
+            <title>UK: DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26961.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DMAX</link> 
+        </item> 
+          <item> 
+            <title>UK: E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27014.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4</link> 
+        </item> 
+          <item> 
+            <title>UK: Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26963.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>UK: Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26962.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>UK: Film 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27013.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4</link> 
+        </item> 
+          <item> 
+            <title>UK: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26964.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fox</link> 
+        </item> 
+          <item> 
+            <title>UK: FOX News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26965.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX News</link> 
+        </item> 
+          <item> 
+            <title>UK: History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26966.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27025.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV HD</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27024.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV2</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27023.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV3</link> 
+        </item> 
+          <item> 
+            <title>UK: ITV4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27022.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV4</link> 
+        </item> 
+          <item> 
+            <title>UK: ITVBe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27021.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITVBe</link> 
+        </item> 
+          <item> 
+            <title>UK: Kix</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26967.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Kix</link> 
+        </item> 
+          <item> 
+            <title>UK: Lifetime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26968.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Lifetime</link> 
+        </item> 
+          <item> 
+            <title>UK: More 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27012.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: More 4</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26969.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Base</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26970.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Base</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26971.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Classic</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26972.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Dance</link> 
+        </item> 
+          <item> 
+            <title>UK: MTV Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Hits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6294.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26973.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6295.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Family</link> 
+            <title>UK: MTV Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26974.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Music</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6296.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Disney</link> 
+            <title>UK: MTV Rocks</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26975.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV Rocks</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6297.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Comedy</link> 
+            <title>UK: Nat Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26976.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movies Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6298.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movies Action</link> 
+            <title>UK: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26977.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Movie Sci-Fi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6299.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Movie Sci-Fi</link> 
+            <title>UK: Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26978.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Jr</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6300.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Living</link> 
+            <title>UK: Nick Toons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26979.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Toons</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Drama &amp; Romance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6301.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Drama &amp; Romance</link> 
+            <title>UK: Sky 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26989.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 1</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6302.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Atlantic</link> 
+            <title>UK: Sky 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26990.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2</link> 
         </item> 
           <item> 
-            <title>(UK): Sky Arts 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,(UK): Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Sky Arts 1</link> 
+            <title>UK: Sky Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26991.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Action</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Action Adventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26992.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Action Adventure</link> 
+        </item> 
+          <item> 
+            <title>UK: Sky Arts 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6303.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26993.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Setanta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6304.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Setanta</link> 
+            <title>UK: Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26994.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Atlantic</link> 
         </item> 
           <item> 
-            <title>(UK): RTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6305.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): RTE 2</link> 
+            <title>UK: Sky Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26995.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Comedy</link> 
         </item> 
           <item> 
-            <title>(UK): RTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6306.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): RTE 1</link> 
+            <title>UK: Sky Crime Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26996.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Crime Thriller</link> 
         </item> 
           <item> 
-            <title>(UK): Racing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6307.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Racing</link> 
+            <title>UK: Sky Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26997.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Disney</link> 
         </item> 
           <item> 
-            <title>(UK): Premier Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6308.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Premier Sport</link> 
+            <title>UK: Sky Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Family</link> 
         </item> 
           <item> 
-            <title>(UK): Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6309.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Pick</link> 
+            <title>UK: Sky Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Greats</link> 
         </item> 
           <item> 
-            <title>(UK): Nickloedon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6310.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nickloedon</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26999.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): Nick Toons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6311.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nick Toons</link> 
+            <title>UK: Sky News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27000.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News</link> 
         </item> 
           <item> 
-            <title>(UK): Nick JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6312.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nick JR</link> 
+            <title>UK: Sky News Arabia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News Arabia</link> 
         </item> 
           <item> 
-            <title>(UK): National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6313.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): National Geographic</link> 
+            <title>UK: Sky Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27002.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Premiere</link> 
         </item> 
           <item> 
-            <title>(UK): Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6314.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Nat Geo Wild</link> 
+            <title>UK: Sky ScFi Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27003.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky ScFi Horror</link> 
         </item> 
           <item> 
-            <title>(UK): MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6315.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): MUTV</link> 
+            <title>UK: Sky Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Select</link> 
         </item> 
           <item> 
-            <title>(UK): Motors</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6316.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Motors</link> 
+            <title>UK: Sky Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27005.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 2</link> 
         </item> 
           <item> 
-            <title>(UK): ITV Be</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6317.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV Be</link> 
+            <title>UK: Sky Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27006.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 3</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6318.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 4</link> 
+            <title>UK: Sky Sport 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27007.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 4</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6319.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 3</link> 
+            <title>UK: Sky Sport 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27008.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport 5</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6320.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 2</link> 
+            <title>UK: Sky Sport News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27009.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport News HD</link> 
         </item> 
           <item> 
-            <title>(UK): ITV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6321.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): ITV 1</link> 
+            <title>UK: Sky Sports F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports F1</link> 
         </item> 
           <item> 
-            <title>(UK): Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6322.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Horror</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27010.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>(UK): History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6323.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): History</link> 
+            <title>UK: Sky Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/27011.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Thriller</link> 
         </item> 
           <item> 
-            <title>(UK): H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6324.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): H2</link> 
+            <title>UK: Sony Movie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26987.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony Movie</link> 
         </item> 
           <item> 
-            <title>(UK): Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6325.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Fox</link> 
+            <title>UK: Sony SAB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26988.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony SAB</link> 
         </item> 
           <item> 
-            <title>(UK): Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6326.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Food Network</link> 
+            <title>UK: Travel Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26984.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel</link> 
         </item> 
           <item> 
-            <title>(UK): Fine Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6327.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Fine Living</link> 
+            <title>UK: True Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Crime</link> 
         </item> 
           <item> 
-            <title>(UK):SKY SPORTS F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6328.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK):SKY SPORTS F1</link> 
+            <title>UK: True Ent</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26985.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Ent</link> 
         </item> 
           <item> 
-            <title>(UK): Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6329.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Eurosport 2</link> 
+            <title>UK: TV5 Monde</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26980.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV5 Monde</link> 
         </item> 
           <item> 
-            <title>(UK): Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6330.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Eurosport</link> 
+            <title>UK: UTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26981.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV</link> 
         </item> 
           <item> 
-            <title>(UK): E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6331.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): E4</link> 
+            <title>UK: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26982.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1</link> 
         </item> 
           <item> 
-            <title>(UK): E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6332.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): E!</link> 
+            <title>UK: VIVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/26983.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA</link> 
         </item> 
-          <item> 
-            <title>(UK): DMax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6334.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): DMax</link> 
-        </item> 
-          <item> 
-            <title>(UK): Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6335.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney XD</link> 
-        </item> 
-          <item> 
-            <title>(UK): Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6336.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>(UK): Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6337.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Disney</link> 
-        </item> 
-          <item> 
-            <title>(UK): Discovery World</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6338.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery World</link> 
-        </item> 
-          <item> 
-            <title>(UK): Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6339.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>(UK): Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6340.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>(UK): Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6341.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>(UK): Discovery Home &amp; Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6342.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery Home &amp; Health</link> 
-        </item> 
-          <item> 
-            <title>(UK): Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6343.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Discovery History</link> 
-        </item> 
-          <item> 
-            <title>(UK): DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6344.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): DISCOVERY</link> 
-        </item> 
-          <item> 
-            <title>(UK): CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6345.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CI</link> 
-        </item> 
-          <item> 
-            <title>(UK): Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6346.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Chelsea TV</link> 
-        </item> 
-          <item> 
-            <title>(UK): Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6347.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Channel 5</link> 
-        </item> 
-          <item> 
-            <title>(UK): Channel 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6348.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Channel 4</link> 
-        </item> 
-          <item> 
-            <title>(UK): CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6349.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>(UK): CBS Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6350.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): CBS Action</link> 
-        </item> 
-          <item> 
-            <title>(UK): BT Sport Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6351.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport Europe</link> 
-        </item> 
-          <item> 
-            <title>(UK): BT Sport ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6352.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport ESPN</link> 
-        </item> 
-          <item> 
-            <title>(UK): BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6353.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>(UK): BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6354.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>(UK): Boxnation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6355.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Boxnation</link> 
-        </item> 
-          <item> 
-            <title>(UK): Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6356.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Boomerang</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC NEWS 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6357.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC NEWS 24</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6358.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 4</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6359.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 3</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6360.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 2</link> 
-        </item> 
-          <item> 
-            <title>(UK): BBC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6361.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): BBC 1</link> 
-        </item> 
-          <item> 
-            <title>(UK): Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6362.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): Baby TV</link> 
-        </item> 
-          <item> 
+  
             <title>(UK): At The Races</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://tvhd.dynu.com:8000/live/12345/54321/6363.ts&amp;streamtype=TSDOWNLOADER&amp;name=(UK): At The Races</link> 
         </item> 
