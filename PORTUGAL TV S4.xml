@@ -37,76 +37,357 @@
       
  
      
+ 
           <item> 
-            <title>PT_RTP-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP-1</link> 
+            <title>PT:RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 1</link> 
         </item> 
           <item> 
-            <title>PT_RTP-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP-2</link> 
+            <title>PT:RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 2</link> 
         </item> 
           <item> 
-            <title>PT_RTP-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP-3</link> 
+            <title>PT:RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 3</link> 
         </item> 
           <item> 
-            <title>PT_RTP_AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_AFRICA</link> 
+            <title>PT:RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP ACORES</link> 
         </item> 
           <item> 
-            <title>PT_TVI24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI24</link> 
+            <title>PT:RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>PT_TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI</link> 
+            <title>PT:RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>PT_SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC</link> 
+            <title>PT:RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP MEMORIA</link> 
         </item> 
           <item> 
-            <title>PT_SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC NOTICIAS</link> 
+            <title>PT:SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC</link> 
         </item> 
           <item> 
-            <title>PT_SIC-CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC-CARAS</link> 
+            <title>PT:SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT_SIC-MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC-MULHER</link> 
+            <title>PT:SIC KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC KIDS</link> 
         </item> 
           <item> 
-            <title>PT_TVCINE-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE-1</link> 
+            <title>PT:SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT_TVCINE-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE-2</link> 
+            <title>PT:SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PT_TVCINE-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE-3</link> 
+            <title>PT:SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC RADICAL</link> 
         </item> 
           <item> 
-            <title>PT_TVCINE-4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVCINE-4</link> 
+            <title>PT:TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI</link> 
         </item> 
           <item> 
-            <title>PT_TV-SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV-SERIES</link> 
+            <title>PT: TVI Ficção</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficção</link> 
         </item> 
           <item> 
-            <title>PT_GLOBO-PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_GLOBO-PREMIUM</link> 
+            <title>TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT_CM-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CM-TV</link> 
+            <title>PT:TVI24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI24</link> 
         </item> 
           <item> 
-            <title>PT_ABOLA-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/stream156/0610509511/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_ABOLA-TV</link> 
+            <title>PT:AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AMC</link> 
+        </item> 
+          <item> 
+            <title>PT AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>PT AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1387.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>PT BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BABY TV</link> 
+        </item> 
+          <item> 
+            <title>PT:BBC ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BBC ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>PT:CAÇA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CAÇA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>PT:CAÇAVISION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CAÇAVISION HD</link> 
+        </item> 
+          <item> 
+            <title>PT:CANAL PANDA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CANAL PANDA HD</link> 
+        </item> 
+          <item> 
+            <title>PT:CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>PT:CHELSEA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1371.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CHELSEA TV HD</link> 
+        </item> 
+          <item> 
+            <title>PT CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>PT DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT DISCOVERY HD</link> 
+        </item> 
+          <item> 
+            <title>PT DISCOVERY SHOWCASE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT DISCOVERY SHOWCASE HD</link> 
+        </item> 
+          <item> 
+            <title>PT:DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>PT:DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT:E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>PT:CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT:EURONEWS-PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EURONEWS-PT</link> 
+        </item> 
+          <item> 
+            <title>PT:EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1373.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>PT EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>PT:EUROSPORT NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1375.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT NEWS</link> 
+        </item> 
+          <item> 
+            <title>PT:FASHION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FASHION HD</link> 
+        </item> 
+          <item> 
+            <title>PT:FOOD NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOOD NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX COMEDY</link> 
+        </item> 
+          <item> 
+            <title>PT FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>PT FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>PT FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX HD</link> 
+        </item> 
+          <item> 
+            <title>PT FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT:FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PT:GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:GLOBO</link> 
+        </item> 
+          <item> 
+            <title>PT:GLOBO PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:GLOBO PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>PT:GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>PT:HISTORIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HISTORIA HD</link> 
+        </item> 
+          <item> 
+            <title>PT:HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT:HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>PT:JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>PT:MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1467.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MTV</link> 
+        </item> 
+          <item> 
+            <title>PT:MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1377.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>PT:MOTORVISION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1378.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION HD</link> 
+        </item> 
+          <item> 
+            <title>PT:MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT NAT GEO HD</link> 
+        </item> 
+          <item> 
+            <title>PT NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>PT:NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>PT ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>PT:PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PANDA BIGGS</link> 
+        </item> 
+          <item> 
+            <title>PT:PFC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PFC HD</link> 
+        </item> 
+          <item> 
+            <title>PT:PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>PT:Canal Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal Q</link> 
+        </item> 
+          <item> 
+            <title>PT SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>PT:TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TLC</link> 
+        </item> 
+          <item> 
+            <title>PT:TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TOROS TV</link> 
+        </item> 
+          <item> 
+            <title>PT:TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TRAVEL CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>PT:TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>PT:TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV RECORD</link> 
+        </item> 
+          <item> 
+            <title>PT:TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV SERIES</link> 
+        </item> 
+          <item> 
+            <title>PT:TV SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>PT TV CINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV CINE 1</link> 
+        </item> 
+          <item> 
+            <title>PT TV CINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV CINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCINE 2</link> 
+        </item> 
+          <item> 
+            <title>PT TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCINE 3</link> 
+        </item> 
+          <item> 
+            <title>PT TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCINE 4</link> 
+        </item> 
+          <item> 
+            <title>PT TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVCINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>PT:VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1</link> 
+        </item> 
+          <item> 
+            <title>PT:24KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:24KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>PT:A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>PT:ABOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:ABOLA TV</link> 
+        </item> 
+          <item> 
+            <title>PT:AFRO MUSIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://solofast.ddns.net:44222/live/Krki2/Apsra1cNfw/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AFRO MUSIC HD</link> 
         </item> 
   
