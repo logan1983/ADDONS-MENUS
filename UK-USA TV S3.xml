@@ -35,224 +35,289 @@
  
  
  
+   
           <item> 
-            <title>UK_Sky_Sports_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_1_HD</link> 
+            <title>UK:Sky.Movies.Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Family</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Action</link> 
+        </item> 
+          <item> 
+            <title>UK:Movies.ACTION.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Movies.ACTION.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Select</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.Sci-Fi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Sci-Fi</link> 
+        </item> 
+          <item> 
+            <title>UK:VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:VH1</link> 
+        </item> 
+          <item> 
+            <title>UK:Sony-Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1797.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sony-Movies</link> 
+        </item> 
+          <item> 
+            <title>UK:SKY-Sports-F1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:SKY-Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY-Sports-F1-HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Sports_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_2_HD</link> 
+            <title>UK:Setanta-Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1799.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Setanta-Ireland</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_Sports_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_3_HD</link> 
+            <title>UK:Premier-Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Premier-Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Premier-Sports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Sports_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_4_HD</link> 
+            <title>UK:Sky.Movies.Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.PremierPlus1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.PremierPlus1</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Drama</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.ScFiHorror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.ScFiHorror</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Movies.Comedy.Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Movies.Comedy.Central</link> 
+        </item> 
+          <item> 
+            <title>UK:E!.Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2849.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:E!.Entertainment</link> 
+        </item> 
+          <item> 
+            <title>SKYUK:rte-One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:rte-One</link> 
+        </item> 
+          <item> 
+            <title>Uk:Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=Uk:Gold</link> 
+        </item> 
+          <item> 
+            <title>UK:Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Drama</link> 
+        </item> 
+          <item> 
+            <title>UK:SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2850.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SyFy</link> 
+        </item> 
+          <item> 
+            <title>UK:NickToons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2846.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NickToons</link> 
+        </item> 
+          <item> 
+            <title>UK:Nick.UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2845.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nick.UK</link> 
+        </item> 
+          <item> 
+            <title>UK:Nick.Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2844.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nick.Junior</link> 
+        </item> 
+          <item> 
+            <title>UK:Disney.XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2848.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney.XD</link> 
+        </item> 
+          <item> 
+            <title>UK:Cartoon.Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/2847.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Cartoon.Network</link> 
+        </item> 
+          <item> 
+            <title>UK:Disney.Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney.Junior</link> 
+        </item> 
+          <item> 
+            <title>UK:Disney.Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Disney.Channel</link> 
+        </item> 
+          <item> 
+            <title>SKYUK:Sky-Arts1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SKYUK:Sky-Arts&amp;streamtype=TSDOWNLOADER&amp;name=SKYUK:Sky-Arts1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1363.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Sports_5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sports_5_HD</link> 
+            <title>UK:BBC.TWO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.TWO</link> 
+        </item> 
+          <item> 
+            <title>UK:BBC.Three</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.Three</link> 
+        </item> 
+          <item> 
+            <title>UK:BBC.One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.One</link> 
+        </item> 
+          <item> 
+            <title>UK:BBC.Four</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BBC.Four</link> 
+        </item> 
+          <item> 
+            <title>UK:Nat.Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Nat.Geo</link> 
+        </item> 
+          <item> 
+            <title>UK:NATIONAL-GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:NATIONAL-GEO</link> 
+        </item> 
+          <item> 
+            <title>UK:ANIMAL-PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ANIMAL-PLANET</link> 
+        </item> 
+          <item> 
+            <title>UK:Discovery.Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery.Science</link> 
+        </item> 
+          <item> 
+            <title>UK:Discovery.History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery.History</link> 
+        </item> 
+          <item> 
+            <title>UK.DiscoveryHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK.DiscoveryHD</link> 
+        </item> 
+          <item> 
+            <title>UK:Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Discovery</link> 
+        </item> 
+          <item> 
+            <title>UK:National.Geography.Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:National.Geography.Wild</link> 
+        </item> 
+          <item> 
+            <title>UK:Sport-News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sport-News</link> 
+        </item> 
+          <item> 
+            <title>UK:BT-Sport1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1789.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT-Sport1.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:BT-Sport2.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT-Sport2.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:BT-Sport-EU.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:BT-Sport-EU.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:ITV1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV1.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:ITV2.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV2.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:ITV3.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV3.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:ITV4.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:ITV4.HD</link> 
+        </item> 
+          <item> 
+            <title>UK:Sky.Sports.News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky.Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports.News</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky Sports_F1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Sports_F1_HD</link> 
+            <title>UK:SKY.SPORTS1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS1.HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK:SKY.SPORTS2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1757.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS2-HD</link> 
         </item> 
           <item> 
-            <title>UK_BT_Sport_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_1_HD</link> 
+            <title>UK:SKY.SPORTS3-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS3-HD</link> 
         </item> 
           <item> 
-            <title>UK_BT_Sport_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_2_HD</link> 
+            <title>UK:SKY.SPORTS4-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS4-HD</link> 
         </item> 
           <item> 
-            <title>UK_CHELSEA_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_CHELSEA_TV</link> 
+            <title>UK:SKY.SPORTS1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:SKY.SPORTS1</link> 
         </item> 
           <item> 
-            <title>UK_BT_Sport_Extra_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Extra_HD</link> 
+            <title>UK-SKY.SPORTS.F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY.SPORTS.F1</link> 
         </item> 
           <item> 
-            <title>UK_BT_Sport_Europe_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Europe_2HD</link> 
+            <title>UK-SKY.SPORTS2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK-SKY.SPORTS2</link> 
         </item> 
           <item> 
-            <title>UK_BT_Sport_Europe_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_Europe_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_Movies_Action_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Action_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_Movies Action_Adventure</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies Action_Adventure</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_Movies_Sci-Fi_Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Sci-Fi_Horror</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_Movies_Greats</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky_Movies_Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Greats</link> 
+            <title>UK:Sky.Sports2.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky.Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports2.HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Family</link> 
+            <title>UK:Sky.Sports3.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky.Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports3.HD</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Drama_Romance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Drama_Romance</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Crime_Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Crime_Thriller</link> 
+            <title>UK:Sky.Sports4.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky.Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports4.HD</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Premiere_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Premiere_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Showcase</link> 
+            <title>UK:Sky.Sports5.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK:Sky.Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK:Sky.Sports5.HD</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Comedy_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Comedy_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Select_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Select_HD</link> 
+            <title>UK:Eurosport1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eurosport1.HD</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Sci Fi _Hor_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Sci Fi _Hor_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_1</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_2</link> 
-        </item> 
-          <item> 
-            <title>UK_Discovery_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Discovery_Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_Science</link> 
-        </item> 
-          <item> 
-            <title>UK_Nat_Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nat_Geo</link> 
-        </item> 
-          <item> 
-            <title>UK_Nat_Geo_Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nat_Geo_Wild</link> 
-        </item> 
-          <item> 
-            <title>UK_Cartoon_Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Cartoon_Network</link> 
-        </item> 
-          <item> 
-            <title>UK_Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Boomerang</link> 
-        </item> 
-          <item> 
-            <title>UK_Baby_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Baby_TV</link> 
-        </item> 
-          <item> 
-            <title>UK_Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>UK_Nick_Toons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Toons</link> 
-        </item> 
-          <item> 
-            <title>UK_Nick Jr_Too</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick Jr_Too</link> 
-        </item> 
-          <item> 
-            <title>UK_Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Junior</link> 
-        </item> 
-          <item> 
-            <title>UK_Disney_Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Jr</link> 
-        </item> 
-          <item> 
-            <title>UK_Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Channel</link> 
-        </item> 
-          <item> 
-            <title>UK_Nick_Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nick_Jr</link> 
-        </item> 
-          <item> 
-            <title>UK_Cnn_News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Cnn_News</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky_Nwes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Nwes</link> 
-        </item> 
-          <item> 
-            <title>UK_Bbc_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Bbc_1_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Bbc_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Bbc_2_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Zee_Punjabi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Zee_Punjabi</link> 
-        </item> 
-          <item> 
-            <title>UK_Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Euronews</link> 
-        </item> 
-          <item> 
-            <title>UK_Zee_Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Zee_Cinema</link> 
-        </item> 
-          <item> 
-            <title>UK_Sony_Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://smart-iptv2016.com:9500/live/hamza/hamza/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sony_Max</link> 
+            <title>UK:Eurosport2.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.electro-clair.net:8000/live/hamza/hamza1/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK:Eurosport2.HD</link> 
         </item> 
   
