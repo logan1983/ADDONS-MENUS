@@ -35,436 +35,493 @@
  
         
   
+  
           <item> 
-            <title>FR: BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG</link> 
+            <title>FR_TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TF1</link> 
         </item> 
           <item> 
-            <title>FR: AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 HD</link> 
+            <title>FR_France_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_2</link> 
         </item> 
           <item> 
-            <title>FR :TV-BREIZH-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :TV-BREIZH-HD</link> 
+            <title>FR_France_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_3</link> 
         </item> 
           <item> 
-            <title>FR :Science-et-Vie-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :Science-et-Vie-TV</link> 
+            <title>FR_France_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_4</link> 
         </item> 
           <item> 
-            <title>FR :RTL9-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :RTL9-HD</link> 
+            <title>FR_France_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_5</link> 
         </item> 
           <item> 
-            <title>FR: 13 Eme Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 Eme Rue</link> 
+            <title>FR_France_Ô</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_Ô</link> 
         </item> 
           <item> 
-            <title>FR: 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6448.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
+            <title>FR_M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6</link> 
         </item> 
           <item> 
-            <title>FR: Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6447.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
+            <title>****_Cinema-Csat_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Cinema-Csat_****</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD</link> 
+            <title>FR_Canal+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+</link> 
+        </item> 
+          <item> 
+            <title>FR_Canal+Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+Cinema</link> 
+        </item> 
+          <item> 
+            <title>FR_Canal+Decale</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+Decale</link> 
+        </item> 
+          <item> 
+            <title>FR_Canal+Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+Family</link> 
+        </item> 
+          <item> 
+            <title>FR_Canal+Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+Series</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Premier</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Premier</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Frisson</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Emotion</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Classic</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/940.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Club</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Famiz</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Famiz</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Polar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Polar</link> 
+        </item> 
+          <item> 
+            <title>FR_Cine_Fx</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Fx</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/712.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_GEANT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_GEANT</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CITY</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_MAX</link> 
+        </item> 
+          <item> 
+            <title>FR_Comedie+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Comedie+</link> 
+        </item> 
+          <item> 
+            <title>FR_Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Action</link> 
+        </item> 
+          <item> 
+            <title>FR_Tcm_Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Tcm_Cinema</link> 
+        </item> 
+          <item> 
+            <title>****_Culture_Csat_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Culture_Csat_****</link> 
+        </item> 
+          <item> 
+            <title>FR_Animaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Animaux</link> 
+        </item> 
+          <item> 
+            <title>FR_Ushuaia_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ushuaia_TV</link> 
+        </item> 
+          <item> 
+            <title>FR_Chasse_Peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Chasse_Peche</link> 
+        </item> 
+          <item> 
+            <title>FR_Season</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/965.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Season</link> 
+        </item> 
+          <item> 
+            <title>FR_National_Geo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_National_Geo</link> 
+        </item> 
+          <item> 
+            <title>FR_National_Geo_Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_National_Geo_Wild</link> 
+        </item> 
+          <item> 
+            <title>FR_Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Discovery</link> 
+        </item> 
+          <item> 
+            <title>FR_Discovery_Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Discovery_Science</link> 
+        </item> 
+          <item> 
+            <title>FR_Planete+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete+</link> 
+        </item> 
+          <item> 
+            <title>FR_Planete-Ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete-Ci</link> 
+        </item> 
+          <item> 
+            <title>FR_Planete-AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete-AE</link> 
+        </item> 
+          <item> 
+            <title>FR_Science_Vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Science_Vie</link> 
+        </item> 
+          <item> 
+            <title>FR_Rmc_Decouverte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Rmc_Decouverte</link> 
+        </item> 
+          <item> 
+            <title>FR_Voyage</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Voyage</link> 
+        </item> 
+          <item> 
+            <title>FR_Tout_Lhistoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Tout_Lhistoire</link> 
+        </item> 
+          <item> 
+            <title>FR_33</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_33</link> 
+        </item> 
+          <item> 
+            <title>****_Enfants-Csat_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,****_Enfants&amp;streamtype=TSDOWNLOADER&amp;name=****_Enfants-Csat_****</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5779.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: ANIMAUX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ANIMAUX HD</link> 
+            <title>FR_Carton_Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Carton_Network</link> 
         </item> 
           <item> 
-            <title>FR: CINE    FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE    FRISSON HD</link> 
+            <title>FR_Piwi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Piwi</link> 
         </item> 
           <item> 
-            <title>FR: CINE    EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE    EMOTION HD</link> 
+            <title>FR_Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Boomerang</link> 
         </item> 
           <item> 
-            <title>FR: CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE POLAR</link> 
+            <title>FR_Tiji</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Tiji</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 HD</link> 
+            <title>FR_Gulli</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Gulli</link> 
+        </item> 
+          <item> 
+            <title>FR_Mangas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mangas</link> 
+        </item> 
+          <item> 
+            <title>FR_Canal_J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_J</link> 
+        </item> 
+          <item> 
+            <title>FR_Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Boing</link> 
+        </item> 
+          <item> 
+            <title>FR_Teletoon+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teletoon+</link> 
+        </item> 
+          <item> 
+            <title>FR_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/966.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>FR_Nickelodeon_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nickelodeon_Junior</link> 
+        </item> 
+          <item> 
+            <title>FR_Zouzous</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Zouzous</link> 
+        </item> 
+          <item> 
+            <title>FR_Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Junior</link> 
+        </item> 
+          <item> 
+            <title>FR_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>FR_Disney_Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/942.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Cinema</link> 
+        </item> 
+          <item> 
+            <title>FR_Disney_xd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_xd</link> 
+        </item> 
+          <item> 
+            <title>****_Sports-Csat_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,****_Sports&amp;streamtype=TSDOWNLOADER&amp;name=****_Sports-Csat_****</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5780.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: CINE Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE Emotion HD</link> 
+            <title>FR_Canal+Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+Sport</link> 
         </item> 
           <item> 
-            <title>FR: CINE FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON HD</link> 
+            <title>FR_Foot+24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Foot+24</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2-2</link> 
+            <title>FR_Infosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Infosport</link> 
+        </item> 
+          <item> 
+            <title>FR_Eurosport_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1091.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport_1</link> 
+        </item> 
+          <item> 
+            <title>FR_Eurosport_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport_2</link> 
+        </item> 
+          <item> 
+            <title>FR_L'equipe_21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_L'equipe_21</link> 
+        </item> 
+          <item> 
+            <title>FR_Equidai_Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Equidai_Live</link> 
+        </item> 
+          <item> 
+            <title>FR_OL_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OL_TV</link> 
+        </item> 
+          <item> 
+            <title>FR_OM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OM_TV</link> 
+        </item> 
+          <item> 
+            <title>****_Info-Csat_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Info-Csat_****</link> 
+        </item> 
+          <item> 
+            <title>FR_France_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_24</link> 
+        </item> 
+          <item> 
+            <title>FR_Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Euronews</link> 
+        </item> 
+          <item> 
+            <title>FR_iTele</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_iTele</link> 
+        </item> 
+          <item> 
+            <title>FR_TV7-Boreaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV7-Boreaux</link> 
+        </item> 
+          <item> 
+            <title>FR_BFM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/937.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BFM</link> 
+        </item> 
+          <item> 
+            <title>FR_LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_LCI</link> 
+        </item> 
+          <item> 
+            <title>****_Devertisse_Fr_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Devertisse_Fr_****</link> 
+        </item> 
+          <item> 
+            <title>FR_TV5_Monde</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV5_Monde</link> 
+        </item> 
+          <item> 
+            <title>FR_Paris_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Paris_Premiere</link> 
+        </item> 
+          <item> 
+            <title>FR_13_eme_Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_13_eme_Rue</link> 
+        </item> 
+          <item> 
+            <title>FR_TV_Breizh</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV_Breizh</link> 
+        </item> 
+          <item> 
+            <title>FR_Numero-23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Numero-23</link> 
+        </item> 
+          <item> 
+            <title>FR_Cherie_25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cherie_25</link> 
+        </item> 
+          <item> 
+            <title>FR_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_HD1</link> 
+        </item> 
+          <item> 
+            <title>FR_NT_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NT_1</link> 
+        </item> 
+          <item> 
+            <title>FR_Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Arte</link> 
+        </item> 
+          <item> 
+            <title>FR_Cstar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1093.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cstar</link> 
+        </item> 
+          <item> 
+            <title>FR_C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C8</link> 
+        </item> 
+          <item> 
+            <title>FR_W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_W9</link> 
+        </item> 
+          <item> 
+            <title>FR_Rtl_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Rtl_9</link> 
+        </item> 
+          <item> 
+            <title>FR_6ter</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_6ter</link> 
+        </item> 
+          <item> 
+            <title>FR_Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Weo</link> 
+        </item> 
+          <item> 
+            <title>FR_AB1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1-HD</link> 
+        </item> 
+          <item> 
+            <title>FR_AB3-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB3-HD</link> 
+        </item> 
+          <item> 
+            <title>FR_TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TMC</link> 
+        </item> 
+          <item> 
+            <title>FR_Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Syfy</link> 
+        </item> 
+          <item> 
+            <title>FR_Teva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teva</link> 
+        </item> 
+          <item> 
+            <title>FR_Nrj-12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nrj-12</link> 
+        </item> 
+          <item> 
+            <title>****_Music-Csat_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Music-Csat_****</link> 
+        </item> 
+          <item> 
+            <title>FR_M6_Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/938.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6_Music</link> 
+        </item> 
+          <item> 
+            <title>FR_Mtv_Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mtv_Music</link> 
+        </item> 
+          <item> 
+            <title>FR_Mtv_Base</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mtv_Base</link> 
+        </item> 
+          <item> 
+            <title>FR_Mtv_Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR_Mtv_Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mtv_Hits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6445.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: CANAL-DECALE-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18385.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL-DECALE-HD</link> 
+            <title>FR_Mtv_Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mtv_Dance</link> 
         </item> 
           <item> 
-            <title>FR: CANAL-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18383.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL-HD</link> 
+            <title>FR_Virgin</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Virgin</link> 
         </item> 
           <item> 
-            <title>FR: CANAL   DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL   DECALE HD</link> 
+            <title>****_Canal-Play_Fr_****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Canal-Play_Fr_****</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 3-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3-2</link> 
+            <title>FR_Canal_Play_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_1</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6444.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR_Canal_Play_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_2</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 1-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1-2</link> 
+            <title>FR_Canal_Play_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_3</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6446.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR_Canal_Play_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_4</link> 
         </item> 
           <item> 
-            <title>FR :OCS-CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :OCS-CITY</link> 
+            <title>FR_Canal_Play_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_5</link> 
         </item> 
           <item> 
-            <title>FR: Canal  Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6441.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Family</link> 
+            <title>FR_Canal_Play_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_6</link> 
         </item> 
           <item> 
-            <title>FR: Canal  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6440.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  HD</link> 
+            <title>FR_Canal_Play_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_7</link> 
         </item> 
           <item> 
-            <title>FR: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network</link> 
+            <title>FR_Canal_Play_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_8</link> 
         </item> 
           <item> 
-            <title>FR: Cine  Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Premier</link> 
+            <title>FR_Canal_Play_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_9</link> 
         </item> 
           <item> 
-            <title>FR: D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6435.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5725.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine FX</link> 
-        </item> 
-          <item> 
-            <title>FR: DISCOVERY SCIENCES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY SCIENCES HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal    Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal    Sport HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine-Famiz-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine-Famiz-HD</link> 
-        </item> 
-          <item> 
-            <title>FR: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5778.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>FR: EQUIDIA LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE HD</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>FR: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>FR: Discovery Science HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science HD</link> 
-        </item> 
-          <item> 
-            <title>FR: FRANCE-3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18394.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE-3HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  CINE   PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  CINE   PREMIER HD</link> 
-        </item> 
-          <item> 
-            <title>FR : CINE   CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : CINE   CLASSIC HD</link> 
-        </item> 
-          <item> 
-            <title>FR: GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE</link> 
-        </item> 
-          <item> 
-            <title>FR: France 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 1</link> 
-        </item> 
-          <item> 
-            <title>FR: France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
-        </item> 
-          <item> 
-            <title>FR: France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
-        </item> 
-          <item> 
-            <title>FR: France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
-        </item> 
-          <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6428.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
-        </item> 
-          <item> 
-            <title>FR: FRANCE-OHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18392.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE-OHD</link> 
-        </item> 
-          <item> 
-            <title>FR: Ch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ch</link> 
-        </item> 
-          <item> 
-            <title>FR: L'</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'</link> 
-        </item> 
-          <item> 
-            <title>FR: LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6426.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI</link> 
-        </item> 
-          <item> 
-            <title>FR: LCP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCP</link> 
-        </item> 
-          <item> 
-            <title>FR: LEquipe 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6424.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LEquipe 21</link> 
-        </item> 
-          <item> 
-            <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6423.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
-        </item> 
-          <item> 
-            <title>FR: NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT GEO WILD HD</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
-        </item> 
-          <item> 
-            <title>FR_PARAMOUNT_CHANNEL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARAMOUNT_CHANNEL_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_CHOC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5727.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_COMEDIE_</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_COMEDIE_</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL  _FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL  _FAMILY HD</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL  _CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL  _CINEMA_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5733.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ACTION_HD</link> 
-        </item> 
-          <item> 
-            <title>FR:-| PPV A La Carte 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 7</link> 
-        </item> 
-          <item> 
-            <title>FR:-| PPV A La Carte 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12821.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 6</link> 
-        </item> 
-          <item> 
-            <title>FR:-| PPV A La Carte 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 5</link> 
-        </item> 
-          <item> 
-            <title>FR:-| PPV A La Carte 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 4</link> 
-        </item> 
-          <item> 
-            <title>FR:-| PPV A La Carte 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 1</link> 
-        </item> 
-          <item> 
-            <title>FR: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>FR: NATIONAL  GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATIONAL  GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>FR: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>FR: OCS CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD</link> 
-        </item> 
-          <item> 
-            <title>FR: OCS GEANT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT HD</link> 
-        </item> 
-          <item> 
-            <title>FR: OM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OM TV</link> 
-        </item> 
-          <item> 
-            <title>FR: PLANETE     HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE     HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Planete  C.I HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete  C.I HD</link> 
-        </item> 
-          <item> 
-            <title>FR: RMC DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC DECOUVERTE</link> 
-        </item> 
-          <item> 
-            <title>FR: Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5731.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji</link> 
-        </item> 
-          <item> 
-            <title>FR: Toute l'Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Toute l'Histoire</link> 
-        </item> 
-          <item> 
-            <title>FR: Ushuaia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia</link> 
-        </item> 
-          <item> 
-            <title>FR: Zouzou TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Zouzou TV</link> 
-        </item> 
-          <item> 
-            <title>FR: i-Tele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: i-Tele</link> 
-        </item> 
-          <item> 
-            <title>FR: NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
-        </item> 
-          <item> 
-            <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
-        </item> 
-          <item> 
-            <title>FR: Num</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6420.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Num</link> 
-        </item> 
-          <item> 
-            <title>FR: QVCance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6419.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: QVCance</link> 
-        </item> 
-          <item> 
-            <title>FR: RMC Docouverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6418.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC Docouverte</link> 
-        </item> 
-          <item> 
-            <title>FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6416.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
-        </item> 
-          <item> 
-            <title>FR: TV5 Monde FBS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6415.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5 Monde FBS</link> 
-        </item> 
-          <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/6414.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
-        </item> 
-          <item> 
-            <title>FR: SERIE CLUB HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/12897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB HD</link> 
-        </item> 
-          <item> 
-            <title>FR: beIN sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN sport 1</link> 
-        </item> 
-          <item> 
-            <title>FR: beIN SPORTS FR 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23829.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORTS FR 3 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/23830.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
-        </item> 
-          <item> 
-            <title>Fr:beIN1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/20095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN1</link> 
-        </item> 
-          <item> 
-            <title>Fr:beIN2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/20096.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN2</link> 
-        </item> 
-          <item> 
-            <title>FR: NATGEO-WILD-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/18362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATGEO-WILD-HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL   SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL   SERIES HD</link> 
-        </item> 
-          <item> 
-            <title>Fr:beIN3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/20101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN3</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/5747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J</link> 
-        </item> 
-          <item> 
-            <title>FR:Bein Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/26137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Bein Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/26138.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Bein Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/jagdish/jagdish/26139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 3 HD</link> 
+            <title>FR_Canal_Play_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.13.234:9500/live/tarik1/tarik1/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Play_10</link> 
         </item> 
   
