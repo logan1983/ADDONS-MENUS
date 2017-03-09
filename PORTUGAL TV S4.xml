@@ -40,116 +40,109 @@
  
     
     
+    
           <item> 
             <title>PT-RTP_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_1</link> 
         </item> 
           <item> 
             <title>PT-RTP_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
-        </item> 
-          <item> 
-            <title>PT-RTP_Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
-        </item> 
-          <item> 
-            <title>PT-SIC_Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SIC_Caras</link> 
-        </item> 
-          <item> 
-            <title>PT-Sic_Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
-        </item> 
-          <item> 
-            <title>PT-Sic_Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
-        </item> 
-          <item> 
-            <title>PT-TVI_Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
-        </item> 
-          <item> 
-            <title>PT-TV_Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
         </item> 
           <item> 
             <title>PT-Toros_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
         </item> 
           <item> 
-            <title>PT-Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
+            <title>PT-Sic_Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
         </item> 
           <item> 
-            <title>PT-Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
+            <title>PT-Sic_Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
         </item> 
           <item> 
-            <title>PT-Jim_Jim</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
+            <title>PT-RTP_Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
         </item> 
           <item> 
-            <title>ES: EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT</link> 
+            <title>PT-TV_Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
         </item> 
           <item> 
-            <title>ES: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: EUROSPORT 2</link> 
+            <title>PT-SIC_Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SIC_Caras</link> 
         </item> 
           <item> 
-            <title>PT-Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
-        </item> 
-          <item> 
-            <title>PT-Motors_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
-        </item> 
-          <item> 
-            <title>PT-TVCine1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
-        </item> 
-          <item> 
-            <title>PT-TVCine2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
-        </item> 
-          <item> 
-            <title>PT-TVCine3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
-        </item> 
-          <item> 
-            <title>PT-TV_Cerises</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cerises</link> 
-        </item> 
-          <item> 
-            <title>PT-Fox_Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
+            <title>PT-TVI_Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
         </item> 
           <item> 
             <title>PT-Fox_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
         </item> 
           <item> 
             <title>PT-Fox_Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
         </item> 
           <item> 
             <title>PT-Fox_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT-Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
+        </item> 
+          <item> 
+            <title>PT-Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>PT-TV_Cseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cseries</link> 
+        </item> 
+          <item> 
+            <title>PT-Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
+        </item> 
+          <item> 
+            <title>PT-Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
+        </item> 
+          <item> 
+            <title>PT-Jim_Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
         </item> 
           <item> 
             <title>PT-Discovery_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
-        </item> 
-          <item> 
-            <title>PT-AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
-        </item> 
-          <item> 
-            <title>PT-Abola_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
         </item> 
           <item> 
             <title>PT-Canal_Porto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://camerta.com:8000/live/chaaben130/chaaben130/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
+        </item> 
+          <item> 
+            <title>PT-AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
+        </item> 
+          <item> 
+            <title>PT-Abola_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
+        </item> 
+          <item> 
+            <title>PT-TVCine1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
+        </item> 
+          <item> 
+            <title>PT-TVCine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
+        </item> 
+          <item> 
+            <title>PT-TVCine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
+        </item> 
+          <item> 
+            <title>PT-Fox_Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
         </item> 
   
