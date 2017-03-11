@@ -38,1068 +38,637 @@
   
  
     
+ 
           <item> 
-            <title>FR_TF1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TF1_HD </link> 
+            <title>FR-TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TF1</link> 
         </item> 
           <item> 
-            <title>FR_FRANCE_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_3_HD</link> 
+            <title>FR-NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NT1</link> 
         </item> 
           <item> 
-            <title>FR_FRANCE_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_4_HD</link> 
+            <title>FR-Rtl9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2156.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Rtl9</link> 
         </item> 
           <item> 
-            <title>FR_FRANCE_5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_5_HD</link> 
+            <title>FR-W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-W9</link> 
         </item> 
           <item> 
-            <title>FR_FRANCE_O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_O</link> 
+            <title>FR-m6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-m6</link> 
         </item> 
           <item> 
-            <title>FR_W9_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_W9_HD</link> 
+            <title>FR-CNEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CNEWS</link> 
         </item> 
           <item> 
-            <title>FR_TEVA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TEVA_HD</link> 
+            <title>FR-I24_news</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-I24_news</link> 
         </item> 
           <item> 
-            <title>FR_CANAL+_HD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL+_HD </link> 
+            <title>FR-E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-E!</link> 
         </item> 
           <item> 
-            <title>FR_CANAL+_FAMILY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL+_FAMILY_HD</link> 
+            <title>FR-IL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-IL TV</link> 
         </item> 
           <item> 
-            <title>FR_CANAL+_DECALE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL+_DECALE_HD</link> 
+            <title>FR-Serie_Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Serie_Club</link> 
         </item> 
           <item> 
-            <title>FR_CANAL+_CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL+_CINEMA_HD</link> 
+            <title>FR-13EmeRue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1544.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-13EmeRue</link> 
         </item> 
           <item> 
-            <title>FR_CANAL+_SERIES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL+_SERIES_HD</link> 
+            <title>FR-Antenne-Centre</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Antenne-Centre</link> 
         </item> 
           <item> 
-            <title>FR_CINE_CLASSIC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_CLASSIC_HD</link> 
+            <title>FR-TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV_BREIZH</link> 
         </item> 
           <item> 
-            <title>FR_CINE+_PREMIER_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE+_PREMIER_HD</link> 
+            <title>FR-NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NRJ12</link> 
         </item> 
           <item> 
-            <title>FR_CINE+_FRISSON_HD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE+_FRISSON_HD </link> 
+            <title>Fr-Syfy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Syfy HD</link> 
         </item> 
           <item> 
-            <title>FR_CINE_EMOTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_EMOTION_HD</link> 
+            <title>fr-Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1357.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-Action</link> 
         </item> 
           <item> 
-            <title>FR_CINE+_FAMIZ_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE+_FAMIZ_HD</link> 
+            <title>fr-Chasse-et-peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-Chasse-et-peche</link> 
         </item> 
           <item> 
-            <title>FR_CINE_POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_POLAR</link> 
+            <title>FR-BFM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BFM</link> 
         </item> 
           <item> 
-            <title>FR_CINE_FX </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_FX </link> 
+            <title>FRANCE24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE24</link> 
         </item> 
           <item> 
-            <title>FR_COMEDIE+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_COMEDIE+</link> 
+            <title>FR-Paris_Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paris_Premiere</link> 
         </item> 
           <item> 
-            <title>FR_B_SPORTS_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORTS_1_HD</link> 
+            <title>fr-LCP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-LCP</link> 
         </item> 
           <item> 
-            <title>FR_B_SPORTS_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORTS_2_HD</link> 
+            <title>fr-HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-HD1</link> 
         </item> 
           <item> 
-            <title>FR_B_SPORTS_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORTS_3_HD</link> 
+            <title>fr-ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-ARTE</link> 
         </item> 
           <item> 
-            <title>LOW_B_SPORTS_1_HD_FR </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOW_B_SPORTS_1_HD_FR </link> 
+            <title>fr-6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-6TER</link> 
         </item> 
           <item> 
-            <title>LOW_B_SPORTS_2_HD_FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOW_B_SPORTS_2_HD_FR</link> 
+            <title>Fr-Voyage</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Voyage</link> 
         </item> 
           <item> 
-            <title>LOW_B_SPORTS_3_HD_FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1267.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOW_B_SPORTS_3_HD_FR</link> 
+            <title>FR-Enorme TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Enorme TV</link> 
         </item> 
           <item> 
-            <title>FR_CANAL+_SPORT_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL+_SPORT_HD</link> 
+            <title>FR-m6 Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1881.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-m6 Music</link> 
         </item> 
           <item> 
-            <title>FR_INFOSPORT+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_INFOSPORT+</link> 
+            <title>Fr-RTS_deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-RTS_deux</link> 
         </item> 
           <item> 
-            <title>FR_FOOT+_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FOOT+_24</link> 
+            <title>Fr-RMC_DECOUVERTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1888.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-RMC_DECOUVERTE</link> 
         </item> 
           <item> 
-            <title>FR_EUROSPORT_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EUROSPORT_1</link> 
-        </item> 
-          <item> 
-            <title>FR_EUROSPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1256.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EUROSPORT_2</link> 
-        </item> 
-          <item> 
-            <title>FR_SFR_SPORT_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SFR_SPORT_1_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_SFR_SPORT_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SFR_SPORT_2_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_SFR_SPORT_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SFR_SPORT_3_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_B_SPORT_MAX_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORT_MAX_4</link> 
-        </item> 
-          <item> 
-            <title>FR_B_SPORT_MAX_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORT_MAX_5</link> 
-        </item> 
-          <item> 
-            <title>FR_B_SPORT_MAX_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORT_MAX_6</link> 
-        </item> 
-          <item> 
-            <title>FR_B_SPORT_MAX_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORT_MAX_7</link> 
-        </item> 
-          <item> 
-            <title>FR_B_SPORT_MAX_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_B_SPORT_MAX_8</link> 
-        </item> 
-          <item> 
-            <title>FR_L_EQUIPE_21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_L_EQUIPE_21</link> 
-        </item> 
-          <item> 
-            <title>FR_AB_MOTEUR_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB_MOTEUR_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1</link> 
-        </item> 
-          <item> 
-            <title>FR_AB3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB3_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>FR_DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FR_DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_XD</link> 
-        </item> 
-          <item> 
-            <title>FR_DISNEY_CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_CINEMA</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_J_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_J_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_CARTOON_NETWORK_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CARTOON_NETWORK_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_TELETOON+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TELETOON+1</link> 
-        </item> 
-          <item> 
-            <title>FR_NICKELODEON_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NICKELODEON_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_GULLI</link> 
-        </item> 
-          <item> 
-            <title>FR_TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TIJI</link> 
-        </item> 
-          <item> 
-            <title>FR_PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PIWI</link> 
-        </item> 
-          <item> 
-            <title>FR_BOOMERANG_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BOOMERANG_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BOING</link> 
-        </item> 
-          <item> 
-            <title>FR_NRJ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NRJ</link> 
-        </item> 
-          <item> 
-            <title>FR_NRJ_12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NRJ_12</link> 
-        </item> 
-          <item> 
-            <title>FR_CHERIE_25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CHERIE_25</link> 
-        </item> 
-          <item> 
-            <title>FR_HISTOIRE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_HISTOIRE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_TOUTE_L_HISTOIRE </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TOUTE_L_HISTOIRE </link> 
-        </item> 
-          <item> 
-            <title>FR_SCIENCES_VIE_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SCIENCES_VIE_TV</link> 
-        </item> 
-          <item> 
-            <title>FR_USHUAIA_TV_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_USHUAIA_TV_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_RMC_DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RMC_DECOUVERTE</link> 
-        </item> 
-          <item> 
-            <title>FR_VOYAGE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_VOYAGE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_PLANETE_AE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANETE_AE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_PLANETE+_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANETE+_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_PLANETE+_CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANETE+_CI</link> 
-        </item> 
-          <item> 
-            <title>FR_CHASSE_ET_PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CHASSE_ET_PECHE</link> 
-        </item> 
-          <item> 
-            <title>FR_ANIMAUX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ANIMAUX_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_NATIONAL_GEO_WILD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NATIONAL_GEO_WILD_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_NATIONAL_GEO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NATIONAL_GEO_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISCOVERY</link> 
-        </item> 
-          <item> 
-            <title>FR_DISCOVERY_SCIENCES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISCOVERY_SCIENCES_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_PARAMOUNT_CHANNEL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARAMOUNT_CHANNEL_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_PARIS_PREMIERE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARIS_PREMIERE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_TV5_FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV5_FR</link> 
-        </item> 
-          <item> 
-            <title>FR_TV5_MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV5_MONDE</link> 
-        </item> 
-          <item> 
-            <title>FR_FRANCE_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_24</link> 
-        </item> 
-          <item> 
-            <title>FR_ARTE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ARTE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_I_TELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_I_TELE</link> 
-        </item> 
-          <item> 
-            <title>FR_EURO_NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EURO_NEWS</link> 
-        </item> 
-          <item> 
-            <title>FR_E_ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_E_ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>FR_BFM_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BFM_TV</link> 
-        </item> 
-          <item> 
-            <title>FR_BET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BET</link> 
-        </item> 
-          <item> 
-            <title>FR_SYFY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SYFY_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_6TER HD</link> 
-        </item> 
-          <item> 
-            <title>FR_RTL_TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL_TVI</link> 
-        </item> 
-          <item> 
-            <title>FR_RTL_9_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL_9_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_RTS_LA_UNE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTS_LA_UNE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_RTS_LA_DEUX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTS_LA_DEUX_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_SERIE_CLUB_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SERIE_CLUB_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_13EME_RUE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_13EME_RUE_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_NUMERO_23_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NUMERO_23_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_EQUIDIA_LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EQUIDIA_LIVE</link> 
-        </item> 
-          <item> 
-            <title>FR_C_STAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C_STAR</link> 
-        </item> 
-          <item> 
-            <title>FR_C8_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C8_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_GEANTS</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_CHOC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CITY</link> 
-        </item> 
-          <item> 
-            <title>FR_OCS_MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_MAX</link> 
-        </item> 
-          <item> 
-            <title>FR_ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ACTION</link> 
-        </item> 
-          <item> 
-            <title>FR_WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_WEO</link> 
-        </item> 
-          <item> 
-            <title>FR_OL_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OL_TV</link> 
-        </item> 
-          <item> 
-            <title>FR_TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1219.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TMC</link> 
-        </item> 
-          <item> 
-            <title>FR_M6_MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6_MUSIC</link> 
-        </item> 
-          <item> 
-            <title>FR_MTV_HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MTV_HITS</link> 
-        </item> 
-          <item> 
-            <title>FR_MTV_DANCE_FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MTV_DANCE_FR</link> 
-        </item> 
-          <item> 
-            <title>FR_TV_BREIZH_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV_BREIZH_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/949.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NT1</link> 
-        </item> 
-          <item> 
-            <title>FR_LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_LCI</link> 
-        </item> 
-          <item> 
-            <title>FR_HD_1 </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_HD_1 </link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1266.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_1</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1265.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_2</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_3</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_4</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_5</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_6 </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_6 </link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_7</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_8</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_9</link> 
-        </item> 
-          <item> 
-            <title>FR_CANAL_PLAY_10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/1257.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_PLAY_10</link> 
-        </item> 
-          <item> 
-            <title>BE_LA_UNE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_LA_UNE_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_LA_DEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_LA_DEUX</link> 
-        </item> 
-          <item> 
-            <title>BE_LA_TROIS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_LA_TROIS</link> 
-        </item> 
-          <item> 
-            <title>BE_TVO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3872.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_TVO</link> 
-        </item> 
-          <item> 
-            <title>BE_VITAYA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3870.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_VITAYA</link> 
-        </item> 
-          <item> 
-            <title>BE_RTL_TVI_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_RTL_TVI_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_PLUG_RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_PLUG_RTL</link> 
-        </item> 
-          <item> 
-            <title>BE_CLUB_RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CLUB_RTL</link> 
-        </item> 
-          <item> 
-            <title>BE_2BE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3875.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_2BE_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_RTL_TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3871.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_RTL_TVI</link> 
-        </item> 
-          <item> 
-            <title>BE_DOBBIT_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3873.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_DOBBIT_TV</link> 
-        </item> 
-          <item> 
-            <title>BE_VOO_FOOT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3868.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_VOO_FOOT</link> 
-        </item> 
-          <item> 
-            <title>BE_VOO_SPORT_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.t12v.com:8000/live/moroco/moroco/3869.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_VOO_SPORT_1</link> 
-        </item> 
-          <item> 
-            <title>FR: BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG</link> 
-        </item> 
-          <item> 
-            <title>FR: AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR :TV-BREIZH-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :TV-BREIZH-HD</link> 
-        </item> 
-          <item> 
-            <title>FR :Science-et-Vie-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :Science-et-Vie-TV</link> 
-        </item> 
-          <item> 
-            <title>FR :RTL9-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :RTL9-HD</link> 
-        </item> 
-          <item> 
-            <title>FR: 13 Eme Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 Eme Rue</link> 
-        </item> 
-          <item> 
-            <title>FR: 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6448.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
-        </item> 
-          <item> 
-            <title>FR: Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6447.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD</link> 
+            <title>FR-BFM_sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR-BFM_sports&amp;streamtype=TSDOWNLOADER&amp;name=FR-BFM_sports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5779.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/759.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: ANIMAUX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ANIMAUX HD</link> 
+            <title>FR-Plug rtl</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Plug rtl</link> 
         </item> 
           <item> 
-            <title>FR: CINE    FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE    FRISSON HD</link> 
+            <title>FR_Amazing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3605.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Amazing</link> 
         </item> 
           <item> 
-            <title>FR: CINE    EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE    EMOTION HD</link> 
+            <title>FR_13eme_Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3600.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_13eme_Rue</link> 
         </item> 
           <item> 
-            <title>FR: CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE POLAR</link> 
+            <title>FR_CAPITAL_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3607.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CAPITAL_TV</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 HD</link> 
+            <title>FR_M2o_Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3606.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M2o_Tv</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5780.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR_Rouge_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3601.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Rouge_tv</link> 
         </item> 
           <item> 
-            <title>FR: CINE Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE Emotion HD</link> 
+            <title>FR_Si_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3608.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Si_TV</link> 
         </item> 
           <item> 
-            <title>FR: CINE FRISSON HD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON HD </link> 
+            <title>FR_TREK_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3594.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TREK_HD</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2-2</link> 
+            <title>FR_TRACE_URBAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3598.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TRACE_URBAN</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6445.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>BE-Rtl_Tvi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE-Rtl_Tvi</link> 
         </item> 
           <item> 
-            <title>FR: CANAL-DECALE-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18385.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL-DECALE-HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18383.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL-HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL   DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5718.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL   DECALE HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sports 3-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3-2</link> 
+            <title>Fr-Euro Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fr-Euro Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Euro Sports 2</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6444.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1878.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 1-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1-2</link> 
+            <title>BE-AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2135.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE-AB1</link> 
+        </item> 
+          <item> 
+            <title>Be-La_Deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=Be-La_Deux</link> 
+        </item> 
+          <item> 
+            <title>Be-LA_TROIS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Be-LA_TROIS</link> 
+        </item> 
+          <item> 
+            <title>BE-La_UneHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1312.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE-La_UneHD</link> 
+        </item> 
+          <item> 
+            <title>BE-club_Rtl</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1313.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE-club_Rtl</link> 
+        </item> 
+          <item> 
+            <title>Fr-Toute l'Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Toute l'Histoire</link> 
+        </item> 
+          <item> 
+            <title>Fr-AB MOTEUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-AB MOTEUR</link> 
+        </item> 
+          <item> 
+            <title>Fr-Science &amp; Vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2691.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Science &amp; Vie</link> 
+        </item> 
+          <item> 
+            <title>Fr-Canal-17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Canal-17</link> 
+        </item> 
+          <item> 
+            <title>Fr-Cine_FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Cine_FX</link> 
+        </item> 
+          <item> 
+            <title>Fr-Cine_polar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Cine_polar</link> 
+        </item> 
+          <item> 
+            <title>FR-KTO-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-KTO-HD</link> 
+        </item> 
+          <item> 
+            <title>BE-NRJ_Hits</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,BE-NRJ_Hits&amp;streamtype=TSDOWNLOADER&amp;name=BE-NRJ_Hits</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6446.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR :OCS-CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR :OCS-CITY</link> 
+            <title>FR-Grand_Lille_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Grand_Lille_TV</link> 
         </item> 
           <item> 
-            <title>FR: Canal  Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6441.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Family</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Canal  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6440.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  HD</link> 
+            <title>fr-CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-CANAL</link> 
         </item> 
           <item> 
-            <title>FR: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network</link> 
+            <title>Fr-Canal_plus(B)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3570.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Canal_plus(B)</link> 
         </item> 
           <item> 
-            <title>FR: Cine  Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Premier</link> 
+            <title>fr-CANAL_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-CANAL_CINEMA</link> 
         </item> 
           <item> 
-            <title>FR: D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6435.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8</link> 
+            <title>fr-CANAL_DECALE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-CANAL_DECALE</link> 
         </item> 
           <item> 
-            <title>FR: Cine FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5725.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine FX</link> 
+            <title>fr-CANAL_FAMILY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-CANAL_FAMILY</link> 
         </item> 
           <item> 
-            <title>FR: DISCOVERY SCIENCES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY SCIENCES HD</link> 
+            <title>FR-Canal-SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal-SERIES</link> 
         </item> 
           <item> 
-            <title>FR: Canal    Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal    Sport HD</link> 
+            <title>FR-Canal Comedie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal Comedie</link> 
         </item> 
           <item> 
-            <title>FR: Cine-Famiz-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine-Famiz-HD</link> 
+            <title>FR-OCS-MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1546.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-MAX</link> 
         </item> 
           <item> 
-            <title>FR: EUROSPORT 2 </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5778.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2 </link> 
+            <title>FR-OCS-GEANT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1547.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-GEANT</link> 
         </item> 
           <item> 
-            <title>FR: EQUIDIA LIVE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE HD</link> 
+            <title>FR-OCS-CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-CHOC</link> 
         </item> 
           <item> 
-            <title>FR: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY XD</link> 
+            <title>FR-OSC_CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1882.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OSC_CITY</link> 
         </item> 
           <item> 
-            <title>FR: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
+            <title>fr-CINE_PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-CINE_PREMIER</link> 
         </item> 
           <item> 
-            <title>FR: Discovery Science HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science HD</link> 
+            <title>fr-Cine_Frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-Cine_Frisson</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE-3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18394.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE-3HD</link> 
+            <title>fr-Cine_Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-Cine_Emotion</link> 
         </item> 
           <item> 
-            <title>FR:  CINE   PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  CINE   PREMIER HD</link> 
+            <title>fr-Cine_Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-Cine_Classic</link> 
         </item> 
           <item> 
-            <title>FR : CINE   CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : CINE   CLASSIC HD</link> 
+            <title>FR-CINE_FAMIZ-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1924.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-CINE_FAMIZ-HD</link> 
         </item> 
           <item> 
-            <title>FR: GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE</link> 
+            <title>fr-EQUIPE21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-EQUIPE21</link> 
         </item> 
           <item> 
-            <title>FR: France 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 1</link> 
+            <title>Fr-Equidia livee</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Equidia livee</link> 
         </item> 
           <item> 
-            <title>FR: France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
+            <title>FR-TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TMC</link> 
         </item> 
           <item> 
-            <title>FR: France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
+            <title>FR-Teva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1549.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Teva</link> 
         </item> 
           <item> 
-            <title>FR: France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
+            <title>FR_FOOT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2195.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FOOT</link> 
         </item> 
           <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6428.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
+            <title>FR-OLTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2138.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OLTV</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE-OHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18392.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE-OHD</link> 
+            <title>FR-Info_Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Info_Sport</link> 
         </item> 
           <item> 
-            <title>FR: Ch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ch</link> 
+            <title>FR-Eurosport-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Eurosport-HD</link> 
         </item> 
           <item> 
-            <title>FR: L'</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'</link> 
+            <title>FR_Orange_Cine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3587.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 1</link> 
         </item> 
           <item> 
-            <title>FR: LCI </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6426.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI </link> 
+            <title>FR_Orange_Cine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3588.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 2</link> 
         </item> 
           <item> 
-            <title>FR: LCP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCP</link> 
+            <title>FR_Orange_Cine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Orange_Cine 3</link> 
         </item> 
           <item> 
-            <title>FR: LEquipe 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6424.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LEquipe 21</link> 
+            <title>FR_A LA CARTE1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2189.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A LA CARTE1</link> 
         </item> 
           <item> 
-            <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6423.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <title>FR_A LACARTE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A LACARTE2</link> 
         </item> 
           <item> 
-            <title>FR: NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12899.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT GEO WILD HD</link> 
+            <title>FR_A LA CARTE3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A LA CARTE3</link> 
         </item> 
           <item> 
-            <title>FR: BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
+            <title>FR_A LA CARTE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A LA CARTE4</link> 
         </item> 
           <item> 
-            <title>FR_PARAMOUNT_CHANNEL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARAMOUNT_CHANNEL_HD</link> 
+            <title>FR_A LA CARTE5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A LA CARTE5</link> 
         </item> 
           <item> 
-            <title>FR_OCS_CHOC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5727.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC_HD</link> 
+            <title>FR_A LA CARTE6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_A LA CARTE6</link> 
         </item> 
           <item> 
-            <title>FR_COMEDIE_</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_COMEDIE_</link> 
+            <title>Fr-A La Carte 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-A La Carte 7</link> 
         </item> 
           <item> 
-            <title>FR_CANAL  _FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL  _FAMILY HD</link> 
+            <title>Fr-A La Carte 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-A La Carte 8</link> 
         </item> 
           <item> 
-            <title>FR_CANAL  _CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL  _CINEMA_HD</link> 
+            <title>Fr-A La Carte 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-A La Carte 9</link> 
         </item> 
           <item> 
-            <title>FR_ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5733.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ACTION_HD</link> 
+            <title>Fr-A La Carte 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-A La Carte 10</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12822.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 7</link> 
+            <title>Fr-canalplay-1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-canalplay-1</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12821.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 6</link> 
+            <title>Fr-canalplay-2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-canalplay-2</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 5</link> 
+            <title>Fr-canalplay-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-canalplay-3</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12819.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 4</link> 
+            <title>Fr-canalplay-4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-canalplay-4</link> 
         </item> 
           <item> 
-            <title>FR:-| PPV A La Carte 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-| PPV A La Carte 1</link> 
+            <title>Fr-canalplay-5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-canalplay-5</link> 
         </item> 
           <item> 
-            <title>FR: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo Wild</link> 
+            <title>Fr-canalplay-6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-canalplay-6</link> 
         </item> 
           <item> 
-            <title>FR: NATIONAL  GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATIONAL  GEOGRAPHIC</link> 
+            <title>Fr-Canalplay-7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Canalplay-7</link> 
         </item> 
           <item> 
-            <title>FR: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEON</link> 
+            <title>Fr-Canalplay-8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Canalplay-8</link> 
         </item> 
           <item> 
-            <title>FR: OCS CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY HD</link> 
+            <title>Fr-Canalplay-9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Canalplay-9</link> 
         </item> 
           <item> 
-            <title>FR: OCS GEANT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT HD</link> 
+            <title>Fr-Canalplay-10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Canalplay-10</link> 
         </item> 
           <item> 
-            <title>FR: OM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OM TV</link> 
+            <title>FR-PLANET+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PLANET+</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE     HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE     HD</link> 
+            <title>FR-Planet+CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2183.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Planet+CI</link> 
         </item> 
           <item> 
-            <title>FR: Planete  C.I HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete  C.I HD</link> 
+            <title>FR-Planet+AE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2184.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Planet+AE</link> 
         </item> 
           <item> 
-            <title>FR: RMC DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC DECOUVERTE</link> 
+            <title>fr-NatGeoWild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-NatGeoWild</link> 
         </item> 
           <item> 
-            <title>FR: Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5731.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD</link> 
+            <title>Fr-Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Discovery</link> 
         </item> 
           <item> 
-            <title>FR: Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji</link> 
+            <title>FR-Natl_Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Natl_Geographic</link> 
         </item> 
           <item> 
-            <title>FR: Toute l'Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Toute l'Histoire</link> 
+            <title>FR-Discovery_SC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1879.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery_SC_HD</link> 
         </item> 
           <item> 
-            <title>FR: Ushuaia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia</link> 
+            <title>fr-ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1356.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-ANIMAUX</link> 
         </item> 
           <item> 
-            <title>FR: Zouzou TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Zouzou TV</link> 
+            <title>Fr-EuroNews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-EuroNews</link> 
         </item> 
           <item> 
-            <title>FR: i-Tele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: i-Tele</link> 
+            <title>FR-Ushuaia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1880.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Ushuaia</link> 
         </item> 
           <item> 
-            <title>FR: NRJ12 </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12 </link> 
+            <title>FR-Canal_J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Canal_J</link> 
         </item> 
           <item> 
-            <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
+            <title>FR-Gong</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Gong</link> 
         </item> 
           <item> 
-            <title>FR: Num</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6420.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Num</link> 
+            <title>Fr-GAME_ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-GAME_ONE</link> 
         </item> 
           <item> 
-            <title>FR: QVCance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6419.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: QVCance</link> 
+            <title>Fr-Nick Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-Nick Junior</link> 
         </item> 
           <item> 
-            <title>FR: RMC Docouverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6418.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC Docouverte</link> 
+            <title>fr-Cartoon_network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr-Cartoon_network</link> 
         </item> 
           <item> 
-            <title>FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6416.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
+            <title>FR-MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-MANGAS</link> 
         </item> 
           <item> 
-            <title>FR: TV5 Monde FBS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6415.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5 Monde FBS</link> 
+            <title>FR-BoomeRang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BoomeRang</link> 
         </item> 
           <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/6414.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
+            <title>FRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRO</link> 
         </item> 
           <item> 
-            <title>FR: SERIE CLUB HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/12897.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB HD</link> 
+            <title>FR-FRO(B)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRO(B)</link> 
         </item> 
           <item> 
-            <title>Fr:beIN1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/20095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN1</link> 
+            <title>Fr-CHERIE 25 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-CHERIE 25 HD</link> 
         </item> 
           <item> 
-            <title>Fr:beIN2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/20096.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN2</link> 
+            <title>FR-Numero 23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Numero 23</link> 
         </item> 
           <item> 
-            <title>FR: NATGEO-WILD-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/18362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATGEO-WILD-HD</link> 
+            <title>FR5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR5</link> 
         </item> 
           <item> 
-            <title>FR: CANAL   SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL   SERIES HD</link> 
+            <title>FR3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR3</link> 
         </item> 
           <item> 
-            <title>Fr:beIN3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/20101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr:beIN3</link> 
+            <title>FR4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR4</link> 
         </item> 
           <item> 
-            <title>FR: Canal J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://live.softiptv.com:9900/live/525/525/5747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J</link> 
+            <title>FR2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR2</link> 
         </item> 
           <item> 
-            <title>BE:LAUNE_HD </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/9899.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:LAUNE_HD </link> 
+            <title>FR-D8(C8)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D8(C8)</link> 
         </item> 
           <item> 
-            <title>BE:LADEUX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/9900.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:LADEUX_HD</link> 
+            <title>FR-D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D17</link> 
         </item> 
           <item> 
-            <title>BE:LATROIS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/9901.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:LATROIS_HD</link> 
+            <title>FR-TV5_MONDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV5_MONDE</link> 
         </item> 
           <item> 
-            <title>BE:RTLTVI_ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/9892.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:RTLTVI_ HD</link> 
+            <title>FR-TiVi5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TiVi5</link> 
         </item> 
           <item> 
-            <title>BE:CLUB_RTL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/9895.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:CLUB_RTL_HD</link> 
+            <title>Fr-BFM_SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/758.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fr-BFM_SPORT</link> 
         </item> 
           <item> 
-            <title>FR:RTS_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/10198.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTS_2</link> 
+            <title>FR-SFR_Sports1(test)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR-SFR_Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR_Sports1(test)</link> 
         </item> 
           <item> 
-            <title>FR:RTS_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/10199.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTS_1</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR:SFR2 sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/11478.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR2 sport</link> 
+            <title>FR-SFR_Sport2(test)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2555.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR_Sport2(test)</link> 
         </item> 
           <item> 
-            <title>FR:SFR3 sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/11477.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR3 sport</link> 
+            <title>FR-SFR_Sport3(test)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR_Sport3(test)</link> 
         </item> 
           <item> 
-            <title>FR:ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/6832.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ACTION</link> 
+            <title>FR-SFR Sport5(test)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR Sport5(test)</link> 
         </item> 
           <item> 
-            <title>FR:TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/6824.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1</link> 
+            <title>AF-Canalsport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF-Canalsport1</link> 
         </item> 
           <item> 
-            <title>FR:M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/6765.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6</link> 
+            <title>AF-Canalsport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=AF-Canalsport2</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8181.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE2</link> 
+            <title>Supersport_1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Supersport_1 HD</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE3</link> 
+            <title>SuperSport2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=SuperSport2_HD</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE4</link> 
+            <title>SuperSport_3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1264.ts&amp;streamtype=TSDOWNLOADER&amp;name=SuperSport_3HD</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/6455.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE5</link> 
+            <title>Sport_Klub1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2127.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_Klub1_HD</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE_O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE_O</link> 
+            <title>Sport_Klub2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1260.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_Klub2_HD</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+</link> 
+            <title>Sport_Klub3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1262.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport_Klub3_HD</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+DECALE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+DECALE</link> 
+            <title>Arena_Sport_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena_Sport_1_HD</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+FAMILY</link> 
+            <title>Arena_Sport_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena_Sport_2_HD</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+SERIES </title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8663.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SERIES </link> 
+            <title>Arena_Sport_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2122.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena_Sport_3_HD</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+CINEMA</link> 
+            <title>Arena_Sport_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arena_Sport_4_HD</link> 
         </item> 
           <item> 
-            <title>FR:TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/10200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TIJI</link> 
+            <title>Spt-Eurosport1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spt-Eurosport1</link> 
         </item> 
           <item> 
-            <title>FR:OCS_Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/6829.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:OCS_Max</link> 
+            <title>spt-Eurosport2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=spt-Eurosport2</link> 
         </item> 
           <item> 
-            <title>FR:NAT_GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/6842.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NAT_GEO</link> 
+            <title>spt-Sport_tonight-UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1263.ts&amp;streamtype=TSDOWNLOADER&amp;name=spt-Sport_tonight-UK</link> 
         </item> 
           <item> 
-            <title>FR:CANAL+SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SPORT</link> 
+            <title>spt-Bs Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=spt-Bs Sport</link> 
         </item> 
           <item> 
-            <title>FR:CINE+PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+PREMIER</link> 
-        </item> 
-          <item> 
-            <title>FR:CINE+FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8185.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FRISSON</link> 
-        </item> 
-          <item> 
-            <title>FR:CINE+FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/8228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE+FAMIZ</link> 
-        </item> 
-          <item> 
-            <title>FR:CINE_CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.iptvgafsa.tn:8000/live/hamza/hamza/9286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE_CLUB</link> 
+            <title>spt-Supersport4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=spt-Supersport4</link> 
         </item> 
   
