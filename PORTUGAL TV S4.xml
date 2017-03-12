@@ -43,108 +43,308 @@
     
  
  
-          <item> 
-            <title>PT-RTP_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_1</link> 
+        <item> 
+            <title>PT: RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
         </item> 
           <item> 
-            <title>PT-RTP_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
+            <title>PT: RTP INTERNATIONAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP INTERNATIONAL</link> 
         </item> 
           <item> 
-            <title>PT-RTP_Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
+            <title>PT: RTP INFORMACAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP INFORMACAO</link> 
         </item> 
           <item> 
-            <title>PT-Sic_Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
+            <title>PT: RTP A?ORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP A?ORES</link> 
         </item> 
           <item> 
-            <title>PT-Sic_Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
+            <title>PT: RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>PT-SIC_Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2171.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-SIC_Caras</link> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
-            <title>PT-TVI_Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>PT-TV_Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PT-Toros_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
+            <title>PT: SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
         </item> 
           <item> 
-            <title>PT-Canal_Porto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PT-Abola_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
+            <title>PT: SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT-Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
+            <title>PT: Sic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic</link> 
         </item> 
           <item> 
-            <title>PT-Motors_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
+            <title>PT: TVI Reality (A Quinta)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Reality (A Quinta)</link> 
         </item> 
           <item> 
-            <title>PT-Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>PT-Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT-Jim_Jim</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
+            <title>PT: TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
         </item> 
           <item> 
-            <title>PT-Discovery_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
+            <title>PT: TV GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
         </item> 
           <item> 
-            <title>PT-TVCine1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
         </item> 
           <item> 
-            <title>PT-TVCine2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
+            <title>PT:VH1 Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1 Classic</link> 
         </item> 
           <item> 
-            <title>PT-TVCine3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
+            <title>PT:VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1</link> 
         </item> 
           <item> 
-            <title>PT-TV_Cseries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cseries</link> 
+            <title>PT:Trace TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2142.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Trace TV</link> 
         </item> 
           <item> 
-            <title>PT-Fox_Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
+            <title>PT:Sport TV 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport TV 5</link> 
         </item> 
           <item> 
-            <title>PT-AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
+            <title>PT:MTV Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MTV Dance</link> 
         </item> 
           <item> 
-            <title>PT-Fox_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
+            <title>PT:MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2146.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MCM TOP</link> 
         </item> 
           <item> 
-            <title>PT-Fox_Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
+            <title>PT:AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2140.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN Black HD</link> 
         </item> 
           <item> 
-            <title>PT-Fox_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://37.187.175.177:8000/live/chaaben130/chaaben130/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
+            <title>PT:Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/2141.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Afro Music</link> 
+        </item> 
+          <item> 
+            <title>PT: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 2  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2  HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 1  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1  HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TPA Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA Internacional</link> 
+        </item> 
+          <item> 
+            <title>PT: TOUROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TOUROS TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+        </item> 
+          <item> 
+            <title>PT: PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC WILD</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV</link> 
+        </item> 
+          <item> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>PT: JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX TV</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX CRIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>PT: E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD Showcase</link> 
+        </item> 
+          <item> 
+            <title>PT: DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>PT: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>PT: CHELSEA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CHELSEA TV</link> 
+        </item> 
+          <item> 
+            <title>PT: CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL Q</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>PT: CA?A &amp; PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CA?A &amp; PESCA</link> 
+        </item> 
+          <item> 
+            <title>PT: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
+        </item> 
+          <item> 
+            <title>PT: A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV</link> 
+        </item> 
+          <item> 
+            <title>PT: A &amp; E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A &amp; E</link> 
+        </item> 
+          <item> 
+            <title>PT: 24 KITCHEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://localhd.tv:8081/live/jalel/jalel/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN</link> 
         </item> 
   
