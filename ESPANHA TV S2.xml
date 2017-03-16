@@ -31,192 +31,393 @@
  
          
   
+       
           <item> 
-            <title>ES:-Andalucia-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Andalucia-TV</link> 
+            <title>TV-1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV-1.HD</link> 
         </item> 
           <item> 
-            <title>ES:-24-Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-24-Horas</link> 
+            <title>TV1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV1</link> 
         </item> 
           <item> 
-            <title>ES:-LA-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-LA-1</link> 
+            <title>TV2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV2</link> 
         </item> 
           <item> 
-            <title>ES:-LA-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-LA-2</link> 
+            <title>Antena.3-ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena.3-ES</link> 
         </item> 
           <item> 
-            <title>ES:-ANTENA-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-ANTENA-3</link> 
+            <title>Cuatro_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/831.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro_HD</link> 
         </item> 
           <item> 
-            <title>ES:-CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-CUATRO</link> 
+            <title>TELECINCO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO_HD</link> 
         </item> 
           <item> 
-            <title>ES:-TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-TELECINCO</link> 
+            <title>TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/761.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO</link> 
         </item> 
           <item> 
-            <title>ES:-LA-SEXTA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-LA-SEXTA</link> 
+            <title>LA_SEXTA-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/429.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_SEXTA-HD</link> 
         </item> 
           <item> 
-            <title>ES:-AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1477.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-AMC</link> 
+            <title>TV_GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/987.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_GALICIA</link> 
         </item> 
           <item> 
-            <title>ES:-AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-AXN</link> 
+            <title>CANAL_ANDALUCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_ANDALUCIA</link> 
         </item> 
           <item> 
-            <title>ES:-Axn-White</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Axn-White</link> 
+            <title>----------Noticias----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Noticias----------</link> 
         </item> 
           <item> 
-            <title>ES:-TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-TNT</link> 
+            <title>CANAL_24_HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_24_HORAS</link> 
         </item> 
           <item> 
-            <title>ES:-TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-TCM</link> 
+            <title>FOX_NEWS_ESP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_NEWS_ESP</link> 
         </item> 
           <item> 
-            <title>ES:-Calle-13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Calle-13</link> 
+            <title>----------Deportes-----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Deportes-----------</link> 
         </item> 
           <item> 
-            <title>ES:-SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-SyFy</link> 
+            <title>CANAL+DEPORTES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+DEPORTES_HD</link> 
         </item> 
           <item> 
-            <title>ES:-Fox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Fox</link> 
+            <title>CANAL+DEPORTES_2.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+DEPORTES_2.HD</link> 
         </item> 
           <item> 
-            <title>ES:-FOX-LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-FOX-LIFE</link> 
+            <title>GOL-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL-TV</link> 
         </item> 
           <item> 
-            <title>ES:-COSMO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-COSMO</link> 
+            <title>C+FUTBALHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+FUTBALHD</link> 
         </item> 
           <item> 
-            <title>ES:-HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-HOLLYWOOD</link> 
+            <title>Teledeporte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/989.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte</link> 
         </item> 
           <item> 
-            <title>ES:-Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1487.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Nova</link> 
+            <title>beINSPORT_ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSPORT_ES</link> 
         </item> 
           <item> 
-            <title>ES:-Iberalia-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1484.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Iberalia-TV</link> 
+            <title>C+LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+LIGA HD</link> 
         </item> 
           <item> 
-            <title>ES:-COMEDY-CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-COMEDY-CENTRAL</link> 
+            <title>BEIN_LA_LIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/984.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN_LA_LIGA</link> 
         </item> 
           <item> 
-            <title>ES:-M+ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+ACCION</link> 
+            <title>LaLiga_TV_Bar.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga_TV_Bar.HD</link> 
         </item> 
           <item> 
-            <title>ES:-M+COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+COMEDIA</link> 
+            <title>REAL-MADRID_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL-MADRID_TV</link> 
         </item> 
           <item> 
-            <title>ES:-M+DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+DCINE</link> 
+            <title>Barca.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca.TV</link> 
         </item> 
           <item> 
-            <title>ES:-M-Dcine-Espanol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1480.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M-Dcine-Espanol</link> 
+            <title>EUROSPORT.1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/990.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT.1</link> 
         </item> 
           <item> 
-            <title>ES:-M+XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+XTRA</link> 
+            <title>MOVISTAR_F1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR_F1-HD</link> 
         </item> 
           <item> 
-            <title>ES:-M+SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+SERIES</link> 
+            <title>M.MOTOGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.MOTOGP</link> 
         </item> 
           <item> 
-            <title>ES:-M.Series-Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1475.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M.Series-Xtra</link> 
+            <title>CANAL+GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+GOLF</link> 
         </item> 
           <item> 
-            <title>ES:-M+ESTRENOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+ESTRENOS</link> 
+            <title>----------Cine----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Cine----------</link> 
         </item> 
           <item> 
-            <title>ES:-M+Cocina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+Cocina</link> 
+            <title>M.ESTRENOSHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.ESTRENOSHD</link> 
         </item> 
           <item> 
-            <title>ES:-Barca-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Barca-TV</link> 
+            <title>M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. XTRA HD</link> 
         </item> 
           <item> 
-            <title>ES:-REAL-MADRID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-REAL-MADRID</link> 
+            <title>CANAL+ACCION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ACCION_HD</link> 
         </item> 
           <item> 
-            <title>ES:-M.MOTOGP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M.MOTOGP</link> 
+            <title>CANAL+ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ACCION</link> 
         </item> 
           <item> 
-            <title>ES:-M.MOVISTAR-F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M.MOVISTAR-F1</link> 
+            <title>MOVISTAR_COMEDIA.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/983.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOVISTAR_COMEDIA.HD</link> 
         </item> 
           <item> 
-            <title>ES:-M+Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M+Golf</link> 
+            <title>Canal+Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Comedia</link> 
         </item> 
           <item> 
-            <title>ES:-M.FUTBOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M.FUTBOL</link> 
+            <title>CANAL+DCINE.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+DCINE.HD</link> 
         </item> 
           <item> 
-            <title>ES:-Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1482.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Eurosport 1</link> 
+            <title>CANAL+DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+DCINE</link> 
         </item> 
           <item> 
-            <title>ES:-M.Deportes</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1481.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M.Deportes</link> 
+            <title>DCINE_ESPANOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE_ESPANOL</link> 
         </item> 
           <item> 
-            <title>ES:-Clan-TVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1478.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Clan-TVE</link> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
         </item> 
           <item> 
-            <title>ES:-DISNEY-XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-DISNEY-XD</link> 
+            <title>TCM.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM.HD</link> 
         </item> 
           <item> 
-            <title>ES:-DISNEY-JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-DISNEY-JUNIOR</link> 
+            <title>TNT_ESP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT_ESP_HD</link> 
         </item> 
           <item> 
-            <title>ES:-DISNEY-CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-DISNEY-CHANNEL</link> 
+            <title>----------Entretenimiento----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Entretenimiento----------</link> 
         </item> 
           <item> 
-            <title>ES:-M.TOROS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-M.TOROS</link> 
+            <title>ES:#O_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:#O_HD</link> 
         </item> 
           <item> 
-            <title>ES:-Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-Discovery</link> 
+            <title>CANA+SERIES.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANA+SERIES.HD</link> 
         </item> 
           <item> 
-            <title>ES:-NAT-GEO-WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-NAT-GEO-WILD</link> 
+            <title>CANAL+SERIES_Xtra.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+SERIES_Xtra.HD</link> 
         </item> 
           <item> 
-            <title>ES:-NATIONAL-GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://IPTV.Nador-Sat.Com:9300/live/atikmeriem/SKYPE_CN_X40/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:-NATIONAL-GEOGRAPHIC</link> 
+            <title>A3SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=A3SERIES</link> 
+        </item> 
+          <item> 
+            <title>FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 
+          <item> 
+            <title>FOX.Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX.Life</link> 
+        </item> 
+          <item> 
+            <title>AMC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC_HD</link> 
+        </item> 
+          <item> 
+            <title>AMC_ESP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC_ESP</link> 
+        </item> 
+          <item> 
+            <title>AXN-ESP_hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN-ESP_hd</link> 
+        </item> 
+          <item> 
+            <title>CANAL+AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+AXN_HD</link> 
+        </item> 
+          <item> 
+            <title>AXN_WHITE-ESP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN_WHITE-ESP_HD</link> 
+        </item> 
+          <item> 
+            <title>SYFY-ESP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY-ESP_HD</link> 
+        </item> 
+          <item> 
+            <title>CALLE13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE13</link> 
+        </item> 
+          <item> 
+            <title>ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/988.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
+        </item> 
+          <item> 
+            <title>Cosmo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmo</link> 
+        </item> 
+          <item> 
+            <title>Mega_TV.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega_TV.HD</link> 
+        </item> 
+          <item> 
+            <title>Canal_Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Decasa</link> 
+        </item> 
+          <item> 
+            <title>NON_STOP_PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/982.ts&amp;streamtype=TSDOWNLOADER&amp;name=NON_STOP_PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>----------Cultura----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------Cultura----------</link> 
+        </item> 
+          <item> 
+            <title>CANAL_ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_ODISEA</link> 
+        </item> 
+          <item> 
+            <title>Nat_Geographic_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat_Geographic_HD</link> 
+        </item> 
+          <item> 
+            <title>NG_WILD-ESP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=NG_WILD-ESP_HD</link> 
+        </item> 
+          <item> 
+            <title>NAT.GEO.WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT.GEO.WILD</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY_CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_CI</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY_CHANNEL.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_CHANNEL.HD</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>A&amp;E_ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E_ES</link> 
+        </item> 
+          <item> 
+            <title>CAZA_Y_PESCA.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/991.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA_Y_PESCA.HD</link> 
+        </item> 
+          <item> 
+            <title>IBERALIA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA_TV</link> 
+        </item> 
+          <item> 
+            <title>VIAJAR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR_HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL_COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_COCINA</link> 
+        </item> 
+          <item> 
+            <title>----------NiÃ±os----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=----------NiÃ±os----------</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON.HD</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON-ESP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON-ESP_HD</link> 
+        </item> 
+          <item> 
+            <title>NICK_Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK_Jr</link> 
+        </item> 
+          <item> 
+            <title>DISNEY-ESP_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY-ESP_XD</link> 
+        </item> 
+          <item> 
+            <title>DISNEY_CHANNEL.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_CHANNEL.HD</link> 
+        </item> 
+          <item> 
+            <title>DISNEY.JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY.JR</link> 
+        </item> 
+          <item> 
+            <title>Disney.Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney.Channel</link> 
+        </item> 
+          <item> 
+            <title>CANAL_PANDA-ESP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL_PANDA-ESP</link> 
+        </item> 
+          <item> 
+            <title>BOING-ESP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING-ESP</link> 
+        </item> 
+          <item> 
+            <title>BABY-ESP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY-ESP</link> 
+        </item> 
+          <item> 
+            <title>40_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=40_TV</link> 
+        </item> 
+          <item> 
+            <title>=====TAQUILLA=====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/372.ts&amp;streamtype=TSDOWNLOADER&amp;name======TAQUILLA=====</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_1</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_2</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_3</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_4</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_5</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_6</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_7</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_8</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_9</link> 
+        </item> 
+          <item> 
+            <title>Taquilla_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/hub1/KT4xtDV6QK/371.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla_10</link> 
         </item> 
   
