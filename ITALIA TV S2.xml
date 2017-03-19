@@ -37,252 +37,1345 @@
  
    
   
+    
           <item> 
-            <title>IT:Rai 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai 1</link> 
+            <title>Rai 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9584.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 HD</link> 
         </item> 
           <item> 
-            <title>IT:Rai 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai 2</link> 
+            <title>Rai 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9585.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 HD</link> 
         </item> 
           <item> 
-            <title>IT:Rai 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai 3</link> 
+            <title>Rai 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9586.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 HD</link> 
         </item> 
           <item> 
-            <title>IT:Sky Uno</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Uno</link> 
+            <title>Rete 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9587.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 HD</link> 
         </item> 
           <item> 
-            <title>IT:TG24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:TG24</link> 
+            <title>Canale 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9588.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD</link> 
         </item> 
           <item> 
-            <title>IT:Canale 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Canale 5</link> 
+            <title>Italia 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9589.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 HD</link> 
         </item> 
           <item> 
-            <title>IT:Rete 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rete 4</link> 
+            <title>Rai 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9633.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 4</link> 
         </item> 
           <item> 
-            <title>IT:Iris</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Iris</link> 
+            <title>Rai 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9634.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 5</link> 
         </item> 
           <item> 
-            <title>IT:Cielo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cielo</link> 
+            <title>Rai Premium HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28985.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium HD</link> 
         </item> 
           <item> 
-            <title>IT:Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/359.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Fox Crime</link> 
+            <title>Rai Movie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9607.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Movie</link> 
         </item> 
           <item> 
-            <title>IT:Dmax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Dmax</link> 
+            <title>Mediaset Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Extra</link> 
         </item> 
           <item> 
-            <title>IT:Radio Italia Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Radio Italia Tv</link> 
+            <title>Mediaset Italia 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Italia 2</link> 
         </item> 
           <item> 
-            <title>IT:Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Disney XD</link> 
+            <title>Il Meteo Oggi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/40952.ts&amp;streamtype=TSDOWNLOADER&amp;name=Il Meteo Oggi</link> 
         </item> 
           <item> 
-            <title>IT:Nat Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Nat Geo</link> 
+            <title>Alice</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alice</link> 
         </item> 
           <item> 
-            <title>IT:Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Nat Geo Wild</link> 
+            <title>Espansione TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28986.ts&amp;streamtype=TSDOWNLOADER&amp;name=Espansione TV</link> 
         </item> 
           <item> 
-            <title>IT:Nat Geo People</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Nat Geo People</link> 
+            <title>TV 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28987.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 8</link> 
         </item> 
           <item> 
-            <title>IT:Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery Channel</link> 
+            <title>Canale 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10788.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 8</link> 
         </item> 
           <item> 
-            <title>IT:Discovery World</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery World</link> 
+            <title>MTV TV8  1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/20889.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV TV8  1</link> 
         </item> 
           <item> 
-            <title>IT:History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:History</link> 
+            <title>Deejay Tv Nove</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/16999.ts&amp;streamtype=TSDOWNLOADER&amp;name=Deejay Tv Nove</link> 
         </item> 
           <item> 
-            <title>IT:Cinema 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cinema 1</link> 
+            <title>Cielo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cielo</link> 
         </item> 
           <item> 
-            <title>IT:Cinema Passion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cinema Passion</link> 
+            <title>Giallo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Giallo</link> 
         </item> 
           <item> 
-            <title>IT:Cinema Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cinema Max</link> 
+            <title>Iris</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9606.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iris</link> 
         </item> 
           <item> 
-            <title>IT:Cinema Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT:Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cinema Hits</link> 
+            <title>La 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9630.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 5</link> 
+        </item> 
+          <item> 
+            <title>La7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9590.ts&amp;streamtype=TSDOWNLOADER&amp;name=La7 HD</link> 
+        </item> 
+          <item> 
+            <title>La7d</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9631.ts&amp;streamtype=TSDOWNLOADER&amp;name=La7d</link> 
+        </item> 
+          <item> 
+            <title>Napoli Canale 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Napoli Canale 21</link> 
+        </item> 
+          <item> 
+            <title>Nuvolari</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nuvolari</link> 
+        </item> 
+          <item> 
+            <title>Teleticino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9639.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teleticino</link> 
+        </item> 
+          <item> 
+            <title>teleLombardia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10829.ts&amp;streamtype=TSDOWNLOADER&amp;name=teleLombardia</link> 
+        </item> 
+          <item> 
+            <title>Tv 2000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9640.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv 2000</link> 
+        </item> 
+          <item> 
+            <title>Videolina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9643.ts&amp;streamtype=TSDOWNLOADER&amp;name=Videolina</link> 
+        </item> 
+          <item> 
+            <title>Cacciare Pescare TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/40712.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cacciare Pescare TV</link> 
+        </item> 
+          <item> 
+            <title>Italia 7 Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/16421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 7 Gold</link> 
+        </item> 
+          <item> 
+            <title>---- SKY CINEMA ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29116.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- SKY CINEMA ----</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9596.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema +24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/20890.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9602.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Classica</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/22845.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Classica</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Classic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9605.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9604.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Hits HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9599.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>IT:Cinema Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cinema Comedy</link> 
+            <title>Sky Cinema Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9603.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max HD</link> 
         </item> 
           <item> 
-            <title>IT:Cinema Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Cinema Atlantic</link> 
+            <title>Sky Cinema Passion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9601.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Story</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Story</link> 
+            <title>Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9600.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Joi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Joi</link> 
+            <title>Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28669.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
         </item> 
           <item> 
-            <title>IT:Premium Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Action</link> 
+            <title>Sky Cinema 3D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12481.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 3D</link> 
         </item> 
           <item> 
-            <title>IT:Premium Action Prima</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Action Prima</link> 
+            <title>=== VETRINA PRIMAFILA LIVE DEL 10/03/2017 ===</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/15326.ts&amp;streamtype=TSDOWNLOADER&amp;name==== VETRINA PRIMAFILA LIVE DEL 10/03/2017 ===</link> 
         </item> 
           <item> 
-            <title>IT:Premium Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cinema</link> 
+            <title>Mosaico Prima Fila</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/43144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico Prima Fila</link> 
         </item> 
           <item> 
-            <title>IT:Premium Cinema 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cinema 2</link> 
+            <title>1/2 PRIMAFILA  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/26369.ts&amp;streamtype=TSDOWNLOADER&amp;name=1/2 PRIMAFILA  HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Cinema 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Cinema 24</link> 
+            <title>3/4 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12462.ts&amp;streamtype=TSDOWNLOADER&amp;name=3/4 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Emotion</link> 
+            <title>5/6 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12465.ts&amp;streamtype=TSDOWNLOADER&amp;name=5/6 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Comedy</link> 
+            <title>7/8 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12467.ts&amp;streamtype=TSDOWNLOADER&amp;name=7/8 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Energy</link> 
+            <title>9/10 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12469.ts&amp;streamtype=TSDOWNLOADER&amp;name=9/10 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Studio Universal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Studio Universal</link> 
+            <title>11/12 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12471.ts&amp;streamtype=TSDOWNLOADER&amp;name=11/12 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/354.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Disney Junior</link> 
+            <title>13/14 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31660.ts&amp;streamtype=TSDOWNLOADER&amp;name=13/14 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Disney Channel</link> 
+            <title>15/16 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42226.ts&amp;streamtype=TSDOWNLOADER&amp;name=15/16 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/358.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium Sport</link> 
+            <title>17/18 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42227.ts&amp;streamtype=TSDOWNLOADER&amp;name=17/18 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Premium BBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium BBC</link> 
+            <title>19 PRIMAFILA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31373.ts&amp;streamtype=TSDOWNLOADER&amp;name=19 PRIMAFILA HD</link> 
         </item> 
           <item> 
-            <title>IT:Primafila1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila1</link> 
+            <title>---- SKY SPORT ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29117.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- SKY SPORT ----</link> 
         </item> 
           <item> 
-            <title>IT:Primafila2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila2</link> 
+            <title>Mosaico Sky Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42929.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico Sky Sport</link> 
         </item> 
           <item> 
-            <title>IT:Primafila3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila3</link> 
+            <title>Sky Sport Mix</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42768.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix</link> 
         </item> 
           <item> 
-            <title>IT:Primafila4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila4</link> 
+            <title>Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9651.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD</link> 
         </item> 
           <item> 
-            <title>IT:Primafila5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila5</link> 
+            <title>Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9652.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD</link> 
         </item> 
           <item> 
-            <title>IT:Primafila6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila6</link> 
+            <title>Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9653.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD</link> 
         </item> 
           <item> 
-            <title>IT:Primafila7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila7</link> 
+            <title>Mosaico F1 MOTO GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42930.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico F1 MOTO GP</link> 
         </item> 
           <item> 
-            <title>IT:Primafila8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila8</link> 
+            <title>Sky Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP HD</link> 
         </item> 
           <item> 
-            <title>IT:Primafila9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila9</link> 
+            <title>Sky Sport F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9654.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport F1 HD</link> 
         </item> 
           <item> 
-            <title>IT:Primafila10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila10</link> 
+            <title>Sky Sport Plus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus HD</link> 
         </item> 
           <item> 
-            <title>IT:Rai Sport1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai Sport1</link> 
+            <title>Sky Sport 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9650.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 HD</link> 
         </item> 
           <item> 
-            <title>IT:Rai Sport2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai Sport2</link> 
+            <title>Fox Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports HD</link> 
         </item> 
           <item> 
-            <title>IT:Sky Calcio 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Calcio 1</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9667.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>IT:Sky Calcio 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Calcio 2</link> 
+            <title>Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9656.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
         </item> 
           <item> 
-            <title>IT:Sky Super Calcio</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Super Calcio</link> 
+            <title>Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9657.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD</link> 
         </item> 
           <item> 
-            <title>IT:Sky Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Sport 1</link> 
+            <title>Rai Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9661.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 1</link> 
         </item> 
           <item> 
-            <title>IT:Sky Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Sport 2</link> 
+            <title>Rai Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/22775.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 2</link> 
         </item> 
           <item> 
-            <title>IT:Sky Sport 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Sport 24</link> 
+            <title>Sport Italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9659.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Italia</link> 
         </item> 
           <item> 
-            <title>IT:Sky Sport F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Sport F1</link> 
+            <title>Bike Channell</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channell</link> 
         </item> 
           <item> 
-            <title>IT:Sky Sport MotoGP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Sport MotoGP</link> 
+            <title>Super Tennis HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Tennis HD</link> 
         </item> 
           <item> 
-            <title>IT:Super Tennis</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tjurk.com:8000/live/android1/android1/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Super Tennis</link> 
+            <title>ClassHorse TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/16731.ts&amp;streamtype=TSDOWNLOADER&amp;name=ClassHorse TV</link> 
+        </item> 
+          <item> 
+            <title>WWE Wrestling HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/27990.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE Wrestling HD</link> 
+        </item> 
+          <item> 
+            <title>Fight Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/37890.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight Network</link> 
+        </item> 
+          <item> 
+            <title>uniresat</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30736.ts&amp;streamtype=TSDOWNLOADER&amp;name=uniresat</link> 
+        </item> 
+          <item> 
+            <title>RomaTv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10505.ts&amp;streamtype=TSDOWNLOADER&amp;name=RomaTv</link> 
+        </item> 
+          <item> 
+            <title>Milan channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9665.ts&amp;streamtype=TSDOWNLOADER&amp;name=Milan channel</link> 
+        </item> 
+          <item> 
+            <title>Juventus Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10383.ts&amp;streamtype=TSDOWNLOADER&amp;name=Juventus Channel</link> 
+        </item> 
+          <item> 
+            <title>Inter Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9666.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inter Channel</link> 
+        </item> 
+          <item> 
+            <title>Lazio Channell</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lazio Channell</link> 
+        </item> 
+          <item> 
+            <title>Torino Channell</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/37889.ts&amp;streamtype=TSDOWNLOADER&amp;name=Torino Channell</link> 
+        </item> 
+          <item> 
+            <title>---- SKY CALCIO ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29120.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- SKY CALCIO ----</link> 
+        </item> 
+          <item> 
+            <title>Mosaico--Sky Calcio</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42847.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico--Sky Calcio</link> 
+        </item> 
+          <item> 
+            <title>Calcio Info</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calcio Info</link> 
+        </item> 
+          <item> 
+            <title>Sky Super Calcio Full HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/43136.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Super Calcio Full HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Supercalcio HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9669.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9670.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9675.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9676.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10385.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10386.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 9 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/10387.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 10 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 11 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 11 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 12 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 12 HD</link> 
+        </item> 
+          <item> 
+            <title>---- SKY INTRATTENIMENTO ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29118.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- SKY INTRATTENIMENTO ----</link> 
+        </item> 
+          <item> 
+            <title>Sky Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Uno HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno HD</link> 
+        </item> 
+          <item> 
+            <title>Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9611.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9613.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>RSI La1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9593.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La1 HD</link> 
+        </item> 
+          <item> 
+            <title>RSI La2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9594.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La2 HD</link> 
+        </item> 
+          <item> 
+            <title>DMAX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9699.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX HD</link> 
+        </item> 
+          <item> 
+            <title>Real Time</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9623.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time</link> 
+        </item> 
+          <item> 
+            <title>Fine living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9698.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine living</link> 
+        </item> 
+          <item> 
+            <title>Top Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Top Crime</link> 
+        </item> 
+          <item> 
+            <title>Rai Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9635.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium</link> 
+        </item> 
+          <item> 
+            <title>---- SKY CULTURA ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29123.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- SKY CULTURA ----</link> 
+        </item> 
+          <item> 
+            <title>NationalGeo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9680.ts&amp;streamtype=TSDOWNLOADER&amp;name=NationalGeo HD</link> 
+        </item> 
+          <item> 
+            <title>History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9688.ts&amp;streamtype=TSDOWNLOADER&amp;name=History HD</link> 
+        </item> 
+          <item> 
+            <title>NatGeo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9682.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo Wild HD</link> 
+        </item> 
+          <item> 
+            <title>NatGeo People HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9681.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo People HD</link> 
+        </item> 
+          <item> 
+            <title>Discovery  Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery  Channel HD</link> 
+        </item> 
+          <item> 
+            <title>Discovery Travel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Travel</link> 
+        </item> 
+          <item> 
+            <title>Discovery Sci HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9685.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Sci HD</link> 
+        </item> 
+          <item> 
+            <title>CI Crime Investigation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9617.ts&amp;streamtype=TSDOWNLOADER&amp;name=CI Crime Investigation HD</link> 
+        </item> 
+          <item> 
+            <title>Focus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Focus</link> 
+        </item> 
+          <item> 
+            <title>Gambero Rosso HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gambero Rosso HD</link> 
+        </item> 
+          <item> 
+            <title>Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>Pesca e Caccia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9690.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pesca e Caccia</link> 
+        </item> 
+          <item> 
+            <title>Caccia e Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caccia e Pesca</link> 
+        </item> 
+          <item> 
+            <title>Sky Arte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arte HD</link> 
+        </item> 
+          <item> 
+            <title>AXN Sci-Fi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9619.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN Sci-Fi</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9618.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>---- PREMIUM CINEMA ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29119.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- PREMIUM CINEMA ----</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9729.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema  24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9730.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema  24</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9731.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema 2  24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2  24</link> 
+        </item> 
+          <item> 
+            <title>Premium Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9737.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Action  24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action  24</link> 
+        </item> 
+          <item> 
+            <title>Premium Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9735.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Comedy</link> 
+        </item> 
+          <item> 
+            <title>Premium Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9739.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Crime  24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9740.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime  24</link> 
+        </item> 
+          <item> 
+            <title>Premium Stories</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9742.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories</link> 
+        </item> 
+          <item> 
+            <title>Premium Stories +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28991.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9734.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Energy</link> 
+        </item> 
+          <item> 
+            <title>Premium Joy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9741.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joy</link> 
+        </item> 
+          <item> 
+            <title>Premium Joy +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28989.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joy +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9733.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Emotion</link> 
+        </item> 
+          <item> 
+            <title>Paramount Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/17013.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Investigation Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28994.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Investigation Discovery</link> 
+        </item> 
+          <item> 
+            <title>Premium Studio Universal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9736.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Studio Universal</link> 
+        </item> 
+          <item> 
+            <title>---- PREMIUM SPORT E CALCIO ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/29121.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- PREMIUM SPORT E CALCIO ----</link> 
+        </item> 
+          <item> 
+            <title>Mosaico Premium sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/42848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico Premium sport</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/20931.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport 1 (Backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 1 (Backup)</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport  2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14745.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport  2 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport 2 (Backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 (Backup)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9746.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio Hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/12925.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio Hd</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9748.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 1 (Backup)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30278.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 (Backup)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9749.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 2 (E1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30279.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2 (E1)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9750.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 3 (E1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/30280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3 (E1)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 4 (E1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9751.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 4 (E1)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 5 (E1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9752.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 5 (E1)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 6 (E1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9753.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 6 (E1)</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 7 (E1)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9754.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 7 (E1)</link> 
+        </item> 
+          <item> 
+            <title>------- SPORT TUBE ------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/16225.ts&amp;streamtype=TSDOWNLOADER&amp;name=------- SPORT TUBE ------</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Info Channel LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Info Channel LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Foggia  LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31678.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Foggia  LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Catania LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Catania LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Cosenza LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31680.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Cosenza LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] F. Andria LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31679.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] F. Andria LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] J. Stabia LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31677.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] J. Stabia LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Lecce LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31676.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Lecce LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Livorno LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Livorno LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Melfi LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31674.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Melfi LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Messina LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31673.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Messina LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] PARMA LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31672.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] PARMA LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Siracusa LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31671.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Siracusa LPC</link> 
+        </item> 
+          <item> 
+            <title>[SPORTUBE] Taranto LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/31670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Taranto LPC</link> 
+        </item> 
+          <item> 
+            <title>---- NOTIZIE ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9722.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- NOTIZIE ----</link> 
+        </item> 
+          <item> 
+            <title>TG Norba 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9726.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG Norba 24</link> 
+        </item> 
+          <item> 
+            <title>Tg Com 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9724.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tg Com 24</link> 
+        </item> 
+          <item> 
+            <title>Sky TG 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9723.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky TG 24</link> 
+        </item> 
+          <item> 
+            <title>Rai News 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9725.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai News 24</link> 
+        </item> 
+          <item> 
+            <title>--- BAMBINI ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9709.ts&amp;streamtype=TSDOWNLOADER&amp;name=--- BAMBINI ---</link> 
+        </item> 
+          <item> 
+            <title>Dea Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dea Junior</link> 
+        </item> 
+          <item> 
+            <title>Dea Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dea Kids</link> 
+        </item> 
+          <item> 
+            <title>Manga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/20748.ts&amp;streamtype=TSDOWNLOADER&amp;name=Manga</link> 
+        </item> 
+          <item> 
+            <title>Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item> 
+          <item> 
+            <title>K2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9712.ts&amp;streamtype=TSDOWNLOADER&amp;name=K2</link> 
+        </item> 
+          <item> 
+            <title>Rai yoyo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9718.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai yoyo</link> 
+        </item> 
+          <item> 
+            <title>Rai Gulp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp</link> 
+        </item> 
+          <item> 
+            <title>Super!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super!</link> 
+        </item> 
+          <item> 
+            <title>Frisbee</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Frisbee</link> 
+        </item> 
+          <item> 
+            <title>Premium Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9716.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>Cartoonito</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito</link> 
+        </item> 
+          <item> 
+            <title>Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9710.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+        </item> 
+          <item> 
+            <title>NickelOdeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28660.ts&amp;streamtype=TSDOWNLOADER&amp;name=NickelOdeon</link> 
+        </item> 
+          <item> 
+            <title>Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28779.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
+        </item> 
+          <item> 
+            <title>Nick Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28780.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr</link> 
+        </item> 
+          <item> 
+            <title>Baby Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28661.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby Tv</link> 
+        </item> 
+          <item> 
+            <title>Premium Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9715.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/9713.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD</link> 
+        </item> 
+          <item> 
+            <title>Tom and Jerry Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/34303.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tom and Jerry Live</link> 
+        </item> 
+          <item> 
+            <title>Topolino Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/34304.ts&amp;streamtype=TSDOWNLOADER&amp;name=Topolino Live</link> 
+        </item> 
+          <item> 
+            <title>Barbapapa 1 Serie Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/15428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barbapapa 1 Serie Live</link> 
+        </item> 
+          <item> 
+            <title>Barbapapa Seconda Serie Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/16102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barbapapa Seconda Serie Live</link> 
+        </item> 
+          <item> 
+            <title>I Cavallieri Dello Zodiaco Serie 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14494.ts&amp;streamtype=TSDOWNLOADER&amp;name=I Cavallieri Dello Zodiaco Serie 1</link> 
+        </item> 
+          <item> 
+            <title>I Cavallieri Dello Zodiaco Serie 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14583.ts&amp;streamtype=TSDOWNLOADER&amp;name=I Cavallieri Dello Zodiaco Serie 2</link> 
+        </item> 
+          <item> 
+            <title>Il Grande Mazinga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/15526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Il Grande Mazinga</link> 
+        </item> 
+          <item> 
+            <title>Jeeg Robot Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/34306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Jeeg Robot Live</link> 
+        </item> 
+          <item> 
+            <title>Ken Il Guerriero Serie 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14584.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ken Il Guerriero Serie 1</link> 
+        </item> 
+          <item> 
+            <title>Ken Il Guerriero Serie 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14585.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ken Il Guerriero Serie 2</link> 
+        </item> 
+          <item> 
+            <title>Ken Il Guerriero Serie 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14586.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ken Il Guerriero Serie 3</link> 
+        </item> 
+          <item> 
+            <title>Mash e Orso 2 Serie Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/13843.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mash e Orso 2 Serie Live</link> 
+        </item> 
+          <item> 
+            <title>Mia And Me Prima Serie Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mia And Me Prima Serie Live</link> 
+        </item> 
+          <item> 
+            <title>Mia And Me Seconda Serie Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/14492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mia And Me Seconda Serie Live</link> 
+        </item> 
+          <item> 
+            <title>Peppa Pig 1.Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/13422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Peppa Pig 1.Serie</link> 
+        </item> 
+          <item> 
+            <title>Peppa Pig 2.Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/13840.ts&amp;streamtype=TSDOWNLOADER&amp;name=Peppa Pig 2.Serie</link> 
+        </item> 
+          <item> 
+            <title>Peppa Pig 3 .Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/13841.ts&amp;streamtype=TSDOWNLOADER&amp;name=Peppa Pig 3 .Serie</link> 
+        </item> 
+          <item> 
+            <title>Peppa Pig 4.Serie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/13842.ts&amp;streamtype=TSDOWNLOADER&amp;name=Peppa Pig 4.Serie</link> 
+        </item> 
+          <item> 
+            <title>Sailor Moon Puntate da 1 a 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/18610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sailor Moon Puntate da 1 a 40</link> 
+        </item> 
+          <item> 
+            <title>Sailor Moon Puntate da 41 a 80</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/18612.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sailor Moon Puntate da 41 a 80</link> 
+        </item> 
+          <item> 
+            <title>Sailor.Moon.Puntate.da.81.a.120</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/18615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sailor.Moon.Puntate.da.81.a.120</link> 
+        </item> 
+          <item> 
+            <title>Sailor.Moon.Puntate.da.121.a.160</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/18616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sailor.Moon.Puntate.da.121.a.160</link> 
+        </item> 
+          <item> 
+            <title>Sailor.Moon.Puntate.da.161-200</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/34305.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sailor.Moon.Puntate.da.161-200</link> 
+        </item> 
+          <item> 
+            <title>----CANALI SD ADSL LENTE----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28688.ts&amp;streamtype=TSDOWNLOADER&amp;name=----CANALI SD ADSL LENTE----</link> 
+        </item> 
+          <item> 
+            <title>Rai 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33293.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Rai 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33292.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 SD</link> 
+        </item> 
+          <item> 
+            <title>Rai 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 SD</link> 
+        </item> 
+          <item> 
+            <title>Canale 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33304.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 SD</link> 
+        </item> 
+          <item> 
+            <title>Italia 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33297.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 SD</link> 
+        </item> 
+          <item> 
+            <title>CI Crime Investigation SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33305.ts&amp;streamtype=TSDOWNLOADER&amp;name=CI Crime Investigation SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33303.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Comedy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Crime SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33301.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Life SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33300.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life SD</link> 
+        </item> 
+          <item> 
+            <title>Fox SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33299.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33298.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33296.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport SD</link> 
+        </item> 
+          <item> 
+            <title>Rete 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 SD</link> 
+        </item> 
+          <item> 
+            <title>RSI La1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33295.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La1 SD</link> 
+        </item> 
+          <item> 
+            <title>RSI La2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33294.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La2 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Atlantic SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33289.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33288.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33286.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33285.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  24 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Classic SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33283.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family  1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33281.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family  1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Hits SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33280.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max  1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33279.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max  1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33278.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Passion SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33277.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Formula 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33276.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Moto GP SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33275.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33274.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33273.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33272.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33271.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Plus SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33270.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Supercalcio SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33269.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Uno SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33268.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno SD</link> 
+        </item> 
+          <item> 
+            <title>---- Canali +1 ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/26488.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- Canali +1 ----</link> 
+        </item> 
+          <item> 
+            <title>Rai1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33218.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>Rai2HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33217.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai2HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>Rai3HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33216.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai3HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>Rete4HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33215.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete4HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>Canale5HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33226.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale5HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>Italia1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33219.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>AxnHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33228.ts&amp;streamtype=TSDOWNLOADER&amp;name=AxnHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>AxnSciFiHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33227.ts&amp;streamtype=TSDOWNLOADER&amp;name=AxnSciFiHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>CrimeInvestigationHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33225.ts&amp;streamtype=TSDOWNLOADER&amp;name=CrimeInvestigationHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>FoxAnimationHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33224.ts&amp;streamtype=TSDOWNLOADER&amp;name=FoxAnimationHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>FoxComedyHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33223.ts&amp;streamtype=TSDOWNLOADER&amp;name=FoxComedyHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>FoxCrimeHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33222.ts&amp;streamtype=TSDOWNLOADER&amp;name=FoxCrimeHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>FoxHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FoxHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>FoxLifeHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FoxLifeHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyAtlanticHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33214.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyAtlanticHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCalcio1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33213.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCalcio1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinema1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33212.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinema1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaClassicHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33211.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaClassicHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaComedyHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33210.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaComedyHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaCultHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33209.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaCultHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaFamilyHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33208.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaFamilyHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaHitsHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SkyCinemaHits&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaHitsHDPiu1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33207.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaMaxHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33206.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaMaxHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCinemaPassionHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33205.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCinemaPassionHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33204.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport24HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33203.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport24HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport2HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33202.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport2HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport3HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33201.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport3HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySuperCalcioHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33200.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySuperCalcioHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyUnoHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/33199.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyUnoHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>=== Canali UHD ===</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28689.ts&amp;streamtype=TSDOWNLOADER&amp;name==== Canali UHD ===</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema 1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28050.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family  1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28039.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family  1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  24 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28053.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  24 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28056.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28042.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28045.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy UltraHD</link> 
+        </item> 
+          <item> 
+            <title>CI Crime Investigation UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28194.ts&amp;streamtype=TSDOWNLOADER&amp;name=CI Crime Investigation UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Passion UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28025.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max  1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max  1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Hits UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits UltraHD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28033.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28036.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Uno UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/27999.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Moto GP UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28019.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Formula 1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28008.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 24 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28011.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28016.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports UltraHD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28159.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Life UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Crime UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28167.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://185.61.137.173:2300/live/Tiziano/Tiziano/28172.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation UltraHD</link> 
         </item> 
   
