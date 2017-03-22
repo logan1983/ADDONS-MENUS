@@ -25,289 +25,649 @@
     
     
   
-  <item> 
-            <title>*-*-*-*-*RAI_ITALIA*-*-*-*-*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*RAI_ITALIA*-*-*-*-*</link> 
+ 
+          <item> 
+            <title>IT: Rai 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 3 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 4 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai 5 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai yoyo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai yoyo</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai Gulp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Gulp</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai Movie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Movie</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Premium</link> 
+        </item> 
+          <item> 
+            <title>IT: Rai News 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai News 24</link> 
+        </item> 
+          <item> 
+            <title>IT: Rete 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1848.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rete 4</link> 
+        </item> 
+          <item> 
+            <title>IT: RSI La1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: RSI La2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Telearena</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Telearena</link> 
+        </item> 
+          <item> 
+            <title>IT: Telepavia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1843.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Telepavia</link> 
+        </item> 
+          <item> 
+            <title>IT: Telemilano</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1842.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Telemilano</link> 
+        </item> 
+          <item> 
+            <title>IT: TeleTicino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1869.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TeleTicino</link> 
+        </item> 
+          <item> 
+            <title>IT: Orler</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1871.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Orler</link> 
+        </item> 
+          <item> 
+            <title>IT: juwelo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1870.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: juwelo</link> 
+        </item> 
+          <item> 
+            <title>IT: TRM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TRM TV</link> 
+        </item> 
+          <item> 
+            <title>IT: videocalabria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: videocalabria</link> 
+        </item> 
+          <item> 
+            <title>IT: Tele 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Tele 8</link> 
+        </item> 
+          <item> 
+            <title>IT: RTV San Marino</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RTV San Marino</link> 
+        </item> 
+          <item> 
+            <title>IT: Euroneww Italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1844.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Euroneww Italia</link> 
+        </item> 
+          <item> 
+            <title>IT: Canale 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Canale 7</link> 
+        </item> 
+          <item> 
+            <title>IT: TVM 1 Dvr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TVM 1 Dvr</link> 
+        </item> 
+          <item> 
+            <title>IT: TVM 2 Dvr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TVM 2 Dvr</link> 
+        </item> 
+          <item> 
+            <title>IT: Cartoonito</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Cartoonito</link> 
+        </item> 
+          <item> 
+            <title>IT: Italia 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Italia 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Canale 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Canale 5 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Real Time</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Real Time</link> 
+        </item> 
+          <item> 
+            <title>IT: Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Dmax</link> 
+        </item> 
+          <item> 
+            <title>IT: Telerama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Telerama</link> 
+        </item> 
+          <item> 
+            <title>IT: La 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: La 5</link> 
+        </item> 
+          <item> 
+            <title>IT: La7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: La7</link> 
+        </item> 
+          <item> 
+            <title>---------- Cinma ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Cinma ----------</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema 1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema +1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema +1 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema +24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema +24 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Hits HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT: Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Hits HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Cult HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Cult HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Max HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema +Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema +Max HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Passion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Passion HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Classic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/670.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Classic HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema Family HD</link> 
+        </item> 
+          <item> 
+            <title>------ Intrattenimento ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=------ Intrattenimento ----</link> 
+        </item> 
+          <item> 
+            <title>IT: Fm italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fm italia</link> 
+        </item> 
+          <item> 
+            <title>IT: Mtv Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Mtv Music</link> 
+        </item> 
+          <item> 
+            <title>IT: Giallo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1850.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Giallo</link> 
+        </item> 
+          <item> 
+            <title>IT: Cielo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Cielo</link> 
+        </item> 
+          <item> 
+            <title>IT: Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Boing</link> 
+        </item> 
+          <item> 
+            <title>IT: Super!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Super!</link> 
+        </item> 
+          <item> 
+            <title>IT: k2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: k2</link> 
+        </item> 
+          <item> 
+            <title>IT: E! Ent</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: E! Ent</link> 
+        </item> 
+          <item> 
+            <title>IT: Iris</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Iris</link> 
+        </item> 
+          <item> 
+            <title>IT: Alice HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Alice HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sat 2000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sat 2000</link> 
+        </item> 
+          <item> 
+            <title>IT: Onda tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1849.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Onda tv</link> 
+        </item> 
+          <item> 
+            <title>IT: TV 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1851.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TV 8</link> 
+        </item> 
+          <item> 
+            <title>IT: Paramount</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1852.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Paramount</link> 
+        </item> 
+          <item> 
+            <title>IT: Frisbee</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1857.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Frisbee</link> 
+        </item> 
+          <item> 
+            <title>IT: Fine Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1853.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Fine Living</link> 
+        </item> 
+          <item> 
+            <title>IT: Deejay TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1854.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Deejay TV</link> 
+        </item> 
+          <item> 
+            <title>IT: Classica HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1856.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Classica HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Class Horse TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1855.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Class Horse TV</link> 
         </item> 
           <item> 
-            <title>RAI1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI1</link> 
+            <title>IT: Pescare Cacciare TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1867.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Pescare Cacciare TV</link> 
         </item> 
           <item> 
-            <title>RAI2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI2</link> 
+            <title>IT: Telelombardia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1866.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Telelombardia</link> 
         </item> 
           <item> 
-            <title>RAI3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI3</link> 
+            <title>IT: Nuvolari</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1868.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Nuvolari</link> 
         </item> 
           <item> 
-            <title>RAI4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI4</link> 
+            <title>IT: Sky Top Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Top Crime</link> 
         </item> 
           <item> 
-            <title>RAI5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI5</link> 
+            <title>IT: Sky Sienatv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sienatv</link> 
         </item> 
           <item> 
-            <title>Rai_yoyo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai_yoyo</link> 
+            <title>IT: Sky Uno HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Uno HD</link> 
         </item> 
           <item> 
-            <title>Rai_Sport_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1783.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai_Sport_1</link> 
+            <title>IT: Sky Focus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Focus</link> 
         </item> 
           <item> 
-            <title>Rai_Sport_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1782.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai_Sport_2</link> 
+            <title>IT: Sky Mediaset Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Mediaset Extra</link> 
         </item> 
           <item> 
-            <title>RAI_PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_PREMIUM</link> 
+            <title>IT: Sky Mediaset Italia 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Mediaset Italia 2</link> 
         </item> 
           <item> 
-            <title>RAI_MOVIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_MOVIE</link> 
+            <title>IT: Sky Fox Animation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1865.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox Animation HD</link> 
         </item> 
           <item> 
-            <title>Rai_Gulp</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai_Gulp</link> 
+            <title>IT: Sky Fox Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox Comedy HD</link> 
         </item> 
           <item> 
-            <title>*-*-*-*-*PREMIUM_ITALIA*-*-*-*-*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1984.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*PREMIUM_ITALIA*-*-*-*-*</link> 
+            <title>IT: Sky Fox Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox Crime HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1357.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_ACTION_HD</link> 
+            <title>IT: Sky Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox Life HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_ACTION_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_ACTION_24</link> 
+            <title>IT: Sky Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1861.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox HD</link> 
         </item> 
           <item> 
-            <title>MEDIASET_PREMIUM_ACTION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1598.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEDIASET_PREMIUM_ACTION_HD</link> 
+            <title>---------- sport ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- sport ----------</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CINEMA_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_2_HD</link> 
+            <title>IT: Sky Fox Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox Sport HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1363.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_HD</link> 
+            <title>IT: Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 1 HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CINEMA_COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_COMEDY</link> 
+            <title>IT: Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 2 HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CINEMA_ENERGY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1352.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_ENERGY</link> 
+            <title>IT: Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 3 HD</link> 
         </item> 
           <item> 
-            <title>MEDIASET_PREMIUM_CINEMA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1790.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEDIASET_PREMIUM_CINEMA_HD</link> 
+            <title>IT: Sky Sport 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport 24 HD</link> 
         </item> 
           <item> 
-            <title>MEDIASET_PREMIUM_CINEMA_2_+24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEDIASET_PREMIUM_CINEMA_2_+24</link> 
+            <title>IT: Sky Sport F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Sport F1 HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_DISNEY_JUNIOR</link> 
+            <title>IT: Sky Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Moto GP HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_DISNEY_CHANNEL</link> 
+            <title>IT: Super Tennis HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Super Tennis HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CRIME_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CRIME_24</link> 
+            <title>IT: Rai Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 1</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CRIME_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CRIME_HD</link> 
+            <title>IT: Rai Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 2</link> 
         </item> 
           <item> 
-            <title>PREMIUM_STORIES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_STORIES_HD</link> 
+            <title>IT: Juventus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1860.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Juventus</link> 
         </item> 
           <item> 
-            <title>PREMIUM_EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_EMOTION</link> 
+            <title>IT: SportTitalia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SportTitalia</link> 
         </item> 
           <item> 
-            <title>PREMIUM_CAR-NET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1358.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CAR-NET</link> 
+            <title>IT: Rete Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rete Sport</link> 
         </item> 
           <item> 
-            <title>PREMIUM_STUDIO_UNIVERSAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_STUDIO_UNIVERSAL</link> 
+            <title>IT: Sky Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Eurosport</link> 
         </item> 
           <item> 
-            <title>PREMIUM_JOy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_JOy</link> 
+            <title>IT: Sky Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Eurosport 2</link> 
         </item> 
           <item> 
-            <title>PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1550.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM</link> 
+            <title>---------- Calcio -----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Calcio -----------</link> 
         </item> 
           <item> 
-            <title>PREMIUM_SPORT_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_SPORT_HD</link> 
+            <title>IT: Sky Supercalcio HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Supercalcio HD</link> 
         </item> 
           <item> 
-            <title>PREMIUM_EUROSPORT2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_EUROSPORT2_HD</link> 
+            <title>IT: Sky Calcio 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 1 HD</link> 
         </item> 
           <item> 
-            <title>*-*-*-*-*ETC_ITALIA*-*-*-*-*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*ETC_ITALIA*-*-*-*-*</link> 
+            <title>IT: Sky Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 2 HD</link> 
         </item> 
           <item> 
-            <title>MEDISET_EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEDISET_EXTRA</link> 
+            <title>IT: Sky Calcio 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 3 HD</link> 
         </item> 
           <item> 
-            <title>MEDIASET_ITALIE_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEDIASET_ITALIE_1</link> 
+            <title>IT: Sky Calcio 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 4 HD</link> 
         </item> 
           <item> 
-            <title>MEDIASET_ITALIA_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEDIASET_ITALIA_2</link> 
+            <title>IT: Sky Calcio 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 5 HD</link> 
         </item> 
           <item> 
-            <title>FOX_HD_it</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_HD_it</link> 
+            <title>IT: Sky Calcio 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 6 HD</link> 
         </item> 
           <item> 
-            <title>VIDEOLINA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1791.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIDEOLINA</link> 
+            <title>IT: Sky Calcio 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 7 HD</link> 
         </item> 
           <item> 
-            <title>SUPERTENNIS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1596.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPERTENNIS_HD</link> 
+            <title>IT: Sky Calcio 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 8 HD</link> 
         </item> 
           <item> 
-            <title>AXN_HD_it</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1787.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN_HD_it</link> 
+            <title>--------- Cultura ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- Cultura ----------</link> 
         </item> 
           <item> 
-            <title>ALICE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1599.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALICE</link> 
+            <title>IT: Sky TG 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky TG 24</link> 
         </item> 
           <item> 
-            <title>LA_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1781.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA_5</link> 
+            <title>IT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery HD</link> 
         </item> 
           <item> 
-            <title>FOX_CRIME_HD_it</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_CRIME_HD_it</link> 
+            <title>IT: Discovery T&amp;L</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1859.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery T&amp;L</link> 
         </item> 
           <item> 
-            <title>Canale_21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale_21</link> 
+            <title>IT: Discovery Sci HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1858.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery Sci HD</link> 
         </item> 
           <item> 
-            <title>NATGEO_PEOPLE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATGEO_PEOPLE_HD</link> 
+            <title>IT: Sky History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky History HD</link> 
         </item> 
           <item> 
-            <title>NATIONAL_GEO_WILD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL_GEO_WILD_HD</link> 
+            <title>IT: National Geo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: National Geo HD</link> 
         </item> 
           <item> 
-            <title>NATIONALGEO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONALGEO_HD</link> 
+            <title>IT: NatGeo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NatGeo Wild HD</link> 
         </item> 
           <item> 
-            <title>DISCOVERY_TRAVET_LIVING_it</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_TRAVET_LIVING_it</link> 
+            <title>IT: NatGeo People HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NatGeo People HD</link> 
         </item> 
           <item> 
-            <title>DISCOVERY_SCIENCE_it</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_SCIENCE_it</link> 
+            <title>IT: Sky Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Animal Planet</link> 
         </item> 
           <item> 
-            <title>BOING_it</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/par
+            <title>----MwdiaEst Premium ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=----MwdiaEst Premium ----</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Cinema 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema 2 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Cinema +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema +24</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Crime</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Crime +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Crime +24</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Action HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Action +24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Action +24 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Stories</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Stories</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Stories +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Stories +24</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Energy</link> 
+        </item> 
+          <item> 
+            <title>IT: Premium Energy +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/1872.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Energy +24</link> 
+        </item> 
           <item> 
-            <title>Sky_Action_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Action_HD</link> 
+            <title>IT: Premium Joy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Joy</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1331.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_1_HD</link> 
+            <title>IT: Premium Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Comedy</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_MAX_+1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1593.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_MAX_+1_HD</link> 
+            <title>IT: Premium Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Emotion</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_24_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1784.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_24_HD</link> 
+            <title>IT: Premium Studio Universal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Studio Universal</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_FAMILY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_FAMILY_HD</link> 
+            <title>IT: Premium Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Disney Junior</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_CLASSICS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_CLASSICS_HD</link> 
+            <title>IT: Premium Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Disney Channel</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_PASSION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1558.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_PASSION_HD</link> 
+            <title>IT: Premium Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cartoon Network</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1557.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_HITS</link> 
+            <title>IT: Premium EuroSport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium EuroSport 1 HD</link> 
         </item> 
           <item> 
-            <title>SKY_CINEMA_CULT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1559.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_CULT</link> 
+            <title>IT: Premium EuroSport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium EuroSport 2 HD</link> 
         </item> 
           <item> 
-            <title>Sky_Premiere_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Premiere_HD</link> 
+            <title>IT: Premium Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport 1 HD</link> 
         </item> 
           <item> 
-            <title>Sky_CinemaComedy_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_CinemaComedy_HD</link> 
+            <title>IT: Premium Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport 2 HD</link> 
         </item> 
           <item> 
-            <title>Sky_Comedy_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Comedy_HD</link> 
+            <title>IT: Premium Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport</link> 
         </item> 
           <item> 
-            <title>SKY_HISTORY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_HISTORY_HD</link> 
+            <title>IT: Premium Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport 2</link> 
         </item> 
           <item> 
-            <title>SKY_ATLANTIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1560.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_ATLANTIC</link> 
+            <title>IT: Premium Calcio HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio HD</link> 
         </item> 
           <item> 
-            <title>SKY_UNO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_UNO_HD</link> 
+            <title>---------- Primrafila ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- Primrafila ---------</link> 
         </item> 
           <item> 
-            <title>SKY_SPORT_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_1_HD</link> 
+            <title>IT: Sky Prima fila 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 1 HD</link> 
         </item> 
           <item> 
-            <title>SKY_SPORT_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_2HD</link> 
+            <title>IT: Sky Prima fila 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 2 HD</link> 
         </item> 
           <item> 
-            <title>SKY_SUPERCALCIO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1785.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SUPERCALCIO_HD</link> 
+            <title>IT: Sky Prima fila 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 3 HD</link> 
         </item> 
           <item> 
-            <title>SKY_MOTO_GP_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipbox.ddns.me:8080/live/paris/paris/1786.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_MOTO_GP_HD</link> 
+            <title>IT: Sky Prima fila 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 4 HD</link> 
         </item> 
-         is/paris/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING_it</link> 
+          <item> 
+            <title>IT: Sky Prima fila 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 5 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 6 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 7 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/594.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 8 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 9 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 10 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 11 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 11 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 12 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 12 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 13 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 14 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 14 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima fila 15 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima fila 15 HD</link> 
+        </item> 
+          <item> 
+            <title>IT: Sky Prima Fila WWE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/sod1414/141414/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Prima Fila WWE HD</link> 
         </item> 
   
