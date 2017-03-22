@@ -40,168 +40,273 @@
  
  
   
+ 
           <item> 
             <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
             <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1970.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
         </item> 
           <item> 
             <title>PT: RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2219.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2055.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>PT: Plus TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Plus TVI</link> 
+            <title>PT: RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>PT: TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
+            <title>PT: RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES</link> 
         </item> 
           <item> 
-            <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>PT: SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2228.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2225.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2053.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
             <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2226.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT: SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2224.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC HD</link> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2052.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
         </item> 
           <item> 
             <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2227.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT: TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2236.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT: Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>PT: NBA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NBA HD</link> 
+            <title>PT: TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2238.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+            <title>PT: TVI FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2051.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
         </item> 
           <item> 
-            <title>PT: Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+            <title>PT: A bola</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A bola</link> 
         </item> 
           <item> 
-            <title>PT: Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2221.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
         </item> 
           <item> 
-            <title>PT: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+            <title>PT: HollyWood SD/HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HollyWood SD/HD</link> 
         </item> 
           <item> 
-            <title>PT: Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2223.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+            <title>PT: Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
         </item> 
           <item> 
-            <title>PT: FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY</link> 
+            <title>PT: Caca &amp; Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca &amp; Pesca</link> 
         </item> 
           <item> 
-            <title>PT: Eurosport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2247.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport News</link> 
+            <title>PT: 24 Kitchen</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 Kitchen</link> 
         </item> 
           <item> 
-            <title>PT: Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Q</link> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
         </item> 
           <item> 
-            <title>PT: AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Niclelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Niclelodeon</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1823.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1824.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime HD</link> 
-        </item> 
-          <item> 
-            <title>PT: PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title>PT: NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>PT: MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>PT: JIMJAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIMJAM</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV Cine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2233.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Series</link> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
         </item> 
           <item> 
             <title>PT: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
         </item> 
           <item> 
-            <title>PT: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.kmsat.info:8000/live/964725081007/001DEC061EE1/2237.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+            <title>PT: Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
+        </item> 
+          <item> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia</link> 
+        </item> 
+          <item> 
+            <title>PT: Porto Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal</link> 
+        </item> 
+          <item> 
+            <title>PT: REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>PT: E! Entertaunment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertaunment</link> 
+        </item> 
+          <item> 
+            <title>PT: Cancao Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cancao Nova</link> 
+        </item> 
+          <item> 
+            <title>PT: Cartoon NetWork</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork</link> 
+        </item> 
+          <item> 
+            <title>PT: PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
+        </item> 
+          <item> 
+            <title>PT: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>PT: Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
+        </item> 
+          <item> 
+            <title>PT: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
+        </item> 
+          <item> 
+            <title>PT: CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>PT: TV record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV record</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+        </item> 
+          <item> 
+            <title>PT: TV GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Nat Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic</link> 
+        </item> 
+          <item> 
+            <title>PT: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Series</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2480.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>PT: SPORT TV AMERICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SPORT TV AMERICA</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/610/TcacB0P12N/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT HD</link> 
         </item> 
   
