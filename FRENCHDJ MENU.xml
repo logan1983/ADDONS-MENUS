@@ -1,105 +1,39 @@
-<<<<<<< HEAD
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
+<SetViewMode>50</SetViewMode>
 
+##################################################################################################
+<item>
+<title>[COLOR white][B][ Addons: [COLOR deepskyblue][B] Jami :: PT.DocS.HD :: Alive.HD  [/B][COLOR white][B] Provider: [COLOR deepskyblue][B] frenchdj [COLOR white]][/B][/COLOR]</title
+<link>http://i.imgur.com/BbjsQFK</link>
+<thumbnail>http://i.imgur.com/XAAQRCK.png</thumbnail>
 </item>
-<channel>
-<name>[COLOR red]PT[/COLOR] [COLOR lime]SERVIDOR 1[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/I4CJ5a.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S1.xml</externallink>
-</subitem>
+##################################################################################################
 
-
-
-<channels>
-<channel>	
-<name>[COLOR red]PT[/COLOR] [COLOR lime]SERVIDOR 2[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/6RPgMh.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S2.xml</externallink>
-</subitem>
+<item>
+<title>[B][COLOR white]. Jami[/COLOR][/B]</title
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.jami/</jsonrpc>
+<thumbnail>http://i.imgur.com/A1Cw8VF.png</thumbnail>
+<fanart>http://i.imgur.com/Ytf0rXA.jpg</fanart>
 </item>
 
-
-
-<channels>
-<channel>	
-<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 3[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/bqys8h.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S3.xml</externallink>
-</subitem>
+<item>
+<title>[B][COLOR white]. PT.DocS.HD[/COLOR][/B]</title
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.pt.docs.hd/</jsonrpc>
+<thumbnail>http://i.imgur.com/D1GE5aA.png</thumbnail>
+<fanart>http://i.imgur.com/Zdb3hlC.jpg</fanart>
 </item>
 
-
-
-<channel>
-<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 4[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/PRpoEA.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S4.xml</externallink>
-</channel>
-
-
-
-
-
-
-
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-
-
-
-</item>
-<channel>
-<name>[COLOR red]PT[/COLOR] [COLOR lime]SERVIDOR 1[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/I4CJ5a.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S1.xml</externallink>
-</subitem>
-
-
-
-<channels>
-<channel>	
-<name>[COLOR red]PT[/COLOR] [COLOR lime]SERVIDOR 2[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/6RPgMh.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S2.xml</externallink>
-</subitem>
+<item>
+<title>[B][COLOR white]. Alive.HD[/COLOR][/B]</title
+<link>http://fui.me</link>
+<jsonrpc>plugin://plugin.video.alive.hd/</jsonrpc>
+<thumbnail>http://i.imgur.com/LMXr5XP.png</thumbnail>
+<fanart>http://i.imgur.com/Oij1EVa.jpg</fanart>
 </item>
 
 
-
-<channels>
-<channel>	
-<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 3[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/bqys8h.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S3.xml</externallink>
-</subitem>
-</item>
-
-
-
-<channel>
-<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 4[/COLOR]</name>
-<thumbnail>http://i.cubeupload.com/PRpoEA.png</thumbnail>
-<fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S4.xml</externallink>
-</channel>
-
-
-
-
-
-
-
->>>>>>> origin/master
