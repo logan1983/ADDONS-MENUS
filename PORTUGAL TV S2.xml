@@ -302,18 +302,6 @@
 
 
 <item>
-<title[COLOR white] [B] TVI FICCAO [/B] [/COLOR]</title>
-<sportsdevilhttp://www.estadiofutebol.com/gratis/tvificcao</sportsdevil>
-<refererhttp://ezcast.tv/</referer>
-<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnailhttp://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
-</item>
-
-
-
-
-
-<item>
 <title>[COLOR white] [B] SIC MULHER [/B] [/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
 <referer>http://ucaster.eu/</referer>
@@ -344,7 +332,7 @@
 
 <item>
 <title>[COLOR white] [B] TV CINE 1 [/B] [/COLOR]</title>
-<linkplugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 1</link>
+<link>http://62.167.50.245:8000/play/a027</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png</thumbnail>
 </item>
@@ -355,7 +343,7 @@
  
 <item>
 <title>[COLOR white] [B] TV CINE 2 [/B] [/COLOR]</title>
-<linkplugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 2</link>
+<link>http://62.167.50.245:8000/play/a015</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 </item>
@@ -370,7 +358,7 @@
  
 <item>
 <title>[COLOR white] [B] TV CINE 3 [/B] [/COLOR]</title>
-<linkplugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 3</link>
+<link>http://62.167.50.245:8000/play/a028</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC3.png</thumbnail>
 </item>
@@ -380,7 +368,7 @@
 
 <item>
 <title>[COLOR white] [B] TV CINE 4 [/B] [/COLOR]</title>
-<linkplugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=TV CINE 4</link>
+<link>http://62.167.50.245:8000/play/a01e</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
 </item>
@@ -417,8 +405,7 @@
 
 <item>
 <title>[COLOR white] [B] HOLLYWOOD [/B] [/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/hollywood</sportsdevil>
-<referer>http://ucaster.eu/</referer>
+<link>http://62.167.50.245:8000/play/a014</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
 </item>
