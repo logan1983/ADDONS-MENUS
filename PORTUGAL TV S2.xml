@@ -95,7 +95,7 @@
 <item>
 <title>[COLOR white] [B] SIC NOTICIAS HD[/B] [/COLOR] </title>
 <link>http://62.167.50.245:8000/play/a01x</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<fanart>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</fanart>
 </item>
 
 <item>
@@ -140,106 +140,8 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
 </item>
 
-<item>
-<title>[COLOR white] [B] ECONOMICO TV [/B] [/COLOR]</title>
-<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B] CANAL PARLAMENTO [/B] [/COLOR]</title>
-<link>http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/chunklist_w1713826381.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/ctxu7ihbx/canalparl_grande.jpg</thumbnail>
-</item>
 
 
-
-
-<item>                        
-<title>[COLOR white] [B] RECORD [/B] [/COLOR]</title>
-<link$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>m3u8</name>
-<expres>file: '([^']*)</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=17&amp;width=640&amp;height=360&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/ch/record.php?width=600&height=384</referer>
-</regex>
-<regex>
-<name>page</name>
-<expres>file='([^']*)</expres>
-<page>http://ekostreams.co/ch/record.php?width=600&height=384</page>
-<referer></referer>
-</regex>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://moonbh.com.br/wp-content/uploads/2016/04/Record-HD-3D.jpg</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR white] [B] RECORD [/B] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://buly.mywire.org:19500/live/ruben/ruben/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://moonbh.com.br/wp-content/uploads/2016/04/Record-HD-3D.jpg</thumbnail>
-</item> 
-
-
-<item>
-<title>[COLOR white] [B] GLOBO [/B] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://buly.mywire.org:19500/live/ruben/ruben/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://iptv.codigolivre.net/logos/Globo%20HD.png</thumbnail>
-</item> 
-
-
- 
-
-<item>
-<title>[COLOR white] [B] GLOBO [/B] [/COLOR]</title>
-<link$doregex[m3u8]</link>
-<regex>
-<name>m3u8</name>
-<expres>file: '([^']*)</expres>
-<page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://pxstream.tv/embedPlayerScript.js</page>
-<referer>http://ekostreams.co/ch/bobo_rbs.php?width=600&height=384</referer>
-</regex>
-<regex>
-<name>page</name>
-<expres>file='([^']*)</expres>
-<page>http://ekostreams.co/ch/bobo_rbs.php?width=600&height=384</page>
-</regex>
-<thumbnail>http://iptv.codigolivre.net/logos/Globo%20HD.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</item>
-<item>
- 
- 
-<item>                        
-<title>[COLOR white] [B] BAND [/B] [/COLOR]</title>  
-<link>$doregex[m3u8]|User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36</link>
-<regex>
-<name>m3u8</name>
-<expres>file: '([^']*)</expres><page>http://pxstream.tv/embed.php?file=$doregex[page]&amp;referrer=http://aovivonatv.com/player.php?id=18&amp;width=640&amp;height=360&amp;jwplayer=flash</page>
-<referer>http://ekostreams.co/ch/band.php?width=640&amp;height=384</referer>
-</regex>
-<regex>
-<name>page</name>
-<expres>file='([^']*)</expres>
-<page>http://ekostreams.co/ch/band.php?width=640&amp;height=384</page>
-<referer> </referer>
-</regex>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2000px-Rede_Bandeirantes_logo_2011.svg.png</thumbnail>
-</item>
-
-
-
-<item>  
-<title>[COLOR white] [B] LISBOA TV[/B] [/COLOR]</title>
-<link>rtmp://213.13.26.43/live/ playpath=tvldireto swfUrl=http://js.sapo.pt/Projects/SAPOPlayer/20160801R1/jwplayer.flash.swf live=1 pageUrl=http://rd3.videos.sapo.pt/playhtml?live=rtmp://{$hostname}/live/tvldireto&file=http://rd3.videos.sapo.pt/y7CW0D0aVqUNyVjIAfpd/mov/24&quality=sd</link>
-<fanart></fanart>
-<thumbnail>https://s31.postimg.org/54dls1fyj/IVT1_Lisboa.png</thumbnail>
- </item>
  
 <item>  
 <title>[COLOR white] [B] AUTO HOJE TV [/B] [/COLOR]</title>
