@@ -464,10 +464,328 @@
 </item>
  
 
-
+<item>       
+<title>        [COLOR lime] :)•S2••••LISTA••••BY LOGAN TV••••CHANNELS(:  [/COLOR]        </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
  
-
+<item>                        
+<title>RTP 1</title>                        
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>                        
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/</link>
+</item>
+ 
+<item>                        
+<title>RTP 2</title>                        
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<info>A RTP 2 apresenta uma programacao tematica, com programas proximos da sociedade civil, series, desporto e informacao.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>  
+<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
+<info>RTP 3 apresenta noticias atuais e programas proximos da sociedade civil, series, desporto e informacao.</info>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>SIC  </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/SIC7483874/1/565/440</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<fanart></fanart>
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+</item>
+ 
+ 
+ 
+<item>
+<title>TVI</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+</item>
+ 
+<item>
+<title>TVI</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
+<item>
+ 
+ 
+<item>
+<title>TVI 24</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+<info>Canal dedicado a informacao, onde podera encontrar as noticias mais atuais 24 horas por dia, 7 dias por semana.</info>
+</item>
+ 
+ 
+<item>
+<title>CMTV </title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+<info>As ultimas noticias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
+</item>
+ 
+<item>
+<title>PORTO CANAL</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+<link>http://213.13.26.11:1935/live/portocanal/PSYCHOTEAM.m3u8</link>
+</item>
+ 
+<item>
+<title>PORTO CANAL</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<info>Porto Canal e um canal de televisao portugues dedicado a todo o territorio nacional, com uma programacao diversificada em diversas areas: informacao, deporto e entretenimento. </info>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>SKY SPORTS 1 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/5zc44az4a4rj5jf/skysports1.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 2 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/arrn4b16mlbmmj2/skysports2.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 3 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports3.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/d3d2nwe8qvew75l/skysports3.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 4 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports4.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/59kttn4p1mrjy1d/skysports4.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 5 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports5.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/5uym4sr51ao0jjo/skysports5.png</thumbnail>
+</item>
+<item>
+<title>BT SPORTS 1 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/BTSport1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/qxzc2bedfbjphh6/btsports1.png</thumbnail>
+</item>
+<item>
+<title>BT SPORTS 2 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/BTSport2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/ztbornamxbj5puz/btsports2.png</thumbnail>
+</item>
+<item>
+<title>BT SPORTS 3</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests, re
+ link = re.findall('src="(.*/channel.php.*?)"', page_data)[0].replace('channel','embed')
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36', 'Referer':'http://castfree.me/ace/uk/bteurope.php'}
+ source= requests.get(link, headers = headers)
+ vars = re.search(r"var name.+?'(.*?)'.*\s.*edgeserverip.+?'(.*?)'.*\s.*appName.+?'(.*?)'", source.text)
+ token = re.findall('"(\.m3u8[^"]+)"', source.text)[0]
+ return 'http://' + vars.group(2) + '/' + vars.group(3) + '/' + vars.group(1) + token + '|Referer=http://castfree.me/ace/uk/bteurope.php'
+]]></expres>
+<page>http://castfree.me/ace/uk/bteurope.php</page>
+<cookieJar></cookieJar>
+<agent></agent>
+</regex>
+</item>
+<item>
+<title>SPORT KLUB 1</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SportKlub1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/byqwymga3xke95b/SK1.png</thumbnail>
+</item>
+<item>
+<title>SPORT KLUB 2</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SportKlub2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/1who997ucjvjgqz/SK2.png</thumbnail>
+</item>
+<item>
+<title>SPORT KLUB 3</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SportKlub3.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/s87bp9bawa05fba/SK3.png</thumbnail>
+</item>
+<item>
+<title>MATCH FUTBOL 1</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/MatchFutbol1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATCH FUTBOL 2</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/MatchFutbol2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATCH FUTBOL 3</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/MatchFutbol3.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>                        
+<title>CAPITAL TV </title>                        
+<fanart></fanart>                        
+<thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-capital-tv.png</thumbnail>                        
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>                        
+</item>
+ 
+<item>
+<title>Eska Party TV</title>  
+<link>http://stream.smcloud.net:1935/tv/eska_party/eska_party_720p/playlist.m3u8</link>
+<thumbnail>http://thumbs.eska.pl/common/1/0/s/1065115QbfX.png/ru-0-r-108,108-n-1065115QbfX.png</thumbnail>
+</item>
+ 
+<item>                        
+<title>CITY MUSIC  </title>                        
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif</thumbnail>                      
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8</link>                      
+</item>
+ 
+<item>                        
+<title>Ibiza Global TV  </title>                        
+<fanart></fanart>                        
+<thumbnail>http://www.allzicradio.com/media/radios/logo-2.png</thumbnail>                      
+<link>http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8</link>                        
+</item>
 
 
 
