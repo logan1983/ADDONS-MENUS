@@ -791,7 +791,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>       
+<title>        [COLOR yellow] :)••••LISTA••••TV••••CHANNELS(:  [/COLOR]        </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lime]LOGAN[/COLOR]WEBTV[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lime]LOGAN[/COLOR] WEBTV [makelist.param1]</link>
+<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item>
 
 
 
