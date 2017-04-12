@@ -29,197 +29,546 @@
  
  
   
+  
           <item> 
             <title>Rai 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Rai 1 HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24220.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 HD Piu1</link> 
         </item> 
           <item> 
             <title>Rai 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22929.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Rai 2 HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24203.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 HD Piu1</link> 
         </item> 
           <item> 
             <title>Rai 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 HD</link> 
+        </item> 
+          <item> 
+            <title>Rai 3 HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 HD Piu1</link> 
         </item> 
           <item> 
             <title>Rete 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3813.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 HD</link> 
+        </item> 
+          <item> 
+            <title>Rete 4 HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24205.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 HD Piu1</link> 
         </item> 
           <item> 
             <title>Canale 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3811.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD</link> 
+        </item> 
+          <item> 
+            <title>Canale 5 HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24195.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD Piu1</link> 
         </item> 
           <item> 
             <title>Italia 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3812.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 HD</link> 
         </item> 
           <item> 
-            <title>La 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 7</link> 
+            <title>Italia 1 HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24202.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 HD Piu1</link> 
         </item> 
           <item> 
-            <title>TV8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV8</link> 
+            <title>La 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3814.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 7 HD</link> 
         </item> 
           <item> 
-            <title>cielo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=cielo HD</link> 
+            <title>TV 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 8</link> 
         </item> 
           <item> 
-            <title>RSI LA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI LA 1 HD</link> 
+            <title>---- < SKY CINEMA > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < SKY CINEMA > ---</link> 
         </item> 
           <item> 
-            <title>RSI LA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI LA 2 HD</link> 
+            <title>Sky Cinema 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3806.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 HD</link> 
         </item> 
           <item> 
-            <title>Sky TG 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky TG 24</link> 
+            <title>Sky Cinema HD +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22347.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema HD +1</link> 
         </item> 
           <item> 
-            <title>Tgcom24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tgcom24</link> 
+            <title>Sky Cinema HD +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema HD +24</link> 
         </item> 
           <item> 
-            <title>Euronews IT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews IT</link> 
-        </item> 
-          <item> 
-            <title>Cinema Uno HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Uno HD</link> 
-        </item> 
-          <item> 
-            <title>Cinema +1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema +1 HD</link> 
-        </item> 
-          <item> 
-            <title>Cinema +24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema +24 HD</link> 
-        </item> 
-          <item> 
-            <title>CinemaFamily HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=CinemaFamily HD</link> 
-        </item> 
-          <item> 
-            <title>Cinema Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Hits HD</link> 
+            <title>Sky Cinema Hits HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3820.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Cinema Max HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Max HD</link> 
+            <title>Sky Cinema Hits HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits HD Piu1</link> 
         </item> 
           <item> 
-            <title>Cinema Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Comedy HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24212.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>Cinema Passion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Passion HD</link> 
+            <title>Sky Cinema Family  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family  HD</link> 
         </item> 
           <item> 
-            <title>Cinema Cult HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Cult HD</link> 
+            <title>Sky Cinema Family HD +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family HD +1</link> 
         </item> 
           <item> 
-            <title>Cinema Classics HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinema Classics HD</link> 
+            <title>Sky Cinema Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3807.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max HD +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max HD +1</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Passion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3821.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Passion HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24214.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22348.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>Sky CInema Classic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky CInema Classic HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Classic HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3236.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>---- < PREMIUM CINEMA > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/17975.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < PREMIUM CINEMA > ---</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema 2 +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Studio Universal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Studio Universal</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Emotion</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Comedy</link> 
+        </item> 
+          <item> 
+            <title>Paramount Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13608.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema Energy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Energy HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Cinema Energy +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Energy +24</link> 
+        </item> 
+          <item> 
+            <title>---- < PRIMAFILA LIVE > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22899.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < PRIMAFILA LIVE > ---</link> 
+        </item> 
+          <item> 
+            <title>VETRINA PRIMAFILA HD LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22879.ts&amp;streamtype=TSDOWNLOADER&amp;name=VETRINA PRIMAFILA HD LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 1 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22898.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 1 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 2 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22887.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 2 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 3 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22886.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 3 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 4 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22885.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 4 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 5 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22884.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 5 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 6 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22883.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 6 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 7 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22882.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 7 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 8 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22881.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 8 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 9 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22880.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 9 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 10 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22897.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 10 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 11 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22896.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 11 LIVE</link> 
+        </item> 
+          <item> 
+            <title>Prima Fila 12 LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24559.ts&amp;streamtype=TSDOWNLOADER&amp;name=Prima Fila 12 LIVE</link> 
+        </item> 
+          <item> 
+            <title>---- < INTRATTENIMENTO SKY > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < INTRATTENIMENTO SKY > ---</link> 
         </item> 
           <item> 
             <title>Sky 3D</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 3D</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12007.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky 3D</link> 
         </item> 
           <item> 
             <title>Sky Uno HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3808.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Uno HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18705.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Uno HD Piu1</link> 
         </item> 
           <item> 
             <title>Sky Atlantic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24238.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD</link> 
         </item> 
           <item> 
-            <title>Fox Animation HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation HD</link> 
+            <title>Sky Atlantic HD PIU1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18711.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic HD PIU1</link> 
         </item> 
           <item> 
-            <title>Fox Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy HD</link> 
-        </item> 
-          <item> 
-            <title>Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD</link> 
+            <title>Sposa HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sposa HD</link> 
         </item> 
           <item> 
             <title>Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3801.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD</link> 
+        </item> 
+          <item> 
+            <title>Fox HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18707.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Life HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18708.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD Piu1</link> 
         </item> 
           <item> 
             <title>Fox Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Crime HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/18709.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>Fox Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/21666.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Comedy Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy Piu1</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/21667.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation HD</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/21105.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation HD Piu1</link> 
+        </item> 
+          <item> 
+            <title>Crime Investigation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3649.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime Investigation HD</link> 
+        </item> 
+          <item> 
+            <title>Crime Investigation HD Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime Investigation HD Piu1</link> 
         </item> 
           <item> 
             <title>Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/17130.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
         </item> 
           <item> 
-            <title>Topcrime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Topcrime</link> 
+            <title>---- < INTRATTENIMENTO PREMIUM > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22354.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < INTRATTENIMENTO PREMIUM > ---</link> 
         </item> 
           <item> 
-            <title>Investigation Discovery - Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=Investigation Discovery - Premium</link> 
+            <title>Premium Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action HD</link> 
         </item> 
           <item> 
-            <title>Mediaset Italia Due</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Italia Due</link> 
+            <title>Premium Cinema Action +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema Action +24</link> 
         </item> 
           <item> 
-            <title>La5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=La5</link> 
+            <title>Premium Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Crime +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Investigation Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Investigation Discovery</link> 
+        </item> 
+          <item> 
+            <title>Premium Stories</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2461.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories</link> 
+        </item> 
+          <item> 
+            <title>Premium Stories +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Joy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joy</link> 
+        </item> 
+          <item> 
+            <title>Premium Joy +24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joy +24</link> 
+        </item> 
+          <item> 
+            <title>Premium Extra 1 ( GF )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22352.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Extra 1 ( GF )</link> 
+        </item> 
+          <item> 
+            <title>Premium Extra 2 ( GF )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22353.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Extra 2 ( GF )</link> 
+        </item> 
+          <item> 
+            <title>---- < TIVUSAT > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23293.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < TIVUSAT > ---</link> 
+        </item> 
+          <item> 
+            <title>Alice</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alice</link> 
+        </item> 
+          <item> 
+            <title>Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax</link> 
+        </item> 
+          <item> 
+            <title>Dmax Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12902.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax Piu1</link> 
+        </item> 
+          <item> 
+            <title>Dee Jay Tv  1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12838.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dee Jay Tv  1</link> 
+        </item> 
+          <item> 
+            <title>Cielo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cielo</link> 
+        </item> 
+          <item> 
+            <title>E! Enternament</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! Enternament</link> 
+        </item> 
+          <item> 
+            <title>Giallo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3223.ts&amp;streamtype=TSDOWNLOADER&amp;name=Giallo</link> 
         </item> 
           <item> 
             <title>Iris</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iris</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iris</link> 
         </item> 
           <item> 
-            <title>Rai Movie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Movie</link> 
+            <title>Fine Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine Living</link> 
+        </item> 
+          <item> 
+            <title>Espansione TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/21070.ts&amp;streamtype=TSDOWNLOADER&amp;name=Espansione TV</link> 
+        </item> 
+          <item> 
+            <title>Gambero Rosso HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3658.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gambero Rosso HD</link> 
+        </item> 
+          <item> 
+            <title>La 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 5</link> 
+        </item> 
+          <item> 
+            <title>Italia 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 2</link> 
+        </item> 
+          <item> 
+            <title>La 7d</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 7d</link> 
+        </item> 
+          <item> 
+            <title>Mediaset Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2434.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Extra</link> 
+        </item> 
+          <item> 
+            <title>Marco Polo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=Marco Polo</link> 
         </item> 
           <item> 
             <title>Rai 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 4</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 4</link> 
         </item> 
           <item> 
             <title>Rai 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 5</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 5</link> 
         </item> 
           <item> 
-            <title>Mediaset EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset EXTRA</link> 
+            <title>Rai Movie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Movie</link> 
         </item> 
           <item> 
-            <title>Sky Sport24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport24 HD</link> 
+            <title>Rai Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2466.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium</link> 
+        </item> 
+          <item> 
+            <title>Real Time</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time</link> 
+        </item> 
+          <item> 
+            <title>Auto Moto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3226.ts&amp;streamtype=TSDOWNLOADER&amp;name=Auto Moto</link> 
+        </item> 
+          <item> 
+            <title>Rai Scuola</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Scuola</link> 
+        </item> 
+          <item> 
+            <title>Rai Scuola HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23291.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Scuola HD</link> 
+        </item> 
+          <item> 
+            <title>Rai Senato</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Senato</link> 
+        </item> 
+          <item> 
+            <title>Pescare Cacciare TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23292.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pescare Cacciare TV</link> 
+        </item> 
+          <item> 
+            <title>Real Time Piu1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12834.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time Piu1 HD</link> 
+        </item> 
+          <item> 
+            <title>TV 2000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 2000</link> 
+        </item> 
+          <item> 
+            <title>Top Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Top Crime</link> 
+        </item> 
+          <item> 
+            <title>Tv Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2499.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv Globo</link> 
+        </item> 
+          <item> 
+            <title>Rai Storia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23290.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Storia HD</link> 
+        </item> 
+          <item> 
+            <title>Rai Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Rai Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Sport Italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/7156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Italia</link> 
+        </item> 
+          <item> 
+            <title>---- < SKY SPORT > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < SKY SPORT > ---</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport +24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport +24 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Plus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/8640.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24562.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 FHD</link> 
         </item> 
           <item> 
             <title>Sky Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD</link> 
         </item> 
           <item> 
             <title>Sky Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD</link> 
         </item> 
           <item> 
             <title>Sky Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Mix FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix FHD</link> 
         </item> 
           <item> 
             <title>Sky Sport Mix HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/753.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23286.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix HD</link> 
         </item> 
           <item> 
             <title>Fox Sports HD</title> 
@@ -227,478 +576,750 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Sky Sport Plus HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus HD</link> 
-        </item> 
-          <item> 
-            <title>Bike Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channel HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3109.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>Sky Sport F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport F1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport F1 HD</link> 
         </item> 
           <item> 
-            <title>Sky Sport MotoGP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport MotoGP HD</link> 
+            <title>Sky Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP HD</link> 
         </item> 
           <item> 
-            <title>SMACKDOWN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=SMACKDOWN</link> 
+            <title>WWE Wrestling HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22461.ts&amp;streamtype=TSDOWNLOADER&amp;name=WWE Wrestling HD</link> 
         </item> 
           <item> 
-            <title>RAW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAW</link> 
+            <title>Class Horse Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Class Horse Tv</link> 
         </item> 
           <item> 
-            <title>PPV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=PPV</link> 
+            <title>Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
         </item> 
           <item> 
-            <title>MAIN EVENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAIN EVENT</link> 
+            <title>Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4157.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD</link> 
         </item> 
           <item> 
-            <title>J | Juventus TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=J | Juventus TV</link> 
+            <title>Supertennis HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Supertennis HD</link> 
         </item> 
           <item> 
-            <title>Inter Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inter Channel</link> 
+            <title>Nuvolari</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3666.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nuvolari</link> 
         </item> 
           <item> 
-            <title>Roma TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=Roma TV</link> 
+            <title>Poker Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22463.ts&amp;streamtype=TSDOWNLOADER&amp;name=Poker Central</link> 
         </item> 
           <item> 
-            <title>Milan TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=Milan TV</link> 
+            <title>Poker Italia Piu24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13702.ts&amp;streamtype=TSDOWNLOADER&amp;name=Poker Italia Piu24</link> 
         </item> 
           <item> 
-            <title>SuperTennis HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=SuperTennis HD</link> 
+            <title>Bike Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13859.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channel</link> 
+        </item> 
+          <item> 
+            <title>Bike Channel  Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/20651.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channel  Piu1</link> 
+        </item> 
+          <item> 
+            <title>Fight Network italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22901.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight Network italia</link> 
+        </item> 
+          <item> 
+            <title>---- < SKY CALCIO  > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/1359.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < SKY CALCIO  > ---</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio INFO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22900.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio INFO</link> 
+        </item> 
+          <item> 
+            <title>Mosaico SuperCalcio Calcio 1-2-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24556.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico SuperCalcio Calcio 1-2-3</link> 
+        </item> 
+          <item> 
+            <title>Sky Supercalcio FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio FHD</link> 
         </item> 
           <item> 
             <title>Sky Supercalcio HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22321.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2470.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 FHD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22322.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/6107.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 HD</link> 
         </item> 
           <item> 
             <title>Sky Calcio 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/8497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 HD</link> 
         </item> 
           <item> 
-            <title>LEGA PRO Info</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=LEGA PRO Info</link> 
+            <title>Sky Calcio 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 9</link> 
         </item> 
           <item> 
-            <title>LegaPro - Piacenza</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=LegaPro - Piacenza</link> 
+            <title>Sky Calcio 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23285.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 10</link> 
         </item> 
           <item> 
-            <title>Lega Pro Taranto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Taranto</link> 
+            <title>Juventus TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/8620.ts&amp;streamtype=TSDOWNLOADER&amp;name=Juventus TV</link> 
         </item> 
           <item> 
-            <title>Lega Pro Siracusa (solo trasferte)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Siracusa (solo trasferte)</link> 
+            <title>Milan Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/8618.ts&amp;streamtype=TSDOWNLOADER&amp;name=Milan Channel</link> 
         </item> 
           <item> 
-            <title>Lega Pro- PRO PIACENZA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro- PRO PIACENZA</link> 
+            <title>Inter Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4215.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inter Channel</link> 
         </item> 
           <item> 
-            <title>Lega Pro Parma</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1209.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Parma</link> 
+            <title>Roma TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/8622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Roma TV</link> 
         </item> 
           <item> 
-            <title>Lega Pro Messina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1208.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Messina</link> 
+            <title>Lazio Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12211.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lazio Channel</link> 
         </item> 
           <item> 
-            <title>Lega Pro Melfi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1207.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Melfi</link> 
+            <title>Torino Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24275.ts&amp;streamtype=TSDOWNLOADER&amp;name=Torino Channel</link> 
         </item> 
           <item> 
-            <title>Lega Pro Livorno</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Livorno</link> 
+            <title>---- < PREMIUM SPORT > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22355.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < PREMIUM SPORT > ---</link> 
         </item> 
           <item> 
-            <title>Lega Pro Lecce</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Lecce</link> 
+            <title>Mosaico Prem. Sport 1 2 Calcio 1 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24558.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico Prem. Sport 1 2 Calcio 1 2</link> 
         </item> 
           <item> 
-            <title>Lega Pro Juve Stabia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Juve Stabia</link> 
+            <title>Premium Sport 1 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16137.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 1 FHD</link> 
         </item> 
           <item> 
-            <title>Lega Pro Foggia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1212.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Foggia</link> 
+            <title>Premium Sport 2 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16138.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 FHD</link> 
         </item> 
           <item> 
-            <title>Lega Pro Fidelis Andria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Fidelis Andria</link> 
+            <title>Premium Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3664.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 1 HD</link> 
         </item> 
           <item> 
-            <title>Lega Pro Cosenza</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Cosenza</link> 
+            <title>Premium Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12840.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 HD</link> 
         </item> 
           <item> 
-            <title>Lega Pro Catania</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lega Pro Catania</link> 
-        </item> 
-          <item> 
-            <title>Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD</link> 
-        </item> 
-          <item> 
-            <title>Discovery Sci HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Sci HD</link> 
-        </item> 
-          <item> 
-            <title>DiscoveryT&amp;L HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=DiscoveryT&amp;L HD</link> 
-        </item> 
-          <item> 
-            <title>NationalGeo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=NationalGeo HD</link> 
-        </item> 
-          <item> 
-            <title>NatGeo People HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo People HD</link> 
-        </item> 
-          <item> 
-            <title>NatGeo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo Wild HD</link> 
-        </item> 
-          <item> 
-            <title>History HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=History HD</link> 
-        </item> 
-          <item> 
-            <title>Sky Arte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arte HD</link> 
-        </item> 
-          <item> 
-            <title>DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
-        </item> 
-          <item> 
-            <title>Focus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=Focus</link> 
-        </item> 
-          <item> 
-            <title>Real Time HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time HD</link> 
-        </item> 
-          <item> 
-            <title>Marcopolo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=Marcopolo</link> 
-        </item> 
-          <item> 
-            <title>Fine Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine Living</link> 
-        </item> 
-          <item> 
-            <title>ClassHorse TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=ClassHorse TV</link> 
-        </item> 
-          <item> 
-            <title>PESCA e Caccia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PESCA e Caccia</link> 
-        </item> 
-          <item> 
-            <title>CACCIA e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACCIA e Pesca</link> 
-        </item> 
-          <item> 
-            <title>Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>Disney XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD HD</link> 
-        </item> 
-          <item> 
-            <title>Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>DisneyChannel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=DisneyChannel HD</link> 
-        </item> 
-          <item> 
-            <title>Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
-        </item> 
-          <item> 
-            <title>MAN-GA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAN-GA</link> 
-        </item> 
-          <item> 
-            <title>Cartoonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito</link> 
-        </item> 
-          <item> 
-            <title>-frisbee-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=-frisbee-</link> 
-        </item> 
-          <item> 
-            <title>K2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=K2</link> 
-        </item> 
-          <item> 
-            <title>Rai Gulp</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp</link> 
-        </item> 
-          <item> 
-            <title>Rai YoYo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai YoYo</link> 
-        </item> 
-          <item> 
-            <title>kiss kiss Napoli TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=kiss kiss Napoli TV</link> 
-        </item> 
-          <item> 
-            <title>Virgin Radio</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1246.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin Radio</link> 
-        </item> 
-          <item> 
-            <title>RTL 102.5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1244.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 102.5</link> 
-        </item> 
-          <item> 
-            <title>Radio 105</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1245.ts&amp;streamtype=TSDOWNLOADER&amp;name=Radio 105</link> 
-        </item> 
-          <item> 
-            <title>M2o Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1247.ts&amp;streamtype=TSDOWNLOADER&amp;name=M2o Tv</link> 
-        </item> 
-          <item> 
-            <title>Capital TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1243.ts&amp;streamtype=TSDOWNLOADER&amp;name=Capital TV</link> 
-        </item> 
-          <item> 
-            <title>Premium Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema HD</link> 
-        </item> 
-          <item> 
-            <title>Premium Cinema 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 HD</link> 
-        </item> 
-          <item> 
-            <title>Premium Cinema +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema +24</link> 
-        </item> 
-          <item> 
-            <title>Premium Cinema 2 +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Cinema 2 +24</link> 
-        </item> 
-          <item> 
-            <title>Premium Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Comedy</link> 
-        </item> 
-          <item> 
-            <title>Premium Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action HD</link> 
-        </item> 
-          <item> 
-            <title>Premium Action +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Action +24</link> 
-        </item> 
-          <item> 
-            <title>Premium Energy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Energy HD</link> 
-        </item> 
-          <item> 
-            <title>Premium Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Emotion</link> 
-        </item> 
-          <item> 
-            <title>Premium Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime HD</link> 
-        </item> 
-          <item> 
-            <title>Premium Crime +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Crime +24</link> 
-        </item> 
-          <item> 
-            <title>Premium Stories</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories</link> 
-        </item> 
-          <item> 
-            <title>Premium Stories +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Stories +24</link> 
-        </item> 
-          <item> 
-            <title>Premium Joi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joi</link> 
-        </item> 
-          <item> 
-            <title>Premium Joi +24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Joi +24</link> 
-        </item> 
-          <item> 
-            <title>Studio Universal - Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=Studio Universal - Premium</link> 
-        </item> 
-          <item> 
-            <title>Premium Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport HD</link> 
+            <title>Premium Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 1</link> 
         </item> 
           <item> 
             <title>Premium Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2</link> 
+        </item> 
+          <item> 
+            <title>---- < PREMIUM CALCIO > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22356.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < PREMIUM CALCIO > ---</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/5297.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1</link> 
         </item> 
           <item> 
             <title>Premium Calcio 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 HD</link> 
         </item> 
           <item> 
-            <title>Premium Calcio 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2</link> 
+            <title>Premium Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2 HD</link> 
         </item> 
           <item> 
-            <title>Premium Calcio 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3</link> 
+            <title>Premium Calcio 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13118.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3 HD</link> 
         </item> 
           <item> 
-            <title>Premium Calcio 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 4</link> 
+            <title>Premium Calcio 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13119.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 4 HD</link> 
         </item> 
           <item> 
-            <title>Premium Calcio 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 5</link> 
+            <title>Premium Calcio 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 5 HD</link> 
         </item> 
           <item> 
-            <title>Premium Calcio 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 6</link> 
+            <title>Premium Calcio 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 6 HD</link> 
         </item> 
           <item> 
-            <title>Premium Calcio 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 7</link> 
+            <title>Premium Calcio 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13122.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 7 HD</link> 
         </item> 
           <item> 
-            <title>Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
+            <title>---- < LPC SPORTUBE > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13751.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < LPC SPORTUBE > ---</link> 
         </item> 
           <item> 
-            <title>Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2</link> 
+            <title>[SPORTUBE] Info Channel LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24229.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Info Channel LPC</link> 
         </item> 
           <item> 
-            <title>Rai Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport 1</link> 
+            <title>[SPORTUBE] Catania LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24225.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Catania LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 1 HD</link> 
+            <title>[SPORTUBE] Cosenza LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24226.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Cosenza LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 2</link> 
+            <title>[SPORTUBE] F. Andria LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24227.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] F. Andria LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 3 HD</link> 
+            <title>[SPORTUBE] Foggia LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24228.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Foggia LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 4</link> 
+            <title>[SPORTUBE] J. Stabia LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24230.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] J. Stabia LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1188.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 5 HD</link> 
+            <title>[SPORTUBE] Lecce LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24231.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Lecce LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 6</link> 
+            <title>[SPORTUBE] Livorno LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24232.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Livorno LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 7 HD</link> 
+            <title>[SPORTUBE] Melfi LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24237.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Melfi LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 8</link> 
+            <title>[SPORTUBE] Messina LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24233.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Messina LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 9 HD</link> 
+            <title>[SPORTUBE] PARMA LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24234.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] PARMA LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 10</link> 
+            <title>[SPORTUBE] Piacenza LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24276.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Piacenza LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 11 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 11 HD</link> 
+            <title>[SPORTUBE] Reggina LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24560.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Reggina LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 12</link> 
+            <title>[SPORTUBE] Siracusa  LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24235.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Siracusa  LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 13 HD</link> 
+            <title>[SPORTUBE] Taranto LPC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24236.ts&amp;streamtype=TSDOWNLOADER&amp;name=[SPORTUBE] Taranto LPC</link> 
         </item> 
           <item> 
-            <title>Primafila 14</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 14</link> 
+            <title>---- < CULTURA > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < CULTURA > ---</link> 
         </item> 
           <item> 
-            <title>Primafila 15</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 15</link> 
+            <title>National Geographic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2437.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD</link> 
         </item> 
           <item> 
-            <title>Primafila 16</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 16</link> 
+            <title>Nat Geo People HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo People HD</link> 
         </item> 
           <item> 
-            <title>Primafila 17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 17</link> 
+            <title>Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD</link> 
         </item> 
           <item> 
-            <title>Primafila 18</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1201.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 18</link> 
+            <title>Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animal Planet</link> 
         </item> 
           <item> 
-            <title>Primafila 19</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skyfree.ddns.net:8000/live/markus/markus/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=Primafila 19</link> 
+            <title>Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3824.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3825.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science HD</link> 
+        </item> 
+          <item> 
+            <title>Discovery T&amp;L HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3817.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery T&amp;L HD</link> 
+        </item> 
+          <item> 
+            <title>Classica HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/17131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Classica HD</link> 
+        </item> 
+          <item> 
+            <title>Caccia e Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3823.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caccia e Pesca</link> 
+        </item> 
+          <item> 
+            <title>Pesca e Caccia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pesca e Caccia</link> 
+        </item> 
+          <item> 
+            <title>Italia Fishing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16160.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia Fishing</link> 
+        </item> 
+          <item> 
+            <title>Focus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Focus</link> 
+        </item> 
+          <item> 
+            <title>History HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/4159.ts&amp;streamtype=TSDOWNLOADER&amp;name=History HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Arte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arte HD</link> 
+        </item> 
+          <item> 
+            <title>---- < CANALI CON RITARDO DI 1H > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22928.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < CANALI CON RITARDO DI 1H > ---</link> 
+        </item> 
+          <item> 
+            <title>SkySportPiu24HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24216.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySportPiu24HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24215.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport2HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24217.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport2HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySport3HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24218.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySport3HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkySuperCalcioHDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24221.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkySuperCalcioHDPiu1</link> 
+        </item> 
+          <item> 
+            <title>SkyCalcio1HDPiu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24222.ts&amp;streamtype=TSDOWNLOADER&amp;name=SkyCalcio1HDPiu1</link> 
+        </item> 
+          <item> 
+            <title>---- < LUCKY EXTRA ULTRA HD > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22459.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < LUCKY EXTRA ULTRA HD > ---</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema 1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Piu1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Piu1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  Piu24 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  Piu24 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Hits UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits UltraHD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22409.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family  1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family  1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max  1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22408.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max  1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Passion UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Piu24 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22403.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Piu24 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22404.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22402.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports UltraHD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22418.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Moto GP UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22405.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Sky Formula 1 UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22406.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Life UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Crime UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime UltraHD</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation UltraHD</link> 
+        </item> 
+          <item> 
+            <title>CI Crime Investigation UltraHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22422.ts&amp;streamtype=TSDOWNLOADER&amp;name=CI Crime Investigation UltraHD</link> 
+        </item> 
+          <item> 
+            <title>---- < LUCKY EXTRA SD > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22460.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < LUCKY EXTRA SD > ---</link> 
+        </item> 
+          <item> 
+            <title>Rai 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Rai 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22449.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 SD</link> 
+        </item> 
+          <item> 
+            <title>Rai 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22448.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 SD</link> 
+        </item> 
+          <item> 
+            <title>Rete 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 SD</link> 
+        </item> 
+          <item> 
+            <title>Canale 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22458.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 SD</link> 
+        </item> 
+          <item> 
+            <title>Italia 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22451.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 SD</link> 
+        </item> 
+          <item> 
+            <title>RSI La1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22446.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La1 SD</link> 
+        </item> 
+          <item> 
+            <title>RSI La2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22445.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La2 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema  Piu24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema  Piu24 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Hits SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22434.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22435.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Family  1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family  1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22432.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Max  1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22433.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max  1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Passion SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22431.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Cult SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Classic SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22439.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Cinema Comedy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22438.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Atlantic SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Atlantic SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Piu24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Piu24 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Plus SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Supercalcio SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Formula 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22430.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Moto GP SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22429.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22452.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Life SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22454.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Crime SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22455.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Crime SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Comedy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22456.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Comedy SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Animation SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/22457.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Animation SD</link> 
+        </item> 
+          <item> 
+            <title>---- < BAMBINI > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/6638.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < BAMBINI > ---</link> 
+        </item> 
+          <item> 
+            <title>LST Cartoon American Dad</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24333.ts&amp;streamtype=TSDOWNLOADER&amp;name=LST Cartoon American Dad</link> 
+        </item> 
+          <item> 
+            <title>LST Cartoon Dragon Ball Super</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24336.ts&amp;streamtype=TSDOWNLOADER&amp;name=LST Cartoon Dragon Ball Super</link> 
+        </item> 
+          <item> 
+            <title>LST Cartoon Futurama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24335.ts&amp;streamtype=TSDOWNLOADER&amp;name=LST Cartoon Futurama</link> 
+        </item> 
+          <item> 
+            <title>LST Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/24334.ts&amp;streamtype=TSDOWNLOADER&amp;name=LST Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>Man-ga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/12210.ts&amp;streamtype=TSDOWNLOADER&amp;name=Man-ga</link> 
+        </item> 
+          <item> 
+            <title>Dea Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/13701.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dea Kids</link> 
+        </item> 
+          <item> 
+            <title>Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/14082.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item> 
+          <item> 
+            <title>Sky Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/16161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>Premium Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/3645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+        </item> 
+          <item> 
+            <title>Cartoonito</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito</link> 
+        </item> 
+          <item> 
+            <title>K2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=K2</link> 
+        </item> 
+          <item> 
+            <title>K2  Piu1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/20658.ts&amp;streamtype=TSDOWNLOADER&amp;name=K2  Piu1</link> 
+        </item> 
+          <item> 
+            <title>Frisbee</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Frisbee</link> 
+        </item> 
+          <item> 
+            <title>Rai Gulp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2463.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp</link> 
+        </item> 
+          <item> 
+            <title>Rai Gulp HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23288.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp HD</link> 
+        </item> 
+          <item> 
+            <title>Super!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super!</link> 
+        </item> 
+          <item> 
+            <title>Rai Yoyo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2498.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Yoyo</link> 
+        </item> 
+          <item> 
+            <title>Rai Yoyo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Yoyo HD</link> 
+        </item> 
+          <item> 
+            <title>Nikeleodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/8663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nikeleodeon</link> 
+        </item> 
+          <item> 
+            <title>Premium Carton Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2449.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Carton Network</link> 
+        </item> 
+          <item> 
+            <title>---- < NOTIZIE > ---</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/6640.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- < NOTIZIE > ---</link> 
+        </item> 
+          <item> 
+            <title>Sky TG Piu24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky TG Piu24 HD</link> 
+        </item> 
+          <item> 
+            <title>Rai News Piu24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai News Piu24</link> 
+        </item> 
+          <item> 
+            <title>Rai News Piu24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/23289.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai News Piu24 HD</link> 
+        </item> 
+          <item> 
+            <title>TgCom Piu24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=TgCom Piu24</link> 
+        </item> 
+          <item> 
+            <title>TG Norba Piu24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/7493.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG Norba Piu24</link> 
+        </item> 
+          <item> 
+            <title>Videolina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/9286.ts&amp;streamtype=TSDOWNLOADER&amp;name=Videolina</link> 
+        </item> 
+          <item> 
+            <title>Italia 7 gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/9280.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 7 gold</link> 
+        </item> 
+          <item> 
+            <title>Sardegna 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://lucky.lts1.net:23000/live/fabrizio/fabrizio/9285.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sardegna 1</link> 
         </item> 
   
