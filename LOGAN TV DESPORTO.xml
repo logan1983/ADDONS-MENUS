@@ -44,9 +44,9 @@
 </item>
 
 <item>
-<title[COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<linkplugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/4377.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV+ LOGAN</link>
-<thumbnailhttp://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
+<title>[COLOR white][B][I] SPORT TV1 + [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/afonso/jorge/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV+ LOGAN</link>
+<thumbnail>http://www.onlinenatv.com/wp-content/uploads/2016/10/sport.tv_.portugal.jpg?x78568</thumbnail>
 </item>
 
 
@@ -61,7 +61,7 @@
 
 <item>
 <title>[COLOR white][B][I] SPORT TV2 HD/SD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://164.132.106.210:8000/live/addon/9841984/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV2 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/afonso/jorge/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV2 LOGAN</link> 
 <thumbnail>http://www.thelogodb.com/images/media/logo/wwwxrx1436898851.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -84,7 +84,7 @@
 
 <item>
 <title>[COLOR white][B][I] SPORT TV5 HD/SD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/zero99/zero99/4494.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV5 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/afonso/jorge/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV5 LOGAN</link> 
 <thumbnail>http://i67.tinypic.com/az6pu1.png</thumbnail>
 <fanart></fanart>
 </item>
@@ -92,7 +92,7 @@
 
 <item>
 <title>[COLOR=white][B][I] BENFICA TV1 HD/SD [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/28637288237427/1593574628/5509.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/afonso/jorge/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 LOGAN</link> 
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/04/benfica-tv-logo.jpg</thumbnail>
 <fanart></fanart>
 <item>
@@ -100,7 +100,7 @@
 
 <item>
 <title>[COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://46.105.115.25:8000/live/28637288237427/1593574628/5505.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
+<link>plugin://plugin.video.f4mTester/?url=http://149.202.72.15:8000/live/afonso/jorge/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
 <thumbnail>https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg</thumbnail>
 <fanart></fanart>
 </item>
@@ -176,16 +176,16 @@
 <item>
 <title>[COLOR=white][B][I] BENFICA TV1 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20606.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV1 LOGAN</link> 
-<link>http://103.194.169.14:8081/shareedge/btv-md504/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTcgOTozODo0NSBQTSZoYXNoX3ZhbHVlPTZoaW1GbENIK2JEbU95ZW1TNHJBQUE9PSZ2YWxpZG1pbnV0ZXM9OA==</link> 
+<linkhttp://103.194.169.14:8081/shareedge/btv-md504/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMTcgOTozODo0NSBQTSZoYXNoX3ZhbHVlPTZoaW1GbENIK2JEbU95ZW1TNHJBQUE9PSZ2YWxpZG1pbnV0ZXM9OA==</link> 
 <thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/04/benfica-tv-logo.jpg</thumbnail>
 </item> 
 
 
 <item>
-<title>[COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
+<title[COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
+<linkplugin://plugin.video.f4mTester/?url=http://iptv.ndasat.com:88/live/y2AaG2n_X/R25_v@kN-/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
 <linkplugin://plugin.video.f4mTester/?url=http://iptvtt.ddns.net:8000/live/pina1/pina1/4361.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
-<thumbnail>https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg</thumbnail>
+<thumbnailhttps://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
