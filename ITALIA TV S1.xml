@@ -26,1125 +26,472 @@
  
  
  
-   
-         <item> 
-            <title>-IT: RAI 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15821.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI 1 HD</link> 
+           <item> 
+            <title>RAI_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/464.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_1_HD</link> 
         </item> 
           <item> 
-            <title>IT-: RAI 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: RAI 1 HD</link> 
+            <title>RAI_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/465.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_2_HD</link> 
         </item> 
           <item> 
-            <title>IT-: RAI 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12721.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: RAI 1 SD</link> 
+            <title>RAI_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/466.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_3_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 2 HD</link> 
+            <title>RAI_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/467.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_4_HD</link> 
         </item> 
           <item> 
-            <title>-IT: RAI 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15820.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI 2 HD</link> 
+            <title>RAI_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_5_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12722.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 2 SD</link> 
+            <title>RAI_NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_NEWS</link> 
         </item> 
           <item> 
-            <title>-IT: RAI 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15819.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI 3 HD</link> 
+            <title>RAI_MOVIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_MOVIE</link> 
         </item> 
           <item> 
-            <title>IT: RAI 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 3 HD</link> 
+            <title>RAI_GULP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/476.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_GULP</link> 
         </item> 
           <item> 
-            <title>IT: RAI 3 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12720.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 3 SD</link> 
+            <title>RAI_yoyo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/477.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_yoyo</link> 
         </item> 
           <item> 
-            <title>IT: RAI 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 4 HD</link> 
+            <title>RAI_SPORT_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_SPORT_1</link> 
         </item> 
           <item> 
-            <title>-IT: RAI 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19888.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI 4 HD</link> 
+            <title>RAI_SPORT_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/581.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_SPORT_2</link> 
         </item> 
           <item> 
-            <title>IT: RAI 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10526.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 4 SD</link> 
+            <title>RSI_LA_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/469.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI_LA_1_HD</link> 
         </item> 
           <item> 
-            <title>IT-: RAI 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15817.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: RAI 5 HD</link> 
+            <title>RSI_LA_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/470.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI_LA_2_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 5 HD</link> 
+            <title>RETE_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=RETE_4</link> 
         </item> 
           <item> 
-            <title>IT: RAI 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2340.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI 5 SD</link> 
+            <title>SPORT_ITALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT_ITALIA</link> 
         </item> 
           <item> 
-            <title>IT: RETE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/353.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RETE 4 HD</link> 
+            <title>ITALIA_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/471.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITALIA_1_HD</link> 
         </item> 
           <item> 
-            <title>-IT: RETE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15818.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RETE 4 HD</link> 
+            <title>ALICE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALICE</link> 
         </item> 
           <item> 
-            <title>IT: RETE 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10531.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RETE 4 SD</link> 
+            <title>La_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=La_5</link> 
         </item> 
           <item> 
-            <title>IT: Rete4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2360.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rete4</link> 
+            <title>La_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/474.ts&amp;streamtype=TSDOWNLOADER&amp;name=La_7</link> 
         </item> 
           <item> 
-            <title>-IT: CANALE 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11031.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CANALE 5 HD</link> 
+            <title>CANALE_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/472.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALE_5</link> 
         </item> 
           <item> 
-            <title>IT: CANALE 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CANALE 5 HD</link> 
+            <title>*-*-*-*-*SKY_ITALIA_SPORT_HD*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*SKY_ITALIA_SPORT_HD*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>IT: CANALE 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19885.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CANALE 5 SD</link> 
+            <title>SKY_SPORT_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_1_HD</link> 
         </item> 
           <item> 
-            <title>IT: CANALE 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5551.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CANALE 7</link> 
+            <title>SKY_SPORT_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_2_HD</link> 
         </item> 
           <item> 
-            <title>-IT: ITALIA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10534.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: ITALIA 1 HD</link> 
+            <title>SKY_SPORT_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_3_HD</link> 
         </item> 
           <item> 
-            <title>IT: ITALIA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: ITALIA 1 HD</link> 
+            <title>SKY_SPORTS_F1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORTS_F1_HD</link> 
         </item> 
           <item> 
-            <title>IT: ITALIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15824.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: ITALIA HD</link> 
+            <title>SKY_SPORT_MOTO_GP_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_MOTO_GP_HD</link> 
         </item> 
           <item> 
-            <title>IT: LA  5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19891.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA  5 HD</link> 
+            <title>SKY_SPORT_24_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/479.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_SPORT_24_HD</link> 
         </item> 
           <item> 
-            <title>-IT: LA 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15822.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: LA 5 HD</link> 
+            <title>SKY_CALCIO_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CALCIO_1_HD</link> 
         </item> 
           <item> 
-            <title>IT: LA  5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9019.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA  5 SD</link> 
+            <title>Sky_Calcio_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky_Calcio_2_HD</link> 
         </item> 
           <item> 
-            <title>IT: LA 7D SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19895.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA 7D SD</link> 
+            <title>SKY_CALCIO_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CALCIO_3_HD</link> 
         </item> 
           <item> 
-            <title>IT: LA 7D HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19894.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA 7D HD</link> 
+            <title>SKY_CALCIO_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CALCIO_4_HD</link> 
         </item> 
           <item> 
-            <title>IT: LA 7 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19892.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA 7 SD</link> 
+            <title>SKY_CALCIO_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CALCIO_5_HD</link> 
         </item> 
           <item> 
-            <title>IT: LA 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/360.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: LA 7 HD</link> 
+            <title>SKY_CALCIO_6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CALCIO_6_HD</link> 
         </item> 
           <item> 
-            <title>-IT: LA 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: LA 7 HD</link> 
+            <title>SKY_CALCIO_7_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CALCIO_7_HD</link> 
         </item> 
           <item> 
-            <title>-IT: LA 7D HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19893.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: LA 7D HD</link> 
+            <title>MILAN_CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=MILAN_CHANNEL</link> 
         </item> 
           <item> 
-            <title>IT: Mediaset Italia 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2368.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Mediaset Italia 2</link> 
+            <title>EUROSPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_HD</link> 
         </item> 
           <item> 
-            <title>IT: MEDIASET EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2367.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MEDIASET EXTRA</link> 
+            <title>EUROSPORT_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT_2</link> 
         </item> 
           <item> 
-            <title>IT: MEDIASAT EXTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13092.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MEDIASAT EXTRA</link> 
+            <title>*-*-*-*-*SKY_ITALIA_ENTERTAINMENT*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*SKY_ITALIA_ENTERTAINMENT*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>IT: MEDIASET IRIS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2366.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MEDIASET IRIS</link> 
+            <title>SUPER_TENNIS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPER_TENNIS_HD</link> 
         </item> 
           <item> 
-            <title>IT: MEDIASET IRIS RISERVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/11030.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MEDIASET IRIS RISERVE</link> 
+            <title>SUPER_CALCIO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUPER_CALCIO_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI MOVIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI MOVIE HD</link> 
+            <title>SKY_UNO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_UNO_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI MOVIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2364.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI MOVIE</link> 
+            <title>SKY_TG_24_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_TG_24_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI MOVIE HD ERSATZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5552.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI MOVIE HD ERSATZ</link> 
+            <title>RAI_PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=RAI_PREMIUM</link> 
         </item> 
           <item> 
-            <title>IT: RAI PREMIUM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI PREMIUM HD</link> 
+            <title>SKY_FOX_CRIME_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_FOX_CRIME_HD</link> 
         </item> 
           <item> 
-            <title>-IT: Rai Premium IT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15839.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: Rai Premium IT</link> 
+            <title>SKY_FOX_COMEDY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_FOX_COMEDY_HD</link> 
         </item> 
           <item> 
-            <title>IT: RAI PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2341.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI PREMIUM</link> 
+            <title>SKY_CIELO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CIELO</link> 
         </item> 
           <item> 
-            <title>-IT: CIELO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CIELO HD</link> 
+            <title>SKY_AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/582.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_AXN_HD</link> 
         </item> 
           <item> 
-            <title>IT: CIELO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CIELO HD</link> 
+            <title>SKY_ATLANTIC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_ATLANTIC_HD</link> 
         </item> 
           <item> 
-            <title>-IT: GIALLO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19934.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: GIALLO HD</link> 
+            <title>SKY_ARTE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_ARTE_HD</link> 
         </item> 
           <item> 
-            <title>IT: IRIS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15800.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: IRIS HD</link> 
+            <title>DISCOVERY_Travel&amp;Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_Travel&amp;Living</link> 
         </item> 
           <item> 
-            <title>IT: CLASS CNBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9327.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CLASS CNBC</link> 
+            <title>PESCA_E_CACCIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=PESCA_E_CACCIA</link> 
         </item> 
           <item> 
-            <title>IT: RSI La1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La1 HD</link> 
+            <title>DISCOVERY_SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_SCIENCE</link> 
         </item> 
           <item> 
-            <title>-IT: RSI LA 1  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15814.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RSI LA 1  HD</link> 
+            <title>NAT_GEOGRAPHIC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT_GEOGRAPHIC_HD</link> 
         </item> 
           <item> 
-            <title>IT: RSI LA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI LA 1 HD</link> 
+            <title>NATIONALGEO_WILD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONALGEO_WILD_HD</link> 
         </item> 
           <item> 
-            <title>IT: RSI LA 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19889.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI LA 1 SD</link> 
+            <title>NATIONALGEO_PEOPLE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONALGEO_PEOPLE_HD</link> 
         </item> 
           <item> 
-            <title>IT: RSI LA 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19890.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI LA 2 SD</link> 
+            <title>PREMIUM_STORIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_STORIES</link> 
         </item> 
           <item> 
-            <title>IT: RSI La2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2346.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI La2 HD</link> 
+            <title>FOX_LIFE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_LIFE_HD</link> 
         </item> 
           <item> 
-            <title>IT: RSI LA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RSI LA 2 HD</link> 
+            <title>FOX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/578.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_HD</link> 
         </item> 
           <item> 
-            <title>-IT: RSI LA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15813.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RSI LA 2 HD</link> 
+            <title>ANIMAL_PLANETE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAL_PLANETE</link> 
         </item> 
           <item> 
-            <title>-IT: SKY UNO  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15827.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY UNO  HD</link> 
+            <title>CARTOONITO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOONITO</link> 
         </item> 
           <item> 
-            <title>IT: SKY UNO  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY UNO  HD</link> 
+            <title>FOX_ANIMATION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX_ANIMATION_HD</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA HITS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15831.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA HITS HD</link> 
+            <title>DMAX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX_HD</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA HITS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA HITS HD</link> 
+            <title>DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY_XD</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA MAX  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15830.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA MAX  HD</link> 
+            <title>Disney_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_HD</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA MAX SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10546.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA MAX SD</link> 
+            <title>DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY_HD</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15832.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA FAMILY HD</link> 
+            <title>CRIME_INVESTIGATION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME_INVESTIGATION_HD</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA FAMILY HD</link> 
+            <title>*-*-*-*-*SKY_ITALIA_CINEMA_HD*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*SKY_ITALIA_CINEMA_HD*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15834.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA COMEDY HD</link> 
+            <title>SKY_CINEMA_PASSION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_PASSION_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA COMEDY HD</link> 
+            <title>SKY_CINEMA_MAX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_MAX_HD</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA CULT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15833.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA CULT HD</link> 
+            <title>SKY_CINEMA_HITS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_HITS_HD</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA CULT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA CULT HD</link> 
+            <title>SKY_CINEMA_FAMILY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_FAMILY_HD</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10543.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA CLASSIC HD</link> 
+            <title>SKY_CINEMA_CULT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_CULT_HD</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19897.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA CLASSIC HD</link> 
+            <title>SKY_CINEMA_COMEDY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_COMEDY_HD</link> 
         </item> 
           <item> 
-            <title>IT: CINEMA CLASSICS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CINEMA CLASSICS</link> 
+            <title>SKY_CINEMA_CLASSICS_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_CLASSICS_HD</link> 
         </item> 
           <item> 
-            <title>-IT: SKY CINEMA PASSION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15829.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA PASSION HD</link> 
+            <title>SKY_CINEMA_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_1_HD</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA PASSION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8973.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA PASSION HD</link> 
+            <title>SKY_CINEMA_24_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY_CINEMA_24_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15784.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CINEMA HD</link> 
+            <title>PREMIUM_CALCIO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA HD</link> 
+            <title>PREMIUM_CALCIO_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_1_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CINEMA 2  24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15788.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CINEMA 2  24</link> 
+            <title>PREMIUM_CALCIO_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_2_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA PLUS 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA PLUS 24 HD</link> 
+            <title>PREMIUM_CALCIO_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_3_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA  PLUS24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA  PLUS24 HD</link> 
+            <title>PREMIUM_CALCIO_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_4_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CINEMA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15787.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CINEMA 2 HD</link> 
+            <title>PREMIUM_CALCIO_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_5_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9011.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA 2 HD</link> 
+            <title>PREMIUM_CALCIO_6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CALCIO_6_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CINEMA 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19899.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CINEMA 24 HD</link> 
+            <title>PREMIUM_SPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_SPORT_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2436.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA 24 HD</link> 
+            <title>PREMIUM_JOI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_JOI</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA 2  24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9010.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA 2  24</link> 
+            <title>PREMIUM_JOY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_JOY</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM ACTION  24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9013.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM ACTION  24</link> 
+            <title>Premium_Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium_Disney_Junior</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM ACTION 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10533.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM ACTION 24</link> 
+            <title>Premium_DISNEY_CHANNEL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium_DISNEY_CHANNEL_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15797.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM ACTION HD</link> 
+            <title>Premium_STUDIO_UNIVERSAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium_STUDIO_UNIVERSAL</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM ACTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM ACTION HD</link> 
+            <title>PREMIUM_EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_EMOTION</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CINEMA ENERGY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15785.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CINEMA ENERGY HD</link> 
+            <title>Premium_Crime_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium_Crime_24</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CINEMA ENERGY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CINEMA ENERGY HD</link> 
+            <title>PREMIUM_CRIME_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CRIME_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM ENERGY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12322.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM ENERGY</link> 
+            <title>PREMIUM_COMEDY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_COMEDY_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19947.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CRIME HD</link> 
+            <title>PREMIUM_CINEMA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CRIME HD</link> 
+            <title>PREMIUM_CINEMA_ENERGY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_ENERGY_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM CRIME 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15783.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CRIME 24 HD</link> 
+            <title>PREMIUM_ACTION_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_ACTION_24</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM CRIME 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CRIME 24 HD</link> 
+            <title>PREMIUM_CINEMA_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_24</link> 
         </item> 
           <item> 
-            <title>-IT: Premium Cinema Comedy IT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15786.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: Premium Cinema Comedy IT</link> 
+            <title>PREMIUM_CINEMA_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/468.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_CINEMA_2</link> 
         </item> 
           <item> 
-            <title>IT: SKY CINEMA COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10547.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA COMEDY HD</link> 
+            <title>Premium_CARTOON_NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium_CARTOON_NETWORK</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15798.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM EMOTION HD</link> 
+            <title>PREMIUM_ACTION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PREMIUM_ACTION_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM EMOTION HD</link> 
+            <title>*-*-*-*-*SKY_ITALIA_CALCIO*-*-*-*-*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://www.all.com:8000/live/jL7dKQMzLI/B9ThAZB31B/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=*-*-*-*-*SKY_ITALIA_CALCIO*-*-*-*-*</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM JOI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19949.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM JOI</link> 
+            <title>PRIMAFILA_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_1_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM JOI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19948.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM JOI</link> 
+            <title>PRIMAFILA_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_2_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM STORIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM STORIES HD</link> 
+            <title>PRIMAFILA_3_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_3_HD</link> 
         </item> 
           <item> 
-            <title>IT: PREMIUM STORIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM STORIES HD</link> 
+            <title>PRIMAFILA_4_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_4_HD</link> 
         </item> 
           <item> 
-            <title>-IT: PREMIUM STORIES 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19955.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM STORIES 24 HD</link> 
+            <title>PRIMAFILA_5_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_5_HD</link> 
         </item> 
           <item> 
-            <title>-IT: STUDIO UNIVERSAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19944.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: STUDIO UNIVERSAL</link> 
+            <title>PRIMAFILA_6_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_6_HD</link> 
         </item> 
           <item> 
-            <title>IT: STUDIO UNIVERSAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19945.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: STUDIO UNIVERSAL</link> 
+            <title>PRIMAFILA_7_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_7_HD</link> 
         </item> 
           <item> 
-            <title>IT: STUDIO UNIVERSAL SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2365.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: STUDIO UNIVERSAL SD</link> 
+            <title>PRIMAFILA_8_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_8_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 1</link> 
+            <title>PRIMAFILA_9_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_9_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 2</link> 
+            <title>PRIMAFILA_10_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_10_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 3</link> 
+            <title>PRIMAFILA_11_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_11_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 4</link> 
+            <title>PRIMAFILA_12_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_12_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 5</link> 
+            <title>PRIMAFILA_13_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_13_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 6</link> 
+            <title>PRIMAFILA_14_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_14_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 7</link> 
+            <title>PRIMAFILA_15_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_15_HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 8</link> 
-        </item> 
-          <item> 
-            <title>IT: PRIMAFILA 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/351.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 9</link> 
-        </item> 
-          <item> 
-            <title>IT: PRIMAFILA 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 10</link> 
-        </item> 
-          <item> 
-            <title>-IT: FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19940.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FOX HD</link> 
-        </item> 
-          <item> 
-            <title>IT: FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9025.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOX HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19923.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>IT: FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10537.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15802.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>IT: FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: FOX ANIMATION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19942.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FOX ANIMATION HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY FOX COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8972.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY FOX COMEDY HD</link> 
-        </item> 
-          <item> 
-            <title>IT: FOX COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10539.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOX COMEDY HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: FOX SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19920.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FOX SPORT HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: AXN  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15811.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: AXN  HD</link> 
-        </item> 
-          <item> 
-            <title>IT: AXN  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19935.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: AXN  HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8980.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY AXN HD</link> 
-        </item> 
-          <item> 
-            <title>IT: DMAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19906.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: DMAX HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: DMAX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: DMAX HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: REAL TIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19931.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: REAL TIME</link> 
-        </item> 
-          <item> 
-            <title>IT: REAL TIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10535.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: REAL TIME</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19956.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19957.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SPORT F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19960.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SPORT F1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT 3 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SPORT 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19958.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SPORT 3 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT F1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT-: CBL FILM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20518.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: CBL FILM</link> 
-        </item> 
-          <item> 
-            <title>IT-: ETV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20519.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: ETV</link> 
-        </item> 
-          <item> 
-            <title>-IT: SPORT ITALIA 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19886.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SPORT ITALIA 1 SD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CINEMA  1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19896.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA  1 SD</link> 
-        </item> 
-          <item> 
-            <title>-IT: RAI YOYO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19900.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI YOYO HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Videolina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18602.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Videolina</link> 
-        </item> 
-          <item> 
-            <title>IT: TELECITTA SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18533.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TELECITTA SD</link> 
-        </item> 
-          <item> 
-            <title>IT: SPORT ITALIA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19887.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SPORT ITALIA 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: RETRO MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18528.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RETRO MUSIC</link> 
-        </item> 
-          <item> 
-            <title>IT: Primocanale</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18604.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primocanale</link> 
-        </item> 
-          <item> 
-            <title>IT: MARCOPOLO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19913.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MARCOPOLO</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19977.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM SPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19975.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM SPORT HD</link> 
-        </item> 
-          <item> 
-            <title>IT: FRISBEE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19902.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FRISBEE</link> 
-        </item> 
-          <item> 
-            <title>IT: DISCOVERY SCIENCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19912.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: DISCOVERY SCIENCE HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: MARCOPOLO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15799.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: MARCOPOLO HD</link> 
-        </item> 
-          <item> 
-            <title>IT: K2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15823.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: K2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: HISTORY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15801.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: HISTORY HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: FOCUS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15803.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FOCUS HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: DISNEY XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15804.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: DISNEY XD HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: DISCOVERY SCIENCE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15805.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: DISCOVERY SCIENCE HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: DISCOVERY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15806.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: DISCOVERY CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: CARTOONNITO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15807.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CARTOONNITO HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: CARTOON NETWORK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15808.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CARTOON NETWORK HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: BOING HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15810.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: BOING HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SUPER!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15825.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SUPER!</link> 
-        </item> 
-          <item> 
-            <title>-IT: SUPER TENNIS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15826.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SUPER TENNIS HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SPORT MOTO GP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15828.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SPORT MOTO GP HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: Sky Cinema  24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15836.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: Sky Cinema  24 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY ATLANTIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15837.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY ATLANTIC HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: Rai News 24 IT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15840.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: Rai News 24 IT</link> 
-        </item> 
-          <item> 
-            <title>-IT: Rai Gulp IT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15842.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: Rai Gulp IT</link> 
-        </item> 
-          <item> 
-            <title>-IT: CACCIA PESCA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19937.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CACCIA PESCA HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM CALCIO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15790.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CALCIO HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM CALCIO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM CALCIO 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15796.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CALCIO 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM CALCIO 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2418.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM CALCIO 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15795.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM CALCIO 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CALCIO 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM CALCIO 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15794.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CALCIO 3</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM CALCIO 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2419.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO 3</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM CALCIO 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2420.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO 4 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM CALCIO 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15793.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CALCIO 4 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM CALCIO 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2421.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM CALCIO 5</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM CALCIO 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15792.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM CALCIO 5 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15843.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15844.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: NAT GEO WILD HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Tg Com 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Tg Com 24</link> 
-        </item> 
-          <item> 
-            <title>IT: SUPER TENNIS SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2401.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SUPER TENNIS SD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SPORT ITALIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SPORT ITALIA HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12834.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT 24</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2388.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>IT: HISTORY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2389.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: HISTORY HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: CRIME INVESTIGATION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19954.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CRIME INVESTIGATION HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19930.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-            <title>-IT: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19929.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>-IT: GAMBERO ROSSO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19951.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: GAMBERO ROSSO HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19976.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM SPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: CACCIA PESCA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19938.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CACCIA PESCA HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Sky Disney Junior HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2390.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Disney Junior HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Sky Discovery Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Discovery Channel HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CINEMA 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA 24</link> 
-        </item> 
-          <item> 
-            <title>IT: Sky Cinema   24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema   24 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CINEMA  1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CINEMA  1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Rai Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Rai Sport 2</link> 
-        </item> 
-          <item> 
-            <title>IT: RAI GULB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2342.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI GULB</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM JOY 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM JOY 24</link> 
-        </item> 
-          <item> 
-            <title>IT: Premium Cinema Joy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2428.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Cinema Joy</link> 
-        </item> 
-          <item> 
-            <title>IT: CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2437.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>IT: EUROSPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2406.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: EUROSPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2407.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: EUROSPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: DISNEY CHANNEL 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: DISNEY CHANNEL 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: ANIMAL PLANET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2374.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: ANIMAL PLANET</link> 
-        </item> 
-          <item> 
-            <title>IT: ALICE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2375.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: ALICE HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY TG24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY TG24 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT MOTORGP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT MOTORGP HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY ATLANTIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY ATLANTIC HD</link> 
-        </item> 
-          <item> 
-            <title>IT: RAI SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI SPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: RAI SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI SPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: PREMIUM SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: PREMIUM SPORT HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM JOY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM JOY HD</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM DISCOVERY WORLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM DISCOVERY WORLD</link> 
-        </item> 
-          <item> 
-            <title>IT: NAT GEO WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NAT GEO WILD HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SPORT 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19943.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SPORT 24</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CINEMA  1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CINEMA  1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: RADIO MONTECARLO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RADIO MONTECARLO TV</link> 
-        </item> 
-          <item> 
-            <title>IT: RADIO ITALIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RADIO ITALIA TV</link> 
-        </item> 
-          <item> 
-            <title>IT: RAI YOYO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI YOYO HD</link> 
-        </item> 
-          <item> 
-            <title>IT: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>IT: DISCOVERY CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: DISCOVERY CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>IT: VIDEO CALABRIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5545.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: VIDEO CALABRIA</link> 
-        </item> 
-          <item> 
-            <title>IT: TELECITTA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5546.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: TELECITTA</link> 
-        </item> 
-          <item> 
-            <title>IT: CALCIO 1 HD VIP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13543.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CALCIO 1 HD VIP</link> 
-        </item> 
-          <item> 
-            <title>IT: SUPERCALCIO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8964.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SUPERCALCIO HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY SUPERCALCIO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2380.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY SUPERCALCIO HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SUPERCALCIO SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/13542.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SUPERCALCIO SD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19961.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 1 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CALCIO 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2408.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CALCIO 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19909.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 2 SD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19910.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CALCIO 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2409.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CALCIO 2 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19962.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 3 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CALCIO 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2410.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CALCIO 3 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19963.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 4 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CALCIO 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2411.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CALCIO 4 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: SKY CALCIO 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/2412.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: SKY CALCIO 5 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19964.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO 5 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY CALCIO  6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/5801.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY CALCIO  6 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: RAI GULP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8983.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI GULP</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM COMEDY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9006.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM COMEDY HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: NATIONALGEO PEOPLE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9016.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: NATIONALGEO PEOPLE HD</link> 
-        </item> 
-          <item> 
-            <title>IT: NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9017.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>IT: BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/9032.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: BOING</link> 
-        </item> 
-          <item> 
-            <title>IT: SUPER TENNIS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8963.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SUPER TENNIS HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY TG 24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8967.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY TG 24 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY SPORT MOTO GP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/8969.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY SPORT MOTO GP HD</link> 
-        </item> 
-          <item> 
-            <title>IT: RAI SPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10527.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RAI SPORT 1</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM JOY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10549.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM JOY</link> 
-        </item> 
-          <item> 
-            <title>IT: FOCUS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10536.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOCUS HD</link> 
-        </item> 
-          <item> 
-            <title>IT: CARTOONITO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/10530.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: CARTOONITO</link> 
-        </item> 
-          <item> 
-            <title>IT: SKY TG24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/12329.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY TG24</link> 
-        </item> 
-          <item> 
-            <title>IT: MOTO GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/16567.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: MOTO GP</link> 
-        </item> 
-          <item> 
-            <title>IT: RADIO 105</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6352.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: RADIO 105</link> 
-        </item> 
-          <item> 
-            <title>-IT: RAI SPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15815.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI SPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: RAI SPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/15816.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: RAI SPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: Piu Blu</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18584.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: Piu Blu</link> 
-        </item> 
-          <item> 
-            <title>-IT: MILAN CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19922.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: MILAN CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>-IT: FRISBEE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19901.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: FRISBEE</link> 
-        </item> 
-          <item> 
-            <title>-IT: CARTOONITO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19904.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: CARTOONITO</link> 
-        </item> 
-          <item> 
-            <title>-IT: ANIMAL PLANET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19911.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: ANIMAL PLANET</link> 
-        </item> 
-          <item> 
-            <title>-IT: ALICE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/19907.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: ALICE HD</link> 
-        </item> 
-          <item> 
-            <title>-IT: TRENTINO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18615.ts&amp;streamtype=TSDOWNLOADER&amp;name=-IT: TRENTINO</link> 
-        </item> 
-          <item> 
-            <title>IT: PREMIUM DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/21913.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PREMIUM DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>IT: Retesole Roma</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/18581.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Retesole Roma</link> 
-        </item> 
-          <item> 
-            <title>IT-: RADIO 105 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/20523.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: RADIO 105 TV</link> 
-        </item> 
-          <item> 
-            <title>IT-: RADIO MONTE CARLO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://hdlivetv.de:8000/live/Tomaso3/Tomaso3/6346.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-: RADIO MONTE CARLO</link> 
+            <title>PRIMAFILA_16_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://pro.leaderiptv.com:8000/live/paulo/paulo/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=PRIMAFILA_16_HD</link> 
         </item> 
   
