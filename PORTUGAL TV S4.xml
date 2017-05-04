@@ -31,315 +31,201 @@
    
   
    
- <item>
-<title>PT:RTP_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_1 </link>
-</item>
-<item>
-<title>PT:RTP_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_2 </link>
-</item>
-<item>
-<title>PT:RTP_3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_3 </link>
-</item>
-<item>
-<title>PT:SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2970.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC </link>
-</item>
-<item>
-<title>PT:Sic_Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic_Mulher </link>
-</item>
-<item>
-<title>PT:SIC_Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3613.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_Radical </link>
-</item>
-<item>
-<title>PT:SIC_Noticias</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3614.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_Noticias </link>
-</item>
-<item>
-<title>PT:SIC_K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_K </link>
-</item>
-<item>
-<title>PT:TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI </link>
-</item>
-<item>
-<title>PT:Tvi_24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tvi_24 </link>
-</item>
-<item>
-<title>PT:TVI_REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI_REALITY </link>
-</item>
-<item>
-<title>PT:TVI_FICCAO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI_FICCAO </link>
-</item>
-<item>
-<title>PT:TV_Cine_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_1_HD </link>
-</item>
-<item>
-<title>PT:TV_Cine_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_2_HD </link>
-</item>
-<item>
-<title>PT:TV_Cine_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_3_HD </link>
-</item>
-<item>
-<title>PT:TV_Cine_4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_4 </link>
-</item>
-<item>
-<title>PT:TV_SERIE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3189.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_SERIE </link>
-</item>
-<item>
-<title>PT:HOLLYWOOD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2878.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD_HD </link>
-</item>
-<item>
-<title>PT:CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2877.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CINEMUNDO_HD </link>
-</item>
-<item>
-<title>PT:FOX MOVIES</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX MOVIES_HD </link>
-</item>
-<item>
-<title>PT:FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3194.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_HD </link>
-</item>
-<item>
-<title>PT:FOX_LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_LIFE </link>
-</item>
-<item>
-<title>PT:FOX_CRIME</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_CRIME_HD </link>
-</item>
-<item>
-<title>PT:FOX_COMEDY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2979.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_COMEDY </link>
-</item>
-<item>
-<title>PT:MOV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2879.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOV_HD </link>
-</item>
-<item>
-<title>PT:SYFY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SYFY </link>
-</item>
-<item>
-<title>PT:AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_HD </link>
-</item>
-<item>
-<title>PT:AXN_BLACK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3192.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_BLACKE_HD </link>
-</item>
-<item>
-<title>PT:AXN_WHITE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_WHITE_HD </link>
-</item>
-<item>
-<title>PT:Sport_TV_1_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_1_HD </link>
-</item>
-<item>
-<title>PT:Sport_TV_2_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_2_HD </link>
-</item>
-<item>
-<title>PT:Sport_TV_3_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_3_HD </link>
-</item>
-<item>
-<title>PT:Sport_TV_4_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_4_HD </link>
-</item>
-<item>
-<title>PT:Sport_TV_5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_5 </link>
-</item>
-<item>
-<title>PT:Benfica_TV_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica_TV_1 </link>
-</item>
-<item>
-<title>PT:Benfica_TV_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica_TV_2 </link>
-</item>
-<item>
-<title>PT:BTV 1 hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV 1 hd </link>
-</item>
-<item>
-<title>PT:BTV 2 hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV 2 hd </link>
-</item>
-<item>
-<title>PT:Sporting_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting_TV </link>
-</item>
-<item>
-<title>PT:PORTO_CANAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3191.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PORTO_CANAL </link>
-</item>
-<item>
-<title>PT:CHELSEA_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2987.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CHELSEA_TV </link>
-</item>
-<item>
-<title>PT:REAL_MADRID_TV_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2971.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REAL_MADRID_TV_HD </link>
-</item>
-<item>
-<title>PT:EUROSPORT_2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2981.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_2 </link>
-</item>
-<item>
-<title>PT:EUROSPORT_1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2982.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_1 </link>
-</item>
-<item>
-<title>PT:MOTORVISION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION </link>
-</item>
-<item>
-<title>PT:MOTORS_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2976.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORS_TV </link>
-</item>
-<item>
-<title>PT:Toros_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Toros_TV </link>
-</item>
-<item>
-<title>PT:Discovery_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Discovery_Channel </link>
-</item>
-<item>
-<title>PT:DISCOVERY_HD_SHOWCASE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISCOVERY_HD_SHOWCASE </link>
-</item>
-<item>
-<title>PT:NATIONAL_GEOGRAPHIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3190.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATIONAL_GEOGRAPHIC </link>
-</item>
-<item>
-<title>PT:NAT_GEO_WILD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NAT_GEO_WILD </link>
-</item>
-<item>
-<title>PT:Historia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Historia </link>
-</item>
-<item>
-<title>PT:Canal_Historia hd</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3617.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Historia hd </link>
-</item>
-<item>
-<title>PT:Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney_Junior </link>
-</item>
-<item>
-<title>PT:Canal_Panda</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Panda </link>
-</item>
-<item>
-<title>PT:Nickelodeon</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Nickelodeon </link>
-</item>
-<item>
-<title>PT:DISNEY_CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2984.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY_CHANNEL </link>
-</item>
-<item>
-<title>PT:MTV_Portugal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MTV_Portugal </link>
-</item>
-<item>
-<title>PT:A_BOLA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A_BOLA </link>
-</item>
-<item>
-<title>PT:Biggs</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Biggs </link>
-</item>
-<item>
-<title>PT:TLC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TLC </link>
-</item>
-<item>
-<title>PT:TCV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TCV </link>
-</item>
-<item>
-<title>PT:Odisseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odisseia </link>
-</item>
-<item>
-<title>PT:laSexta</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2977.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:laSexta </link>
-</item>
-<item>
-<title>PT:JIM_JAM</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2978.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM_JAM </link>
-</item>
-<item>
-<title>PT:Food_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2980.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Food_Network </link>
-</item>
-<item>
-<title>PT:E!_ENTERTAINMENT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2983.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:E!_ENTERTAINMENT </link>
-</item>
-<item>
-<title>PT:CM_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2986.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CM_TV </link>
-</item>
-<item>
-<title>PT:Caza_y_Pesca</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2988.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Caza_y_Pesca </link>
-</item>
-<item>
-<title>PT:CARTOON_NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2989.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CARTOON_NETWORK </link>
-</item>
-<item>
-<title>PT:Bloomberg</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2990.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Bloomberg </link>
-</item>
-<item>
-<title>PT:BABY_TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2991.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY_TV </link>
-</item>
-<item>
-<title>PT:A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&E </link>
-</item>
-<item>
-<title>PT:VH1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1 </link>
-</item>
-<item>
-<title>PT:Travel_Channel_HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3612.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Travel_Channel_HD </link>
-</item>
-<item>
-<title>PT:EUROSPORT_NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_NEWS </link>
-</item>
-<item>
-<title>PT:AMC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AMC </link>
-</item>
-<item>
-<title>PT:Euronews</title>
-<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Euronews </link>
-</item>
+  
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TOROS TV SD" tvg-logo="" group-title="Portugal Package"PT-TOROS TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1372.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TOROS TV SD" tvg-logo="" group-title="Portugal Package"PT-TOROS TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-MOTORS TV SD" tvg-logo="" group-title="Portugal Package"PT-MOTORS TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1371.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-MOTORS TV SD" tvg-logo="" group-title="Portugal Package"PT-MOTORS TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-REAL MADRID TV SD" tvg-logo="" group-title="Portugal Package"PT-REAL MADRID TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-REAL MADRID TV SD" tvg-logo="" group-title="Portugal Package"PT-REAL MADRID TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CHELSEA TV SD" tvg-logo="" group-title="Portugal Package"PT-CHELSEA TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CHELSEA TV SD" tvg-logo="" group-title="Portugal Package"PT-CHELSEA TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TV CINE 1  HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 1  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TV CINE 1  HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 1  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TV CINE 2  HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 2  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1352.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TV CINE 2  HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 2  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TV CINE 3  HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 3  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TV CINE 3  HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 3  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TV CINE 4 HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1354.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TV CINE 4 HD" tvg-logo="" group-title="Portugal Package"PT-TV CINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TV SERIES  HD" tvg-logo="" group-title="Portugal Package"PT-TV SERIES  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1355.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TV SERIES  HD" tvg-logo="" group-title="Portugal Package"PT-TV SERIES  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-MOV  HD" tvg-logo="" group-title="Portugal Package"PT-MOV  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1356.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-MOV  HD" tvg-logo="" group-title="Portugal Package"PT-MOV  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-HOLLYWOD SD" tvg-logo="" group-title="Portugal Package"PT-HOLLYWOD SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1347.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-HOLLYWOD SD" tvg-logo="" group-title="Portugal Package"PT-HOLLYWOD SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-AXN  HD" tvg-logo="" group-title="Portugal Package"PT-AXN  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1357.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-AXN  HD" tvg-logo="" group-title="Portugal Package"PT-AXN  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-FOX  HD" tvg-logo="" group-title="Portugal Package"PT-FOX  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1359.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-FOX  HD" tvg-logo="" group-title="Portugal Package"PT-FOX  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-FOX MOVIES  SD" tvg-logo="" group-title="Portugal Package"PT-FOX MOVIES  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1350.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-FOX MOVIES  SD" tvg-logo="" group-title="Portugal Package"PT-FOX MOVIES  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-FOX CRIME  HD" tvg-logo="" group-title="Portugal Package"PT-FOX CRIME  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-FOX CRIME  HD" tvg-logo="" group-title="Portugal Package"PT-FOX CRIME  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-FOX LIFE  HD" tvg-logo="" group-title="Portugal Package"PT-FOX LIFE  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1358.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-FOX LIFE  HD" tvg-logo="" group-title="Portugal Package"PT-FOX LIFE  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-AMC  SD" tvg-logo="" group-title="Portugal Package"PT-AMC  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-AMC  SD" tvg-logo="" group-title="Portugal Package"PT-AMC  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-E! ENTERTAINMENT  SD" tvg-logo="" group-title="Portugal Package"PT-E! ENTERTAINMENT  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-E! ENTERTAINMENT  SD" tvg-logo="" group-title="Portugal Package"PT-E! ENTERTAINMENT  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-SYFY SD" tvg-logo="" group-title="Portugal Package"PT-SYFY SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1363.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-SYFY SD" tvg-logo="" group-title="Portugal Package"PT-SYFY SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TVI SD" tvg-logo="" group-title="Portugal Package"PT-TVI SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TVI SD" tvg-logo="" group-title="Portugal Package"PT-TVI SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TVI 24  SD" tvg-logo="" group-title="Portugal Package"PT-TVI 24  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TVI 24  SD" tvg-logo="" group-title="Portugal Package"PT-TVI 24  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-TV GLOBO PORTUGAL  SD" tvg-logo="" group-title="Portugal Package"PT-TV GLOBO PORTUGAL  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-TV GLOBO PORTUGAL  SD" tvg-logo="" group-title="Portugal Package"PT-TV GLOBO PORTUGAL  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-SIC SD" tvg-logo="" group-title="Portugal Package"PT-SIC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-SIC SD" tvg-logo="" group-title="Portugal Package"PT-SIC SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-SIC NOTICIAS  SD" tvg-logo="" group-title="Portugal Package"PT-SIC NOTICIAS  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-SIC NOTICIAS  SD" tvg-logo="" group-title="Portugal Package"PT-SIC NOTICIAS  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-SIC CARAS  SD" tvg-logo="" group-title="Portugal Package"PT-SIC CARAS  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1326.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-SIC CARAS  SD" tvg-logo="" group-title="Portugal Package"PT-SIC CARAS  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-RTP INTERNACIONAL SD ( Canal Internet )" tvg-logo="" group-title="Portugal Package"PT-RTP INTERNACIONAL SD ( Canal Internet )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1369.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-RTP INTERNACIONAL SD ( Canal Internet )" tvg-logo="" group-title="Portugal Package"PT-RTP INTERNACIONAL SD ( Canal Internet )</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-RTP INFORMAÇÃO  SD" tvg-logo="" group-title="Portugal Package"PT-RTP INFORMAÇÃO  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1322.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-RTP INFORMAÇÃO  SD" tvg-logo="" group-title="Portugal Package"PT-RTP INFORMAÇÃO  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-RTP 1  SD" tvg-logo="" group-title="Portugal Package"PT-RTP 1  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-RTP 1  SD" tvg-logo="" group-title="Portugal Package"PT-RTP 1  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-RTP 2  SD" tvg-logo="" group-title="Portugal Package"PT-RTP 2  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-RTP 2  SD" tvg-logo="" group-title="Portugal Package"PT-RTP 2  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-PORTO CANAL  SD" tvg-logo="" group-title="Portugal Package"PT-PORTO CANAL  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1325.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-PORTO CANAL  SD" tvg-logo="" group-title="Portugal Package"PT-PORTO CANAL  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CMTV  SD" tvg-logo="" group-title="Portugal Package"PT-CMTV  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CMTV  SD" tvg-logo="" group-title="Portugal Package"PT-CMTV  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CINEMUNDO  SD" tvg-logo="" group-title="Portugal Package"PT-CINEMUNDO  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1349.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CINEMUNDO  SD" tvg-logo="" group-title="Portugal Package"PT-CINEMUNDO  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-FOX NEWS SD" tvg-logo="" group-title="Portugal Package"PT-FOX NEWS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1375.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-FOX NEWS SD" tvg-logo="" group-title="Portugal Package"PT-FOX NEWS SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CANAL Q  SD" tvg-logo="" group-title="Portugal Package"PT-CANAL Q  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1327.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CANAL Q  SD" tvg-logo="" group-title="Portugal Package"PT-CANAL Q  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-A&amp;E SD" tvg-logo="" group-title="Portugal Package"PT-A&amp;E SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1374.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-A&amp;E SD" tvg-logo="" group-title="Portugal Package"PT-A&amp;E SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-24 Kitchen  HD" tvg-logo="" group-title="Portugal Package"PT-24 Kitchen  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1366.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-24 Kitchen  HD" tvg-logo="" group-title="Portugal Package"PT-24 Kitchen  HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Portugal Package"PT-NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1368.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Portugal Package"PT-NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-NAT GEO WILD  SD" tvg-logo="" group-title="Portugal Package"PT-NAT GEO WILD  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-NAT GEO WILD  SD" tvg-logo="" group-title="Portugal Package"PT-NAT GEO WILD  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Portugal Package"PT-DISCOVERY SHOWCASE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1367.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-DISCOVERY SHOWCASE HD" tvg-logo="" group-title="Portugal Package"PT-DISCOVERY SHOWCASE HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-DISCOVERY CHANNEL  SD" tvg-logo="" group-title="Portugal Package"PT-DISCOVERY CHANNEL  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-DISCOVERY CHANNEL  SD" tvg-logo="" group-title="Portugal Package"PT-DISCOVERY CHANNEL  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CANAL HISTORIA SD" tvg-logo="" group-title="Portugal Package"PT-CANAL HISTORIA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1365.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CANAL HISTORIA SD" tvg-logo="" group-title="Portugal Package"PT-CANAL HISTORIA SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CACA E PESCA SD" tvg-logo="" group-title="Portugal Package"PT-CACA E PESCA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1373.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CACA E PESCA SD" tvg-logo="" group-title="Portugal Package"PT-CACA E PESCA SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-DISNEY JUNIOR SD" tvg-logo="" group-title="Portugal Package"PT-DISNEY JUNIOR SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-DISNEY JUNIOR SD" tvg-logo="" group-title="Portugal Package"PT-DISNEY JUNIOR SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-DISNEY CHANNEL SD" tvg-logo="" group-title="Portugal Package"PT-DISNEY CHANNEL SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-DISNEY CHANNEL SD" tvg-logo="" group-title="Portugal Package"PT-DISNEY CHANNEL SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-NICKELODEON  SD" tvg-logo="" group-title="Portugal Package"PT-NICKELODEON  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-NICKELODEON  SD" tvg-logo="" group-title="Portugal Package"PT-NICKELODEON  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-CARTOON NETWORK  SD" tvg-logo="" group-title="Portugal Package"PT-CARTOON NETWORK  SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-CARTOON NETWORK  SD" tvg-logo="" group-title="Portugal Package"PT-CARTOON NETWORK  SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-BABY TV SD" tvg-logo="" group-title="Portugal Package"PT-BABY TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-BABY TV SD" tvg-logo="" group-title="Portugal Package"PT-BABY TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-ODISSEIA SD" tvg-logo="" group-title="Portugal Package"PT-ODISSEIA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1364.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-ODISSEIA SD" tvg-logo="" group-title="Portugal Package"PT-ODISSEIA SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="PT-PANDA SD" tvg-logo="" group-title="Portugal Package"PT-PANDA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xtream.iptv-streamer.com:8000/live/lirone2/lirone2/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT-PANDA SD" tvg-logo="" group-title="Portugal Package"PT-PANDA SD</link> 
+        </item> 
+  
