@@ -31,184 +31,315 @@
    
   
    
-          <item> 
-            <title>PT:RTP_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_1</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_2</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_3</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_ACORES</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_AFRICA</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_INTERNACIONAL</link> 
-        </item> 
-          <item> 
-            <title>PT:RTP_MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_MEMORIA</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2291.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC_CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_CARAS</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC_MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_MULHER</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC_NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC_Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_Radical</link> 
-        </item> 
-          <item> 
-            <title>PT:Tvi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tvi</link> 
-        </item> 
-          <item> 
-            <title>PT:Tvi_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tvi_24</link> 
-        </item> 
-          <item> 
-            <title>PT:TV_GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_GLOBO</link> 
-        </item> 
-          <item> 
-            <title>PT:Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>PT:Canal_Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Panda</link> 
-        </item> 
-          <item> 
-            <title>PT:Canal_Toros</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Toros</link> 
-        </item> 
-          <item> 
-            <title>PT:CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2290.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CARTOON_NETWORK</link> 
-        </item> 
-          <item> 
-            <title>PT:CAZA_y_PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CAZA_y_PESCA</link> 
-        </item> 
-          <item> 
-            <title>PT:EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EURONEWS</link> 
-        </item> 
-          <item> 
-            <title>PT:EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT</link> 
-        </item> 
-          <item> 
-            <title>PT:EUROSPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_2</link> 
-        </item> 
-          <item> 
-            <title>PT:E_ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:E_ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>PT:FOX_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1537.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_TV</link> 
-        </item> 
-          <item> 
-            <title>PT:FOX_MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1538.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_MOVIES</link> 
-        </item> 
-          <item> 
-            <title>PT:FOX_COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_COMEDY</link> 
-        </item> 
-          <item> 
-            <title>PT:HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1536.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title>PT:JIMJAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIMJAM</link> 
-        </item> 
-          <item> 
-            <title>PT:MOTORS_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORS_TV</link> 
-        </item> 
-          <item> 
-            <title>PT:MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>PT:MOV_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOV_HD</link> 
-        </item> 
-          <item> 
-            <title>PT:National_Geographic_Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1539.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:National_Geographic_Wild</link> 
-        </item> 
-          <item> 
-            <title>PT:Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odisseia</link> 
-        </item> 
-          <item> 
-            <title>PT:PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PFC</link> 
-        </item> 
-          <item> 
-            <title>PT:Porto_Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Porto_Canal</link> 
-        </item> 
-          <item> 
-            <title>PT:REAL_MADRID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REAL_MADRID</link> 
-        </item> 
-          <item> 
-            <title>PT:TV_CINE_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1540.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_1</link> 
-        </item> 
-          <item> 
-            <title>PT:TV_CINE_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1541.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_2</link> 
-        </item> 
-          <item> 
-            <title>PT:TV_CINE_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1542.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_3</link> 
-        </item> 
-          <item> 
-            <title>PT:TV_CINE_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1543.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_CINE_4</link> 
-        </item> 
-          <item> 
-            <title>PT:TV_Series_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/1985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Series_HD</link> 
-        </item> 
-          <item> 
-            <title>PT:SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2278.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SYFY</link> 
-        </item> 
-          <item> 
-            <title>PT:TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2277.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TLC</link> 
-        </item> 
-          <item> 
-            <title>PT:VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/Ayman/Ayman123/2274.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1</link> 
-        </item> 
-  
+ <item>
+<title>PT:RTP_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2057.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_1 </link>
+</item>
+<item>
+<title>PT:RTP_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_2 </link>
+</item>
+<item>
+<title>PT:RTP_3</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP_3 </link>
+</item>
+<item>
+<title>PT:SIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2970.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC </link>
+</item>
+<item>
+<title>PT:Sic_Mulher</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2059.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sic_Mulher </link>
+</item>
+<item>
+<title>PT:SIC_Radical</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3613.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_Radical </link>
+</item>
+<item>
+<title>PT:SIC_Noticias</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3614.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_Noticias </link>
+</item>
+<item>
+<title>PT:SIC_K</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC_K </link>
+</item>
+<item>
+<title>PT:TVI</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI </link>
+</item>
+<item>
+<title>PT:Tvi_24</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2060.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Tvi_24 </link>
+</item>
+<item>
+<title>PT:TVI_REALITY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI_REALITY </link>
+</item>
+<item>
+<title>PT:TVI_FICCAO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI_FICCAO </link>
+</item>
+<item>
+<title>PT:TV_Cine_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2062.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_1_HD </link>
+</item>
+<item>
+<title>PT:TV_Cine_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2063.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_2_HD </link>
+</item>
+<item>
+<title>PT:TV_Cine_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2064.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_3_HD </link>
+</item>
+<item>
+<title>PT:TV_Cine_4</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2065.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_Cine_4 </link>
+</item>
+<item>
+<title>PT:TV_SERIE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3189.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV_SERIE </link>
+</item>
+<item>
+<title>PT:HOLLYWOOD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2878.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD_HD </link>
+</item>
+<item>
+<title>PT:CINEMUNDO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2877.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CINEMUNDO_HD </link>
+</item>
+<item>
+<title>PT:FOX MOVIES</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX MOVIES_HD </link>
+</item>
+<item>
+<title>PT:FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3194.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_HD </link>
+</item>
+<item>
+<title>PT:FOX_LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_LIFE </link>
+</item>
+<item>
+<title>PT:FOX_CRIME</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_CRIME_HD </link>
+</item>
+<item>
+<title>PT:FOX_COMEDY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2979.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX_COMEDY </link>
+</item>
+<item>
+<title>PT:MOV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2879.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOV_HD </link>
+</item>
+<item>
+<title>PT:SYFY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SYFY </link>
+</item>
+<item>
+<title>PT:AXN</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_HD </link>
+</item>
+<item>
+<title>PT:AXN_BLACK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3192.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_BLACKE_HD </link>
+</item>
+<item>
+<title>PT:AXN_WHITE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN_WHITE_HD </link>
+</item>
+<item>
+<title>PT:Sport_TV_1_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2066.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_1_HD </link>
+</item>
+<item>
+<title>PT:Sport_TV_2_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2067.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_2_HD </link>
+</item>
+<item>
+<title>PT:Sport_TV_3_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_3_HD </link>
+</item>
+<item>
+<title>PT:Sport_TV_4_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_4_HD </link>
+</item>
+<item>
+<title>PT:Sport_TV_5</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sport_TV_5 </link>
+</item>
+<item>
+<title>PT:Benfica_TV_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica_TV_1 </link>
+</item>
+<item>
+<title>PT:Benfica_TV_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2073.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Benfica_TV_2 </link>
+</item>
+<item>
+<title>PT:BTV 1 hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2884.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV 1 hd </link>
+</item>
+<item>
+<title>PT:BTV 2 hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2885.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BTV 2 hd </link>
+</item>
+<item>
+<title>PT:Sporting_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Sporting_TV </link>
+</item>
+<item>
+<title>PT:PORTO_CANAL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3191.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PORTO_CANAL </link>
+</item>
+<item>
+<title>PT:CHELSEA_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2987.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CHELSEA_TV </link>
+</item>
+<item>
+<title>PT:REAL_MADRID_TV_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2971.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REAL_MADRID_TV_HD </link>
+</item>
+<item>
+<title>PT:EUROSPORT_2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2981.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_2 </link>
+</item>
+<item>
+<title>PT:EUROSPORT_1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2982.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_1 </link>
+</item>
+<item>
+<title>PT:MOTORVISION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2975.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION </link>
+</item>
+<item>
+<title>PT:MOTORS_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2976.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORS_TV </link>
+</item>
+<item>
+<title>PT:Toros_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2966.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Toros_TV </link>
+</item>
+<item>
+<title>PT:Discovery_Channel</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Discovery_Channel </link>
+</item>
+<item>
+<title>PT:DISCOVERY_HD_SHOWCASE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISCOVERY_HD_SHOWCASE </link>
+</item>
+<item>
+<title>PT:NATIONAL_GEOGRAPHIC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3190.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NATIONAL_GEOGRAPHIC </link>
+</item>
+<item>
+<title>PT:NAT_GEO_WILD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2974.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NAT_GEO_WILD </link>
+</item>
+<item>
+<title>PT:Historia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2074.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Historia </link>
+</item>
+<item>
+<title>PT:Canal_Historia hd</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3617.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Historia hd </link>
+</item>
+<item>
+<title>PT:Disney_Junior</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Disney_Junior </link>
+</item>
+<item>
+<title>PT:Canal_Panda</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2078.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Canal_Panda </link>
+</item>
+<item>
+<title>PT:Nickelodeon</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2973.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Nickelodeon </link>
+</item>
+<item>
+<title>PT:DISNEY_CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2984.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY_CHANNEL </link>
+</item>
+<item>
+<title>PT:MTV_Portugal</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2076.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MTV_Portugal </link>
+</item>
+<item>
+<title>PT:A_BOLA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2881.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A_BOLA </link>
+</item>
+<item>
+<title>PT:Biggs</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2079.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Biggs </link>
+</item>
+<item>
+<title>PT:TLC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2967.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TLC </link>
+</item>
+<item>
+<title>PT:TCV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TCV </link>
+</item>
+<item>
+<title>PT:Odisseia</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2972.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odisseia </link>
+</item>
+<item>
+<title>PT:laSexta</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2977.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:laSexta </link>
+</item>
+<item>
+<title>PT:JIM_JAM</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2978.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM_JAM </link>
+</item>
+<item>
+<title>PT:Food_Network</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2980.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Food_Network </link>
+</item>
+<item>
+<title>PT:E!_ENTERTAINMENT</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2983.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:E!_ENTERTAINMENT </link>
+</item>
+<item>
+<title>PT:CM_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2986.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CM_TV </link>
+</item>
+<item>
+<title>PT:Caza_y_Pesca</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2988.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Caza_y_Pesca </link>
+</item>
+<item>
+<title>PT:CARTOON_NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2989.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CARTOON_NETWORK </link>
+</item>
+<item>
+<title>PT:Bloomberg</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2990.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Bloomberg </link>
+</item>
+<item>
+<title>PT:BABY_TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2991.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY_TV </link>
+</item>
+<item>
+<title>PT:A&E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2992.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&E </link>
+</item>
+<item>
+<title>PT:VH1</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3610.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1 </link>
+</item>
+<item>
+<title>PT:Travel_Channel_HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3612.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Travel_Channel_HD </link>
+</item>
+<item>
+<title>PT:EUROSPORT_NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT_NEWS </link>
+</item>
+<item>
+<title>PT:AMC</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/3618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AMC </link>
+</item>
+<item>
+<title>PT:Euronews</title>
+<link>plugin://plugin.video.f4mTester/?url=http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2061.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Euronews </link>
+</item>
