@@ -30,264 +30,309 @@
    
  
  
-    <item> 
-            <title>La 1 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/482.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 - Spanish</link> 
+   
+          <item> 
+            <title>ES:Taquilla-1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-1</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-2</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-3</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-4</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-5</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-6</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-7</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-8</link> 
+        </item> 
+          <item> 
+            <title>ES:Taquilla-9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/766.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Taquilla-9</link> 
+        </item> 
+          <item> 
+            <title>ES:#0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3753.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:#0 HD</link> 
+        </item> 
+          <item> 
+            <title>ES:LA1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA1</link> 
+        </item> 
+          <item> 
+            <title>ES:LA2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA2</link> 
         </item> 
           <item> 
-            <title>La 2 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/483.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 2 - Spanish</link> 
+            <title>ES:Antenna 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Antenna 3</link> 
         </item> 
           <item> 
-            <title>Antena 3 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/484.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 - Spanish</link> 
+            <title>ES:AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN</link> 
         </item> 
           <item> 
-            <title>Cuatro - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro - Spanish</link> 
+            <title>ES:AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:AXN WHITE</link> 
         </item> 
           <item> 
-            <title>Telecino - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecino - Spanish</link> 
+            <title>ES:Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Barca TV</link> 
         </item> 
           <item> 
-            <title>LA Sexta - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta - Spanish</link> 
+            <title>ES:BeinSport LaLiga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BeinSport LaLiga HD</link> 
         </item> 
           <item> 
-            <title>Clan TVE - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE - Spanish</link> 
+            <title>ES:BeinSport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BeinSport HD</link> 
         </item> 
           <item> 
-            <title>Neox - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox - Spanish</link> 
+            <title>ES:BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2444.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:BOING</link> 
         </item> 
           <item> 
-            <title>Canal Sur - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Sur - Spanish</link> 
+            <title>ES:CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2443.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CALLE 13</link> 
         </item> 
           <item> 
-            <title>C+ Estrenos - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrenos - Spanish</link> 
+            <title>ES:CANAL ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL ACCION HD</link> 
         </item> 
           <item> 
-            <title>C+ Xtra - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Xtra - Spanish</link> 
+            <title>ES:CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2442.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL COCINA</link> 
         </item> 
           <item> 
-            <title>C+ Accion HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion HD - Spanish</link> 
+            <title>ES:CANAL Dcine HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL Dcine HD</link> 
         </item> 
           <item> 
-            <title>C+ Comedia HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Comedia HD - Spanish</link> 
+            <title>ES:CANAL Deportes 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL Deportes 1</link> 
         </item> 
           <item> 
-            <title>C+ Dcine HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Dcine HD - Spanish</link> 
+            <title>ES:CANAL Deportes 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL Deportes 2</link> 
         </item> 
           <item> 
-            <title>Hollywood - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood - Spanish</link> 
+            <title>ES:Canal Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal Comedia</link> 
         </item> 
           <item> 
-            <title>Tnt - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tnt - Spanish</link> 
+            <title>ES:Canal Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Canal Estrenos</link> 
         </item> 
           <item> 
-            <title>C+ Series - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Series - Spanish</link> 
+            <title>ES:CANAL GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2441.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL GOLF</link> 
         </item> 
           <item> 
-            <title>C+ Series Xtra - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Series Xtra - Spanish</link> 
+            <title>ES:CANAL FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL FUTBOL HD</link> 
         </item> 
           <item> 
-            <title>Fox HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD - Spanish</link> 
+            <title>ES:CANAL  Liga HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL  Liga HD</link> 
         </item> 
           <item> 
-            <title>Amc - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=Amc - Spanish</link> 
+            <title>ES:CANAL SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL SERIES</link> 
         </item> 
           <item> 
-            <title>Axn HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn HD - Spanish</link> 
+            <title>ES:CANAL Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL Series Xtra</link> 
         </item> 
           <item> 
-            <title>Calle 13 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 - Spanish</link> 
+            <title>ES:CANAL Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL Xtra</link> 
         </item> 
           <item> 
-            <title>Comedy Central - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central - Spanish</link> 
+            <title>ES:CANAL Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CANAL Toros TV</link> 
         </item> 
           <item> 
-            <title>Fdf - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fdf - Spanish</link> 
+            <title>ES:CLAN TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CLAN TVE</link> 
         </item> 
           <item> 
-            <title>Divinity - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Divinity - Spanish</link> 
+            <title>ES:COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3754.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:COSMO HD</link> 
         </item> 
           <item> 
-            <title>Energy - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy - Spanish</link> 
+            <title>ES:Crime&amp;Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3755.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Crime&amp;Investigation</link> 
         </item> 
           <item> 
-            <title>C+ Toros - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Toros - Spanish</link> 
+            <title>ES:CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2438.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CUATRO</link> 
         </item> 
           <item> 
-            <title>Ltc - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ltc - Spanish</link> 
+            <title>ES:Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Decasa</link> 
         </item> 
           <item> 
-            <title>C+ Deportes - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Deportes - Spanish</link> 
+            <title>ES:Divinity</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3763.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Divinity</link> 
         </item> 
           <item> 
-            <title>C+ Deportes 2 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Deportes 2 - Spanish</link> 
+            <title>ES:DW</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DW</link> 
         </item> 
           <item> 
-            <title>C+ Futbol HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Futbol HD - Spanish</link> 
+            <title>ES:ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ENERGY</link> 
         </item> 
           <item> 
-            <title>C + Futbol - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=C + Futbol - Spanish</link> 
+            <title>ES:EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2433.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EUROSPORT 1</link> 
         </item> 
           <item> 
-            <title>Teledeporte - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teledeporte - Spanish</link> 
+            <title>ES:EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2432.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EUROSPORT 2</link> 
         </item> 
           <item> 
-            <title>Bein Sports HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=Bein Sports HD - Spanish</link> 
+            <title>ES:EXTREMADURA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2431.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:EXTREMADURA HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>ES:FDF SPAIN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2430.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:FDF SPAIN</link> 
         </item> 
           <item> 
-            <title>Barca TV - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV - Spanish</link> 
+            <title>ES:Fox_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Fox_HD</link> 
         </item> 
           <item> 
-            <title>Euro Sport 1 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euro Sport 1 - Spanish</link> 
+            <title>ES:Fox Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Fox Life</link> 
         </item> 
           <item> 
-            <title>Euro Sport 2 - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euro Sport 2 - Spanish</link> 
+            <title>ES:Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Hollywood HD</link> 
         </item> 
           <item> 
-            <title>Moto GP - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Moto GP - Spanish</link> 
+            <title>ES:LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA SEXTA</link> 
         </item> 
           <item> 
-            <title>C+ Golf - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Golf - Spanish</link> 
+            <title>ES:LA SEXTATA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:LA SEXTATA</link> 
         </item> 
           <item> 
-            <title>Canal Odisea - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Odisea - Spanish</link> 
+            <title>ES:MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2428.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:MEGA</link> 
         </item> 
           <item> 
-            <title>National Geographic  - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic  - Spanish</link> 
+            <title>ES:NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NEOX</link> 
         </item> 
           <item> 
-            <title>National Geographic Wild HD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild HD - Spanish</link> 
+            <title>ES:NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2425.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NICKELODEON</link> 
         </item> 
           <item> 
-            <title>Discovery - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery - Spanish</link> 
+            <title>ES:NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NOVA</link> 
         </item> 
           <item> 
-            <title>Historia - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia - Spanish</link> 
+            <title>ES:NTN24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1898.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NTN24</link> 
         </item> 
           <item> 
-            <title>Canal Decasa - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa - Spanish</link> 
+            <title>ES:ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3757.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:ODISEA</link> 
         </item> 
           <item> 
-            <title>ae - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=ae - Spanish</link> 
+            <title>ES:Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Panda</link> 
         </item> 
           <item> 
-            <title>Caza Y Pesca - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca - Spanish</link> 
+            <title>ES:Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Real Madrid TV</link> 
         </item> 
           <item> 
-            <title>Viajar - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar - Spanish</link> 
+            <title>ES:RT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:RT HD</link> 
         </item> 
           <item> 
-            <title>Canal Cocina - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina - Spanish</link> 
+            <title>ES:SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3758.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:SUNDANCE</link> 
         </item> 
           <item> 
-            <title>Mtv Espana - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mtv Espana - Spanish</link> 
+            <title>ES:Syfy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Syfy HD</link> 
         </item> 
           <item> 
-            <title>Mezzo - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mezzo - Spanish</link> 
+            <title>ES:TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3751.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TCM</link> 
         </item> 
           <item> 
-            <title>Classica - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Classica - Spanish</link> 
+            <title>ES:TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2424.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TELECINCO</link> 
         </item> 
           <item> 
-            <title>Disney Channel - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel - Spanish</link> 
+            <title>ES:TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TNT</link> 
         </item> 
           <item> 
-            <title>Disney XD - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD - Spanish</link> 
+            <title>ES:TV Galicia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:TV Galicia</link> 
         </item> 
           <item> 
-            <title>Boing - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing - Spanish</link> 
+            <title>ES:Viajar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/3752.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Viajar</link> 
         </item> 
           <item> 
-            <title>Canal Panda - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda - Spanish</link> 
+            <title>ES:A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:A&amp;E</link> 
         </item> 
           <item> 
-            <title>Baby TV - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV - Spanish</link> 
+            <title>ES:CAZA-Y-PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2440.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:CAZA-Y-PESCA</link> 
         </item> 
           <item> 
-            <title>Canal 24 Horas - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal 24 Horas - Spanish</link> 
+            <title>ES:DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2437.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISCOVERY</link> 
         </item> 
           <item> 
-            <title>24 Horas - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Horas - Spanish</link> 
+            <title>ES:HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:HISTORIA</link> 
         </item> 
           <item> 
-            <title>Fox News - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News - Spanish</link> 
+            <title>ES:Nat-Geograph</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:Nat-Geograph</link> 
         </item> 
           <item> 
-            <title>Tv International Europa - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv International Europa - Spanish</link> 
+            <title>ES:NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>40 TV - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=40 TV - Spanish</link> 
+            <title>ES:DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2436.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>C+ Estrellas - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrellas - Spanish</link> 
+            <title>ES:DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2435.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title>C+ Liga - Spanish</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://151.80.35.29:25461/live/reda/reda/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Liga - Spanish</link> 
+            <title>ES:DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/Adam/Adam/2434.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES:DISNEY XD</link> 
         </item> 
   
