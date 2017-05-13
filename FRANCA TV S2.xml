@@ -2,7 +2,7 @@
 
 
 <item>       
-<title>       [COLOR blue] •S2 UPDATE 13-05-2017 BY LOGAN   [/COLOR]     </title>
+<title>       [COLOR blue] •S2 UPDATE 19-05-2017 BY LOGAN   [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -26,564 +26,897 @@
     
   
  
+   
+          <item> 
+            <title>FR TF1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TF1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR TF1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9379.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TF1 SD</link> 
+        </item> 
+          <item> 
+            <title>FR France 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2535.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France 2 HD</link> 
+        </item> 
+          <item> 
+            <title>FR:France 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 2 SD</link> 
+        </item> 
+          <item> 
+            <title>FR France 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2536.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France 3 HD</link> 
+        </item> 
+          <item> 
+            <title>FR France 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9084.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France 3 SD</link> 
+        </item> 
+          <item> 
+            <title>FR CANAL+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2540.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL+ HD</link> 
+        </item> 
+          <item> 
+            <title>FR CANAL+ SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL+ SD</link> 
+        </item> 
+          <item> 
+            <title>FR France 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2538.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France 5 HD</link> 
+        </item> 
+          <item> 
+            <title>FR France 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9094.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France 5 SD</link> 
+        </item> 
+          <item> 
+            <title>FR M6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2534.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR M6 HD</link> 
+        </item> 
+          <item> 
+            <title>FR M6 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9096.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR M6 SD</link> 
+        </item> 
+          <item> 
+            <title>FR ARTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ARTE HD</link> 
+        </item> 
+          <item> 
+            <title>FR ARTE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9097.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ARTE SD</link> 
+        </item> 
+          <item> 
+            <title>FR C8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2571.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR C8 HD</link> 
+        </item> 
+          <item> 
+            <title>FR C8 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9098.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR C8 SD</link> 
+        </item> 
+          <item> 
+            <title>FR W9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2567.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR W9 HD</link> 
+        </item> 
+          <item> 
+            <title>FR W9 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9429.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR W9 SD</link> 
+        </item> 
+          <item> 
+            <title>FR TMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2569.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TMC HD</link> 
+        </item> 
+          <item> 
+            <title>FR TMC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TMC SD</link> 
+        </item> 
+          <item> 
+            <title>FR NT1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2570.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NT1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR NT1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9290.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NT1 SD</link> 
+        </item> 
+          <item> 
+            <title>FR NRJ 12 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2573.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NRJ 12 HD</link> 
+        </item> 
+          <item> 
+            <title>FR NRJ 12 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NRJ 12 SD</link> 
+        </item> 
+          <item> 
+            <title>FR LCP/Public Senat HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5221.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LCP/Public Senat HD</link> 
+        </item> 
+          <item> 
+            <title>FR LCP/PUBLIC SENAT SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LCP/PUBLIC SENAT SD</link> 
+        </item> 
+          <item> 
+            <title>FR FRANCE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2537.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FRANCE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>FR FRANCE 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9292.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FRANCE 4 SD</link> 
+        </item> 
+          <item> 
+            <title>FR BFM TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BFM TV HD</link> 
+        </item> 
+          <item> 
+            <title>FR BFM TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9293.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BFM TV SD</link> 
+        </item> 
+          <item> 
+            <title>FR CNews HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CNews HD</link> 
+        </item> 
+          <item> 
+            <title>FR CNews SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CNews SD</link> 
+        </item> 
+          <item> 
+            <title>FR CStar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CStar HD</link> 
+        </item> 
+          <item> 
+            <title>FR CStar SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CStar SD</link> 
+        </item> 
+          <item> 
+            <title>FR Gulli HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Gulli HD</link> 
+        </item> 
+          <item> 
+            <title>FR Gulli SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Gulli SD</link> 
+        </item> 
+          <item> 
+            <title>FR France O HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2539.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France O HD</link> 
+        </item> 
+          <item> 
+            <title>FR France O SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9435.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR France O SD</link> 
+        </item> 
+          <item> 
+            <title>FR HD1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2575.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR HD1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR HD1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9436.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR HD1 SD</link> 
+        </item> 
+          <item> 
+            <title>FR L' EQUIPE 21 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2599.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR L' EQUIPE 21 HD</link> 
+        </item> 
+          <item> 
+            <title>FR L' EQUIPE 21 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR L' EQUIPE 21 SD</link> 
+        </item> 
+          <item> 
+            <title>FR 6TER HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2568.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR 6TER HD</link> 
+        </item> 
+          <item> 
+            <title>FR 6TER SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR 6TER SD</link> 
+        </item> 
+          <item> 
+            <title>FR NUMERO 23 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5253.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NUMERO 23 HD</link> 
+        </item> 
+          <item> 
+            <title>FR NUMERO 23 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9439.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NUMERO 23 SD</link> 
+        </item> 
+          <item> 
+            <title>FR RMC Decouverte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR RMC Decouverte HD</link> 
+        </item> 
+          <item> 
+            <title>FR RMC Decouverte SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9440.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR RMC Decouverte SD</link> 
+        </item> 
+          <item> 
+            <title>FR Cherie 25 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2574.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Cherie 25 HD</link> 
+        </item> 
+          <item> 
+            <title>FR Cherie 25 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9441.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Cherie 25 SD</link> 
+        </item> 
+          <item> 
+            <title>FR LCI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LCI HD</link> 
+        </item> 
+          <item> 
+            <title>FR LCI SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9442.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LCI SD</link> 
+        </item> 
+          <item> 
+            <title>FR FRANCE INFO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5256.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FRANCE INFO HD</link> 
+        </item> 
+          <item> 
+            <title>FR FRANCE INFO SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9443.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FRANCE INFO SD</link> 
+        </item> 
           <item> 
             <title>===== Generaliste =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Generaliste =====</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5694.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Generaliste =====</link> 
         </item> 
           <item> 
-            <title>IPTV TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6995.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TF1 HD</link> 
+            <title>FR TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2566.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TEVA</link> 
         </item> 
           <item> 
-            <title>IPTV NAT GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7076.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NAT GEO</link> 
+            <title>FR AB1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2564.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR AB1 HD</link> 
         </item> 
           <item> 
-            <title>IPTV NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7077.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NAT GEO WILD</link> 
+            <title>FR AB3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2745.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR AB3 HD</link> 
         </item> 
           <item> 
-            <title>IPTV NRJ HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7006.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NRJ HITS</link> 
+            <title>FR RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2560.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR RTL9</link> 
         </item> 
           <item> 
-            <title>IPTV NRJ TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7007.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NRJ TV</link> 
+            <title>FR PARIS PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PARIS PREMIERE</link> 
         </item> 
           <item> 
-            <title>IPTV NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7008.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NRJ12</link> 
+            <title>===== Regionale =====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5695.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Regionale =====</link> 
         </item> 
           <item> 
-            <title>IPTV NUMERO 23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7148.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NUMERO 23 HD</link> 
+            <title>FR MA TELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6006.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MA TELE</link> 
         </item> 
           <item> 
-            <title>IPTV PLANETE A et E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7078.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV PLANETE A et E</link> 
+            <title>FR WEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5135.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR WEO</link> 
         </item> 
           <item> 
-            <title>IPTV PLANETE CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV PLANETE CI</link> 
+            <title>TV8 Mont Blanc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5836.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV8 Mont Blanc</link> 
         </item> 
           <item> 
-            <title>IPTV RMC DECOUVERTE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7081.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV RMC DECOUVERTE HD</link> 
+            <title>FR RTI 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR RTI 1</link> 
         </item> 
           <item> 
-            <title>IPTV RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7056.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV RTL9</link> 
+            <title>FR TVM3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5825.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TVM3</link> 
         </item> 
           <item> 
-            <title>IPTV SCIENCE ET VIE TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV SCIENCE ET VIE TV HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV SERIE CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV SERIE CLUB</link> 
-        </item> 
-          <item> 
-            <title>IPTV SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV SYFY</link> 
-        </item> 
-          <item> 
-            <title>IPTV TCM CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7035.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TCM CINEMA</link> 
-        </item> 
-          <item> 
-            <title>IPTV TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TEVA</link> 
-        </item> 
-          <item> 
-            <title>IPTV TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7010.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TMC HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV TOUTE L' HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7083.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TOUTE L' HISTOIRE</link> 
-        </item> 
-          <item> 
-            <title>IPTV TRACE TROPICAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TRACE TROPICAL HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV TRACE URBAN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7086.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TRACE URBAN HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV TREK TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TREK TV HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV TV BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TV BREIZH</link> 
-        </item> 
-          <item> 
-            <title>IPTV VOYAGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7088.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV VOYAGE</link> 
-        </item> 
-          <item> 
-            <title>IPTV W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7063.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV W9</link> 
-        </item> 
-          <item> 
-            <title>IPTV WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7064.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV WEO</link> 
-        </item> 
-          <item> 
-            <title>IPTV HD1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7005.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV HD1 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV CHERIE 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CHERIE 25 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV COMEDIE PLUS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV COMEDIE PLUS HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV CSTAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7004.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CSTAR HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV:France 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7012.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:France 2 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV FRANCE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6997.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV FRANCE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV FRANCE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6998.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV FRANCE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV FRANCE 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6999.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV FRANCE 5 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV:France O HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7013.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:France O HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV  E! ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7067.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV  E! ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>IPTV  HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7069.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV  HISTOIRE</link> 
-        </item> 
-          <item> 
-            <title>IPTV  TIJI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7110.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV  TIJI HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV 13EME RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV 13EME RUE</link> 
-        </item> 
-          <item> 
-            <title>IPTV 6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7002.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV 6TER HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV AB1 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7029.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV ACTION</link> 
+            <title>FR MONACO INFO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MONACO INFO</link> 
         </item> 
           <item> 
             <title>==== CINEMA =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7015.ts&amp;streamtype=TSDOWNLOADER&amp;name===== CINEMA =====</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name===== CINEMA =====</link> 
         </item> 
           <item> 
-            <title>IPTV CANAL PLUS CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7016.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CANAL PLUS CINEMA HD</link> 
+            <title>FR TV BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2563.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TV BREIZH</link> 
         </item> 
           <item> 
-            <title>IPTV CANAL PLUS DECALE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7017.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CANAL PLUS DECALE HD</link> 
+            <title>FR CANAL PLUS CINEMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2544.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL PLUS CINEMA HD</link> 
         </item> 
           <item> 
-            <title>IPTV CANAL PLUS FAMILY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7018.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CANAL PLUS FAMILY HD</link> 
+            <title>FR CANAL PLUS SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2543.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL PLUS SERIES HD</link> 
         </item> 
           <item> 
-            <title>IPTV CANAL PLUS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7019.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CANAL PLUS HD</link> 
+            <title>FR CANAL PLUS FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2542.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL PLUS FAMILY HD</link> 
         </item> 
           <item> 
-            <title>IPTV CANAL PLUS SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CANAL PLUS SERIES HD</link> 
+            <title>FR CANAL PLUS DECALE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2541.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL PLUS DECALE HD</link> 
         </item> 
           <item> 
-            <title>IPTV CANAL PLUS SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/jadeljad/LjvXbBlM9F/2545.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CANAL PLUS SPORT HD</link> 
+            <title>FR CINE PLUS PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2546.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE PLUS PREMIER</link> 
         </item> 
           <item> 
-            <title>IPTV:CANAL  (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7036.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CANAL  (local cable)</link> 
+            <title>FR CINE PLUS FRISSON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2547.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE PLUS FRISSON</link> 
         </item> 
           <item> 
-            <title>IPTV:CANAL  CINEMA (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7037.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CANAL  CINEMA (local cable)</link> 
+            <title>FR CINE PLUS FAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2548.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE PLUS FAMIZ</link> 
         </item> 
           <item> 
-            <title>IPTV: CANAL  CINEMA   LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7026.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: CANAL  CINEMA   LOCAL</link> 
+            <title>FR CINE PLUS EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2550.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE PLUS EMOTION</link> 
         </item> 
           <item> 
-            <title>IPTV: CANAL  HD  LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7027.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: CANAL  HD  LOCAL</link> 
+            <title>FR CINE PLUS CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2551.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE PLUS CLASSIC</link> 
         </item> 
           <item> 
-            <title>IPTV:CANAL  DECALE (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7038.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CANAL  DECALE (local cable)</link> 
+            <title>FR CINE+ CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7522.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE+ CLUB</link> 
         </item> 
           <item> 
-            <title>IPTV:CANAL  FAMILY (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7039.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CANAL  FAMILY (local cable)</link> 
+            <title>FR COMEDIE PLUS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2577.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR COMEDIE PLUS HD</link> 
         </item> 
           <item> 
-            <title>IPTV:CANAL  SERIES (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7066.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CANAL  SERIES (local cable)</link> 
+            <title>FR SERIE CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5134.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR SERIE CLUB</link> 
         </item> 
           <item> 
-            <title>IPTV:CANAL  SPORT (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7116.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CANAL  SPORT (local cable)</link> 
+            <title>FR CINE POLAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2557.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE POLAR</link> 
         </item> 
           <item> 
-            <title>IPTV:CINE  CLASSIC (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CINE  CLASSIC (local cable)</link> 
+            <title>FR CINE FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2558.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CINE FX</link> 
         </item> 
           <item> 
-            <title>IPTV:CINE  CLUB (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CINE  CLUB (local cable)</link> 
+            <title>FR OCS MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2552.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR OCS MAX</link> 
         </item> 
           <item> 
-            <title>IPTV:CINE  EMOTION (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CINE  EMOTION (local cable)</link> 
+            <title>FR OCS GEANTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2554.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR OCS GEANTS</link> 
         </item> 
           <item> 
-            <title>IPTV:CINE  FAMIZ (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CINE  FAMIZ (local cable)</link> 
+            <title>FR OCS CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2556.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR OCS CITY</link> 
         </item> 
           <item> 
-            <title>IPTV:CINE  FRISSON (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7045.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CINE  FRISSON (local cable)</link> 
+            <title>FR OCS CHOC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2553.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR OCS CHOC</link> 
         </item> 
           <item> 
-            <title>IPTV:CINE  PREMIER (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:CINE  PREMIER (local cable)</link> 
+            <title>FR TCM CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5133.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TCM CINEMA</link> 
         </item> 
           <item> 
-            <title>IPTV:Cine Plus Premier HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7040.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Cine Plus Premier HD</link> 
+            <title>FR ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2559.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ACTION</link> 
         </item> 
           <item> 
-            <title>IPTV C8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV C8 HD</link> 
+            <title>FR 13EME RUE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2561.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR 13EME RUE</link> 
         </item> 
           <item> 
-            <title>IPTV CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7025.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE FX</link> 
+            <title>FR SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2565.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR SYFY</link> 
         </item> 
           <item> 
-            <title>IPTV CINE PLUS CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7024.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE PLUS CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>IPTV CINE PLUS EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7023.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE PLUS EMOTION HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV CINE PLUS FAMIZ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7022.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE PLUS FAMIZ HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV CINE PLUS FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7021.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE PLUS FRISSON HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV CINE PLUS PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7020.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE PLUS PREMIER HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7028.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CINE POLAR</link> 
-        </item> 
-          <item> 
-            <title>IPTV CNEW HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7014.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CNEW HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV OCS CHOC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7030.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV OCS CHOC</link> 
-        </item> 
-          <item> 
-            <title>IPTV OCS CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7031.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV OCS CITY</link> 
-        </item> 
-          <item> 
-            <title>IPTV OCS GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV OCS GEANTS</link> 
-        </item> 
-          <item> 
-            <title>IPTV OCS MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7033.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV OCS MAX</link> 
-        </item> 
-          <item> 
-            <title>IPTV PARAMOUNT CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7034.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV PARAMOUNT CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>IPTV PARIS PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV PARIS PREMIERE</link> 
+            <title>FR PARAMOUNT CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2555.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PARAMOUNT CHANNEL</link> 
         </item> 
           <item> 
             <title>===== DECOUVERTE =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7068.ts&amp;streamtype=TSDOWNLOADER&amp;name====== DECOUVERTE =====</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2750.ts&amp;streamtype=TSDOWNLOADER&amp;name====== DECOUVERTE =====</link> 
         </item> 
           <item> 
-            <title>DISCOVERY INVESTIGATION - IPTV -EXCLU</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7153.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY INVESTIGATION - IPTV -EXCLU</link> 
+            <title>FR LUCKY JACK TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LUCKY JACK TV</link> 
         </item> 
           <item> 
-            <title>DISCOVERY CHANNEL - IPTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6991.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL - IPTV</link> 
+            <title>FR CLUBBING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5993.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CLUBBING TV</link> 
         </item> 
           <item> 
-            <title>IPTV DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7074.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DISCOVERY CHANNEL</link> 
+            <title>FR CCTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CCTV</link> 
         </item> 
           <item> 
-            <title>DISCOVERY SCIENCE  - IPTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6992.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE  - IPTV</link> 
+            <title>FR DEMAIN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DEMAIN TV</link> 
         </item> 
           <item> 
-            <title>IPTV DISCOVERY SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7075.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DISCOVERY SCIENCE</link> 
+            <title>FR OUATCH TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6002.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR OUATCH TV</link> 
         </item> 
           <item> 
-            <title>IPTV  SEASON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7070.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV  SEASON HD</link> 
+            <title>FR INDIES LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5998.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR INDIES LIVE</link> 
         </item> 
           <item> 
-            <title>IPTV ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7072.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV ANIMAUX</link> 
+            <title>FR TL7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6003.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TL7</link> 
         </item> 
           <item> 
-            <title>IPTV CHASSE ET PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7073.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CHASSE ET PECHE</link> 
+            <title>FR TREK TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5869.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TREK TV</link> 
         </item> 
           <item> 
-            <title>===== CHAINES TNT =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/6994.ts&amp;streamtype=TSDOWNLOADER&amp;name====== CHAINES TNT =====</link> 
+            <title>FR AB MOTEURS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5863.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR AB MOTEURS</link> 
         </item> 
           <item> 
-            <title>===== SPORT=====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7111.ts&amp;streamtype=TSDOWNLOADER&amp;name====== SPORT=====</link> 
+            <title>FR USHUAIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2578.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR USHUAIA TV</link> 
         </item> 
           <item> 
-            <title>IPTV: CANAL   SPORT HD  LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7115.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: CANAL   SPORT HD  LOCAL</link> 
+            <title>FR: Crime District</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/8783.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Crime District</link> 
         </item> 
           <item> 
-            <title>IPTV:Sfr Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7122.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Sfr Sport 2</link> 
+            <title>FR PLANETE CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2586.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PLANETE CI</link> 
         </item> 
           <item> 
-            <title>IPTV:Sfr Sport 2 (Local)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7125.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Sfr Sport 2 (Local)</link> 
+            <title>FR PLANETE A et E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2585.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PLANETE A et E</link> 
         </item> 
           <item> 
-            <title>IPTV:-Sfr-Sport-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7123.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:-Sfr-Sport-3</link> 
+            <title>FR  SEASON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5137.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR  SEASON HD</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7117.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport 1 HD</link> 
+            <title>FR  E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5138.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR  E! ENTERTAINMENT</link> 
         </item> 
           <item> 
-            <title>IPTV: BEINSPORT 1 HD LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7112.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: BEINSPORT 1 HD LOCAL</link> 
+            <title>FR PLANETE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2584.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PLANETE+</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7118.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport 2 HD</link> 
+            <title>FR VOYAGE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5131.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR VOYAGE</link> 
         </item> 
           <item> 
-            <title>IPTV: BEINSPORT 2 HD LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7113.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: BEINSPORT 2 HD LOCAL</link> 
+            <title>FR TOUTE L' HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TOUTE L' HISTOIRE</link> 
         </item> 
           <item> 
-            <title>IPTV: BEINSPORT 3 HD LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7114.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: BEINSPORT 3 HD LOCAL</link> 
+            <title>FR SCIENCE ET VIE TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2588.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR SCIENCE ET VIE TV HD</link> 
         </item> 
           <item> 
-            <title>IPTV:BeIn Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IPTV:BeIn Sports&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:BeIn Sports 3 HD</link> 
+            <title>FR DISCOVERY SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2587.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISCOVERY SCIENCE</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7119.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2581.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISCOVERY CHANNEL</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 4 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7130.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 4 local</link> 
+            <title>FR NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2580.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>FR_BEIN_MAX_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7126.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_4</link> 
+            <title>FR NAT GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2579.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NAT GEO</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 5 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7131.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 5 local</link> 
+            <title>FR CHASSE ET PECHE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CHASSE ET PECHE</link> 
         </item> 
           <item> 
-            <title>FR_BEIN_MAX_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7127.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_5</link> 
+            <title>FR FASHION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6367.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FASHION TV</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 6 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7132.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 6 local</link> 
+            <title>FR MEN'S UP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6368.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MEN'S UP</link> 
         </item> 
           <item> 
-            <title>FR_BEIN_MAX_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7128.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_6</link> 
+            <title>FR  HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5073.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR  HISTOIRE</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 7 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7133.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 7 local</link> 
+            <title>FR LUXE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6369.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LUXE TV</link> 
         </item> 
           <item> 
-            <title>FR_BEIN_MAX_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7129.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_7</link> 
+            <title>FR QVC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR QVC HD</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 8 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7134.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 8 local</link> 
+            <title>FR M6 BOUTIQUE ET CO.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR M6 BOUTIQUE ET CO.</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 9 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7135.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 9 local</link> 
+            <title>FR ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2582.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR ANIMAUX</link> 
         </item> 
           <item> 
-            <title>IPTV:Bein Sport Max 10 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7136.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Bein Sport Max 10 local</link> 
+            <title>FR NOLIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6957.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NOLIFE</link> 
         </item> 
           <item> 
-            <title>IPTV:Equidia Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7147.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:Equidia Life</link> 
+            <title>===== INFOS=====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2755.ts&amp;streamtype=TSDOWNLOADER&amp;name====== INFOS=====</link> 
         </item> 
           <item> 
-            <title>IPTV EQUIDIA LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7146.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV EQUIDIA LIVE</link> 
+            <title>FR EUROSPORT NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2592.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR EUROSPORT NEWS</link> 
         </item> 
           <item> 
-            <title>IPTV EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7142.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV EUROSPORT 1 HD</link> 
+            <title>FR FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FRANCE 24</link> 
         </item> 
           <item> 
-            <title>IPTV EUROSPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7143.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV EUROSPORT 2 HD</link> 
+            <title>FR EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR EURONEWS</link> 
         </item> 
           <item> 
-            <title>IPTV FOOT 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7140.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV FOOT 24</link> 
+            <title>FR TV5 MONDE FRANCE BELGIQUE SUISSE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TV5 MONDE FRANCE BELGIQUE SUISSE</link> 
         </item> 
           <item> 
-            <title>IPTV: INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7137.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: INFOSPORT</link> 
+            <title>FR LCP 100%</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6363.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR LCP 100%</link> 
         </item> 
           <item> 
-            <title>IPTV INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7138.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV INFOSPORT</link> 
+            <title>FR PUBLIC SENAT 24H/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6364.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PUBLIC SENAT 24H/24</link> 
         </item> 
           <item> 
-            <title>IPTV:BFM SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7145.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:BFM SPORT</link> 
-        </item> 
-          <item> 
-            <title>IPTV L' EQUIPE 21 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7139.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV L' EQUIPE 21 HD</link> 
-        </item> 
-          <item> 
-            <title>IPTV AB MOTEURS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7071.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV AB MOTEURS HD</link> 
+            <title>FR I24NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5114.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR I24NEWS HD</link> 
         </item> 
           <item> 
             <title>=====ENFANTS=====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name======ENFANTS=====</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name======ENFANTS=====</link> 
         </item> 
           <item> 
-            <title>IPTV BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7090.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV BOING</link> 
+            <title>FR: Canal J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7512.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J</link> 
         </item> 
           <item> 
-            <title>IPTV BOOMERANG HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7091.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV BOOMERANG HD</link> 
+            <title>FR  TIJI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5132.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR  TIJI HD</link> 
         </item> 
           <item> 
-            <title>IPTV CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7092.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV CARTOON NETWORK</link> 
+            <title>FR TELETOON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TELETOON</link> 
         </item> 
           <item> 
-            <title>IPTV DISNEY CHANNEL  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7094.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DISNEY CHANNEL  1</link> 
+            <title>FR PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2616.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR PIWI</link> 
         </item> 
           <item> 
-            <title>IPTV: Canal J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7106.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: Canal J</link> 
+            <title>FR GAME ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2583.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR GAME ONE</link> 
         </item> 
           <item> 
-            <title>IPTV: Nickelodeon 4Teen HD LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7109.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV: Nickelodeon 4Teen HD LOCAL</link> 
+            <title>FR NICKELODEON HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NICKELODEON HD</link> 
         </item> 
           <item> 
-            <title>IPTV:DISNEY JUNIOR (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7108.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:DISNEY JUNIOR (local cable)</link> 
+            <title>FR NICKELODEON 4TEEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/3066.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NICKELODEON 4TEEN</link> 
         </item> 
           <item> 
-            <title>IPTV:DISNEY XD (local cable)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7107.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV:DISNEY XD (local cable)</link> 
+            <title>FR MANGAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2614.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MANGAS HD</link> 
         </item> 
           <item> 
-            <title>IPTV TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7105.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV TELETOON</link> 
+            <title>FR CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2610.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CARTOON NETWORK</link> 
         </item> 
           <item> 
-            <title>IPTV PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7104.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV PIWI</link> 
+            <title>FR BOOMERANG HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BOOMERANG HD</link> 
         </item> 
           <item> 
-            <title>IPTV MANGAS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7101.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV MANGAS HD</link> 
+            <title>FR BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2617.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BOING</link> 
         </item> 
           <item> 
-            <title>IPTV NICKELODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7103.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV NICKELODEON HD</link> 
+            <title>FR DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2609.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISNEY XD</link> 
         </item> 
           <item> 
-            <title>IPTV DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7093.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DISNEY CHANNEL</link> 
+            <title>FR DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2608.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title>IPTV DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7095.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DISNEY CINEMA</link> 
+            <title>FR DISNEY CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2606.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISNEY CINEMA</link> 
         </item> 
           <item> 
-            <title>IPTV DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7096.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DISNEY JUNIOR</link> 
+            <title>FR DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2605.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>IPTV GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7098.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV GAME ONE</link> 
+            <title>FR DISNEY CHANNEL +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR DISNEY CHANNEL +1</link> 
         </item> 
           <item> 
-            <title>IPTV GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/smartsat18.25/obI0AXyT/7099.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV GULLI</link> 
+            <title>FR GINX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6662.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR GINX</link> 
+        </item> 
+          <item> 
+            <title>FR GONG HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR GONG HD</link> 
+        </item> 
+          <item> 
+            <title>=====MUSIK=====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name======MUSIK=====</link> 
+        </item> 
+          <item> 
+            <title>FR MTV  HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2604.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MTV  HITS</link> 
+        </item> 
+          <item> 
+            <title>FR M6 MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2601.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR M6 MUSIC</link> 
+        </item> 
+          <item> 
+            <title>MTV BASE   FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2748.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV BASE   FR</link> 
+        </item> 
+          <item> 
+            <title>FR VIRGIN RADIO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5857.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR VIRGIN RADIO TV</link> 
+        </item> 
+          <item> 
+            <title>FR TRACE URBAN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5999.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TRACE URBAN HD</link> 
+        </item> 
+          <item> 
+            <title>FR TRACE TROPICAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6000.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TRACE TROPICAL HD</link> 
+        </item> 
+          <item> 
+            <title>FR TRACE AFRICA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6001.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TRACE AFRICA HD</link> 
+        </item> 
+          <item> 
+            <title>FR BEUR FM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BEUR FM TV</link> 
+        </item> 
+          <item> 
+            <title>FR MCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6005.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MCM</link> 
+        </item> 
+          <item> 
+            <title>FR MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6004.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR MCM TOP</link> 
+        </item> 
+          <item> 
+            <title>FR BEBLACK CLASSIK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6008.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BEBLACK CLASSIK</link> 
+        </item> 
+          <item> 
+            <title>FR BEBLACK AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6009.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BEBLACK AFRICA</link> 
+        </item> 
+          <item> 
+            <title>FR BEBLACK CARIBBEAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6007.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BEBLACK CARIBBEAN</link> 
+        </item> 
+          <item> 
+            <title>FR NRJ TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NRJ TV</link> 
+        </item> 
+          <item> 
+            <title>FR NRJ HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR NRJ HITS</link> 
+        </item> 
+          <item> 
+            <title>FR OFIVE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR OFIVE TV</link> 
+        </item> 
+          <item> 
+            <title>FR BRAVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR BRAVA</link> 
+        </item> 
+          <item> 
+            <title>FR TLM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6663.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR TLM</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 1</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 2</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 3</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7739.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 4</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 5</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7737.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 6</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 7</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 8</link> 
+        </item> 
+          <item> 
+            <title>FR A LA CARTE 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR A LA CARTE 9</link> 
+        </item> 
+          <item> 
+            <title>===== France Sport =====</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/9445.ts&amp;streamtype=TSDOWNLOADER&amp;name====== France Sport =====</link> 
+        </item> 
+          <item> 
+            <title>FR CANAL PLUS SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2545.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR CANAL PLUS SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+ SPORT (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7520.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+ SPORT (local cable)</link> 
+        </item> 
+          <item> 
+            <title>FR: CANAL+  SPORT HD  LOCAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5197.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+  SPORT HD  LOCAL</link> 
+        </item> 
+          <item> 
+            <title>FR INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2595.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR INFOSPORT+</link> 
+        </item> 
+          <item> 
+            <title>FR FOOT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2596.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR FOOT+</link> 
+        </item> 
+          <item> 
+            <title>FR EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2594.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>FR EQUIDIA LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR EQUIDIA LIVE</link> 
+        </item> 
+          <item> 
+            <title>FR:Equidia Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Equidia Life</link> 
+        </item> 
+          <item> 
+            <title>FR:BFM SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2770.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM SPORT</link> 
+        </item> 
+          <item> 
+            <title>FR: Golf channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/8785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Golf channel</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2763.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>FR:BeIn Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:BeIn Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeIn Sports 3 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2765.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR: BEINSPORT 1 HD LOCAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5192.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 1 HD LOCAL</link> 
+        </item> 
+          <item> 
+            <title>FR: BEINSPORT 2 HD LOCAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5193.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 2 HD LOCAL</link> 
+        </item> 
+          <item> 
+            <title>FR: BEINSPORT 3 HD LOCAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5194.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 3 HD LOCAL</link> 
+        </item> 
+          <item> 
+            <title>FR_BEIN_MAX_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_4</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 4 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6900.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 4 local</link> 
+        </item> 
+          <item> 
+            <title>FR_BEIN_MAX_5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2767.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_5</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 5 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 5 local</link> 
+        </item> 
+          <item> 
+            <title>FR_BEIN_MAX_6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_6</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 6 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6902.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 6 local</link> 
+        </item> 
+          <item> 
+            <title>FR_BEIN_MAX_7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BEIN_MAX_7</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 7 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6903.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 7 local</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 8 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 8 local</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 9 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6905.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 9 local</link> 
+        </item> 
+          <item> 
+            <title>FR:Bein Sport Max 10 local</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/6906.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Bein Sport Max 10 local</link> 
+        </item> 
+          <item> 
+            <title>FR: SFR sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR sport 1</link> 
+        </item> 
+          <item> 
+            <title>FR:Sfr Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Sfr Sport 2</link> 
+        </item> 
+          <item> 
+            <title>FR Sfr Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/2762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR Sfr Sport 3</link> 
+        </item> 
+          <item> 
+            <title>SFR sport 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/4768.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR sport 5</link> 
+        </item> 
+          <item> 
+            <title>======  LOCALES FR =======</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5116.ts&amp;streamtype=TSDOWNLOADER&amp;name=======  LOCALES FR =======</link> 
+        </item> 
+          <item> 
+            <title>fr j-one (en test)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7687.ts&amp;streamtype=TSDOWNLOADER&amp;name=fr j-one (en test)</link> 
+        </item> 
+          <item> 
+            <title>FR: CANAL+ CINEMA   LOCAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/5196.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL+ CINEMA   LOCAL</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+ CINEMA (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7516.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+ CINEMA (local cable)</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY JUNIOR (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7527.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY JUNIOR (local cable)</link> 
+        </item> 
+          <item> 
+            <title>FR:DISNEY XD (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7528.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISNEY XD (local cable)</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+ DECALE (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7517.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+ DECALE (local cable)</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+ FAMILY (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7518.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+ FAMILY (local cable)</link> 
+        </item> 
+          <item> 
+            <title>FR:CANAL+ SERIES (local cable)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://euroiptv.myftp.biz:8000/live/antonella/antonella/7519.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+ SERIES (local cable)</link> 
         </item> 
   
