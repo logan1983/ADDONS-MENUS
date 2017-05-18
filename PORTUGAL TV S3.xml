@@ -30,483 +30,201 @@
 
 
  
-<item>
-<title>RTP 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD </link>
-</item>
-<item>
-<title>RTP 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 </link>
-</item>
-<item>
-<title>RTP 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 </link>
-</item>
-<item>
-<title>SIC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD </link>
-</item>
-<item>
-<title>SIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC </link>
-</item>
-<item>
-<title>TVI HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD </link>
-</item>
-<item>
-<title>TVI</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI </link>
-</item>
-<item>
-<title>TVI 24</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/884.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 </link>
-</item>
-<item>
-<title>TVI Ficção</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Ficção </link>
-</item>
-<item>
-<title>TVI Reality</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Reality </link>
-</item>
-<item>
-<title>SIC Caras HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Caras HD </link>
-</item>
-<item>
-<title>SIC Mulher</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Mulher </link>
-</item>
-<item>
-<title>SIC Radical</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Radical </link>
-</item>
-<item>
-<title>SIC Notícias</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Notícias </link>
-</item>
-<item>
-<title>CMTV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HD </link>
-</item>
-<item>
-<title>Euro_News</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euro_News </link>
-</item>
-<item>
-<title>TCV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/834.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCV </link>
-</item>
-<item>
-<title>TPA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA </link>
-</item>
-<item>
-<title>Porto Canal HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto Canal HD </link>
-</item>
-<item>
-<title>RTP Memória</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Memória </link>
-</item>
-<item>
-<title>RTP Madeira</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Madeira </link>
-</item>
-<item>
-<title>AR TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=AR TV </link>
-</item>
-<item>
-<title>---- INFANTIL  ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- INFANTIL  ---- </link>
-</item>
-<item>
-<title>Panda</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda </link>
-</item>
-<item>
-<title>Panda Biggs</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda Biggs </link>
-</item>
-<item>
-<title>Cartoon_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon_Network </link>
-</item>
-<item>
-<title>Nickelodeon PT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1147.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon PT </link>
-</item>
-<item>
-<title>Baby First</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby First </link>
-</item>
-<item>
-<title>JimJam</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=JimJam </link>
-</item>
-<item>
-<title>Baby TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV </link>
-</item>
-<item>
-<title>SIC K</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K </link>
-</item>
-<item>
-<title>Disney_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Channel </link>
-</item>
-<item>
-<title>Disney_Junior</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Junior </link>
-</item>
-<item>
-<title>___Desporto___</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=___Desporto___ </link>
-</item>
-<item>
-<title>A Bola Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=A Bola Tv </link>
-</item>
-<item>
-<title>SPORTV + HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1146.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTV + HD </link>
-</item>
-<item>
-<title>SPORT TV 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 HD </link>
-</item>
-<item>
-<title>SPORT TV 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 1 </link>
-</item>
-<item>
-<title>SPORT TV 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 HD </link>
-</item>
-<item>
-<title>SPORT TV 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1502.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 2 </link>
-</item>
-<item>
-<title>SPORT TV 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 HD </link>
-</item>
-<item>
-<title>SPORT TV 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1503.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 3 </link>
-</item>
-<item>
-<title>SPORT TV 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 HD </link>
-</item>
-<item>
-<title>SPORT TV 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 4 </link>
-</item>
-<item>
-<title>SPORT TV 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 HD </link>
-</item>
-<item>
-<title>SPORT TV 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT TV 5 </link>
-</item>
-<item>
-<title>BENFICA TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=BENFICA TV HD </link>
-</item>
-<item>
-<title>Benfica_Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Benfica_Tv </link>
-</item>
-<item>
-<title>Benfica Tv Low</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=Benfica Tv Low </link>
-</item>
-<item>
-<title>SPORTING TV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV HD </link>
-</item>
-<item>
-<title>Eurosport HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport HD </link>
-</item>
-<item>
-<title>Eurosport 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 </link>
-</item>
-<item>
-<title>Fight Network HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight Network HD </link>
-</item>
-<item>
-<title>Kombat Sport</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kombat Sport </link>
-</item>
-<item>
-<title>Motors TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors TV </link>
-</item>
-<item>
-<title>Barça TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barça TV </link>
-</item>
-<item>
-<title>Real Madrid TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV </link>
-</item>
-<item>
-<title>Toros TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV </link>
-</item>
-<item>
-<title>MotorVision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=MotorVision </link>
-</item>
-<item>
-<title>___Entretenimento___</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1145.ts&amp;streamtype=TSDOWNLOADER&amp;name=___Entretenimento___ </link>
-</item>
-<item>
-<title>TVCINE 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD </link>
-</item>
-<item>
-<title>TVCine 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 1 </link>
-</item>
-<item>
-<title>TVCINE 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD </link>
-</item>
-<item>
-<title>TVCine 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 2 </link>
-</item>
-<item>
-<title>TVCINE 3 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD </link>
-</item>
-<item>
-<title>TVCine 3</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 3 </link>
-</item>
-<item>
-<title>TVCINE 4 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD </link>
-</item>
-<item>
-<title>TVCine 4</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 4 </link>
-</item>
-<item>
-<title>TVCINE 5 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 5 HD </link>
-</item>
-<item>
-<title>TVCine 5</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 5 </link>
-</item>
-<item>
-<title>AXN.HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN.HD </link>
-</item>
-<item>
-<title>AXN -</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN - </link>
-</item>
-<item>
-<title>AXN.BLACK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN.BLACK HD </link>
-</item>
-<item>
-<title>AXN. WHITE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN. WHITE HD </link>
-</item>
-<item>
-<title>FOX-HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX-HD </link>
-</item>
-<item>
-<title>FOX.LIFE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX.LIFE HD </link>
-</item>
-<item>
-<title>FOX COMEDY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY HD </link>
-</item>
-<item>
-<title>FOX CRIME HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD </link>
-</item>
-<item>
-<title>FOX MOVIES HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES HD </link>
-</item>
-<item>
-<title>HOLLYWOOD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD </link>
-</item>
-<item>
-<title>MOV HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD </link>
-</item>
-<item>
-<title>AMC HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD </link>
-</item>
-<item>
-<title>CINEMUNDO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO </link>
-</item>
-<item>
-<title>SYFY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD </link>
-</item>
-<item>
-<title>Crime Investigation</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime Investigation </link>
-</item>
-<item>
-<title>CBS REALITY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY </link>
-</item>
-<item>
-<title>---- DOCUMENTARIOS ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- DOCUMENTARIOS ---- </link>
-</item>
-<item>
-<title>Discovery_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Channel </link>
-</item>
-<item>
-<title>Discovery HD ShowCase</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD ShowCase </link>
-</item>
-<item>
-<title>National Geographic_Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic_Channel </link>
-</item>
-<item>
-<title>História</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=História </link>
-</item>
-<item>
-<title>Nat Geo_Wild</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo_Wild </link>
-</item>
-<item>
-<title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&E </link>
-</item>
-<item>
-<title>MCS Extreme</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Extreme </link>
-</item>
-<item>
-<title>MCS LifeStyle</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LifeStyle </link>
-</item>
-<item>
-<title>Odisseia</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisseia </link>
-</item>
-<item>
-<title>CaçaVision</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=CaçaVision </link>
-</item>
-<item>
-<title>Travel Channel</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Channel </link>
-</item>
-<item>
-<title>24 Kitchen HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Kitchen HD </link>
-</item>
-<item>
-<title>Food_Network</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1491.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food_Network </link>
-</item>
-<item>
-<title>TLC_</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC_ </link>
-</item>
-<item>
-<title>E! Entertainment</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! Entertainment </link>
-</item>
-<item>
-<title>DOG TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1490.ts&amp;streamtype=TSDOWNLOADER&amp;name=DOG TV </link>
-</item>
-<item>
-<title>Canal Q</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Q </link>
-</item>
-<item>
-<title>---- MUSICA ----</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/832.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- MUSICA ---- </link>
-</item>
-<item>
-<title>MTV Portugal</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/829.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Portugal </link>
-</item>
-<item>
-<title>VH1 SHUFFLE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 SHUFFLE </link>
-</item>
-<item>
-<title>MCM Pop</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/831.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM Pop </link>
-</item>
-<item>
-<title>AFRO MUSIC</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC </link>
-</item>
-<item>
-<title>VH1 Classic</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/828.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 Classic </link>
-</item>
-<item>
-<title>Trace Tv</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace Tv </link>
-</item>
-<item>
-<title>HOT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT HD </link>
-</item>
-<item>
-<title>EROXXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/411.ts&amp;streamtype=TSDOWNLOADER&amp;name=EROXXX </link>
-</item>
-<item>
-<title>Penthouse HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=Penthouse HD </link>
-</item>
-<item>
-<title>HUSTLER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLER HD </link>
-</item>
-<item>
-<title>SexyHot</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=SexyHot </link>
-</item>
-<item>
-<title>Sextreme</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1483.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sextreme </link>
-</item>
-<item>
-<title>Playboy</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Playboy </link>
-</item>
-<item>
-<title>Playboy 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Playboy 2 </link>
-</item>
-<item>
-<title>Venus</title>
-<link>plugin://plugin.video.f4mTester/?url=http://livetvhd.iptvpro.biz:8000/live/matheus/Em8JhUznSX/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=Venus </link>
-</item>
+ 
+          <item> 
+            <title>PT: Toros tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
+        </item> 
+          <item> 
+            <title>PT: Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: Jim Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim</link> 
+        </item> 
+          <item> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
+        </item> 
+          <item> 
+            <title>PT: CartoonNet Work</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSpor News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
+        </item> 
+          <item> 
+            <title>PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Abola tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/vG74ZS2Mi9/mc6075EUT9/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv</link> 
+        </item> 
+  
