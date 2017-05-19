@@ -16,16 +16,17 @@
 <item>
 <title>[COLOR lime][B][I] TF1 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=tf_1_hd</link>
+<link>http://188.60.202.208:8080/play/tf1</link>
 <thumbnail>http://static.ccm2.net/www.commentcamarche.net/sites/images/tf1.fr-4edb8081.jpg</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
  
  
  <item>
-<title>[COLOR lime][B][I] TF1 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/test1/test1/6995.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 LOGAN</link>
-<thumbnail>http://static.ccm2.net/www.commentcamarche.net/sites/images/tf1.fr-4edb8081.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<title[COLOR lime][B][I] TF1 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR]</title>
+<linkplugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/test1/test1/6995.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 LOGAN</link>
+<thumbnailhttp://static.ccm2.net/www.commentcamarche.net/sites/images/tf1.fr-4edb8081.jpg</thumbnail>
+<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
  
  
@@ -70,6 +71,7 @@
 <item>
 <title>[COLOR lime][B][I] M6  [/I][/B][/COLOR][COLOR orange](LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=m_6_hd</link>
+<link>http://188.60.202.208:8080/play/m6</link>
 <thumbnail>http://2.bp.blogspot.com/-NgADJHBCnBI/VLsHrlnZkAI/AAAAAAAAAGw/zN4WwVgGJoI/s1600/M6-tv-logo.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -85,6 +87,7 @@
 <item>
 <title>[COLOR lime][B][I] W9 [/I][/B][/COLOR] [COLOR orange] (LOGAN WEBTV)[/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=w_9</link>
+<link>http://188.60.202.208:8080/play/w9</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/fr/archive/8/86/20140417175821!W9_2010.png</thumbnail>
 </item>
@@ -92,7 +95,8 @@
 <item>
 <title>[COLOR lime][B][I] C8 [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV) [/COLOR]</title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=direct_8</link>
-<link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/test1/test1/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 LOGAN</link>
+<link>http://188.60.202.208:8080/play/c8</link>
+<linkplugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/test1/test1/7003.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 LOGAN</link>
 <thumbnail>http://www.userlogos.org/files/logos/1air2philou/Direct8-imitation.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -100,7 +104,8 @@
 <item>
 <title>[COLOR lime][B][I] 6TER  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=6_ter</link>
-<link>plugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/test1/test1/7002.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER LOGAN</link>
+<link>http://188.60.202.208:8080/play/6ter_HD</link>
+<linkplugin://plugin.video.f4mTester/?url=http://look02.vipid.org:8000/live/test1/test1/7002.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER LOGAN</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/M6_6ter_2012.png/170px-M6_6ter_2012.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -108,6 +113,7 @@
 <item>
 <title>[COLOR lime][B][I] RTS Un [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rts_un_hd</link>
+<link>http://188.60.202.208:8080/play/rts1</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RTS_un_HD.svg/120px-RTS_un_HD.svg.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
@@ -117,6 +123,7 @@
 <item>
 <title>[COLOR lime][B][I] RTS Deux  [/I][/B][/COLOR] [COLOR orange](LOGAN WEBTV)[/COLOR] </title>
 <link>https://streams.wilmaa.com/m3u8/get?channelId=rts_deux_hd</link>
+<link>http://188.60.202.208:8080/play/rts2</link>
 <thumbnail>http://4.bp.blogspot.com/-0QPQOKscqVM/VHrgeUtowBI/AAAAAAAABKs/PhSoUW96HYk/s1600/rts_deux_hd.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 </item>
