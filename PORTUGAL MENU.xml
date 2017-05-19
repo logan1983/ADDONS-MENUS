@@ -15,18 +15,7 @@
 
 <channels>
 <channel>	
-<name[COLOR red]PT[/COLOR] [COLOR lime]SERVIDOR 2[/COLOR]</name>
-<thumbnailhttp://i.cubeupload.com/6RPgMh.png</thumbnail>
-<fanarthttp://i.cubeupload.com/8Q7k7c.png</fanart>
-<externallinkhttps://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S2.xml</externallink>
-</subitem>
-</item>
-
-
-
-<channels>
-<channel>	
-<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 3[/COLOR]</name>
+<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 2[/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/bqys8h.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S3.xml</externallink>
@@ -36,7 +25,7 @@
 
 
 <channel>
-<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 4[/COLOR]</name>
+<name>[COLOR red]PT[/COLOR]  [COLOR lime]SERVIDOR 3[/COLOR]</name>
 <thumbnail>http://i.cubeupload.com/PRpoEA.png</thumbnail>
 <fanart>http://i.cubeupload.com/8Q7k7c.png</fanart>
 <link>http://ignoreme</link>
@@ -46,6 +35,13 @@
 
 
 
-
+<channels>
+<channel>	
+<name[COLOR red]PT[/COLOR] [COLOR lime]SERVIDOR 4[/COLOR]</name>
+<thumbnailhttp://i.cubeupload.com/6RPgMh.png</thumbnail>
+<fanarthttp://i.cubeupload.com/8Q7k7c.png</fanart>
+<externallinkhttps://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20TV%20S2.xml</externallink>
+</subitem>
+</item>
 
 
