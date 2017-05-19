@@ -12,6 +12,16 @@
 </subitem>
 
 
+</item>
+<channel>
+<name>[COLOR white][B]WEB STREAM[/COLOR][/B]</name>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart19.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon15.png</thumbnail>
+<link>http://ignorame</link>
+<jsonrpc>plugin://script.module.webstreams/</jsonrpc>
+</channel>
+
+
 <item>
 <title>[COLOR white][B]WEB STREAM[/COLOR][/B]</title>
 <link>http://ignora.me</link>
