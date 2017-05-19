@@ -2,38 +2,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
-<SetViewMode>50</SetViewMode>
-
-##################################################################################################
-<item>
-<title>[COLOR white][B][ Addons: [COLOR deepskyblue][B] Jami :: PT.DocS.HD :: Alive.HD  [/B][COLOR white][B] Provider: [COLOR deepskyblue][B] frenchdj [COLOR white]][/B][/COLOR]</title
-<link>http://i.imgur.com/BbjsQFK</link>
-<thumbnail>http://i.imgur.com/XAAQRCK.png</thumbnail>
-</item>
-##################################################################################################
-
-<item>
-<title>[B][COLOR white]. Jami[/COLOR][/B]</title
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.jami/</jsonrpc>
-<thumbnail>http://i.imgur.com/A1Cw8VF.png</thumbnail>
-<fanart>http://i.imgur.com/Ytf0rXA.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR white]. PT.DocS.HD[/COLOR][/B]</title
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.pt.docs.hd/</jsonrpc>
-<thumbnail>http://i.imgur.com/D1GE5aA.png</thumbnail>
-<fanart>http://i.imgur.com/Zdb3hlC.jpg</fanart>
-</item>
-
-<item>
-<title>[B][COLOR white]. Alive.HD[/COLOR][/B]</title
-<link>http://fui.me</link>
-<jsonrpc>plugin://plugin.video.alive.hd/</jsonrpc>
-<thumbnail>http://i.imgur.com/LMXr5XP.png</thumbnail>
-<fanart>http://i.imgur.com/Oij1EVa.jpg</fanart>
+<item>       
+<title>        [COLOR lime] CHANNELS••••TVS  [/COLOR]        </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
+<fanart></fanart>
 </item>
 
 
+</item>
+<channel>
+<name>[COLOR white][B]WEB STREAM[/COLOR][/B]</name>
+<fanart>https://i58.servimg.com/u/f58/19/44/91/43/fanart19.jpg</fanart>
+<thumbnail>https://i58.servimg.com/u/f58/19/44/91/43/icon15.png</thumbnail>
+<link>http://ignorame</link>
+<jsonrpc>plugin://script.module.webstreams/</jsonrpc>
+</channel>
