@@ -39,18 +39,12 @@
 <link>http://ignore.me</link>
 <jsonrpc>plugin://plugin.video.rtpplay/?url=http%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto&amp;mode=1&amp;name=%5BCOLOR+white%5D%5BB%5DAo+rtp diretos%5B%2FB%5D%5B%2FCOLOR%5D</jsonrpc>
  
-<item>
-<title[COLOR white][B][I]SIC[/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<sportsdevilhttp://www.sporttvonlinehd.com/index.php?canal=sic</sportsdevil>
-<refererhttp://www.sporttvonlinehd.com</referer>
-<thumbnailhttp://www.tv-logo.com/pt-data/uploads/images/logo/sic.jpg</thumbnail>
-</item>
  
  
 <item>
 <title>[COLOR white][B][I]SIC[/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.ts/BJ527TgFIf/11897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
+<linkplugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.ts/BJ527TgFIf/11897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
 </item>
