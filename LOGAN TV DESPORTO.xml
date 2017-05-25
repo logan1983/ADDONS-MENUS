@@ -241,7 +241,7 @@
 
 
 <item>
-<title> BENFICA TV </title>
+<title>[B][COLOR lawngreen] BENFICA TV1[/B][/COLOR]</title>
 <link>http://$doregex[ip]$doregex[m3u8]</link>
 </link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://cdn.mipspublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.mipsplayer.com/membedplayer/benfaschannelix/1/555/442</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.mips.tv</referer></link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/btv1.png</thumbnail>
