@@ -44,7 +44,7 @@
 <item>
 <title>[COLOR white][B][I]SIC[/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
+<linkplugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/moreira/moreira/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
 </item>
@@ -53,7 +53,7 @@
 <item>
 <title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
+<linkplugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/TONY.m3u8</link>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
