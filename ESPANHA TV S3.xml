@@ -30,776 +30,341 @@
  
   
   
+    
           <item> 
-            <title>------TDT------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=------TDT------</link> 
+            <title> tvg-ID="LA 1 ES" tvg-name="ES: TVE LA 1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="SPAIN CHANNEL"ES: TVE LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="LA 1 ES" tvg-name="ES: TVE LA 1 HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tve1_es.png" group-title="SPAIN CHANNEL"ES: TVE LA 1 HD</link> 
         </item> 
           <item> 
-            <title>LA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+            <title> tvg-ID="LA 2 ES" tvg-name="ES: TVE LA 2" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="SPAIN CHANNEL"ES: TVE LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1771.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="LA 2 ES" tvg-name="ES: TVE LA 2" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tve2.png" group-title="SPAIN CHANNEL"ES: TVE LA 2</link> 
         </item> 
           <item> 
-            <title>LA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+            <title> tvg-ID="" tvg-name="ES: TV3 Catalynia HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: TV3 Catalynia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2145.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: TV3 Catalynia HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: TV3 Catalynia HD</link> 
         </item> 
           <item> 
-            <title>ANTENA 3 ADSL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 ADSL</link> 
+            <title> tvg-ID="" tvg-name="ES: Antena 3" tvg-logo="" group-title="SPAIN CHANNEL"ES: Antena 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1772.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Antena 3" tvg-logo="" group-title="SPAIN CHANNEL"ES: Antena 3</link> 
         </item> 
           <item> 
-            <title>CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+            <title> tvg-ID="" tvg-name="ES: Azteca Trece" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Trece</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4632.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Azteca Trece" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Trece</link> 
         </item> 
           <item> 
-            <title>TELECINCO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Cuatro" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: Cuatro</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Cuatro" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: Cuatro</link> 
         </item> 
           <item> 
-            <title>LA SEXTA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
+            <title> tvg-ID="" tvg-name="ES: N Cuatro HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: N Cuatro HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2152.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: N Cuatro HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cuatro_es.png" group-title="SPAIN CHANNEL"ES: N Cuatro HD</link> 
         </item> 
           <item> 
-            <title>ENERGY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
+            <title> tvg-ID="Telecinco ES" tvg-name="ES: Telecinco HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3630.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Telecinco ES" tvg-name="ES: Telecinco HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco HD</link> 
         </item> 
           <item> 
-            <title>NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+            <title> tvg-ID="Telecinco ES" tvg-name="ES: Telecinco" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Telecinco ES" tvg-name="ES: Telecinco" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/telecinco.png" group-title="SPAIN CHANNEL"ES: Telecinco</link> 
         </item> 
           <item> 
-            <title>MEGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
+            <title> tvg-ID="La Sexta ES" tvg-name="ES: la sexta HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="SPAIN CHANNEL"ES: la sexta HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="La Sexta ES" tvg-name="ES: la sexta HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/la_sexta_es.png" group-title="SPAIN CHANNEL"ES: la sexta HD</link> 
         </item> 
           <item> 
-            <title>DIVINITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+            <title> tvg-ID="" tvg-name="ES: Moviestar Portrada" tvg-logo="" group-title="SPAIN CHANNEL"ES: Moviestar Portrada</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4631.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Moviestar Portrada" tvg-logo="" group-title="SPAIN CHANNEL"ES: Moviestar Portrada</link> 
         </item> 
           <item> 
-            <title>FDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+            <title> tvg-ID="" tvg-name="ES: RTVA" tvg-logo="" group-title="SPAIN CHANNEL"ES: RTVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4630.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: RTVA" tvg-logo="" group-title="SPAIN CHANNEL"ES: RTVA</link> 
         </item> 
           <item> 
-            <title>ATRESERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATRESERIES HD</link> 
+            <title> tvg-ID="Baby TV ES" tvg-name="ES: Baby TV" tvg-logo="" group-title="SPAIN CHANNEL"ES: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3651.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Baby TV ES" tvg-name="ES: Baby TV" tvg-logo="" group-title="SPAIN CHANNEL"ES: Baby TV</link> 
         </item> 
           <item> 
-            <title>NEOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX HD</link> 
+            <title> tvg-ID="Boing ES" tvg-name="ES: BOING" tvg-logo="" group-title="SPAIN CHANNEL"ES: BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3650.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Boing ES" tvg-name="ES: BOING" tvg-logo="" group-title="SPAIN CHANNEL"ES: BOING</link> 
         </item> 
           <item> 
-            <title>TEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEN</link> 
+            <title> tvg-ID="" tvg-name="ES: Anima Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Anima Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3674.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Anima Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Anima Tv</link> 
         </item> 
           <item> 
-            <title>--------CINE------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------CINE------</link> 
+            <title> tvg-ID="Disney XD ES" tvg-name="ES: Disney XD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3654.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Disney XD ES" tvg-name="ES: Disney XD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Disney XD</link> 
         </item> 
           <item> 
-            <title># 0 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0 HD</link> 
+            <title> tvg-ID="Disney Junior ES" tvg-name="ES: Disney Junior" tvg-logo="" group-title="SPAIN CHANNEL"ES: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3653.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Disney Junior ES" tvg-name="ES: Disney Junior" tvg-logo="" group-title="SPAIN CHANNEL"ES: Disney Junior</link> 
         </item> 
           <item> 
-            <title>M. ESTRENOS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Cartoon Network" tvg-logo="" group-title="SPAIN CHANNEL"ES: Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3652.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Cartoon Network" tvg-logo="" group-title="SPAIN CHANNEL"ES: Cartoon Network</link> 
         </item> 
           <item> 
-            <title>M. ACCION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ACCION HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Nickelodeon" tvg-logo="" group-title="SPAIN CHANNEL"ES: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3687.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Nickelodeon" tvg-logo="" group-title="SPAIN CHANNEL"ES: Nickelodeon</link> 
         </item> 
           <item> 
-            <title>M. DCINE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DCINE HD</link> 
+            <title> tvg-ID="Disney Channel ES" tvg-name="ES: Disney Channel" tvg-logo="" group-title="SPAIN CHANNEL"ES: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2162.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Disney Channel ES" tvg-name="ES: Disney Channel" tvg-logo="" group-title="SPAIN CHANNEL"ES: Disney Channel</link> 
         </item> 
           <item> 
-            <title>M. COMEDIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. COMEDIA HD</link> 
+            <title> tvg-ID="" tvg-name="ES: SYFY" tvg-logo="" group-title="SPAIN CHANNEL"ES: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: SYFY" tvg-logo="" group-title="SPAIN CHANNEL"ES: SYFY</link> 
         </item> 
           <item> 
-            <title>M. CINE Ã‘</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. CINE Ã‘</link> 
+            <title> tvg-ID="" tvg-name="ES: FOX LIFE" tvg-logo="" group-title="SPAIN CHANNEL"ES: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2158.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: FOX LIFE" tvg-logo="" group-title="SPAIN CHANNEL"ES: FOX LIFE</link> 
         </item> 
           <item> 
-            <title>CANAL HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+            <title> tvg-ID="FOX Life ES" tvg-name="ES: FOX Life HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: FOX Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3642.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOX Life ES" tvg-name="ES: FOX Life HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: FOX Life HD</link> 
         </item> 
           <item> 
-            <title>DARK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
+            <title> tvg-ID="FOX ES" tvg-name="ES: FOX HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3641.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FOX ES" tvg-name="ES: FOX HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: FOX HD</link> 
         </item> 
           <item> 
-            <title>XTRM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+            <title> tvg-ID="" tvg-name="ES: Fox" tvg-logo="" group-title="SPAIN CHANNEL"ES: Fox</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2147.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Fox" tvg-logo="" group-title="SPAIN CHANNEL"ES: Fox</link> 
         </item> 
           <item> 
-            <title>SOMOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
+            <title> tvg-ID="AXN ES" tvg-name="ES: AXN White HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3648.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXN ES" tvg-name="ES: AXN White HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: AXN White HD</link> 
         </item> 
           <item> 
-            <title>LIFE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIFE TV</link> 
+            <title> tvg-ID="AXN ES" tvg-name="ES: AXN" tvg-logo="" group-title="SPAIN CHANNEL"ES: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3649.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXN ES" tvg-name="ES: AXN" tvg-logo="" group-title="SPAIN CHANNEL"ES: AXN</link> 
         </item> 
           <item> 
-            <title>SUNDANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
+            <title> tvg-ID="Calle 13 ES" tvg-name="ES: Calle 13 HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Calle 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3643.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Calle 13 ES" tvg-name="ES: Calle 13 HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Calle 13 HD</link> 
         </item> 
           <item> 
-            <title>PARAMOUNT CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+            <title> tvg-ID="Movistar Accion ES" tvg-name="ES: Movistar Accion" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_accion.png" group-title="SPAIN CHANNEL"ES: Movistar Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar Accion ES" tvg-name="ES: Movistar Accion" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_accion.png" group-title="SPAIN CHANNEL"ES: Movistar Accion</link> 
         </item> 
           <item> 
-            <title>COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+            <title> tvg-ID="Movistar Comedia ES" tvg-name="ES: Movistar Comedia HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_comedia.png" group-title="SPAIN CHANNEL"ES: Movistar Comedia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3633.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar Comedia ES" tvg-name="ES: Movistar Comedia HD" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_comedia.png" group-title="SPAIN CHANNEL"ES: Movistar Comedia HD</link> 
         </item> 
           <item> 
-            <title>COSMOPOLITAN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMOPOLITAN HD</link> 
+            <title> tvg-ID="Movistar DCine ES" tvg-name="ES: Movistar DCine" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_d_cine.png" group-title="SPAIN CHANNEL"ES: Movistar DCine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3631.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar DCine ES" tvg-name="ES: Movistar DCine" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_d_cine.png" group-title="SPAIN CHANNEL"ES: Movistar DCine</link> 
         </item> 
           <item> 
-            <title>--------SERIES--------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------SERIES--------</link> 
+            <title> tvg-ID="Movistar Xtra ES" tvg-name="ES: Movistar Xtra" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_xtra.png" group-title="SPAIN CHANNEL"ES: Movistar Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3635.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar Xtra ES" tvg-name="ES: Movistar Xtra" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_xtra.png" group-title="SPAIN CHANNEL"ES: Movistar Xtra</link> 
         </item> 
           <item> 
-            <title>AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+            <title> tvg-ID="Movistar Series Xtra ES" tvg-name="ES: Movistar Series Xtra" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_series_xtra.png" group-title="SPAIN CHANNEL"ES: Movistar Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3637.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar Series Xtra ES" tvg-name="ES: Movistar Series Xtra" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_series_xtra.png" group-title="SPAIN CHANNEL"ES: Movistar Series Xtra</link> 
         </item> 
           <item> 
-            <title>SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+            <title> tvg-ID="Movistar Series ES" tvg-name="ES: Movistar Series" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_series.png" group-title="SPAIN CHANNEL"ES: Movistar Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3636.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar Series ES" tvg-name="ES: Movistar Series" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_series.png" group-title="SPAIN CHANNEL"ES: Movistar Series</link> 
         </item> 
           <item> 
-            <title>SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+            <title> tvg-ID="Movistar Estrenos ES" tvg-name="ES: Movistar Estrenos" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_estrenos.png" group-title="SPAIN CHANNEL"ES: Movistar Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3634.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Movistar Estrenos ES" tvg-name="ES: Movistar Estrenos" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/movistar_es_estrenos.png" group-title="SPAIN CHANNEL"ES: Movistar Estrenos</link> 
         </item> 
           <item> 
-            <title>TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+            <title> tvg-ID="" tvg-name="ES: Canal HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3638.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Canal HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal HD</link> 
         </item> 
           <item> 
-            <title>TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+            <title> tvg-ID="TNT ES" tvg-name="ES: TNT" tvg-logo="" group-title="SPAIN CHANNEL"ES: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3646.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TNT ES" tvg-name="ES: TNT" tvg-logo="" group-title="SPAIN CHANNEL"ES: TNT</link> 
         </item> 
           <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+            <title> tvg-ID="Comedy Central ES" tvg-name="ES: Comedy Central" tvg-logo="" group-title="SPAIN CHANNEL"ES: Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3640.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Comedy Central ES" tvg-name="ES: Comedy Central" tvg-logo="" group-title="SPAIN CHANNEL"ES: Comedy Central</link> 
         </item> 
           <item> 
-            <title>FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+            <title> tvg-ID="Paramount Channel ES" tvg-name="ES: Paramount Channel" tvg-logo="" group-title="SPAIN CHANNEL"ES: Paramount Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3673.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Paramount Channel ES" tvg-name="ES: Paramount Channel" tvg-logo="" group-title="SPAIN CHANNEL"ES: Paramount Channel</link> 
         </item> 
           <item> 
-            <title>FOX ADSL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ADSL</link> 
+            <title> tvg-ID="Hollywood ES" tvg-name="ES: Hollywood SD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Hollywood SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3645.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Hollywood ES" tvg-name="ES: Hollywood SD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Hollywood SD</link> 
         </item> 
           <item> 
-            <title>CALLE 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link> 
+            <title> tvg-ID="Hollywood ES" tvg-name="ES: Hollywood HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Hollywood HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3644.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Hollywood ES" tvg-name="ES: Hollywood HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Hollywood HD</link> 
         </item> 
           <item> 
-            <title>CALLE 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+            <title> tvg-ID="" tvg-name="ES: Moviestar Series" tvg-logo="" group-title="SPAIN CHANNEL"ES: Moviestar Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3678.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Moviestar Series" tvg-logo="" group-title="SPAIN CHANNEL"ES: Moviestar Series</link> 
         </item> 
           <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Televisa HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Televisa HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3679.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Televisa HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Televisa HD</link> 
         </item> 
           <item> 
-            <title>FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+            <title> tvg-ID="" tvg-name="ES: Energy" tvg-logo="" group-title="SPAIN CHANNEL"ES: Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3675.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Energy" tvg-logo="" group-title="SPAIN CHANNEL"ES: Energy</link> 
         </item> 
           <item> 
-            <title>AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+            <title> tvg-ID="" tvg-name="ES: TVE Clan" tvg-logo="" group-title="SPAIN CHANNEL"ES: TVE Clan</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3647.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: TVE Clan" tvg-logo="" group-title="SPAIN CHANNEL"ES: TVE Clan</link> 
         </item> 
           <item> 
-            <title>AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+            <title> tvg-ID="" tvg-name="ES: Bein LaLiga" tvg-logo="" group-title="SPORT"ES: Bein LaLiga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3669.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Bein LaLiga" tvg-logo="" group-title="SPORT"ES: Bein LaLiga</link> 
         </item> 
           <item> 
-            <title>M. SERIES XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES XTRA HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Neox Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Neox Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3672.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Neox Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Neox Tv</link> 
         </item> 
           <item> 
-            <title>M. SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES HD</link> 
+            <title> tvg-ID="National Geographic ES" tvg-name="ES: National Geographic" tvg-logo="" group-title="SPAIN CHANNEL"ES: National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3676.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="National Geographic ES" tvg-name="ES: National Geographic" tvg-logo="" group-title="SPAIN CHANNEL"ES: National Geographic</link> 
         </item> 
           <item> 
-            <title>M. XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. XTRA HD</link> 
+            <title> tvg-ID="Nat Geo Wild ES" tvg-name="ES: Nat Geo Wild" tvg-logo="" group-title="SPAIN CHANNEL"ES: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3677.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Nat Geo Wild ES" tvg-name="ES: Nat Geo Wild" tvg-logo="" group-title="SPAIN CHANNEL"ES: Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>------NOTICIAS------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=------NOTICIAS------</link> 
+            <title> tvg-ID="" tvg-name="ES: Historia" tvg-logo="" group-title="SPAIN CHANNEL"ES: Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3682.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Historia" tvg-logo="" group-title="SPAIN CHANNEL"ES: Historia</link> 
         </item> 
           <item> 
-            <title>24 HORAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
+            <title> tvg-ID="Toros TV ES" tvg-name="ES: Toros Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Toros Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3668.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Toros TV ES" tvg-name="ES: Toros Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Toros Tv</link> 
         </item> 
           <item> 
-            <title>24 HORAS ADSL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS ADSL</link> 
+            <title> tvg-ID="" tvg-name="ES: Viajar HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Viajar HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3683.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Viajar HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Viajar HD</link> 
         </item> 
           <item> 
-            <title>EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+            <title> tvg-ID="" tvg-name="ES: Odisea Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Odisea Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3671.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Odisea Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Odisea Tv</link> 
         </item> 
           <item> 
-            <title>RT NOTICIAS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS HD</link> 
+            <title> tvg-ID="Nova ES" tvg-name="ES: Nova" tvg-logo="" group-title="SPAIN CHANNEL"ES: Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3667.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Nova ES" tvg-name="ES: Nova" tvg-logo="" group-title="SPAIN CHANNEL"ES: Nova</link> 
         </item> 
           <item> 
-            <title>RT NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS</link> 
+            <title> tvg-ID="" tvg-name="ES: Mega" tvg-logo="" group-title="SPAIN CHANNEL"ES: Mega</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Mega" tvg-logo="" group-title="SPAIN CHANNEL"ES: Mega</link> 
         </item> 
           <item> 
-            <title>INFORMACION TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFORMACION TV</link> 
+            <title> tvg-ID="" tvg-name="ES: MTV espana" tvg-logo="" group-title="SPAIN CHANNEL"ES: MTV espana</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3690.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: MTV espana" tvg-logo="" group-title="SPAIN CHANNEL"ES: MTV espana</link> 
         </item> 
           <item> 
-            <title>DW NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DW NOTICIAS</link> 
+            <title> tvg-ID="" tvg-name="ES: Proyecto 40" tvg-logo="" group-title="SPAIN CHANNEL"ES: Proyecto 40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2150.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Proyecto 40" tvg-logo="" group-title="SPAIN CHANNEL"ES: Proyecto 40</link> 
         </item> 
           <item> 
-            <title>--------AUTONOMICAS---------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------AUTONOMICAS---------</link> 
+            <title> tvg-ID="" tvg-name="ES: Crimen y Investigation" tvg-logo="" group-title="SPAIN CHANNEL"ES: Crimen y Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3689.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Crimen y Investigation" tvg-logo="" group-title="SPAIN CHANNEL"ES: Crimen y Investigation</link> 
         </item> 
           <item> 
-            <title>NON STOP PEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=NON STOP PEOPLE</link> 
+            <title> tvg-ID="" tvg-name="ES: Cosmo HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Cosmo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3688.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Cosmo HD" tvg-logo="" group-title="SPAIN CHANNEL"ES: Cosmo HD</link> 
         </item> 
           <item> 
-            <title>TV CANARIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CANARIA</link> 
+            <title> tvg-ID="" tvg-name="ES: Canal DeCasa" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal DeCasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3686.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Canal DeCasa" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal DeCasa</link> 
         </item> 
           <item> 
-            <title>LANCELOT TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=LANCELOT TV</link> 
+            <title> tvg-ID="" tvg-name="ES: Canal Cocina" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3684.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Canal Cocina" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal Cocina</link> 
         </item> 
           <item> 
-            <title>CANAL SUR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+            <title> tvg-ID="" tvg-name="ES: Movistar MotoGP" tvg-logo="" group-title="SPAIN CHANNEL"ES: Movistar MotoGP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3680.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Movistar MotoGP" tvg-logo="" group-title="SPAIN CHANNEL"ES: Movistar MotoGP</link> 
         </item> 
           <item> 
-            <title>8 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=8 TV</link> 
+            <title> tvg-ID="" tvg-name="ES: Azteca Honduras" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Honduras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8309.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Azteca Honduras" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Honduras</link> 
         </item> 
           <item> 
-            <title>TELEMADRID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEMADRID</link> 
+            <title> tvg-ID="" tvg-name="ES: Azteca Noticias" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8308.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Azteca Noticias" tvg-logo="" group-title="SPAIN CHANNEL"ES: Azteca Noticias</link> 
         </item> 
           <item> 
-            <title>8 TV MADRID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=8 TV MADRID</link> 
+            <title> tvg-ID="" tvg-name="ES: Sevilla Channel" tvg-logo="" group-title="SPORT"ES: Sevilla Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8343.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Sevilla Channel" tvg-logo="" group-title="SPORT"ES: Sevilla Channel</link> 
         </item> 
           <item> 
-            <title>LA OTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA OTRA</link> 
+            <title> tvg-ID="" tvg-name="ES: Telemadrid" tvg-logo="" group-title="SPAIN CHANNEL"ES: Telemadrid</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8307.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Telemadrid" tvg-logo="" group-title="SPAIN CHANNEL"ES: Telemadrid</link> 
         </item> 
           <item> 
-            <title>TV3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
+            <title> tvg-ID="" tvg-name="ES: Telesur" tvg-logo="" group-title="SPAIN CHANNEL"ES: Telesur</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/8358.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Telesur" tvg-logo="" group-title="SPAIN CHANNEL"ES: Telesur</link> 
         </item> 
           <item> 
-            <title>3/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=3/24</link> 
+            <title> tvg-ID="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="SPAIN CHANNEL"ES: Movistar F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3681.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="SPAIN CHANNEL"ES: Movistar F1</link> 
         </item> 
           <item> 
-            <title>RIVERA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=RIVERA TV</link> 
+            <title> tvg-ID="" tvg-name="ES: Andalucia Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Andalucia Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3670.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Andalucia Tv" tvg-logo="" group-title="SPAIN CHANNEL"ES: Andalucia Tv</link> 
         </item> 
           <item> 
-            <title>MOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOLA TV</link> 
+            <title> tvg-ID="" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="SPORT"ES: RealMadrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1589.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="SPORT"ES: RealMadrid TV</link> 
         </item> 
           <item> 
-            <title>LUX MALLORCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUX MALLORCA</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 1" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 1" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 1</link> 
         </item> 
           <item> 
-            <title>CANAL EXTREMADURA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL EXTREMADURA</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 2" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 2" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 2</link> 
         </item> 
           <item> 
-            <title>7 HD MURCIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=7 HD MURCIA</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 3" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 3" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 3</link> 
         </item> 
           <item> 
-            <title>HTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=HTV</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 4" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2631.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 4" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 4</link> 
         </item> 
           <item> 
-            <title>CYL7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=CYL7</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 5" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3655.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 5" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 5</link> 
         </item> 
           <item> 
-            <title>--------DEPORTES------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------DEPORTES------</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 6" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 6" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 6</link> 
         </item> 
           <item> 
-            <title>LALIGATV BAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 7" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3656.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 7" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 7</link> 
         </item> 
           <item> 
-            <title>LALIGATV BAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 8" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 8" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 8</link> 
         </item> 
           <item> 
-            <title>BEIN LIGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 9" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3657.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 9" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 9</link> 
         </item> 
           <item> 
-            <title>BEIN LA LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA</link> 
+            <title> tvg-ID="" tvg-name="ES: Taquilla 10" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3658.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Taquilla 10" tvg-logo="" group-title="SPAIN CHANNEL"ES: Taquilla 10</link> 
         </item> 
           <item> 
-            <title>BEIN SPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT HD</link> 
+            <title> tvg-ID="" tvg-name="ES: EUROSPORT" tvg-logo="" group-title="SPORT"ES: EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2161.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: EUROSPORT" tvg-logo="" group-title="SPORT"ES: EUROSPORT</link> 
         </item> 
           <item> 
-            <title>BEIN SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+            <title> tvg-ID="" tvg-name="ES: Canal  Deportes" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal  Deportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2149.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Canal  Deportes" tvg-logo="" group-title="SPAIN CHANNEL"ES: Canal  Deportes</link> 
         </item> 
           <item> 
-            <title>IPTV DEPORTES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DEPORTES</link> 
+            <title> tvg-ID="" tvg-name="ES: Bein Sport Espana" tvg-logo="" group-title="SPORT"ES: Bein Sport Espana</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2143.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Bein Sport Espana" tvg-logo="" group-title="SPORT"ES: Bein Sport Espana</link> 
         </item> 
           <item> 
-            <title>LA LIGA 123 SOLO PARTIDOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA 123 SOLO PARTIDOS</link> 
-        </item> 
-          <item> 
-            <title>A1 SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=A1 SPORT</link> 
-        </item> 
-          <item> 
-            <title>M. FUTBOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FUTBOL</link> 
-        </item> 
-          <item> 
-            <title>M. DEPORTES 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 1 HD</link> 
-        </item> 
-          <item> 
-            <title>M. DEPORTES 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 2 HD</link> 
-        </item> 
-          <item> 
-            <title>GOL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
-        </item> 
-          <item> 
-            <title>M. MOTO GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP</link> 
-        </item> 
-          <item> 
-            <title>M. MOTO GP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP HD</link> 
-        </item> 
-          <item> 
-            <title>FORMULA 1 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMULA 1 SD</link> 
-        </item> 
-          <item> 
-            <title>M. FORMULA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FORMULA 1 HD</link> 
-        </item> 
-          <item> 
-            <title>M. GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. GOLF</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT1</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>TELEDEPORTES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTES</link> 
-        </item> 
-          <item> 
-            <title>TYC SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=TYC SPORTS</link> 
-        </item> 
-          <item> 
-            <title>RED BULL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RED BULL TV</link> 
-        </item> 
-          <item> 
-            <title>REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
-        </item> 
-          <item> 
-            <title>BARCA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
-        </item> 
-          <item> 
-            <title>TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
-        </item> 
-          <item> 
-            <title>-------INFANTIL----------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------INFANTIL----------</link> 
-        </item> 
-          <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>ANIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME</link> 
-        </item> 
-          <item> 
-            <title>NICK JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
-        </item> 
-          <item> 
-            <title>DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>CLAN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN</link> 
-        </item> 
-          <item> 
-            <title>BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
-        </item> 
-          <item> 
-            <title>BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item> 
-          <item> 
-            <title>CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>-------DOCUMENTALES-------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------DOCUMENTALES-------</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>NATIONAL GEOGRAPHIC WILD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD HD</link> 
-        </item> 
-          <item> 
-            <title>NATIONAL GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
-        </item> 
-          <item> 
-            <title>CANAL ODISEA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ODISEA</link> 
-        </item> 
-          <item> 
-            <title>A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>CRIMEN &amp; INVESTIGACION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN &amp; INVESTIGACION</link> 
-        </item> 
-          <item> 
-            <title>IBERALIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
-        </item> 
-          <item> 
-            <title>CAZA Y PESCA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA HD</link> 
-        </item> 
-          <item> 
-            <title>CAZA Y PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
-        </item> 
-          <item> 
-            <title>CANAL COCINA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
-        </item> 
-          <item> 
-            <title>CANAL DE CASA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE CASA</link> 
-        </item> 
-          <item> 
-            <title>VIAJAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link> 
-        </item> 
-          <item> 
-            <title>TRAVEL TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL TV HD</link> 
-        </item> 
-          <item> 
-            <title>-------MUSICA-------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------MUSICA-------</link> 
-        </item> 
-          <item> 
-            <title>MTV ESPAÃ‘A</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPAÃ‘A</link> 
-        </item> 
-          <item> 
-            <title>MTV HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HITS</link> 
-        </item> 
-          <item> 
-            <title>SOL MUSICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOL MUSICA</link> 
-        </item> 
-          <item> 
-            <title>DELUXE MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=DELUXE MUSIC</link> 
-        </item> 
-          <item> 
-            <title>VIRGIN TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV</link> 
-        </item> 
-          <item> 
-            <title>CITY MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY MUSIC</link> 
-        </item> 
-          <item> 
-            <title>CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY</link> 
-        </item> 
-          <item> 
-            <title>M2O TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=M2O TV</link> 
-        </item> 
-          <item> 
-            <title>FORMUSIC TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMUSIC TV</link> 
-        </item> 
-          <item> 
-            <title>--------TAQUILLAS-------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------TAQUILLAS-------</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 1</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 2</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 3</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 4</link> 
-        </item> 
-          <item> 
-            <title>TAQUIILA 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUIILA 5</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 6</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 7</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 8</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 9</link> 
-        </item> 
-          <item> 
-            <title>TAQUILLA 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 10</link> 
-        </item> 
-          <item> 
-            <title>--------ADULTOS--------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------ADULTOS--------</link> 
-        </item> 
-          <item> 
-            <title>PLAYBOY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLAYBOY TV</link> 
-        </item> 
-          <item> 
-            <title>TV XXX (+18)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV XXX (+18)</link> 
-        </item> 
-          <item> 
-            <title>CENTO TV (+18)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=CENTO TV (+18)</link> 
-        </item> 
-          <item> 
-            <title>JASMIN TV (+18)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=JASMIN TV (+18)</link> 
-        </item> 
-          <item> 
-            <title>VENUS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=VENUS</link> 
-        </item> 
-          <item> 
-            <title>DORCEL TV (+18)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=DORCEL TV (+18)</link> 
-        </item> 
-          <item> 
-            <title>HUSTLRER HD (+18)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=HUSTLRER HD (+18)</link> 
-        </item> 
-          <item> 
-            <title>PASSIE XXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=PASSIE XXX</link> 
-        </item> 
-          <item> 
-            <title>NUBILES XXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUBILES XXX</link> 
-        </item> 
-          <item> 
-            <title>MEIDEN HOLLAN XXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEIDEN HOLLAN XXX</link> 
-        </item> 
-          <item> 
-            <title>BLAKEC XXX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=BLAKEC XXX</link> 
-        </item> 
-          <item> 
-            <title>HOT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOT</link> 
-        </item> 
-          <item> 
-            <title>REDLIGHT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=REDLIGHT HD</link> 
-        </item> 
-          <item> 
-            <title>------LATINOS-----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=------LATINOS-----</link> 
-        </item> 
-          <item> 
-            <title>Latino: TNT Series HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: TNT Series HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: NatGeo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: NatGeo Wild HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Multimedios Monterrey HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Multimedios Monterrey HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Latino: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Latino: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox Movies HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Movies HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Cinema HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox Action HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Fox 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Fox 1 HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: ESPN 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: ESPN 3</link> 
-        </item> 
-          <item> 
-            <title>Latino: ESPN 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: ESPN 2</link> 
-        </item> 
-          <item> 
-            <title>Latino: ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: ESPN</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery TLC</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery Teather HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Teather HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Kids</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery ID</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery ID</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery Civilization</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Civilization</link> 
-        </item> 
-          <item> 
-            <title>Latino: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>Latino: Cinecanal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Cinecanal</link> 
-        </item> 
-          <item> 
-            <title>Latino: Carton Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Carton Network HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: AXN HD</link> 
-        </item> 
-          <item> 
-            <title>Latino: Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>Latino: A&amp;E HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/pedro/pedro/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: A&amp;E HD</link> 
+            <title> tvg-ID="" tvg-name="ES: Barca TV" tvg-logo="" group-title="SPORT"ES: Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/1585.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="ES: Barca TV" tvg-logo="" group-title="SPORT"ES: Barca TV</link> 
         </item> 
   
