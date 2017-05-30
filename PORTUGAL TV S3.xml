@@ -37,72 +37,305 @@
  
     
  
+  
           <item> 
-            <title>PT:RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 1</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PT:RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4146.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 2</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>PT:RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4147.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 3</link> 
+            <title>PT: RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
         </item> 
           <item> 
-            <title>PT:RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4153.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Memoria</link> 
+            <title>PT: RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>PT:RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4151.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Madeira</link> 
+            <title>PT: RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>PT:RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4150.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Africa</link> 
+            <title>PT: RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES</link> 
         </item> 
           <item> 
-            <title>PT:RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4152.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP Acores</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>PT:TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4155.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI</link> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
         </item> 
           <item> 
-            <title>PT:SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4156.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC Radical</link> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
         </item> 
           <item> 
-            <title>PT:SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4157.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC Noticias</link> 
+            <title>PT: SIC Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical</link> 
         </item> 
           <item> 
-            <title>PT:Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4148.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Panda</link> 
+            <title>PT: SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT:Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4161.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Odisseia</link> 
+            <title>PT: TVI FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
         </item> 
           <item> 
-            <title>PT:AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4182.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AXN HD</link> 
+            <title>---------- DESPORTO ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17736.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DESPORTO ----------</link> 
         </item> 
           <item> 
-            <title>PT:TVC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4162.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC 1</link> 
+            <title>PT: Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport 1</link> 
         </item> 
           <item> 
-            <title>PT:TVC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC 2</link> 
+            <title>PT: EUROSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT HD</link> 
         </item> 
           <item> 
-            <title>PT:TVC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4149.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVC 3</link> 
+            <title>PT: Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport 2</link> 
         </item> 
           <item> 
-            <title>PT:TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vip.tuguj.net:8000/live/0808/0808/4154.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI 24</link> 
+            <title>PT: EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Motorvision</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motorvision</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>---------- NOTICIAS ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17737.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- NOTICIAS ----------</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17758.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI24</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
+        </item> 
+          <item> 
+            <title>PT: CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/625.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
+        </item> 
+          <item> 
+            <title>---------- FILMES &amp; SERIES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17739.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- FILMES &amp; SERIES ----------</link> 
+        </item> 
+          <item> 
+            <title>PT: MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17759.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comeny</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comeny</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>PT: A &amp; E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A &amp; E</link> 
+        </item> 
+          <item> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>---------- DOCUMENTARIOS ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17740.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DOCUMENTARIOS ----------</link> 
+        </item> 
+          <item> 
+            <title>PT: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL Historia</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEO  WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEO  WILD</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Toros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TRAVEL CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CaÃƒÂ§a e Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CaÃƒÂ§a e Pesca</link> 
+        </item> 
+          <item> 
+            <title>PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>PT: E! Entertaunment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertaunment</link> 
+        </item> 
+          <item> 
+            <title>PT: 24KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>PT:  PORTO Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:  PORTO Canal</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>PT: A Bola TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A Bola TV</link> 
+        </item> 
+          <item> 
+            <title>---------- KIDS ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17738.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- KIDS ----------</link> 
+        </item> 
+          <item> 
+            <title>PT: PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
+        </item> 
+          <item> 
+            <title>PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>PT: Baby Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby Tv</link> 
+        </item> 
+          <item> 
+            <title>PT: Cartoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon</link> 
+        </item> 
+          <item> 
+            <title>PT: JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>PT: Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cinemundo</link> 
+        </item> 
+          <item> 
+            <title>PT: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV</link> 
+        </item> 
+          <item> 
+            <title>PT: Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
+        </item> 
+          <item> 
+            <title>PT: TV GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/669.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18362.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX NEWS</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18361.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
         </item> 
   
