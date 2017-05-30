@@ -29,532 +29,705 @@
  
  
   
+ 
           <item> 
-            <title> tvg-ID="" tvg-name="Latino: TyC Sports" tvg-logo="" group-title="LATINO"Latino: TyC Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-ID="" tvg-name="Latino: TyC Sports" tvg-logo="" group-title="LATINO",Latino: TyC Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="Latino: TyC Sports" tvg-logo="" group-title="LATINO"Latino: TyC Sports</link> 
+            <title>SP: LA1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13643.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA1 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 1</link> 
+        </item> 
+          <item> 
+            <title>SP: LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA 2</link> 
+        </item> 
+          <item> 
+            <title>SP: ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13640.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANTENA 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: ANTENA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANTENA 3</link> 
+        </item> 
+          <item> 
+            <title>SP: CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13671.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CUATRO</link> 
+        </item> 
+          <item> 
+            <title>SP: TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7209.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TELECINCO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELECINCO</link> 
+        </item> 
+          <item> 
+            <title>SP: LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/408.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA SEXTA</link> 
+        </item> 
+          <item> 
+            <title>SP: NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NEOX</link> 
+        </item> 
+          <item> 
+            <title>SP: NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NOVA</link> 
+        </item> 
+          <item> 
+            <title>SP: MEGA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7200.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MEGA TV</link> 
+        </item> 
+          <item> 
+            <title>SP: FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FDF</link> 
+        </item> 
+          <item> 
+            <title>SP: DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7196.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>SP: ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ENERGY</link> 
+        </item> 
+          <item> 
+            <title>SP: TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/410.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>SP: ANDALUCIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: ANDALUCIA TV</link> 
+        </item> 
+          <item> 
+            <title>---------- MOVISTAR + ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13658.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- MOVISTAR + ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: #0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13606.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: #0 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: #0</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7262.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: #0</link> 
+        </item> 
+          <item> 
+            <title>---------- CINE ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13651.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- CINE ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ESTRENOS HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18704.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ESTRENOS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ESTRENOS SD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ACCION HD(1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18703.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION HD(1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13603.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. ACCION</link> 
+        </item> 
+          <item> 
+            <title>SP:  M. COMEDIA HD(1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  M. COMEDIA HD(1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: M. COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7211.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. COMEDIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. COMEDIA</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DCINE HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18705.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7210.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DCINE</link> 
+        </item> 
+          <item> 
+            <title>SP: M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13625.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. XTRA</link> 
+        </item> 
+          <item> 
+            <title>SP: M CINE ESPANOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7224.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M CINE ESPANOL</link> 
+        </item> 
+          <item> 
+            <title>---------- SERIES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13652.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- SERIES ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: M SERIES HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18706.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M SERIES HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13605.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES XTRA HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18707.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13628.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>SP: M. SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. SERIES XTRA</link> 
+        </item> 
+          <item> 
+            <title>SP: COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13634.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COMEDY CENTRAL HD</link> 
+        </item> 
+          <item> 
+            <title>SP: COMEDY CENTRAL SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7216.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COMEDY CENTRAL SD</link> 
+        </item> 
+          <item> 
+            <title>SP: H0LLYWOOD HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18708.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: H0LLYWOOD HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13593.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>SP: HOLLYWOOD SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HOLLYWOOD SD</link> 
+        </item> 
+          <item> 
+            <title>SP: PARAMOUNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7212.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: PARAMOUNT</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18713.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13594.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13622.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>SP: FOX LIFE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: FOX LIFE SD</link> 
+        </item> 
+          <item> 
+            <title>SP: AMC HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18709.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13702.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC HD</link> 
+        </item> 
+          <item> 
+            <title>SP: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13665.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AMC</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13589.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13624.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>SP: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>SP: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13633.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>SP:  SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  SYFY</link> 
+        </item> 
+          <item> 
+            <title>SP: TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13592.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TNT</link> 
+        </item> 
+          <item> 
+            <title>SP: TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13604.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TCM HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18710.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TCM</link> 
+        </item> 
+          <item> 
+            <title>SP: SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13691.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: SUNDANCE</link> 
+        </item> 
+          <item> 
+            <title>SP: CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13645.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>SP: CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>SP: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>---------- EXTRA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13660.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- EXTRA ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: TOROS HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18711.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS HD (1080)</link> 
+        </item> 
+          <item> 
+            <title>SP: TOROS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13602.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS HD</link> 
+        </item> 
+          <item> 
+            <title>SP: TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TOROS</link> 
+        </item> 
+          <item> 
+            <title>SP: CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>SP: IBERALIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13936.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: IBERALIA TV</link> 
+        </item> 
+          <item> 
+            <title>---------- DOCUMENTALES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13654.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DOCUMENTALES ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>SP: CANAL ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL ODISEA</link> 
+        </item> 
+          <item> 
+            <title>SP: NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13590.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NAT GEO HD</link> 
+        </item> 
+          <item> 
+            <title>SP: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>SP: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>SP: VIAJAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13623.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: VIAJAR</link> 
+        </item> 
+          <item> 
+            <title>SP: CRIME &amp; INVESTIGATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7226.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CRIME &amp; INVESTIGATION</link> 
+        </item> 
+          <item> 
+            <title>SP: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13692.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>SP: NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13935.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NON STOP PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>---------- MUSICA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13656.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- MUSICA ----------</link> 
+        </item> 
+          <item> 
+            <title>SP: MEZZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13701.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MEZZO</link> 
+        </item> 
+          <item> 
+            <title>SP: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: VH1</link> 
+        </item> 
+          <item> 
+            <title>SP: M. eSports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,SP: M. eSports&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. eSports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15828.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Viajar.sp" tvg-name="SP: Viajar HD" tvg-logo="https://i.imgsafe.org/4ada6a57cd.png" group-title="SPAIN"SP: Viajar HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12542.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Viajar.sp" tvg-name="SP: Viajar HD" tvg-logo="https://i.imgsafe.org/4ada6a57cd.png" group-title="SPAIN"SP: Viajar HD</link> 
+            <title>SP: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13667.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MTV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: TOROS HD" tvg-logo="" group-title="SPAIN"SP: TOROS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15424.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: TOROS HD" tvg-logo="" group-title="SPAIN"SP: TOROS HD</link> 
+            <title>---------- ESTILO DE VIDA ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13659.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- ESTILO DE VIDA ----------</link> 
         </item> 
           <item> 
-            <title> tvg-ID="TNT.sp" tvg-name="SP: TNT HD" tvg-logo="" group-title="SPAIN"SP: TNT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15422.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TNT.sp" tvg-name="SP: TNT HD" tvg-logo="" group-title="SPAIN"SP: TNT HD</link> 
+            <title>SP: COSMO HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18712.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COSMO HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: TELEVISA HD" tvg-logo="" group-title="SPAIN"SP: TELEVISA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7657.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: TELEVISA HD" tvg-logo="" group-title="SPAIN"SP: TELEVISA HD</link> 
+            <title>SP: COSMO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13629.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: COSMO HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: TELECINCO FHD" tvg-logo="" group-title="SPAIN"SP: TELECINCO FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15412.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: TELECINCO FHD" tvg-logo="" group-title="SPAIN"SP: TELECINCO FHD</link> 
+            <title>SP: CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7201.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL COCINA</link> 
         </item> 
           <item> 
-            <title> tvg-ID="TCM.sp" tvg-name="SP: TCM HD" tvg-logo="" group-title="SPAIN"SP: TCM HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15423.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TCM.sp" tvg-name="SP: TCM HD" tvg-logo="" group-title="SPAIN"SP: TCM HD</link> 
+            <title>SP: CANAL DECASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL DECASA</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: SYFY HD" tvg-logo="http://www.iptvsensation.com/picons/syfyhd.png" group-title="SPAIN"SP: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7594.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: SYFY HD" tvg-logo="http://www.iptvsensation.com/picons/syfyhd.png" group-title="SPAIN"SP: SYFY HD</link> 
+            <title>SP: CANAL ORBE 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13937.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL ORBE 21</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Nickelodeon.sp" tvg-name="SP: NICKELODEON HD" tvg-logo="http://www.iptvsensation.com/picons/nickelodeon.png" group-title="SPAIN"SP: NICKELODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7669.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Nickelodeon.sp" tvg-name="SP: NICKELODEON HD" tvg-logo="http://www.iptvsensation.com/picons/nickelodeon.png" group-title="SPAIN"SP: NICKELODEON HD</link> 
+            <title>SP: 24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13939.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: 24 HORAS</link> 
         </item> 
           <item> 
-            <title> tvg-ID="NatGeoWild.sp" tvg-name="SP: National Geo Wild HD" tvg-logo="https://i.imgsafe.org/4adad53547.png" group-title="SPAIN"SP: National Geo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13707.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NatGeoWild.sp" tvg-name="SP: National Geo Wild HD" tvg-logo="https://i.imgsafe.org/4adad53547.png" group-title="SPAIN"SP: National Geo Wild HD</link> 
+            <title>---------- INFANTILES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13655.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- INFANTILES ----------</link> 
         </item> 
           <item> 
-            <title> tvg-ID="NatGeoHD.sp" tvg-name="SP: National Geo HD" tvg-logo="" group-title="SPAIN"SP: National Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13706.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NatGeoHD.sp" tvg-name="SP: National Geo HD" tvg-logo="" group-title="SPAIN"SP: National Geo HD</link> 
+            <title>SP: DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. XTRA FHD" tvg-logo="" group-title="SPAIN"SP: M. XTRA FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15418.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. XTRA FHD" tvg-logo="" group-title="SPAIN"SP: M. XTRA FHD</link> 
+            <title>SP: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. SERIES XTRA HD" tvg-logo="" group-title="SPAIN"SP: M. SERIES XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15420.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. SERIES XTRA HD" tvg-logo="" group-title="SPAIN"SP: M. SERIES XTRA HD</link> 
+            <title>SP: DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: DISNEY XD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. PARTIDAZO HD" tvg-logo="" group-title="SPAIN"SP: M. PARTIDAZO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15431.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. PARTIDAZO HD" tvg-logo="" group-title="SPAIN"SP: M. PARTIDAZO HD</link> 
+            <title>SP: NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICK JR</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. SERIES HD" tvg-logo="" group-title="SPAIN"SP: M. SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15419.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. SERIES HD" tvg-logo="" group-title="SPAIN"SP: M. SERIES HD</link> 
+            <title>SP: CLAN TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/413.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CLAN TVE</link> 
         </item> 
           <item> 
-            <title> tvg-ID="MovistarMotoGP.es" tvg-name="SP: M. MotoGp HD" tvg-logo="http://www.iptvsensation.com/picons/mmotogp.png" group-title="SPAIN"SP: M. MotoGp HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7616.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="MovistarMotoGP.es" tvg-name="SP: M. MotoGp HD" tvg-logo="http://www.iptvsensation.com/picons/mmotogp.png" group-title="SPAIN"SP: M. MotoGp HD</link> 
+            <title>SP: BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/409.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BOING</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Golf.sp" tvg-name="SP: M. GOLF HD" tvg-logo="http://www.iptvsensation.com/picons/mgolfhd.png" group-title="SPAIN"SP: M. GOLF HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15436.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Golf.sp" tvg-name="SP: M. GOLF HD" tvg-logo="http://www.iptvsensation.com/picons/mgolfhd.png" group-title="SPAIN"SP: M. GOLF HD</link> 
+            <title>SP: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: NICKELODEON</link> 
         </item> 
           <item> 
-            <title> tvg-ID="MovistarFormula1.es" tvg-name="SP: M. Formula 1 HD" tvg-logo="http://www.iptvsensation.com/picons/movistarf1hd.png" group-title="SPAIN"SP: M. Formula 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15437.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="MovistarFormula1.es" tvg-name="SP: M. Formula 1 HD" tvg-logo="http://www.iptvsensation.com/picons/movistarf1hd.png" group-title="SPAIN"SP: M. Formula 1 HD</link> 
+            <title>SP: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13666.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BABY TV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CanalPlusEstrenos.sp" tvg-name="SP: M. ESTRENOS FHD" tvg-logo="" group-title="SPAIN"SP: M. ESTRENOS FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15414.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusEstrenos.sp" tvg-name="SP: M. ESTRENOS FHD" tvg-logo="" group-title="SPAIN"SP: M. ESTRENOS FHD</link> 
+            <title>SP: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13669.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: CANAL PANDA</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. DEPORTES 2 HD" tvg-logo="" group-title="SPAIN"SP: M. DEPORTES 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15435.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. DEPORTES 2 HD" tvg-logo="" group-title="SPAIN"SP: M. DEPORTES 2 HD</link> 
+            <title>---------- DEPORTES ----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13653.ts&amp;streamtype=TSDOWNLOADER&amp;name=---------- DEPORTES ----------</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. DEPORTES 1 HD" tvg-logo="" group-title="SPAIN"SP: M. DEPORTES 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15434.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. DEPORTES 1 HD" tvg-logo="" group-title="SPAIN"SP: M. DEPORTES 1 HD</link> 
+            <title>SP: BEIN SPORTS HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18684.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. DCINE HD" tvg-logo="" group-title="SPAIN"SP: M. DCINE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15417.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. DCINE HD" tvg-logo="" group-title="SPAIN"SP: M. DCINE HD</link> 
+            <title>SP: BEIN SPORTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. COMEDIA FHD" tvg-logo="" group-title="SPAIN"SP: M. COMEDIA FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15416.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. COMEDIA FHD" tvg-logo="" group-title="SPAIN"SP: M. COMEDIA FHD</link> 
+            <title>SP: BEIN SPORTS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN SPORTS SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M. ACCION HD" tvg-logo="" group-title="SPAIN"SP: M. ACCION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15415.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. ACCION HD" tvg-logo="" group-title="SPAIN"SP: M. ACCION HD</link> 
+            <title>SP: BEIN LA LIGA HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN LA LIGA HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP:  M. MOTO GP" tvg-logo="" group-title="SPAIN"SP:  M. MOTO GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15438.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP:  M. MOTO GP" tvg-logo="" group-title="SPAIN"SP:  M. MOTO GP</link> 
+            <title>SP: BEIN LA LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13932.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN LA LIGA HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="#0.es" tvg-name="SP: #0 HD" tvg-logo="http://www.iptvsensation.com/picons/0.png" group-title="SPAIN"SP: #0 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12532.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="#0.es" tvg-name="SP: #0 HD" tvg-logo="http://www.iptvsensation.com/picons/0.png" group-title="SPAIN"SP: #0 HD</link> 
+            <title>SP: BEIN LA LIGA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13914.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN LA LIGA SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: AMC HD" tvg-logo="" group-title="SPAIN"SP: AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15421.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: AMC HD" tvg-logo="" group-title="SPAIN"SP: AMC HD</link> 
+            <title>SP: LA LIGA TV BAR (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18685.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Antena3.sp" tvg-name="SP: Antena 3 HD" tvg-logo="http://www.iptvsensation.com/picons/antena3hd.png" group-title="SPAIN"SP: Antena 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7710.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Antena3.sp" tvg-name="SP: Antena 3 HD" tvg-logo="http://www.iptvsensation.com/picons/antena3hd.png" group-title="SPAIN"SP: Antena 3 HD</link> 
+            <title>SP: LA LIGA TV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13933.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="AXNWhite.es" tvg-name="SP: AXN WHITE HD" tvg-logo="http://www.iptvsensation.com/picons/axnwhite.png" group-title="SPAIN"SP: AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7708.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXNWhite.es" tvg-name="SP: AXN WHITE HD" tvg-logo="http://www.iptvsensation.com/picons/axnwhite.png" group-title="SPAIN"SP: AXN WHITE HD</link> 
+            <title>SP: LA LIGA TV BAR SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV BAR SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: Bein LaLiga HD" tvg-logo="http://www.iptvsensation.com/picons/beinlaliga.png" group-title="SPAIN"SP: Bein LaLiga HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13709.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Bein LaLiga HD" tvg-logo="http://www.iptvsensation.com/picons/beinlaliga.png" group-title="SPAIN"SP: Bein LaLiga HD</link> 
+            <title>SP: LA LIGA BAR TV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13940.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA BAR TV 1</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: BeIN Sports FHD" tvg-logo="" group-title="SPAIN"SP: BeIN Sports FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-ID="" tvg-name="SP: BeIN Sports FHD" tvg-logo="" group-title="SPAIN",SP: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: BeIN Sports FHD" tvg-logo="" group-title="SPAIN"SP: BeIN Sports FHD</link> 
+            <title>SP: GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13934.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: GOL TV</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13279.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>SP: M. PARTIDAZO HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18692.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: BEIN SPORTS HD" tvg-logo="" group-title="SPAIN"SP: BEIN SPORTS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15440.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: BEIN SPORTS HD" tvg-logo="" group-title="SPAIN"SP: BEIN SPORTS HD</link> 
+            <title>SP: M. PARTIDAZO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13649.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Calle13.sp" tvg-name="SP: CALLE 13 HD" tvg-logo="http://www.iptvsensation.com/picons/calle13hd.png" group-title="SPAIN"SP: CALLE 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7705.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Calle13.sp" tvg-name="SP: CALLE 13 HD" tvg-logo="http://www.iptvsensation.com/picons/calle13hd.png" group-title="SPAIN"SP: CALLE 13 HD</link> 
+            <title>SP: M. PARTIDAZO SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/9190.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. PARTIDAZO SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CazayPesca.es" tvg-name="SP: Caza Y Pesca HD" tvg-logo="http://www.iptvsensation.com/picons/cazaypescahd.png" group-title="SPAIN"SP: Caza Y Pesca HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7688.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CazayPesca.es" tvg-name="SP: Caza Y Pesca HD" tvg-logo="http://www.iptvsensation.com/picons/cazaypescahd.png" group-title="SPAIN"SP: Caza Y Pesca HD</link> 
+            <title>SP: M. FUTBOL HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18686.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. FUTBOL HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Mega.es" tvg-name="SP: Mega Tv HD" tvg-logo="http://www.iptvsensation.com/picons/mega.png" group-title="SPAIN"SP: Mega Tv HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7713.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Mega.es" tvg-name="SP: Mega Tv HD" tvg-logo="http://www.iptvsensation.com/picons/mega.png" group-title="SPAIN"SP: Mega Tv HD</link> 
+            <title>SP: M.  FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13596.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.  FUTBOL HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: M.  FUTBOL FHD" tvg-logo="" group-title="SPAIN"SP: M.  FUTBOL FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15433.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M.  FUTBOL FHD" tvg-logo="" group-title="SPAIN"SP: M.  FUTBOL FHD</link> 
+            <title>SP: M. FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. FUTBOL</link> 
         </item> 
           <item> 
-            <title> tvg-ID="LaSexta.sp" tvg-name="SP: La Sexta HD" tvg-logo="http://www.iptvsensation.com/picons/lasextahd.png" group-title="SPAIN"SP: La Sexta HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7674.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="LaSexta.sp" tvg-name="SP: La Sexta HD" tvg-logo="http://www.iptvsensation.com/picons/lasextahd.png" group-title="SPAIN"SP: La Sexta HD</link> 
+            <title>SP: M. DEPORTES 1 HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18690.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 1 HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: LA LIGA TV BAR HD" tvg-logo="" group-title="SPAIN"SP: LA LIGA TV BAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15429.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: LA LIGA TV BAR HD" tvg-logo="" group-title="SPAIN"SP: LA LIGA TV BAR HD</link> 
+            <title>SP: M. DEPORTES 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13600.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 1 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: LA LIGA HD" tvg-logo="" group-title="SPAIN"SP: LA LIGA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15428.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: LA LIGA HD" tvg-logo="" group-title="SPAIN"SP: LA LIGA HD</link> 
+            <title>SP: M.  DEPORTES 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M.  DEPORTES 1 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Hollywood.sp" tvg-name="SP: Hollywood FHD" tvg-logo="http://www.iptvsensation.com/picons/canalhollywoodhd.png" group-title="SPAIN"SP: Hollywood FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7689.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Hollywood.sp" tvg-name="SP: Hollywood FHD" tvg-logo="http://www.iptvsensation.com/picons/canalhollywoodhd.png" group-title="SPAIN"SP: Hollywood FHD</link> 
+            <title>SP: M. DEPORTES 2 HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18691.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2 HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="FoxLife.sp" tvg-name="SP: Fox Life HD" tvg-logo="https://i.imgsafe.org/4bc85c693c.png" group-title="SPAIN"SP: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13711.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FoxLife.sp" tvg-name="SP: Fox Life HD" tvg-logo="https://i.imgsafe.org/4bc85c693c.png" group-title="SPAIN"SP: Fox Life HD</link> 
+            <title>SP: M. DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13627.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Fox.sp" tvg-name="SP: FOX FHD" tvg-logo="http://www.iptvsensation.com/picons/foxhd.png" group-title="SPAIN"SP: FOX FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7643.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Fox.sp" tvg-name="SP: FOX FHD" tvg-logo="http://www.iptvsensation.com/picons/foxhd.png" group-title="SPAIN"SP: FOX FHD</link> 
+            <title>SP: M. DEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7197.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. DEPORTES 2</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: Eurosport 1 HD" tvg-logo="" group-title="SPAIN"SP: Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15439.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Eurosport 1 HD" tvg-logo="" group-title="SPAIN"SP: Eurosport 1 HD</link> 
+            <title>SP: M. GOLF HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18689.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: Disney Channel HD" tvg-logo="" group-title="SPAIN"SP: Disney Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15910.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Disney Channel HD" tvg-logo="" group-title="SPAIN"SP: Disney Channel HD</link> 
+            <title>SP: M. GOLF HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7202.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CosmopolitanHD.es" tvg-name="SP: Cosmo HD" tvg-logo="https://i.imgsafe.org/4ba9549320.png" group-title="SPAIN"SP: Cosmo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13704.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CosmopolitanHD.es" tvg-name="SP: Cosmo HD" tvg-logo="https://i.imgsafe.org/4ba9549320.png" group-title="SPAIN"SP: Cosmo HD</link> 
+            <title>SP: M. GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. GOLF</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Cuatro.sp" tvg-name="SP: CUATRO HD" tvg-logo="http://magicboxiptv.dyndns.tv:1978/live/iptvhenry/CanGVZyEeo/1600.ts" group-title="SPAIN"SP: CUATRO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-ID="Cuatro.sp" tvg-name="SP: CUATRO HD" tvg-logo="http://magicboxiptv.dyndns.tv:1978/live/iptvhenry/CanGVZyEeo/1600.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Cuatro.sp" tvg-name="SP: CUATRO HD" tvg-logo="http://magicboxiptv.dyndns.tv:1978/live/iptvhenry/CanGVZyEeo/1600.ts" group-title="SPAIN"SP: CUATRO HD</link> 
+            <title>SP: M. F1 HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18687.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. F1 HD (1080)</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15411.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>SP: M. F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13642.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. F1 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: Comedy Central HD" tvg-logo="https://i.imgsafe.org/4b58edb7d9.png" group-title="SPAIN"SP: Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13710.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Comedy Central HD" tvg-logo="https://i.imgsafe.org/4b58edb7d9.png" group-title="SPAIN"SP: Comedy Central HD</link> 
+            <title>SP: M. F1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/5963.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. F1 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="AXNhd.sp" tvg-name="SP: AXN HD" tvg-logo="http://www.iptvsensation.com/picons/axn.png" group-title="SPAIN"SP: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7653.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXNhd.sp" tvg-name="SP: AXN HD" tvg-logo="http://www.iptvsensation.com/picons/axn.png" group-title="SPAIN"SP: AXN HD</link> 
+            <title>SP: M. MOTOGP HD (1080)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/18688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. MOTOGP HD (1080)</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="=======   SPANISH   =======" tvg-logo="" group-title="SPAIN"=======   SPANISH   =======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/2890.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="=======   SPANISH   =======" tvg-logo="" group-title="SPAIN"=======   SPANISH   =======</link> 
+            <title>SP:  M. MOTO GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13641.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP:  M. MOTO GP HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="LA2.es" tvg-name="SP: LA 2" tvg-logo="http://www.iptvsensation.com/picons/la2.png" group-title="SPAIN"SP: LA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7660.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="LA2.es" tvg-name="SP: LA 2" tvg-logo="http://www.iptvsensation.com/picons/la2.png" group-title="SPAIN"SP: LA 2</link> 
+            <title>SP: M. MOTO GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: M. MOTO GP</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Telecinco.sp" tvg-name="SP: TELECINCO" tvg-logo="http://www.iptvsensation.com/picons/telecincohd.png" group-title="SPAIN"SP: TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/10008.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Telecinco.sp" tvg-name="SP: TELECINCO" tvg-logo="http://www.iptvsensation.com/picons/telecincohd.png" group-title="SPAIN"SP: TELECINCO</link> 
+            <title>SP: Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13587.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: Eurosport 1 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CosmopolitanHD.es" tvg-name="SP: Cosmo" tvg-logo="http://www.iptvsensation.com/picons/cosmo.png" group-title="SPAIN"SP: Cosmo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7621.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CosmopolitanHD.es" tvg-name="SP: Cosmo" tvg-logo="http://www.iptvsensation.com/picons/cosmo.png" group-title="SPAIN"SP: Cosmo</link> 
+            <title>SP: EUROSPORT 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13668.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: EUROSPORT 1 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Nova.sp" tvg-name="SP: NOVA" tvg-logo="http://www.iptvsensation.com/picons/nova.png" group-title="SPAIN"SP: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7668.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Nova.sp" tvg-name="SP: NOVA" tvg-logo="http://www.iptvsensation.com/picons/nova.png" group-title="SPAIN"SP: NOVA</link> 
+            <title>SP: EUROSPORT 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13670.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: EUROSPORT 2 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Neox.sp" tvg-name="SP: Neox" tvg-logo="http://www.iptvsensation.com/picons/neox.png" group-title="SPAIN"SP: Neox</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/14970.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Neox.sp" tvg-name="SP: Neox" tvg-logo="http://www.iptvsensation.com/picons/neox.png" group-title="SPAIN"SP: Neox</link> 
+            <title>SP: BEIN LA LIGA 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13700.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN LA LIGA 1 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="FDF.sp" tvg-name="SP: Fdf" tvg-logo="http://www.iptvsensation.com/picons/fdf.png" group-title="SPAIN"SP: Fdf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7679.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FDF.sp" tvg-name="SP: Fdf" tvg-logo="http://www.iptvsensation.com/picons/fdf.png" group-title="SPAIN"SP: Fdf</link> 
+            <title>SP: LA LIGA TV 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13699.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 2 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Divinity.es" tvg-name="SP: DIVINITY" tvg-logo="http://www.iptvsensation.com/picons/divinity.png" group-title="SPAIN"SP: DIVINITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7714.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Divinity.es" tvg-name="SP: DIVINITY" tvg-logo="http://www.iptvsensation.com/picons/divinity.png" group-title="SPAIN"SP: DIVINITY</link> 
+            <title>SP: LA LIGA TV 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13698.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 3 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Energy.es" tvg-name="SP: Energy" tvg-logo="http://www.iptvsensation.com/picons/energy.png" group-title="SPAIN"SP: Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7681.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Energy.es" tvg-name="SP: Energy" tvg-logo="http://www.iptvsensation.com/picons/energy.png" group-title="SPAIN"SP: Energy</link> 
+            <title>SP: LA LIGA TV 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13697.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 4 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: 24 Horas" tvg-logo="https://i.imgsafe.org/4b6cd191cc.png" group-title="SPAIN"SP: 24 Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13003.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: 24 Horas" tvg-logo="https://i.imgsafe.org/4b6cd191cc.png" group-title="SPAIN"SP: 24 Horas</link> 
+            <title>SP: LA LIGA TV 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13696.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 5 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="AndaluciaTVsat.sp" tvg-name="SP: Andalucia TV" tvg-logo="" group-title="SPAIN"SP: Andalucia TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7640.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AndaluciaTVsat.sp" tvg-name="SP: Andalucia TV" tvg-logo="" group-title="SPAIN"SP: Andalucia TV</link> 
+            <title>SP: LA LIGA TV 6 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13695.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 6 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: Canal Costa" tvg-logo="" group-title="SPAIN"SP: Canal Costa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7628.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Canal Costa" tvg-logo="" group-title="SPAIN"SP: Canal Costa</link> 
+            <title>SP: LA LIGA TV 7 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13694.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 7 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="ClanTVE.sp" tvg-name="SP: Clan TVE" tvg-logo="http://www.iptvsensation.com/picons/clantve.png" group-title="SPAIN"SP: Clan TVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="ClanTVE.sp" tvg-name="SP: Clan TVE" tvg-logo="http://www.iptvsensation.com/picons/clantve.png" group-title="SPAIN"SP: Clan TVE</link> 
+            <title>SP: LA LIGA TV 8 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13693.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: LA LIGA TV 8 SD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="40TV.sp" tvg-name="SP: 40 TV" tvg-logo="http://www.iptvsensation.com/picons/40tv.png" group-title="SPAIN"SP: 40 TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="40TV.sp" tvg-name="SP: 40 TV" tvg-logo="http://www.iptvsensation.com/picons/40tv.png" group-title="SPAIN"SP: 40 TV</link> 
+            <title>SP: BEIN MAX 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13646.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: NON STOP PEOPLE" tvg-logo="" group-title="SPAIN"SP: NON STOP PEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15427.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: NON STOP PEOPLE" tvg-logo="" group-title="SPAIN"SP: NON STOP PEOPLE</link> 
+            <title>SP: BEIN MAX 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13647.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="MTVEsp.sp" tvg-name="SP: MTV Espana" tvg-logo="http://www.iptvsensation.com/picons/mtvespana.png" group-title="SPAIN"SP: MTV Espana</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="MTVEsp.sp" tvg-name="SP: MTV Espana" tvg-logo="http://www.iptvsensation.com/picons/mtvespana.png" group-title="SPAIN"SP: MTV Espana</link> 
+            <title>SP: BEIN MAX 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13648.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3 HD</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="SP: Crime + Investigation" tvg-logo="http://www.iptvsensation.com/picons/crimeinvest.png" group-title="SPAIN"SP: Crime + Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13004.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Crime + Investigation" tvg-logo="http://www.iptvsensation.com/picons/crimeinvest.png" group-title="SPAIN"SP: Crime + Investigation</link> 
+            <title>SP: BEIN MAX 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13948.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 1</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="====== INFANTILES ======" tvg-logo="" group-title="SPAIN"====== INFANTILES ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12536.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="====== INFANTILES ======" tvg-logo="" group-title="SPAIN"====== INFANTILES ======</link> 
+            <title>SP: BEIN MAX 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13947.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 2</link> 
         </item> 
           <item> 
-            <title> tvg-ID="DisneyChannel.sp" tvg-name="SP: Disney Channel" tvg-logo="http://www.iptvsensation.com/picons/disneychannel.png" group-title="SPAIN"SP: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7684.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DisneyChannel.sp" tvg-name="SP: Disney Channel" tvg-logo="http://www.iptvsensation.com/picons/disneychannel.png" group-title="SPAIN"SP: Disney Channel</link> 
+            <title>SP: BEIN MAX 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13946.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 3</link> 
         </item> 
           <item> 
-            <title> tvg-ID="DisneyJr.sp" tvg-name="SP: Disney Jr." tvg-logo="http://www.iptvsensation.com/picons/disneyjr.png" group-title="SPAIN"SP: Disney Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7683.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DisneyJr.sp" tvg-name="SP: Disney Jr." tvg-logo="http://www.iptvsensation.com/picons/disneyjr.png" group-title="SPAIN"SP: Disney Jr.</link> 
+            <title>SP: BEIN MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13945.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 4</link> 
         </item> 
           <item> 
-            <title> tvg-ID="DisneyXD.sp" tvg-name="SP: DISNEY XD" tvg-logo="http://www.iptvsensation.com/picons/disneyxd.png" group-title="SPAIN"SP: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7682.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DisneyXD.sp" tvg-name="SP: DISNEY XD" tvg-logo="http://www.iptvsensation.com/picons/disneyxd.png" group-title="SPAIN"SP: DISNEY XD</link> 
+            <title>SP: BEIN MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13944.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 5</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Boing.sp" tvg-name="SP: Boing" tvg-logo="http://www.iptvsensation.com/picons/boing.png" group-title="SPAIN"SP: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7707.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Boing.sp" tvg-name="SP: Boing" tvg-logo="http://www.iptvsensation.com/picons/boing.png" group-title="SPAIN"SP: Boing</link> 
+            <title>SP: BEIN MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13943.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 6</link> 
         </item> 
           <item> 
-            <title> tvg-ID="NickJunior.sp" tvg-name="SP: Nick Jr." tvg-logo="http://www.iptvsensation.com/picons/nickjr.png" group-title="SPAIN"SP: Nick Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7670.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NickJunior.sp" tvg-name="SP: Nick Jr." tvg-logo="http://www.iptvsensation.com/picons/nickjr.png" group-title="SPAIN"SP: Nick Jr.</link> 
+            <title>SP: BEIN MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13942.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 7</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="====== DOCUMENTALES ======" tvg-logo="" group-title="SPAIN"====== DOCUMENTALES ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12537.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="====== DOCUMENTALES ======" tvg-logo="" group-title="SPAIN"====== DOCUMENTALES ======</link> 
+            <title>SP: BEIN MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13941.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BEIN MAX 8</link> 
         </item> 
           <item> 
-            <title> tvg-ID="DisneyChannel.sp" tvg-name="SP: Discovery Channel" tvg-logo="http://www.iptvsensation.com/picons/discoverychannel.png" group-title="SPAIN"SP: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7620.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="DisneyChannel.sp" tvg-name="SP: Discovery Channel" tvg-logo="http://www.iptvsensation.com/picons/discoverychannel.png" group-title="SPAIN"SP: Discovery Channel</link> 
+            <title>SP: MULTIDEPORTES 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/16837.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 1</link> 
         </item> 
           <item> 
-            <title> tvg-ID="NationalGeographic.sp" tvg-name="SP: National Geo" tvg-logo="http://www.iptvsensation.com/picons/natgeo.png" group-title="SPAIN"SP: National Geo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7671.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NationalGeographic.sp" tvg-name="SP: National Geo" tvg-logo="http://www.iptvsensation.com/picons/natgeo.png" group-title="SPAIN"SP: National Geo</link> 
+            <title>SP: MULTIDEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/16838.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 2</link> 
         </item> 
           <item> 
-            <title> tvg-ID="NatGeoWild.sp" tvg-name="SP: National Geo Wild" tvg-logo="http://www.iptvsensation.com/picons/ngcwild.png" group-title="SPAIN"SP: National Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7672.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="NatGeoWild.sp" tvg-name="SP: National Geo Wild" tvg-logo="http://www.iptvsensation.com/picons/ngcwild.png" group-title="SPAIN"SP: National Geo Wild</link> 
+            <title>SP: MULTIDEPORTES 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/16839.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 3</link> 
         </item> 
           <item> 
-            <title> tvg-ID="Cocina.sp" tvg-name="SP: Canal Cocina" tvg-logo="http://www.iptvsensation.com/picons/canalcocina.png" group-title="SPAIN"SP: Canal Cocina</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7629.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Cocina.sp" tvg-name="SP: Canal Cocina" tvg-logo="http://www.iptvsensation.com/picons/canalcocina.png" group-title="SPAIN"SP: Canal Cocina</link> 
+            <title>SP: MULTIDEPORTES 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/16840.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: MULTIDEPORTES 4</link> 
         </item> 
           <item> 
-            <title> tvg-ID="" tvg-name="====== CINE ======" tvg-logo="" group-title="SPAIN"====== CINE ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12538.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="====== CINE ======" tvg-logo="" group-title="SPAIN"====== CINE ======</link> 
+            <title>SP: BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/7213.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: BARCA TV</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CanalPlusAccion.es" tvg-name="SP: M. Accion" tvg-logo="http://www.iptvsensation.com/picons/maccion.png" group-title="SPAIN"SP: M. Accion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7698.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusAccion.es" tvg-name="SP: M. Accion" tvg-logo="http://www.iptvsensation.com/picons/maccion.png" group-title="SPAIN"SP: M. Accion</link> 
+            <title>SP: REAL MADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: REAL MADRID</link> 
         </item> 
           <item> 
-            <title> tvg-ID="CanalPlusEstrenos.sp" tvg-name="SP: M.Estrenos" tvg-logo="http://www.iptvsensation.com/picons/mestrenos.png" group-title="SPAIN"SP: M.Estrenos</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7703.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusEstrenos.sp" tvg-name="SP: M.Estrenos" tvg-logo="http://www.iptvsensation.com/picons/mestrenos.png" group-title="SPAIN"SP: M.Estrenos</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CanalPlusSeries.sp" tvg-name="SP: M. Series" tvg-logo="http://www.iptvsensation.com/picons/mseries.png" group-title="SPAIN"SP: M. Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7691.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusSeries.sp" tvg-name="SP: M. Series" tvg-logo="http://www.iptvsensation.com/picons/mseries.png" group-title="SPAIN"SP: M. Series</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CanalPlusSeriesXtra.sp" tvg-name="SP: M. Series Xtra" tvg-logo="http://www.iptvsensation.com/picons/mseriesxtra.png" group-title="SPAIN"SP: M. Series Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7690.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusSeriesXtra.sp" tvg-name="SP: M. Series Xtra" tvg-logo="http://www.iptvsensation.com/picons/mseriesxtra.png" group-title="SPAIN"SP: M. Series Xtra</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: SYFY" tvg-logo="http://www.iptvsensation.com/picons/syfy.png" group-title="SPAIN"SP: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7666.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: SYFY" tvg-logo="http://www.iptvsensation.com/picons/syfy.png" group-title="SPAIN"SP: SYFY</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="Fox.sp" tvg-name="SP: Fox." tvg-logo="http://www.iptvsensation.com/picons/fox.png" group-title="SPAIN"SP: Fox.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7678.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Fox.sp" tvg-name="SP: Fox." tvg-logo="http://www.iptvsensation.com/picons/fox.png" group-title="SPAIN"SP: Fox.</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="FoxLife.sp" tvg-name="SP: FOX LIFE" tvg-logo="http://www.iptvsensation.com/picons/foxlife.png" group-title="SPAIN"SP: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7677.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="FoxLife.sp" tvg-name="SP: FOX LIFE" tvg-logo="http://www.iptvsensation.com/picons/foxlife.png" group-title="SPAIN"SP: FOX LIFE</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="ComedyCentral.sp" tvg-name="SP: Comedy Central." tvg-logo="http://www.iptvsensation.com/picons/comedycentral.png" group-title="SPAIN"SP: Comedy Central.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7687.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="ComedyCentral.sp" tvg-name="SP: Comedy Central." tvg-logo="http://www.iptvsensation.com/picons/comedycentral.png" group-title="SPAIN"SP: Comedy Central.</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="AXNhd.sp" tvg-name="SP: AXN" tvg-logo="http://www.iptvsensation.com/picons/axnspainhd.png" group-title="SPAIN"SP: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7709.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="AXNhd.sp" tvg-name="SP: AXN" tvg-logo="http://www.iptvsensation.com/picons/axnspainhd.png" group-title="SPAIN"SP: AXN</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TCM.sp" tvg-name="SP: TCM" tvg-logo="http://www.iptvsensation.com/picons/tcm.png" group-title="SPAIN"SP: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7665.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TCM.sp" tvg-name="SP: TCM" tvg-logo="http://www.iptvsensation.com/picons/tcm.png" group-title="SPAIN"SP: TCM</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TNT.sp" tvg-name="SP: TNT" tvg-logo="http://www.iptvsensation.com/picons/tnt.png" group-title="SPAIN"SP: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7663.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TNT.sp" tvg-name="SP: TNT" tvg-logo="http://www.iptvsensation.com/picons/tnt.png" group-title="SPAIN"SP: TNT</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="Paramount.es" tvg-name="SP: PARAMOUNT" tvg-logo="http://www.iptvsensation.com/picons/clantve.png" group-title="SPAIN"SP: PARAMOUNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7716.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Paramount.es" tvg-name="SP: PARAMOUNT" tvg-logo="http://www.iptvsensation.com/picons/clantve.png" group-title="SPAIN"SP: PARAMOUNT</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="====== Taquilla ======" tvg-logo="" group-title="SPAIN"====== Taquilla ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12540.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="====== Taquilla ======" tvg-logo="" group-title="SPAIN"====== Taquilla ======</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 1" tvg-logo="https://i.imgsafe.org/4b6039da4e.png" group-title="SPAIN"SP: Taquilla 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7612.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 1" tvg-logo="https://i.imgsafe.org/4b6039da4e.png" group-title="SPAIN"SP: Taquilla 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 2" tvg-logo="https://i.imgsafe.org/4b596aa165.png" group-title="SPAIN"SP: Taquilla 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7610.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 2" tvg-logo="https://i.imgsafe.org/4b596aa165.png" group-title="SPAIN"SP: Taquilla 2</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 3" tvg-logo="https://i.imgsafe.org/4ba20b2c09.png" group-title="SPAIN"SP: Taquilla 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7609.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 3" tvg-logo="https://i.imgsafe.org/4ba20b2c09.png" group-title="SPAIN"SP: Taquilla 3</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 4" tvg-logo="https://i.imgsafe.org/4ba213c938.png" group-title="SPAIN"SP: Taquilla 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7608.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 4" tvg-logo="https://i.imgsafe.org/4ba213c938.png" group-title="SPAIN"SP: Taquilla 4</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 5" tvg-logo="https://i.imgsafe.org/4ba1b23238.png" group-title="SPAIN"SP: Taquilla 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7607.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 5" tvg-logo="https://i.imgsafe.org/4ba1b23238.png" group-title="SPAIN"SP: Taquilla 5</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 6" tvg-logo="https://i.imgsafe.org/4ba1c757c8.png" group-title="SPAIN"SP: Taquilla 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7606.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 6" tvg-logo="https://i.imgsafe.org/4ba1c757c8.png" group-title="SPAIN"SP: Taquilla 6</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 7" tvg-logo="https://i.imgsafe.org/4ba1cbf7ec.png" group-title="SPAIN"SP: Taquilla 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7605.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 7" tvg-logo="https://i.imgsafe.org/4ba1cbf7ec.png" group-title="SPAIN"SP: Taquilla 7</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 8" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN"SP: Taquilla 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7604.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 8" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN"SP: Taquilla 8</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 9" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN"SP: Taquilla 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7603.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 9" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN"SP: Taquilla 9</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Taquilla 10" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN"SP: Taquilla 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7611.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Taquilla 10" tvg-logo="https://i.imgsafe.org/4ac11a633d.png" group-title="SPAIN"SP: Taquilla 10</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="====== DEPORTES ======" tvg-logo="" group-title="SPAIN"====== DEPORTES ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12541.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="====== DEPORTES ======" tvg-logo="" group-title="SPAIN"====== DEPORTES ======</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CanalPlusToros.es" tvg-name="SP: Toros Tv" tvg-logo="http://www.iptvsensation.com/picons/torostv.png" group-title="SPAIN"SP: Toros Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7701.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusToros.es" tvg-name="SP: Toros Tv" tvg-logo="http://www.iptvsensation.com/picons/torostv.png" group-title="SPAIN"SP: Toros Tv</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CanalPlusLiga.es" tvg-name="SP: Canal+ Liga" tvg-logo="http://www.iptvsensation.com/picons/canalplusliga.png" group-title="SPAIN"SP: Canal+ Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7715.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusLiga.es" tvg-name="SP: Canal+ Liga" tvg-logo="http://www.iptvsensation.com/picons/canalplusliga.png" group-title="SPAIN"SP: Canal+ Liga</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: M. Futbol" tvg-logo="https://i.imgsafe.org/4b63c5225d.png" group-title="SPAIN"SP: M. Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13008.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. Futbol" tvg-logo="https://i.imgsafe.org/4b63c5225d.png" group-title="SPAIN"SP: M. Futbol</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: M. GOLF" tvg-logo="https://i.imgsafe.org/4bc803ec02.png" group-title="SPAIN"SP: M. GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13010.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. GOLF" tvg-logo="https://i.imgsafe.org/4bc803ec02.png" group-title="SPAIN"SP: M. GOLF</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: M. Depotes 1" tvg-logo="" group-title="SPAIN"SP: M. Depotes 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13009.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: M. Depotes 1" tvg-logo="" group-title="SPAIN"SP: M. Depotes 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: La Liga TV Bar" tvg-logo="" group-title="SPAIN"SP: La Liga TV Bar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/13006.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: La Liga TV Bar" tvg-logo="" group-title="SPAIN"SP: La Liga TV Bar</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="CanalPlusDeportes2.es" tvg-name="SP: M. Deportes 2" tvg-logo="https://i.imgsafe.org/4ace8f15f9.png" group-title="SPAIN"SP: M. Deportes 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12545.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="CanalPlusDeportes2.es" tvg-name="SP: M. Deportes 2" tvg-logo="https://i.imgsafe.org/4ace8f15f9.png" group-title="SPAIN"SP: M. Deportes 2</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="BeINsports.es" tvg-name="SP: beIN La Liga" tvg-logo="http://www.iptvsensation.com/picons/beinlaliga.png" group-title="SPAIN"SP: beIN La Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-ID="BeINsports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BeINsports.es" tvg-name="SP: beIN La Liga" tvg-logo="http://www.iptvsensation.com/picons/beinlaliga.png" group-title="SPAIN"SP: beIN La Liga</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12497.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="MovistarFormula1.es" tvg-name="SP: M. Formula 1" tvg-logo="http://www.iptvsensation.com/picons/movistarf1.png" group-title="SPAIN"SP: M. Formula 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7617.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="MovistarFormula1.es" tvg-name="SP: M. Formula 1" tvg-logo="http://www.iptvsensation.com/picons/movistarf1.png" group-title="SPAIN"SP: M. Formula 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="Teledeporte.sp" tvg-name="SP: Teledeporte" tvg-logo="http://www.iptvsensation.com/picons/teledeporte.png" group-title="SPAIN"SP: Teledeporte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7658.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Teledeporte.sp" tvg-name="SP: Teledeporte" tvg-logo="http://www.iptvsensation.com/picons/teledeporte.png" group-title="SPAIN"SP: Teledeporte</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="RealMadridTV.sp" tvg-name="SP: Real Madrid" tvg-logo="http://www.iptvsensation.com/picons/realmadridtv.png" group-title="SPAIN"SP: Real Madrid</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7614.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="RealMadridTV.sp" tvg-name="SP: Real Madrid" tvg-logo="http://www.iptvsensation.com/picons/realmadridtv.png" group-title="SPAIN"SP: Real Madrid</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="BarcaTV.es" tvg-name="SP: Barca TV" tvg-logo="http://www.iptvsensation.com/picons/barcatv.png" group-title="SPAIN"SP: Barca TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7662.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="BarcaTV.es" tvg-name="SP: Barca TV" tvg-logo="http://www.iptvsensation.com/picons/barcatv.png" group-title="SPAIN"SP: Barca TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="Eurosport1.es" tvg-name="SP: Eurosport 1" tvg-logo="http://www.iptvsensation.com/picons/eurosport1.png" group-title="SPAIN"SP: Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7680.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Eurosport1.es" tvg-name="SP: Eurosport 1" tvg-logo="http://www.iptvsensation.com/picons/eurosport1.png" group-title="SPAIN"SP: Eurosport 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: LA LIGA" tvg-logo="" group-title="SPAIN"SP: LA LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15441.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: LA LIGA" tvg-logo="" group-title="SPAIN"SP: LA LIGA</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: LA LIGA BAR TV 1" tvg-logo="" group-title="SPAIN"SP: LA LIGA BAR TV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15430.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: LA LIGA BAR TV 1" tvg-logo="" group-title="SPAIN"SP: LA LIGA BAR TV 1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="====== ESTILO DE VIDA======" tvg-logo="" group-title="SPAIN"====== ESTILO DE VIDA======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/12539.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="====== ESTILO DE VIDA======" tvg-logo="" group-title="SPAIN"====== ESTILO DE VIDA======</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Sol Musica" tvg-logo="http://www.iptvsensation.com/picons/solmsica.png" group-title="SPAIN"SP: Sol Musica</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7721.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Sol Musica" tvg-logo="http://www.iptvsensation.com/picons/solmsica.png" group-title="SPAIN"SP: Sol Musica</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="VH1.sp" tvg-name="SP: VH1" tvg-logo="http://www.iptvsensation.com/picons/vh1.png" group-title="SPAIN"SP: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7591.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="VH1.sp" tvg-name="SP: VH1" tvg-logo="http://www.iptvsensation.com/picons/vh1.png" group-title="SPAIN"SP: VH1</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: 3/24" tvg-logo="" group-title="SPAIN"SP: 3/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7642.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: 3/24" tvg-logo="" group-title="SPAIN"SP: 3/24</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: IBERALIA TV" tvg-logo="" group-title="SPAIN"SP: IBERALIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15425.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: IBERALIA TV" tvg-logo="" group-title="SPAIN"SP: IBERALIA TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="TVGalicia.es" tvg-name="SP: TV Galicia" tvg-logo="" group-title="SPAIN"SP: TV Galicia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7601.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="TVGalicia.es" tvg-name="SP: TV Galicia" tvg-logo="" group-title="SPAIN"SP: TV Galicia</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Proyecto 40" tvg-logo="" group-title="SPAIN"SP: Proyecto 40</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7667.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Proyecto 40" tvg-logo="" group-title="SPAIN"SP: Proyecto 40</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="Latino: Chile La Red" tvg-logo="" group-title="LATINO"Latino: Chile La Red</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7622.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="Latino: Chile La Red" tvg-logo="" group-title="LATINO"Latino: Chile La Red</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Canal De Las Estrellas" tvg-logo="http://www.iptvsensation.com/picons/cestrellas.png" group-title="SPAIN"SP: Canal De Las Estrellas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7627.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Canal De Las Estrellas" tvg-logo="http://www.iptvsensation.com/picons/cestrellas.png" group-title="SPAIN"SP: Canal De Las Estrellas</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Canal 41 Mar Del" tvg-logo="" group-title="SPAIN"SP: Canal 41 Mar Del</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7632.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Canal 41 Mar Del" tvg-logo="" group-title="SPAIN"SP: Canal 41 Mar Del</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="" tvg-name="SP: Azteca Noticias" tvg-logo="" group-title="SPAIN"SP: Azteca Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7638.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="" tvg-name="SP: Azteca Noticias" tvg-logo="" group-title="SPAIN"SP: Azteca Noticias</link> 
-        </item> 
-          <item> 
-            <title> tvg-ID="Cuatro.sp" tvg-name="SP: Cuatro." tvg-logo="http://www.iptvsensation.com/picons/cuatro.png" group-title="SPAIN"SP: Cuatro.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7686.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-ID="Cuatro.sp" tvg-name="SP: Cuatro." tvg-logo="http://www.iptvsensation.com/picons/cuatro.png" group-title="SPAIN"SP: Cuatro.</link> 
+            <title>SP: TELEDEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.alphacs.tv:8080/live/george1/george1/13917.ts&amp;streamtype=TSDOWNLOADER&amp;name=SP: TELEDEPORTES</link> 
         </item> 
   
