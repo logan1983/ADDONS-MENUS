@@ -24,6 +24,7 @@
     
 
    
+  
           <item> 
             <title>PT: RTP1</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP1</link> 
@@ -39,10 +40,6 @@
           <item> 
             <title>PT: RTP Acores</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
             <title>PT: SIC RADICAL</title> 
@@ -61,16 +58,20 @@
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
         </item> 
           <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
             <title>PT:   TVI</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:   TVI</link> 
         </item> 
           <item> 
-            <title>PT: TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
-        </item> 
-          <item> 
             <title>PT: TVI FICCAO</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
             <title>PT: TV RECORD</title> 
@@ -83,162 +84,6 @@
           <item> 
             <title>PT: TV GLOBO</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCseries</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
-        </item> 
-          <item> 
-            <title>PT: TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
-        </item> 
-          <item> 
-            <title>PT: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title>PT: CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>PT: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
-        </item> 
-          <item> 
-            <title>PT: REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: REAL MADRID TV</link> 
-        </item> 
-          <item> 
-            <title>PT: PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title>PT: ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>PT: NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>PT: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>PT: DISCOVERY SHOWCASE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY SHOWCASE HD</link> 
-        </item> 
-          <item> 
-            <title>PT: CANAL HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>PT: DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>PT: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>PT: CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CNN</link> 
-        </item> 
-          <item> 
-            <title>PT: CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
-        </item> 
-          <item> 
-            <title>PT: CHEALSEA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CHEALSEA TV</link> 
-        </item> 
-          <item> 
-            <title>PT: CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>PT: CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>PT: CACAVIZION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACAVIZION</link> 
-        </item> 
-          <item> 
-            <title>PT: BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BIGGS</link> 
-        </item> 
-          <item> 
-            <title>PT: BBC WORLD NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BBC WORLD NEWS</link> 
-        </item> 
-          <item> 
-            <title>PT: BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV</link> 
-        </item> 
-          <item> 
-            <title>PT: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>PT: Afro Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
-        </item> 
-          <item> 
-            <title>PT: 24 KITCHEN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN HD</link> 
         </item> 
           <item> 
             <title>PT: VH1</title> 
@@ -257,12 +102,64 @@
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1635.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 1 HD</link> 
         </item> 
           <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
+        </item> 
+          <item> 
             <title>PT: TRAVEL CHANNEL</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TRAVEL CHANNEL</link> 
         </item> 
           <item> 
             <title>PT: CaçaVision</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1638.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CaçaVision</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+        </item> 
+          <item> 
+            <title>PT: REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>PT: PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>PT: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
         </item> 
           <item> 
             <title>PT: MTV HITS</title> 
@@ -273,8 +170,32 @@
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal</link> 
         </item> 
           <item> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+        </item> 
+          <item> 
             <title>PT: MOTORS TV</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME HD</link> 
         </item> 
           <item> 
             <title>PT: ECONOMICO TV</title> 
@@ -283,5 +204,85 @@
           <item> 
             <title>PT: E!-Entertainment</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E!-Entertainment</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>PT: DISCOVERY SHOWCASE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY SHOWCASE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CNN</link> 
+        </item> 
+          <item> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>PT: CHEALSEA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CHEALSEA TV</link> 
+        </item> 
+          <item> 
+            <title>PT: CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>PT: CACAVIZION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACAVIZION</link> 
+        </item> 
+          <item> 
+            <title>PT: BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BIGGS</link> 
+        </item> 
+          <item> 
+            <title>PT: BBC WORLD NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BBC WORLD NEWS</link> 
+        </item> 
+          <item> 
+            <title>PT: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
+        </item> 
+          <item> 
+            <title>PT: Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
+        </item> 
+          <item> 
+            <title>PT: 24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://s1.ukhdtv.com:7860/live/nQAQWs55Ur/HGhWgSKujI/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN HD</link> 
         </item> 
   
