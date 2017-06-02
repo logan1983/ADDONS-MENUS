@@ -28,11 +28,576 @@
  
   
  
- 
 
- 
- 
           <item> 
+            <title>LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
+        </item> 
+          <item> 
+            <title>LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
+        </item> 
+          <item> 
+            <title>ANTENA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3</link> 
+        </item> 
+          <item> 
+            <title>CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
+        </item> 
+          <item> 
+            <title>NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
+        </item> 
+          <item> 
+            <title>MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
+        </item> 
+          <item> 
+            <title>DIVINITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=DIVINITY</link> 
+        </item> 
+          <item> 
+            <title>FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
+        </item> 
+          <item> 
+            <title>ATRESERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=ATRESERIES HD</link> 
+        </item> 
+          <item> 
+            <title>NEOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX HD</link> 
+        </item> 
+          <item> 
+            <title>TEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEN</link> 
+        </item> 
+          <item> 
+            <title>BE MAD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE MAD</link> 
+        </item> 
+          <item> 
+            <title>--------CINE------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------CINE------</link> 
+        </item> 
+          <item> 
+            <title># 0 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=# 0 HD</link> 
+        </item> 
+          <item> 
+            <title>M. ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>M. ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>M. DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>M. COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>M. CINE Ñ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. CINE Ñ</link> 
+        </item> 
+          <item> 
+            <title>CANAL HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>DARK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=DARK</link> 
+        </item> 
+          <item> 
+            <title>XTRM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=XTRM</link> 
+        </item> 
+          <item> 
+            <title>SOMOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOMOS</link> 
+        </item> 
+          <item> 
+            <title>LIFE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=LIFE TV</link> 
+        </item> 
+          <item> 
+            <title>SUNDANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
+        </item> 
+          <item> 
+            <title>PARAMOUNT CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>COSMOPOLITAN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMOPOLITAN HD</link> 
+        </item> 
+          <item> 
+            <title>--------SERIES--------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------SERIES--------</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item> 
+          <item> 
+            <title>TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 
+          <item> 
+            <title>FOX ADSL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX ADSL</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13 HD</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>M. SERIES XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>M. SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>M. XTRA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. XTRA HD</link> 
+        </item> 
+          <item> 
+            <title>------NOTICIAS------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=------NOTICIAS------</link> 
+        </item> 
+          <item> 
+            <title>24 HORAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 HORAS</link> 
+        </item> 
+          <item> 
+            <title>EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>RT NOTICIAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/475.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS HD</link> 
+        </item> 
+          <item> 
+            <title>RT NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=RT NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>DW NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=DW NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>--------AUTONOMICAS---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------AUTONOMICAS---------</link> 
+        </item> 
+          <item> 
+            <title>NON STOP PEOPLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=NON STOP PEOPLE</link> 
+        </item> 
+          <item> 
+            <title>TV CANARIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV CANARIA</link> 
+        </item> 
+          <item> 
+            <title>LANCELOT TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=LANCELOT TV</link> 
+        </item> 
+          <item> 
+            <title>CANAL SUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SUR</link> 
+        </item> 
+          <item> 
+            <title>8 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=8 TV</link> 
+        </item> 
+          <item> 
+            <title>TELEMADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEMADRID</link> 
+        </item> 
+          <item> 
+            <title>LA OTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA OTRA</link> 
+        </item> 
+          <item> 
+            <title>TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3</link> 
+        </item> 
+          <item> 
+            <title>3/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=3/24</link> 
+        </item> 
+          <item> 
+            <title>RIVERA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=RIVERA TV</link> 
+        </item> 
+          <item> 
+            <title>LUX MALLORCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUX MALLORCA</link> 
+        </item> 
+          <item> 
+            <title>CANAL EXTREMADURA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL EXTREMADURA</link> 
+        </item> 
+          <item> 
+            <title>HTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=HTV</link> 
+        </item> 
+          <item> 
+            <title>CYL7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=CYL7</link> 
+        </item> 
+          <item> 
+            <title>--------DEPORTES------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------DEPORTES------</link> 
+        </item> 
+          <item> 
+            <title>LALIGATV BAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR HD</link> 
+        </item> 
+          <item> 
+            <title>LALIGATV BAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR</link> 
+        </item> 
+          <item> 
+            <title>BEIN LALIGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LALIGA</link> 
+        </item> 
+          <item> 
+            <title>BEIN LIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA HD</link> 
+        </item> 
+          <item> 
+            <title>PARTIDAZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARTIDAZO</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>BEIN SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORT</link> 
+        </item> 
+          <item> 
+            <title>IPTV DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=IPTV DEPORTES</link> 
+        </item> 
+          <item> 
+            <title>LA LIGA 123 (SOLO PARTIDOS)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA LIGA 123 (SOLO PARTIDOS)</link> 
+        </item> 
+          <item> 
+            <title>A1 SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=A1 SPORT</link> 
+        </item> 
+          <item> 
+            <title>M. FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. FUTBOL</link> 
+        </item> 
+          <item> 
+            <title>M. DEPORTES 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 1 HD</link> 
+        </item> 
+          <item> 
+            <title>M. DEPORTES 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. DEPORTES 2 HD</link> 
+        </item> 
+          <item> 
+            <title>GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
+        </item> 
+          <item> 
+            <title>M. MOTO GP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. MOTO GP</link> 
+        </item> 
+          <item> 
+            <title>FORMULA 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FORMULA 1 SD</link> 
+        </item> 
+          <item> 
+            <title>M. GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. GOLF</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT1</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>TELEDEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTES</link> 
+        </item> 
+          <item> 
+            <title>RED BULL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RED BULL TV</link> 
+        </item> 
+          <item> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>BARCA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
+        </item> 
+          <item> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
+        </item> 
+          <item> 
+            <title>TOROS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS SD</link> 
+        </item> 
+          <item> 
+            <title>-------INFANTIL----------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------INFANTIL----------</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>ANIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIME</link> 
+        </item> 
+          <item> 
+            <title>NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+        </item> 
+          <item> 
+            <title>DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>CLAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN</link> 
+        </item> 
+          <item> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item> 
+          <item> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>-------DOCUMENTALES-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------DOCUMENTALES-------</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
+        </item> 
+          <item> 
+            <title>CANAL ODISEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL ODISEA</link> 
+        </item> 
+          <item> 
+            <title>A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>CRIMEN &amp; INVESTIGACION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN &amp; INVESTIGACION</link> 
+        </item> 
+          <item> 
+            <title>IBERALIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=IBERALIA</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA HD</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
+        </item> 
+          <item> 
+            <title>CANAL DE CASA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DE CASA</link> 
+        </item> 
+          <item> 
+            <title>VIAJAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL TV HD</link> 
+        </item> 
+          <item> 
+            <title>-------MUSICA-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------MUSICA-------</link> 
+        </item> 
+          <item> 
+            <title>MTV ESPAÑA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPAÑA</link> 
+        </item> 
+          <item> 
+            <title>SOL MUSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SOL MUSICA</link> 
+        </item> 
+          <item> 
+            <title>DELUXE MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=DELUXE MUSIC</link> 
+        </item> 
+          <item> 
+            <title>VIRGIN TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/444.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV</link> 
+        </item> 
+          <item> 
+            <title>CITY MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/443.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY MUSIC</link> 
+        </item> 
+          <item> 
+            <title>CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=CITY</link> 
+        </item> 
+          <item> 
+            <title>M2O TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=M2O TV</link> 
+        </item> 
+          <item> 
+            <title>--------TAQUILLAS-------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/375.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------TAQUILLAS-------</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/495.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 1</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 2</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 3</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 4</link> 
+        </item> 
+          <item> 
+            <title>TAQUIILA 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUIILA 5</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 6</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 7</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 8</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 9</link> 
+        </item> 
+          <item> 
+            <title>TAQUILLA 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.213.25:8000/live/daniel/daniel/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=TAQUILLA 10</link> 
+        </item> 
+         <item> 
             <title>es#0</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://192.99.47.130:8000/live/stalker2/stalker2/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=es#0</link> 
         </item> 
