@@ -3,168 +3,100 @@
 
 
 
-<item>       
-<title>        [COLOR yellow] :)•S1••••LISTA••••BY LOGAN TV••••CHANNELS(:  [/COLOR]        </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://i.imgur.com/cP0kZuH.jpg</thumbnail>
-<fanart></fanart>
-</item>
 
- 
-
-<item>       
+ <item>       
 <title>     [COLOR red] •CANAIS PODEM DEMORAR ALGUNS SEGUNDOS ABRIR POR FAVOR ESPERAR  [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>https://i.ytimg.com/vi/zsvl_MVuWeM/maxresdefault.jpg</thumbnail>
-<fanart></fanart>
-</item>  
- 
- 
- 
- <item>       
-<title>     [COLOR blue] ••••NACIONAIS••••[/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
-<fanart></fanart>
-</item>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+</item> 
  
 
- <item>
+
+
+
+<item>
 <title>[COLOR=white] [B] RTP PLAY [/B] [/COLOR]</title>
 <fanart>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</fanart>
 <thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</thumbnail>
 <link>http://ignore.me</link>
 <jsonrpc>plugin://plugin.video.rtpplay/?url=http%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto&amp;mode=1&amp;name=%5BCOLOR+white%5D%5BB%5DAo+rtp diretos%5B%2FB%5D%5B%2FCOLOR%5D</jsonrpc>
  
- 
- 
+
+
 <item>
-<title>[COLOR white][B][I]SIC[/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<thumbnail>http://www.boleia.net/img/logos/logo-sic.jpg</thumbnail>
+<title>[COLOR=white] [B] SIC [/B] [/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white] [B] TVI [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
+<link>http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8</link>
+<referer>http://ezcast.tv/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
 </item>
 
 
+
 <item>
-<title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/4924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/TONY.m3u8</link>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<title>[COLOR white] [B] TVI HD[/B] [/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-3/livestream.m3u8</link>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
+<title>[COLOR=white] [B] TVI [/B] [/COLOR]</title>
+<sportsdevil>http://www.stream2watch.cc/streams/680/1300</sportsdevil>
+<referer>http://www.stream2watch.cc/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 </item>
+
 
 
 
 <item>
-<title>[COLOR white][B][I] TV GLOBO PREMIUM  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2982.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TV GLOBO PREMIUM LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-
- <item>       
-<title>     [COLOR blue] •••••INFORMAÇÃO••••• [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://www.passira.pe.gov.br/servicoinformacaocidadao/images/informacao.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] SIC NOTICIAS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2174.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC NOTICIAS LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC NOTICIAS LOGAN</link>
+<title>[COLOR white] [B] SIC NOTICIAS HD[/B] [/COLOR] </title>
+<link>http://85.7.107.8:8012/play/a00k</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 </item>
 
-
 <item>
-<title>[COLOR white][B][I] TVI24 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<sportsdevil>http://www.tvi24.iol.pt/direto</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<thumbnail>http://www.spautores.pt/assets_live/2222/autores_tvi24.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] TVI24 [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
+<title>[COLOR white] [B] TVI 24 [/B] [/COLOR]</title>
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/TONY.m3u8</link>
-<thumbnail>http://www.spautores.pt/assets_live/2222/autores_tvi24.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
 </item>
 
 
-<item>
-<title>[COLOR=white][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://213.13.26.13:1935/live/portocanal/chunklist_w838684759.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-8J_vmhSPX1U/TeUaX1K6xtI/AAAAAAAABbE/b2seemLHHwE/s1600/1.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
 
 <item>
-<title>[COLOR=white][B][I] PORTO CANAL [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8</link>
-<thumbnail>http://2.bp.blogspot.com/-8J_vmhSPX1U/TeUaX1K6xtI/AAAAAAAABbE/b2seemLHHwE/s1600/1.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] CMTV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://85.7.107.8:8011/play/a02s</link>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-<item>
-<title> [COLOR white][B][I] CMTV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/887.ts/BJ527TgFIf/17599.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -CMTV LOGAN</link>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] CMTV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR white] [B] CM TV [/B] [/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
 <referer>http://www.liveflashplayer.net/</referer>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] PORTO CANAL [/B] [/COLOR]</title>
+<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
+<referer>http://www.sportvdireto.online/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B][I] ABOLA TV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1094.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -ABOLA TV LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7771.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -ABOLA TV LOGAN</link>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2012/10/abolaTV_geral.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<item>
-
-
-<item>
-<title>[COLOR white][B][I] ABOLA TV  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR white] [B] ABOLA TV [/B] [/COLOR]</title>
 <sportsdevil>http://www.estadiofutebol.com/gratis/abolatv</sportsdevil>
 <referer>http://www.sporttvsonline.com/</referer>
 <fanart></fanart>
@@ -172,106 +104,178 @@
 </item>
 
 
+<item>
+<title>[COLOR white] [B] EURONEWS [/B] [/COLOR]</title>
+<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
+</item>
+
+
+
+ 
 <item>  
-<title>[COLOR white][B][I] AUTO HOJE TV [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR white] [B] AUTO HOJE TV [/B] [/COLOR]</title>
 <link>mms://195.22.25.134/mpltv</link>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>https://s32.postimg.org/s76r6no6d/ndice.jpg</thumbnail>
  </item>
+ 
 
 
- <item>       
-<title>     [COLOR blue] •••••ENTRETENIMENTO••••• [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://www.crissief.xpg.com.br/imagens/entretenimento.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<title>[COLOR white] [B] TCV [/B] [/COLOR]</title>
+<link>rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg</thumbnail>
+</item>
+ 
+
+ 
+ 
+ 
+<item>
+<title>[COLOR white] [B] TV MOCAMBIQUE [/B] [/COLOR]</title>
+<link>http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1814628488_b714000_slpor.m3u8</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/470fc902333d534a6c54aee7427950ab.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR white] [B] TV MOCAMBIQUE 2[/B] [/COLOR]</title>
+<link>http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w478241971_b714000_slpor.m3u8</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/0aa35a42bd20a08ec8436c03bacfb11d.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] TVI REALITY [/B] [/COLOR]</title>
+<link>http://85.7.107.8:8010/play/a04k</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] TVI REALITY [/COLOR] [/B]</title>
+<sportsdevil>http://buefixe.net/ss1.php?</sportsdevil>
 <referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white] [B] TVI FICCAO [/B] [/COLOR]</title>
+<link>http://85.7.107.8:8012/play/a00y</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR white][B][I]  SIC MULHER [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC MULHER LOGAN</link>
+<title>[COLOR white] [B] SIC MULHER [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
+<link>http://178.192.242.14:9000/play/a07z</link>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] SIC RADICAL [/B] [/COLOR]</title>
+<link>http://178.192.242.14:9000/play/a06s</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] SIC K [/B] [/COLOR]</title>
+<link>http://178.192.242.14:9000/play/a06s</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white][B][I] BIGGS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
+<link>http://178.192.242.14:9000/play/a01d</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR white][B][I]  DISNEY JUNIOR [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
+<link>http://178.192.242.14:9000/play/a01n</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a6/32/93/a632933d32b39a078b033604ada8f70f.jpg</thumbnail>
+<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR white] [B] TV CINE 1 [/B] [/COLOR]</title>
+<link>http://85.7.107.8:8010/play/a03u</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png</thumbnail>
+</item>
+
+
 
 
  
 <item>
-<title> [COLOR white][B][I] SIC RADICAL [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC RADICAL LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC Radical LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/6/60/SICRadical2011logo.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<title>[COLOR white] [B] TV CINE 2 [/B] [/COLOR]</title>
+<link>http://178.192.242.14:9000/play/a00t</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 </item>
 
 
 
 <item>
-<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI REALITY LOGAN</link>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
+<title>[COLOR white] [B] TV CINE 3 [/B] [/COLOR]</title>
+<link>http://178.192.242.14:9000/play/a00r</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC3.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[COLOR white] [B] TV CINE 4 [/B] [/COLOR]</title>
+<link>http://85.7.107.8:8010/play/a04r</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] TVI REALITY  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<sportsdevil>http://buefixe.net/ss1.php?</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
+<title>[COLOR white] [B] TV CINE SERIES 5 [/B] [/COLOR]</title>
+<link>http://178.192.242.14:9000/play/a00s</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.bantumen.com/wp-content/uploads/2015/07/tvcine-840x420.jpg</thumbnail>
 </item>
 
 
 <item>
-<title>[COLOR white][B][I] TVI FICCAO  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI FICCAO LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http%3A%2F%2Fiptvsensation.ddns.net%3A6500%2Flive%2FJames1%2FzkdZbEUp2X%2F7751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI FICCAO LOGAN</link>
-<thumbnail>http://www.lux.iol.pt/multimedia/oratvi/multimedia/imagem/id/13706672/420</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title[COLOR white][B][I] TVI FICCAO [/I][/B][/COLOR] [COLOR lime](SPORTS DEVIL ON)[/COLOR]</title>
-<sportsdevilhttp://www.sporttvonlinehd.com/index.php?canal=tvificcao</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<thumbnailhttp://www.lux.iol.pt/multimedia/oratvi/multimedia/imagem/id/13706672/420</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] KITCHEN HD  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3015.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
-<linkplugin://plugin.video.f4mTester/?url=http://192.99.46.42:8000/live/gilson/280686/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -KITCHEN HD LOGAN</link>
-<thumbnail>http://www.nos.pt/particulares/televisao/canais/PublishingImages/24kitchen/logo.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-
-
- <item>       
-<title>     [COLOR blue] •••••FILMES••••• [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/1et.png</thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I]  AMC  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
+<title>[COLOR white] [B] AMC [/B] [/COLOR]</title>
 <link>$doregex[select_Url]</link>
 <regex>
 <name>select_Url</name>
@@ -292,230 +296,540 @@
 <referer>http://www.liveonlinetv247.info/</referer>
 <agent></agent>
 </regex>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR white] [B] HOLLYWOOD [/B] [/COLOR]</title>
+<link>http://178.192.242.14:9000/play/a088</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
+</item>
+
+
+
+
+
+
 
 <item>
-<title>[COLOR white][B][I] HOLLYWOOD   [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2965.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - HOLLYWOOD HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - HOLLYWOOD HD LOGAN</link>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2010/12/canal-hollywood-stream.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<title>[COLOR white] [B] AXN [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/axn</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] AXN WHITE [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
+<referer>http://ucaster.eu</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] FOX [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
+<referer>http://escast.tv/</referer>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] FOX MOVIES [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
+<referer>http://ezcast.tv/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] FOX CRIME [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
+<link>http://178.192.242.14:9000/play/a00m</link>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] FOX LIFE HD[/B] [/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
+<referer>http://www.liveflashplayer.net</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
+</regex>
+<item>
+
+
+<item>
+<title>[COLOR white] [B] MTV [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/mtv</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR white] [B] NAT GEO [/B] [/COLOR]</title>
+<sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] DISCOVERY [/B] [/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] HISTORIA [/B] [/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil>
+<referer>http://liveflashplayer.com/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] ODISSEIA [/B] [/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=odisseia</sportsdevil>
+<referer>http://ucaster.eu/</referer>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR white] [B] RT DECOMENTARY [/B] [/COLOR]</title>
+<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://i.imgur.com/8i73Fnl.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] CANAL CAZA Y PESCA [/B] [/COLOR]</title>
+<link>http://cdn.sitenow.me/live/cazaypesca_bawvnvf/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+<item>
+<title>[COLOR white] [B] CANAL+TOROS [/B] [/COLOR]</title>
+<link>http://cdn.sitenow.me/live/toros_9frbv56/chunklist.m3u8|User-Agent=Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0&amp;Accept-Encoding=gzip,deflate&amp;DNT=1&amp;Referer=http://www.playerapp1.pw/&amp;Connection=keep-alive&amp;Icy-Metadata=0</link>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+<thumbnail>http://i739.phet.com/albums/xx33/catoal/cptohd.jpg</thumbnail>
 </item>
  
-<item>
-<title>[COLOR white][B][I] MOV [/I][/B][/COLOR] [COLOR lime] (LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - MOV HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://tv.iptvsensation.com:6500/live/qpeJPnVIIn/kcEED0kZ8D/7766.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - MOV HD LOGAN</link>
-<fanar>thttp://i.imgur.com/cP0kZuH.jpg</fanart>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/0/07/Logo_principal0_MOV.png/revision/latest?cb=20140112144245</thumbnail>
-</item>
 
-<item>
-<title>[COLOR white][B][I] TVCINE 1 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3010.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 1 HD LOGAN</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/tswwqy1436896045.png/medium</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B][I] TVCINE 2 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV) [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 2 HD LOGAN</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR white][B][I] TVCINE 3 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2180.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 3 HD LOGAN</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/uwrwyv1436898334.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
- 
- 
- 
- 
-<item>
-<title>[COLOR white][B][I] TVCINE 4 HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2181.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 4 HD LOGAN</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4HD.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR white][B][I] TVCINE 5 SERIES HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2969.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
-<linkplugin://plugin.video.f4mTester/?url=http://4k.electrodahri.com:8000/live/radiosatna.tk/BJ527TgFIf/11887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - TVCINE 5 HD LOGAN</link>
-<thumbnail>http://www.bantumen.com/wp-content/uploads/2015/07/tvcine-840x420.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] FOX Movies [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3002.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX MOVIES HD LOGAN</link>
-<thumbnail>http://static.myhdmedia.co/hd/channels/Movies/dark/foxmovies.png</thumbnail>
+<item>       
+<title>        [COLOR lime] :)•S2••••LISTA••••BY LOGAN TV••••CHANNELS(:  [/COLOR]        </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
 <fanart></fanart>
 </item>
 
-
-<item>
-<title>[COLOR white][B][I] FOX Crime HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7826.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX CRIME HD LOGAN</link>
-<thumbnail>http://www.hypptv.info/wordpress/wp-content/uploads/fox_crime_asia_hd.gif</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] FOX Life HD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV] [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2194.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7825.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - FOX LIFE HD LOGAN</link>
-<thumbnail>http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
- <item>       
-<title>     [COLOR blue] •••••INFANTIL••••• [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://3.bp.blogspot.com/-bZZGohSBOfk/Vv2DigntVtI/AAAAAAAAASA/mj88U3r0FWkAeFVzQDDpigLR2rG5oNwoA/s1600/Departamento-Infantil-08.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item> 
-
-
-<item>
-<title>[COLOR white][B][I] BIGGS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<linkplugin://plugin.video.f4mTester/?url=hhttp://ksportiptv.com:1557/live/metti/metti/3003.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -BIGGS HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/15370.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -BIGGS HD LOGAN</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] NICKELODEON [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - NICKELODEON HD LOGAN</link>
-<thumbnail>http://www.kidvertisers.com/images/biglogo_nickelodeon.gif</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] SIC KIDS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC KIDS LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7810.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SIC K LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item> 
-
-<item>
-<title>[COLOR white][B][I]  CANAL PANDA [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3000.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2202.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - CANAL PANDA LOGAN</link>
-<thumbnail>https://yt3.ggpht.com/-ubWyeh3t5E0/AAAAAAAAAAI/AAAAAAAAAAA/gQO3Nla8KiM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I] PANDA BIGGS [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2978.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -BIGGS HD LOGAN</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ76JNdAFOVJbjzd9z8yxVH9e03SjiForjjABw7g3LomFqHxVbT</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I]  DISNEY JUNIOR [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/3713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a6/32/93/a632933d32b39a078b033604ada8f70f.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I]  DISNEY CHANNEL [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/fr/b/b3/Logo_DisneyChannel2010.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-
- <item>       
-<title>     [COLOR blue] •••••DOCUMENTARIOS••••• [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://i.ytimg.com/i/ivu7AtTy_X-OyjxJJ0QLIQ/mq1.jpg?v=bcf80d</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item> 
-
-
- <item>
-<title>[COLOR white][B][I]  EURONEWS  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
+ 
+<item>                        
+<title>RTP 1</title>                        
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>                        
+<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/</link>
 </item>
  
- <item>
-<title>[COLOR=white][B][I] DISCOVERY CHANNEL [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://universeiptv.com:8000/live/shadi/shadi123/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISNEY JUNIOR LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -DISCOVERY CHANNEL LOGAN</link>
-<thumbnail>https://i.ytimg.com/vi/Tsbi0vU-WQE/maxresdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<item>                        
+<title>RTP 2</title>                        
+<fanart></fanart>                        
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<info>A RTP 2 apresenta uma programacao tematica, com programas proximos da sociedade civil, series, desporto e informacao.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>RTP 3</title>  
+<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
+<referer>http://www.rtp.pt/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
+<info>RTP 3 apresenta noticias atuais e programas proximos da sociedade civil, series, desporto e informacao.</info>
+<fanart></fanart>
+</item>
+ 
+<item>
+<title>SIC  </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.liveflashplayer.net/membedplayer/SIC7483874/1/565/440</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.liveflashplayer.net</referer>
+<fanart></fanart>
+<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
+</item>
+ 
+ 
+ 
+<item>
+<title>TVI</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
+<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
+</item>
+ 
+<item>
+<title>TVI</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
 <item>
  
-
+ 
 <item>
-<title>[COLOR=white][B][I] NATIONAL GEOGRAPHIC HD [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/8406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<title>TVI 24</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
+<info>Canal dedicado a informacao, onde podera encontrar as noticias mais atuais 24 horas por dia, 7 dias por semana.</info>
+</item>
+ 
+ 
 <item>
+<title>CMTV </title>
+<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
+<referer>http://www.tvdez.com/</referer>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
+<info>As ultimas noticias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
+</item>
+ 
+<item>
+<title>PORTO CANAL</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+<link>http://213.13.26.11:1935/live/portocanal/PSYCHOTEAM.m3u8</link>
+</item>
+ 
+<item>
+<title>PORTO CANAL</title>
+<fanart></fanart>
+<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.embeducaster.com/</referer>
+<info>Porto Canal e um canal de televisao portugues dedicado a todo o territorio nacional, com uma programacao diversificada em diversas areas: informacao, deporto e entretenimento. </info>
+</item>
+ 
+ 
+ 
+ 
+ 
+<item>
+<title>SKY SPORTS 1 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/5zc44az4a4rj5jf/skysports1.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 2 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/arrn4b16mlbmmj2/skysports2.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 3 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports3.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/d3d2nwe8qvew75l/skysports3.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 4 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports4.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/59kttn4p1mrjy1d/skysports4.png</thumbnail>
+</item>
+<item>
+<title>SKY SPORTS 5 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SkySports5.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/5uym4sr51ao0jjo/skysports5.png</thumbnail>
+</item>
+<item>
+<title>BT SPORTS 1 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/BTSport1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/qxzc2bedfbjphh6/btsports1.png</thumbnail>
+</item>
+<item>
+<title>BT SPORTS 2 </title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/BTSport2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/ztbornamxbj5puz/btsports2.png</thumbnail>
+</item>
+<item>
+<title>BT SPORTS 3</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests, re
+ link = re.findall('src="(.*/channel.php.*?)"', page_data)[0].replace('channel','embed')
+ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36', 'Referer':'http://castfree.me/ace/uk/bteurope.php'}
+ source= requests.get(link, headers = headers)
+ vars = re.search(r"var name.+?'(.*?)'.*\s.*edgeserverip.+?'(.*?)'.*\s.*appName.+?'(.*?)'", source.text)
+ token = re.findall('"(\.m3u8[^"]+)"', source.text)[0]
+ return 'http://' + vars.group(2) + '/' + vars.group(3) + '/' + vars.group(1) + token + '|Referer=http://castfree.me/ace/uk/bteurope.php'
+]]></expres>
+<page>http://castfree.me/ace/uk/bteurope.php</page>
+<cookieJar></cookieJar>
+<agent></agent>
+</regex>
+</item>
+<item>
+<title>SPORT KLUB 1</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SportKlub1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/byqwymga3xke95b/SK1.png</thumbnail>
+</item>
+<item>
+<title>SPORT KLUB 2</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SportKlub2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/1who997ucjvjgqz/SK2.png</thumbnail>
+</item>
+<item>
+<title>SPORT KLUB 3</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/SportKlub3.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://dl.dropboxusercontent.com/s/s87bp9bawa05fba/SK3.png</thumbnail>
+</item>
+<item>
+<title>MATCH FUTBOL 1</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/MatchFutbol1.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATCH FUTBOL 2</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/MatchFutbol2.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MATCH FUTBOL 3</title>
+<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
+<regex>
+<name>getLink</name>
+<expres>videoLink = '(.*?)'</expres>
+<page>http://www.livesport.pw/MatchFutbol3.html</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>                        
+<title>CAPITAL TV </title>                        
+<fanart></fanart>                        
+<thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-capital-tv.png</thumbnail>                        
+<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>                        
+</item>
+ 
+<item>
+<title>Eska Party TV</title>  
+<link>http://stream.smcloud.net:1935/tv/eska_party/eska_party_720p/playlist.m3u8</link>
+<thumbnail>http://thumbs.eska.pl/common/1/0/s/1065115QbfX.png/ru-0-r-108,108-n-1065115QbfX.png</thumbnail>
+</item>
+ 
+<item>                        
+<title>CITY MUSIC  </title>                        
+<fanart></fanart>                        
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif</thumbnail>                      
+<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8</link>                      
+</item>
+ 
+<item>                        
+<title>Ibiza Global TV  </title>                        
+<fanart></fanart>                        
+<thumbnail>http://www.allzicradio.com/media/radios/logo-2.png</thumbnail>                      
+<link>http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8</link>                        
+</item>
 
 
-<item>
-<title>[COLOR=white][B][I] NAT GEO WILD [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NATIONAL GEOGRAPHIC HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7821.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NAT GEO WILD LOGAN</link>
-<thumbnail>http://www.maxmegatvonlinehd.com/wp-content/uploads/2015/07/nat_geo_wild.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<item>
 
 
-<item>
-<title>[COLOR=white][B][I] ODISSEIA [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -ODISSEIA LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsensation.ddns.net:6500/live/James1/zkdZbEUp2X/7765.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NAT GEO WILD LOGAN</link>
-<thumbnail>http://www.logotipo.pt/wp-content/uploads/2011/03/logotipoptodisseia.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<item>
+
+<item>       
+<title>        [COLOR yellow] :)••••LISTA••••TV••••CHANNELS(:  [/COLOR]        </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLOR lime]LOGAN[/COLOR]WEBTV[makelist.param1]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lime]LOGAN[/COLOR] WEBTV [makelist.param1]</link>
+<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+ ]]></listrepeat>
+<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
+<page>[makelist2.param2]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</regex>
 
 
-<item>
-<title>[COLOR=white][B][I] HISTORIA [/I][/B][/COLOR][COLOR=lime](LOGAN WEBTV)[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://ksportiptv.com:1557/live/metti/metti/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -HISTORIA LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -NAT GEO WILD LOGAN</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Historia_Logo_2015.png/200px-Historia_Logo_2015.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-<item>
 
+
+
+
+<item>       
+<title>                         [COLOR lime] BY LOGAN TV 1 [/COLOR]     </title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>https://i.imgsafe.org/fe957d1165.png</thumbnail>
+<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
+</item> 
+
+
+
+
+
+   
+ 
+   
+ 
+   
+ 
