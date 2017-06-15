@@ -33,488 +33,76 @@
  
  
  
-          <item> 
-            <title>RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
-        </item> 
-          <item> 
-            <title>RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
-        </item> 
-          <item> 
-            <title>SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
-        </item> 
-          <item> 
-            <title>TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
-        </item> 
-          <item> 
-            <title>RTP 1 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 FHD</link> 
-        </item> 
-          <item> 
-            <title>RTP 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 FHD</link> 
-        </item> 
-          <item> 
-            <title>SIC FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC FHD</link> 
-        </item> 
-          <item> 
-            <title>TVI FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FHD</link> 
-        </item> 
-          <item> 
-            <title>RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
-        </item> 
-          <item> 
-            <title>SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
-        </item> 
-          <item> 
-            <title>RTP INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL</link> 
-        </item> 
-          <item> 
-            <title>SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
-        </item> 
-          <item> 
-            <title>SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
-        </item> 
-          <item> 
-            <title>SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
-        </item> 
-          <item> 
-            <title>CANAL Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q</link> 
-        </item> 
-          <item> 
-            <title>PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title>CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM TV</link> 
-        </item> 
-          <item> 
-            <title>RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
-        </item> 
-          <item> 
-            <title>RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link> 
-        </item> 
-          <item> 
-            <title>RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
-        </item> 
-          <item> 
-            <title>RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 1</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 2</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 3</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 4</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY MOSAICO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY MOSAICO</link> 
-        </item> 
-          <item> 
-            <title>TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
-        </item> 
-          <item> 
-            <title>ARTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTV</link> 
-        </item> 
-          <item> 
-            <title>TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO</link> 
-        </item> 
-          <item> 
-            <title>GLOBO PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM</link> 
-        </item> 
-          <item> 
-            <title>REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
-        </item> 
-          <item> 
-            <title>BARCA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS</link> 
-        </item> 
-          <item> 
-            <title>NBA TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/2046.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA TV HD</link> 
-        </item> 
-          <item> 
-            <title>PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
-        </item> 
-          <item> 
-            <title>MOTORS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
-        </item> 
-          <item> 
-            <title>MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
-        </item> 
-          <item> 
-            <title>FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
-        </item> 
-          <item> 
-            <title>FIGHT NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK</link> 
-        </item> 
-          <item> 
-            <title>KOMBAT SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT</link> 
-        </item> 
-          <item> 
-            <title>CACAVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION</link> 
-        </item> 
-          <item> 
-            <title>CAÇA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA</link> 
-        </item> 
-          <item> 
-            <title>OUTDOOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=OUTDOOR</link> 
-        </item> 
-          <item> 
-            <title>TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
-        </item> 
-          <item> 
-            <title>DOG TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=DOG TV</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
-        </item> 
-          <item> 
-            <title>AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
-        </item> 
-          <item> 
-            <title>FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
-        </item> 
-          <item> 
-            <title>CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>SUNDANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
-        </item> 
-          <item> 
-            <title>SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
-        </item> 
-          <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
-        </item> 
-          <item> 
-            <title>AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
-        </item> 
-          <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title>CRIME   INVESTIGATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME   INVESTIGATION</link> 
-        </item> 
-          <item> 
-            <title>TV SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
-        </item> 
-          <item> 
-            <title>E! ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
-        </item> 
-          <item> 
-            <title>MCS LIFESTYLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
-        </item> 
-          <item> 
-            <title>NAT. GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT. GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY SHOWCASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE</link> 
-        </item> 
-          <item> 
-            <title>TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
-        </item> 
-          <item> 
-            <title>A &amp; E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=A &amp; E</link> 
-        </item> 
-          <item> 
-            <title>ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>CANAL HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>24 KITCHEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN</link> 
-        </item> 
-          <item> 
-            <title>FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>TRAVEL CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FASHION TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FASHION TV</link> 
-        </item> 
-          <item> 
-            <title>LUXE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUXE TV</link> 
-        </item> 
-          <item> 
-            <title>FINE LIVING HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=FINE LIVING HD</link> 
-        </item> 
-          <item> 
-            <title>ZEE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE TV</link> 
-        </item> 
-          <item> 
-            <title>MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX</link> 
-        </item> 
-          <item> 
-            <title>TRACE URBAN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN HD</link> 
-        </item> 
-          <item> 
-            <title>MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
-        </item> 
-          <item> 
-            <title>MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS</link> 
-        </item> 
-          <item> 
-            <title>MTV MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC</link> 
-        </item> 
-          <item> 
-            <title>MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
-        </item> 
-          <item> 
-            <title>MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
-        </item> 
-          <item> 
-            <title>TRACE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV</link> 
-        </item> 
-          <item> 
-            <title>VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
-        </item> 
-          <item> 
-            <title>VH1 CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>C-MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC</link> 
-        </item> 
-          <item> 
-            <title>iCONCERTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=iCONCERTS</link> 
-        </item> 
-          <item> 
-            <title>VIRGIN TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV</link> 
-        </item> 
-          <item> 
-            <title>AFRO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO TV</link> 
-        </item> 
-          <item> 
-            <title>MEZZO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+      <item> 
+            <title>PT | RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2797.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 1</link> 
         </item> 
           <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+            <title>PT | RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2798.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | RTP 2</link> 
         </item> 
           <item> 
-            <title>CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
+            <title>PT | SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+            <title>PT | SIC Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2802.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC Kids</link> 
         </item> 
           <item> 
-            <title>PANDA BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS</link> 
+            <title>PT | SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2794.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | SIC RADICAL</link> 
         </item> 
           <item> 
-            <title>JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
+            <title>PT | TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI</link> 
         </item> 
           <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+            <title>PT | TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/3080.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVI 24</link> 
         </item> 
           <item> 
-            <title>SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
+            <title>PT | TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 1</link> 
         </item> 
           <item> 
-            <title>BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+            <title>PT | TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 2</link> 
         </item> 
           <item> 
-            <title>BABY FIRST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
+            <title>PT | TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 3</link> 
         </item> 
           <item> 
-            <title>LOCALVISAO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCALVISAO HD</link> 
+            <title>PT | TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | TVCINE 4</link> 
         </item> 
           <item> 
-            <title>KURISKOS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/1579.ts&amp;streamtype=TSDOWNLOADER&amp;name=KURISKOS TV</link> 
+            <title>PT | FOX MOVIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX MOVIE</link> 
         </item> 
           <item> 
-            <title>REGIOES TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=REGIOES TV</link> 
+            <title>PT | AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/2812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN WHITE HD</link> 
         </item> 
           <item> 
-            <title>SANTUARIO FATIMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SANTUARIO FATIMA</link> 
+            <title>PT | NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | NAT GEO HD</link> 
         </item> 
           <item> 
-            <title>TPA INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA INTERNACIONAL</link> 
+            <title>PT | FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/3098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX HD</link> 
         </item> 
           <item> 
-            <title>CANCAO NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA</link> 
+            <title>PT | FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | FOX CRIME HD</link> 
         </item> 
           <item> 
-            <title>RECORD NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS</link> 
+            <title>PT | AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/3097.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | AXN BLACK HD</link> 
         </item> 
           <item> 
-            <title>EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p.tone.kim/live/LUCAS/LUCAS/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+            <title>PT | A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sutverduz.com:8080/live/ukutnray/7sGnt79r7I/3090.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT | A BOLA TV</link> 
         </item> 
-    
+   
