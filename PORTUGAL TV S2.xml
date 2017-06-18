@@ -28,323 +28,210 @@
   
  
    
-     
-   
  
           <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+            <title> tvg-id="rtp1.pt" tvg-name="PT: RTP1" tvg-logo="http://leeztv.com/logo/tv/img_1169.png" group-title="Portuguese TV" PT: RTP1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="rtp1.pt" tvg-name="PT: RTP1" tvg-logo="http://leeztv.com/logo/tv/img_1169.png" group-title="Portuguese TV" PT: RTP1</link> 
         </item> 
           <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <title> tvg-id="rtp2.pt" tvg-name="PT: RTP2" tvg-logo="http://leeztv.com/logo/tv/img_1168.png" group-title="Portuguese TV" PT: RTP2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="rtp2.pt" tvg-name="PT: RTP2" tvg-logo="http://leeztv.com/logo/tv/img_1168.png" group-title="Portuguese TV" PT: RTP2</link> 
         </item> 
           <item> 
-            <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
+            <title> tvg-id="RTP3.pt" tvg-name="PT: RTP3" tvg-logo="http://leeztv.com/logo/tv/img_1167.png" group-title="Portuguese TV" PT: RTP3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="RTP3.pt" tvg-name="PT: RTP3" tvg-logo="http://leeztv.com/logo/tv/img_1167.png" group-title="Portuguese TV" PT: RTP3</link> 
         </item> 
           <item> 
-            <title>PT: RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+            <title> tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="http://leeztv.com/logo/tv/img_1189.png" group-title="Portuguese TV" PT: RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1189.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="rtpmemoria.pt" tvg-name="PT: RTP MEMORIA" tvg-logo="http://leeztv.com/logo/tv/img_1189.png" group-title="Portuguese TV" PT: RTP MEMORIA</link> 
         </item> 
           <item> 
-            <title>PT: RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+            <title> tvg-id="RTPMadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="http://leeztv.com/logo/tv/img_2426.png" group-title="Portuguese TV" PT: RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/2426.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="RTPMadeira.pt" tvg-name="PT: RTP MADEIRA" tvg-logo="http://leeztv.com/logo/tv/img_2426.png" group-title="Portuguese TV" PT: RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>PT: RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
+            <title> tvg-id="PortoCanal.pt" tvg-name="PT: PORTO CANAL" tvg-logo="http://leeztv.com/logo/tv/img_2427.png" group-title="Portuguese TV" PT: PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PortoCanal.pt" tvg-name="PT: PORTO CANAL" tvg-logo="http://leeztv.com/logo/tv/img_2427.png" group-title="Portuguese TV" PT: PORTO CANAL</link> 
         </item> 
           <item> 
-            <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+            <title> tvg-id="tvc1.pt" tvg-name="PT: TV CINE 1" tvg-logo="http://leeztv.com/logo/tv/img_1176.png" group-title="Portuguese TV" PT: TV CINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1176.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="tvc1.pt" tvg-name="PT: TV CINE 1" tvg-logo="http://leeztv.com/logo/tv/img_1176.png" group-title="Portuguese TV" PT: TV CINE 1</link> 
         </item> 
           <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <title> tvg-id="tvc2.pt" tvg-name="PT: TV CINE 2" tvg-logo="http://leeztv.com/logo/tv/img_1175.png" group-title="Portuguese TV" PT: TV CINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1175.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="tvc2.pt" tvg-name="PT: TV CINE 2" tvg-logo="http://leeztv.com/logo/tv/img_1175.png" group-title="Portuguese TV" PT: TV CINE 2</link> 
         </item> 
           <item> 
-            <title>PT: SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
+            <title> tvg-id="tvc3.pt" tvg-name="PT: TV CINE 3" tvg-logo="http://leeztv.com/logo/tv/img_1174.png" group-title="Portuguese TV" PT: TV CINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="tvc3.pt" tvg-name="PT: TV CINE 3" tvg-logo="http://leeztv.com/logo/tv/img_1174.png" group-title="Portuguese TV" PT: TV CINE 3</link> 
         </item> 
           <item> 
-            <title>PT: SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
+            <title> tvg-id="tvc4.pt" tvg-name="PT: TV CINE 4" tvg-logo="http://leeztv.com/logo/tv/img_1173.png" group-title="Portuguese TV" PT: TV CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1173.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="tvc4.pt" tvg-name="PT: TV CINE 4" tvg-logo="http://leeztv.com/logo/tv/img_1173.png" group-title="Portuguese TV" PT: TV CINE 4</link> 
         </item> 
           <item> 
-            <title>PT: SIC Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids</link> 
+            <title> tvg-id="Cinemundo.pt" tvg-name="PT: CINE MUNDO" tvg-logo="http://leeztv.com/logo/tv/img_3247.png" group-title="Portuguese TV" PT: CINE MUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3247.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Cinemundo.pt" tvg-name="PT: CINE MUNDO" tvg-logo="http://leeztv.com/logo/tv/img_3247.png" group-title="Portuguese TV" PT: CINE MUNDO</link> 
         </item> 
           <item> 
-            <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <title> tvg-id="TVI.pt" tvg-name="PT: TVI" tvg-logo="http://leeztv.com/logo/tv/img_1172.png" group-title="Portuguese TV" PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1172.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TVI.pt" tvg-name="PT: TVI" tvg-logo="http://leeztv.com/logo/tv/img_1172.png" group-title="Portuguese TV" PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
+            <title> tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="http://leeztv.com/logo/tv/img_1177.png" group-title="Portuguese TV" PT: TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1177.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT: TV SERIES" tvg-logo="http://leeztv.com/logo/tv/img_1177.png" group-title="Portuguese TV" PT: TV SERIES</link> 
         </item> 
           <item> 
-            <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <title> tvg-id="TVIReal.pt" tvg-name="PT: TVI REALITY" tvg-logo="http://leeztv.com/logo/tv/img_1171.png" group-title="Portuguese TV" PT: TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1171.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TVIReal.pt" tvg-name="PT: TVI REALITY" tvg-logo="http://leeztv.com/logo/tv/img_1171.png" group-title="Portuguese TV" PT: TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT: TVI Ficção</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficção</link> 
+            <title> tvg-id="tvrecord.pt" tvg-name="PT: TV RECORD" tvg-logo="http://leeztv.com/logo/tv/img_1178.png" group-title="Portuguese TV" PT: TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1178.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="tvrecord.pt" tvg-name="PT: TV RECORD" tvg-logo="http://leeztv.com/logo/tv/img_1178.png" group-title="Portuguese TV" PT: TV RECORD</link> 
         </item> 
           <item> 
-            <title>PT: TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
+            <title> tvg-id="TVI24.pt" tvg-name="PT: TVI 24" tvg-logo="http://leeztv.com/logo/tv/img_1170.png" group-title="Portuguese TV" PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TVI24.pt" tvg-name="PT: TVI 24" tvg-logo="http://leeztv.com/logo/tv/img_1170.png" group-title="Portuguese TV" PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <title> tvg-id="TVGlobo.pt" tvg-name="PT: TV GLOBO" tvg-logo="http://leeztv.com/logo/tv/img_1180.png" group-title="Portuguese TV" PT: TV GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1180.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TVGlobo.pt" tvg-name="PT: TV GLOBO" tvg-logo="http://leeztv.com/logo/tv/img_1180.png" group-title="Portuguese TV" PT: TV GLOBO</link> 
         </item> 
           <item> 
-            <title>PT: TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
+            <title> tvg-id="" tvg-name="PT: TV GLOBO PREMIUM" tvg-logo="http://leeztv.com/logo/tv/img_1179.png" group-title="Portuguese TV" PT: TV GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1179.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT: TV GLOBO PREMIUM" tvg-logo="http://leeztv.com/logo/tv/img_1179.png" group-title="Portuguese TV" PT: TV GLOBO PREMIUM</link> 
         </item> 
           <item> 
-            <title>PT: GLOBO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: GLOBO TV</link> 
+            <title> tvg-id="CMTV.pt" tvg-name="PT: CM TV" tvg-logo="http://leeztv.com/logo/tv/img_1191.png" group-title="Portuguese TV" PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CMTV.pt" tvg-name="PT: CM TV" tvg-logo="http://leeztv.com/logo/tv/img_1191.png" group-title="Portuguese TV" PT: CM TV</link> 
         </item> 
           <item> 
-            <title>PT: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1</link> 
+            <title> tvg-id="ABolaTV.pt" tvg-name="PT: A BOLA TV" tvg-logo="http://leeztv.com/logo/tv/img_1192.png" group-title="Portuguese TV" PT: A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="ABolaTV.pt" tvg-name="PT: A BOLA TV" tvg-logo="http://leeztv.com/logo/tv/img_1192.png" group-title="Portuguese TV" PT: A BOLA TV</link> 
         </item> 
           <item> 
-            <title>PT: Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+            <title> tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://leeztv.com/logo/tv/img_1166.png" group-title="Portuguese TV" PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1166.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://leeztv.com/logo/tv/img_1166.png" group-title="Portuguese TV" PT: SIC</link> 
         </item> 
           <item> 
-            <title>PT: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport</link> 
+            <title> tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://leeztv.com/logo/tv/img_1163.png" group-title="Portuguese TV" PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1163.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS" tvg-logo="http://leeztv.com/logo/tv/img_1163.png" group-title="Portuguese TV" PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PT: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertainment</link> 
+            <title> tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="http://leeztv.com/logo/tv/img_1164.png" group-title="Portuguese TV" PT: SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1164.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="sicmulher.pt" tvg-name="PT: SIC MULHER" tvg-logo="http://leeztv.com/logo/tv/img_1164.png" group-title="Portuguese TV" PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD</link> 
+            <title> tvg-id="SicCaras.pt" tvg-name="PT: SIC CARAS" tvg-logo="http://leeztv.com/logo/tv/img_3246.png" group-title="Portuguese TV" PT: SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3246.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SicCaras.pt" tvg-name="PT: SIC CARAS" tvg-logo="http://leeztv.com/logo/tv/img_3246.png" group-title="Portuguese TV" PT: SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+            <title> tvg-id="SicK.pt" tvg-name="PT: SIC KIDS" tvg-logo="http://leeztv.com/logo/tv/img_1165.png" group-title="Portuguese TV" PT: SIC KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SicK.pt" tvg-name="PT: SIC KIDS" tvg-logo="http://leeztv.com/logo/tv/img_1165.png" group-title="Portuguese TV" PT: SIC KIDS</link> 
         </item> 
           <item> 
-            <title>PT: Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+            <title> tvg-id="sicradical.pt" tvg-name="PT: Sic Radical" tvg-logo="http://leeztv.com/logo/tv/img_1190.png" group-title="Portuguese TV" PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="sicradical.pt" tvg-name="PT: Sic Radical" tvg-logo="http://leeztv.com/logo/tv/img_1190.png" group-title="Portuguese TV" PT: Sic Radical</link> 
         </item> 
           <item> 
-            <title>PT: FOX MOVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVE</link> 
+            <title> tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://leeztv.com/logo/tv/img_1186.png" group-title="Portuguese TV" PT: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1186.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="axn.pt" tvg-name="PT: AXN" tvg-logo="http://leeztv.com/logo/tv/img_1186.png" group-title="Portuguese TV" PT: AXN</link> 
         </item> 
           <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+            <title> tvg-id="AXNWhite.pt" tvg-name="PT: AXN WHITE" tvg-logo="http://leeztv.com/logo/tv/img_1185.png" group-title="Portuguese TV" PT: AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1185.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AXNWhite.pt" tvg-name="PT: AXN WHITE" tvg-logo="http://leeztv.com/logo/tv/img_1185.png" group-title="Portuguese TV" PT: AXN WHITE</link> 
         </item> 
           <item> 
-            <title>PT: AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
+            <title> tvg-id="AXNBlack.pt" tvg-name="PT: AXN BLACK" tvg-logo="http://leeztv.com/logo/tv/img_1187.png" group-title="Portuguese TV" PT: AXN BLACK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1187.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AXNBlack.pt" tvg-name="PT: AXN BLACK" tvg-logo="http://leeztv.com/logo/tv/img_1187.png" group-title="Portuguese TV" PT: AXN BLACK</link> 
         </item> 
           <item> 
-            <title>PT: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
+            <title> tvg-id="AMC.pt" tvg-name="PT: AMC HD" tvg-logo="http://leeztv.com/logo/tv/img_3089.png" group-title="Portuguese TV" PT: AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3089.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="AMC.pt" tvg-name="PT: AMC HD" tvg-logo="http://leeztv.com/logo/tv/img_3089.png" group-title="Portuguese TV" PT: AMC HD</link> 
         </item> 
           <item> 
-            <title>PT: PANDA BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
+            <title> tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="http://leeztv.com/logo/tv/img_1183.png" group-title="Portuguese TV" PT: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1183.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="fox.pt" tvg-name="PT: FOX" tvg-logo="http://leeztv.com/logo/tv/img_1183.png" group-title="Portuguese TV" PT: FOX</link> 
         </item> 
           <item> 
-            <title>PT: Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
+            <title> tvg-id="FoxMovies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="http://leeztv.com/logo/tv/img_1181.png" group-title="Portuguese TV" PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1181.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FoxMovies.pt" tvg-name="PT: FOX MOVIES" tvg-logo="http://leeztv.com/logo/tv/img_1181.png" group-title="Portuguese TV" PT: FOX MOVIES</link> 
         </item> 
           <item> 
-            <title>PT: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
+            <title> tvg-id="FOXComedy.pt" tvg-name="PT: FOX COMEDY" tvg-logo="http://leeztv.com/logo/tv/img_1184.png" group-title="Portuguese TV" PT: FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1184.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FOXComedy.pt" tvg-name="PT: FOX COMEDY" tvg-logo="http://leeztv.com/logo/tv/img_1184.png" group-title="Portuguese TV" PT: FOX COMEDY</link> 
         </item> 
           <item> 
-            <title>PT: DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
+            <title> tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE" tvg-logo="http://leeztv.com/logo/tv/img_1182.png" group-title="Portuguese TV" PT: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="foxlife.pt" tvg-name="PT: FOX LIFE" tvg-logo="http://leeztv.com/logo/tv/img_1182.png" group-title="Portuguese TV" PT: FOX LIFE</link> 
         </item> 
           <item> 
-            <title>PT: CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+            <title> tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME" tvg-logo="http://leeztv.com/logo/tv/img_1193.png" group-title="Portuguese TV" PT: FOX CRIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME" tvg-logo="http://leeztv.com/logo/tv/img_1193.png" group-title="Portuguese TV" PT: FOX CRIME</link> 
         </item> 
           <item> 
-            <title>PT: Fox L</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox L</link> 
+            <title> tvg-id="TLC.pt" tvg-name="PT: TLC" tvg-logo="http://leeztv.com/logo/tv/img_1906.png" group-title="Portuguese TV" PT: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TLC.pt" tvg-name="PT: TLC" tvg-logo="http://leeztv.com/logo/tv/img_1906.png" group-title="Portuguese TV" PT: TLC</link> 
         </item> 
           <item> 
-            <title>PT: Económico TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Económico TV</link> 
+            <title> tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="http://leeztv.com/logo/tv/img_1904.png" group-title="Portuguese TV" PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="odisseia.pt" tvg-name="PT: ODISSEIA" tvg-logo="http://leeztv.com/logo/tv/img_1904.png" group-title="Portuguese TV" PT: ODISSEIA</link> 
         </item> 
           <item> 
-            <title>PT: 24 KITCHEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN</link> 
+            <title> tvg-id="DISCOVERYHD.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://leeztv.com/logo/tv/img_1909.png" group-title="Portuguese TV" PT: DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1909.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DISCOVERYHD.pt" tvg-name="PT: DISCOVERY CHANNEL" tvg-logo="http://leeztv.com/logo/tv/img_1909.png" group-title="Portuguese TV" PT: DISCOVERY CHANNEL</link> 
         </item> 
           <item> 
-            <title>PT: A &amp;amp; E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6386.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A &amp;amp; E</link> 
+            <title> tvg-id="nationalgeographic.pt" tvg-name="PT: NAT GEO HD" tvg-logo="http://leeztv.com/logo/tv/img_1902.png" group-title="Portuguese TV" PT: NAT GEO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1902.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="nationalgeographic.pt" tvg-name="PT: NAT GEO HD" tvg-logo="http://leeztv.com/logo/tv/img_1902.png" group-title="Portuguese TV" PT: NAT GEO HD</link> 
         </item> 
           <item> 
-            <title>PT: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6384.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN</link> 
+            <title> tvg-id="NatGeoWild.pt" tvg-name="PT: NAT GEO WILD" tvg-logo="http://leeztv.com/logo/tv/img_3088.png" group-title="Portuguese TV" PT: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3088.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NatGeoWild.pt" tvg-name="PT: NAT GEO WILD" tvg-logo="http://leeztv.com/logo/tv/img_3088.png" group-title="Portuguese TV" PT: NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>PT: CAÇA &amp;amp; PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6387.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CAÇA &amp;amp; PESCA</link> 
+            <title> tvg-id="HistoryChannel.pt" tvg-name="PT: HISTORIA HD" tvg-logo="http://leeztv.com/logo/tv/img_1903.png" group-title="Portuguese TV" PT: HISTORIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1903.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="HistoryChannel.pt" tvg-name="PT: HISTORIA HD" tvg-logo="http://leeztv.com/logo/tv/img_1903.png" group-title="Portuguese TV" PT: HISTORIA HD</link> 
         </item> 
           <item> 
-            <title>PT: CANAL Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL Q</link> 
+            <title> tvg-id="mtvportugal.pt" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://leeztv.com/logo/tv/img_3087.png" group-title="Portuguese TV" PT: MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3087.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="mtvportugal.pt" tvg-name="PT: MTV PORTUGAL" tvg-logo="http://leeztv.com/logo/tv/img_3087.png" group-title="Portuguese TV" PT: MTV PORTUGAL</link> 
         </item> 
           <item> 
-            <title>PT: CARTOON&amp;nbsp; NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6399.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON&amp;nbsp; NETWORK</link> 
+            <title> tvg-id="eentertainment.pt" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="http://leeztv.com/logo/tv/img_1905.png" group-title="Portuguese TV" PT: E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="eentertainment.pt" tvg-name="PT: E! ENTERTAINMENT" tvg-logo="http://leeztv.com/logo/tv/img_1905.png" group-title="Portuguese TV" PT: E! ENTERTAINMENT</link> 
         </item> 
           <item> 
-            <title>PT: CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
+            <title> tvg-id="SyFy.pt" tvg-name="PT: SYFY" tvg-logo="http://leeztv.com/logo/tv/img_1197.png" group-title="Portuguese TV" PT: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SyFy.pt" tvg-name="PT: SYFY" tvg-logo="http://leeztv.com/logo/tv/img_1197.png" group-title="Portuguese TV" PT: SYFY</link> 
         </item> 
           <item> 
-            <title>PT: Discovery HD Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD Showcase</link> 
+            <title> tvg-id="hollywood.pt" tvg-name="PT: Hollywood" tvg-logo="http://leeztv.com/logo/tv/img_1194.png" group-title="Portuguese TV" PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="hollywood.pt" tvg-name="PT: Hollywood" tvg-logo="http://leeztv.com/logo/tv/img_1194.png" group-title="Portuguese TV" PT: Hollywood</link> 
         </item> 
           <item> 
-            <title>PT: DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+            <title> tvg-id="Nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="http://leeztv.com/logo/tv/img_1908.png" group-title="Portuguese TV" PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1908.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Nickelodeon.pt" tvg-name="PT: NICKELODEON" tvg-logo="http://leeztv.com/logo/tv/img_1908.png" group-title="Portuguese TV" PT: NICKELODEON</link> 
         </item> 
           <item> 
-            <title>PT: Fox Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6391.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+            <title> tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://leeztv.com/logo/tv/img_1195.png" group-title="Portuguese TV" PT: DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="disneychannel.pt" tvg-name="PT: DISNEY CHANNEL" tvg-logo="http://leeztv.com/logo/tv/img_1195.png" group-title="Portuguese TV" PT: DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>PT: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE</link> 
+            <title> tvg-id="DisneyJunior.pt" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://leeztv.com/logo/tv/img_1907.png" group-title="Portuguese TV" PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1907.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DisneyJunior.pt" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://leeztv.com/logo/tv/img_1907.png" group-title="Portuguese TV" PT: DISNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title>PT: FOX TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX TV</link> 
+            <title> tvg-id="canalpanda.pt" tvg-name="PT: CANAL PANDA" tvg-logo="http://leeztv.com/logo/tv/img_1196.png" group-title="Portuguese TV" PT: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="canalpanda.pt" tvg-name="PT: CANAL PANDA" tvg-logo="http://leeztv.com/logo/tv/img_1196.png" group-title="Portuguese TV" PT: CANAL PANDA</link> 
         </item> 
           <item> 
-            <title>PT: FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6397.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
+            <title> tvg-id="24Kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="http://leeztv.com/logo/tv/img_3248.png" group-title="Portuguese TV" PT: 24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3248.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="24Kitchen.pt" tvg-name="PT: 24 KITCHEN HD" tvg-logo="http://leeztv.com/logo/tv/img_3248.png" group-title="Portuguese TV" PT: 24 KITCHEN HD</link> 
         </item> 
           <item> 
-            <title>PT: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+            <title> tvg-id="" tvg-name="PT: TPA Internacional" tvg-logo="http://leeztv.com/logo/tv/img_3170.png" group-title="Portuguese TV" PT: TPA Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.cline.in:80/live/satstuff@brisy.com/zl24F7ne1M/3170.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="PT: TPA Internacional" tvg-logo="http://leeztv.com/logo/tv/img_3170.png" group-title="Portuguese TV" PT: TPA Internacional</link> 
         </item> 
-          <item> 
-            <title>PT: MOTORVISION TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6385.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORVISION TV</link> 
-        </item> 
-          <item> 
-            <title>PT: PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
-        </item> 
-          <item> 
-            <title>PT: PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6396.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title>PT: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
-        </item> 
-          <item> 
-            <title>PT: TOUROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TOUROS TV</link> 
-        </item> 
-          <item> 
-            <title>PT: TVC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 1</link> 
-        </item> 
-          <item> 
-            <title>PT: TVC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 2</link> 
-        </item> 
-          <item> 
-            <title>PT: TVC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 3</link> 
-        </item> 
-          <item> 
-            <title>PT: TVC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 4</link> 
-        </item> 
-          <item> 
-            <title>PT: TVC SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC SERIES</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 1&amp;nbsp; HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1&amp;nbsp; HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 2&amp;nbsp; HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2&amp;nbsp; HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4</link> 
-        </item> 
-          <item> 
-            <title>PT: Afro Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
-        </item> 
-          <item> 
-            <title>PT: MCM TOP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM TOP</link> 
-        </item> 
-          <item> 
-            <title>PT: MTV Dance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Dance</link> 
-        </item> 
-          <item> 
-            <title>PT: TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
-        </item> 
-          <item> 
-            <title>PT: Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Chelsea TV</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal de Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal de Historia</link> 
-        </item> 
-          <item> 
-            <title>PT: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>PT: PANDA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic</link> 
-        </item> 
-          <item> 
-            <title>PT: CARTON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>PT: CINE MUNDO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINE MUNDO HD</link> 
-        </item> 
-          <item> 
-            <title>PT: KOMBAT SPORTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: KOMBAT SPORTS</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
-        </item> 
-          <item> 
-            <title>PT: MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV PORTUGAL</link> 
-        </item> 
+   
   
