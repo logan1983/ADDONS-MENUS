@@ -30,331 +30,321 @@
    
      
    
+ 
           <item> 
-            <title>PT: RTP 1 FullHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 FullHD</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PT: RTP 2 FullHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 FullHD</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
             <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16735.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP ÁFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ÁFRICA</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Internacional</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Internacional</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
             <title>PT: RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16654.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
         </item> 
           <item> 
-            <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
         </item> 
           <item> 
-            <title>PT: SIC FullHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16728.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC FullHD</link> 
+            <title>PT: RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
         </item> 
           <item> 
-            <title>PT: SIC KIDS Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS Local</link> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids</link> 
         </item> 
           <item> 
             <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT: SIC Noticias Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias Local</link> 
+            <title>PT: SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT: SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical</link> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT: Record News Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16658.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record News Local</link> 
+            <title>PT: TVI Ficção</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficção</link> 
         </item> 
           <item> 
-            <title>PT: TVI 24 local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24 local</link> 
-        </item> 
-          <item> 
-            <title>PT: TVI FullHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FullHD</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
             <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT: TV Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
         </item> 
           <item> 
-            <title>PT: TV Record Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Record Local</link> 
+            <title>PT: GLOBO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: GLOBO TV</link> 
         </item> 
           <item> 
-            <title>PT: A Bola TV Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A Bola TV Local</link> 
-        </item> 
-          <item> 
-            <title>PT: AandE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AandE</link> 
-        </item> 
-          <item> 
-            <title>PT: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
-        </item> 
-          <item> 
-            <title>PT: ARTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ARTV</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Baby TV Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby TV Local</link> 
-        </item> 
-          <item> 
-            <title>PT: C-Music Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: C-Music Local</link> 
-        </item> 
-          <item> 
-            <title>PT: Caça e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caça e Pesca</link> 
-        </item> 
-          <item> 
-            <title>PT: Caçavision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caçavision</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16730.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Q</link> 
-        </item> 
-          <item> 
-            <title>PT: Cançao Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cançao Nova</link> 
-        </item> 
-          <item> 
-            <title>PT: CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>PT: CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>PT: CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
-        </item> 
-          <item> 
-            <title>PT: DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16655.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>PT: Discovery Showcase</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Showcase</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney junior</link> 
-        </item> 
-          <item> 
-            <title>PT: Economico TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Economico TV</link> 
-        </item> 
-          <item> 
-            <title>PT: Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16739.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
-        </item> 
-          <item> 
-            <title>PT: EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: EUROSPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Eurosport 2 Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport 2 Xtra</link> 
-        </item> 
-          <item> 
-            <title>PT: Eurosport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport News</link> 
-        </item> 
-          <item> 
-            <title>PT: Fight Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fight Network</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16729.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Fuel TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fuel TV</link> 
-        </item> 
-          <item> 
-            <title>PT: Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
-        </item> 
-          <item> 
-            <title>PT: JimJam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16669.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JimJam</link> 
-        </item> 
-          <item> 
-            <title>PT: Kombat Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT: Kombat Sports&amp;streamtype=TSDOWNLOADER&amp;name=PT: Kombat Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16688.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>PT: EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1</link> 
         </item> 
           <item> 
             <title>PT: Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
         </item> 
           <item> 
-            <title>PT: Motorvision HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motorvision HD</link> 
+            <title>PT: Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport</link> 
+        </item> 
+          <item> 
+            <title>PT: E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD</link> 
         </item> 
           <item> 
             <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
         </item> 
           <item> 
-            <title>PT: MTV Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Local</link> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
         </item> 
           <item> 
-            <title>PT: NatGeo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16656.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NatGeo Wild</link> 
+            <title>PT: FOX MOVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVE</link> 
         </item> 
           <item> 
-            <title>PT: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16662.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: National Geographic</link> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
         </item> 
           <item> 
-            <title>PT: NBA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NBA HD</link> 
+            <title>PT: AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
         </item> 
           <item> 
-            <title>PT: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>PT: Niclelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Niclelodeon</link> 
-        </item> 
-          <item> 
-            <title>PT: Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
+            <title>PT: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
         </item> 
           <item> 
             <title>PT: PANDA BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
         </item> 
           <item> 
-            <title>PT: Panda HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda HD</link> 
+            <title>PT: Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
         </item> 
           <item> 
-            <title>PT: Poker Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16657.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Poker Central</link> 
+            <title>PT: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>PT: Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal</link> 
+            <title>PT: DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
         </item> 
           <item> 
-            <title>PT: SYFY SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY SD</link> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox L</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox L</link> 
+        </item> 
+          <item> 
+            <title>PT: Económico TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Económico TV</link> 
+        </item> 
+          <item> 
+            <title>PT: 24 KITCHEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN</link> 
+        </item> 
+          <item> 
+            <title>PT: A &amp;amp; E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6386.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A &amp;amp; E</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6384.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN</link> 
+        </item> 
+          <item> 
+            <title>PT: CAÇA &amp;amp; PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6387.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CAÇA &amp;amp; PESCA</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL Q</link> 
+        </item> 
+          <item> 
+            <title>PT: CARTOON&amp;nbsp; NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6399.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON&amp;nbsp; NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT: CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD Showcase</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6391.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX TV</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6397.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT: MOTORVISION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6385.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORVISION TV</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6396.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
         </item> 
           <item> 
             <title>PT: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16687.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
         </item> 
           <item> 
-            <title>PT: Toros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16712.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros TV</link> 
+            <title>PT: TOUROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TOUROS TV</link> 
         </item> 
           <item> 
-            <title>PT: TRACE URBAN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TRACE URBAN</link> 
+            <title>PT: TVC 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 1</link> 
         </item> 
           <item> 
-            <title>PT: Trace Urban Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Trace Urban Local</link> 
+            <title>PT: TVC 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 2</link> 
         </item> 
           <item> 
-            <title>PT: Travel Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16653.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel Channel</link> 
+            <title>PT: TVC 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 3</link> 
         </item> 
           <item> 
-            <title>PT: TVCine 1 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1 Local</link> 
+            <title>PT: TVC 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 4</link> 
         </item> 
           <item> 
-            <title>PT: TVCine 2 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2 Local</link> 
+            <title>PT: TVC SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC SERIES</link> 
         </item> 
           <item> 
-            <title>PT: TVCine 3 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3 Local</link> 
+            <title>PT: TV CINE 1&amp;nbsp; HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1&amp;nbsp; HD</link> 
         </item> 
           <item> 
-            <title>PT: TVCine 4 Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4 Local</link> 
+            <title>PT: TV CINE 2&amp;nbsp; HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2&amp;nbsp; HD</link> 
         </item> 
           <item> 
-            <title>PT: TV SERIES Local</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16715.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES Local</link> 
+            <title>PT: TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
         </item> 
           <item> 
-            <title>PT: VEVO 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 2 HD</link> 
+            <title>PT: TV CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4</link> 
         </item> 
           <item> 
-            <title>PT: VEVO 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 3 HD</link> 
+            <title>PT: Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
         </item> 
           <item> 
-            <title>PT: VEVO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://193.70.15.59:8000/live/ergin1/ergin2/16675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO HD</link> 
+            <title>PT: MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM TOP</link> 
         </item> 
+          <item> 
+            <title>PT: MTV Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Dance</link> 
+        </item> 
+          <item> 
+            <title>PT: TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
+        </item> 
+          <item> 
+            <title>PT: Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Canal de Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal de Historia</link> 
+        </item> 
+          <item> 
+            <title>PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>PT: PANDA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Nat Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic</link> 
+        </item> 
+          <item> 
+            <title>PT: CARTON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT: CINE MUNDO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINE MUNDO HD</link> 
+        </item> 
+          <item> 
+            <title>PT: KOMBAT SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: KOMBAT SPORTS</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.70.44.113:2500/live/Jorge/Jorge/6069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV PORTUGAL</link> 
+        </item> 
+  
