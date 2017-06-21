@@ -33,230 +33,220 @@
 
  
   
+ <item> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/893.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+        </item> 
+          <item> 
+            <title>PT: Toros tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros tv</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/924.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC Caras</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
+        </item> 
+          <item> 
+            <title>PT: Sic Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
+        </item> 
+          <item> 
+            <title>PT: Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/917.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record</link> 
+        </item> 
+          <item> 
+            <title>PT: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+        </item> 
+          <item> 
+            <title>PT: Travel Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: Jim Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jim</link> 
+        </item> 
+          <item> 
+            <title>PT: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
+        </item> 
+          <item> 
+            <title>PT: CartoonNet Work</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CartoonNet Work</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/921.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Cine Mundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSpor News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSpor News</link> 
+        </item> 
+          <item> 
+            <title>PT: Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/927.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EuroSport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/928.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Abola tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola tv</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 2</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 3</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCine 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TVCseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCseries</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: VeVo 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VeVo 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn White HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Axn Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/926.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Life HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/925.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Movies HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ipsatpro.info:8000/live/191497910001928/191497910001928/929.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies HD</link> 
+        </item> 
+   
  
-          <item> 
-            <title>PT|RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/890.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RTP 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT|RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RTP 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT|RTP 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/985.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RTP 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT|RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RTP Memoria</link> 
-        </item> 
-          <item> 
-            <title>PT|RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/894.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RTP Madeira</link> 
-        </item> 
-          <item> 
-            <title>PT|RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RTP Acores</link> 
-        </item> 
-          <item> 
-            <title>PT|RT GLOBAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|RT GLOBAL</link> 
-        </item> 
-          <item> 
-            <title>PT|TV Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TV Globo</link> 
-        </item> 
-          <item> 
-            <title>PT|TVI Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TVI Ficcao</link> 
-        </item> 
-          <item> 
-            <title>PT|TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TVI</link> 
-        </item> 
-          <item> 
-            <title>PT|tvi/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|tvi/24</link> 
-        </item> 
-          <item> 
-            <title>PT|TVC Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TVC Series</link> 
-        </item> 
-          <item> 
-            <title>PT|SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|SIC Noticias</link> 
-        </item> 
-          <item> 
-            <title>PT|SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|SIC Caras</link> 
-        </item> 
-          <item> 
-            <title>PT|Sic Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Sic Radical</link> 
-        </item> 
-          <item> 
-            <title>PT|SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/896.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|SIC Mulher</link> 
-        </item> 
-          <item> 
-            <title>PT|SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|SIC</link> 
-        </item> 
-          <item> 
-            <title>PT|CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|CM TV</link> 
-        </item> 
-          <item> 
-            <title>--|PT CINEMA|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|PT CINEMA|--</link> 
-        </item> 
-          <item> 
-            <title>PT|TV Cine 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TV Cine 1</link> 
-        </item> 
-          <item> 
-            <title>PT|TV Cine 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TV Cine 2</link> 
-        </item> 
-          <item> 
-            <title>PT|TV Cine 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TV Cine 3</link> 
-        </item> 
-          <item> 
-            <title>PT|TV Cine 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|TV Cine 4</link> 
-        </item> 
-          <item> 
-            <title>PT|Mov HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Mov HD</link> 
-        </item> 
-          <item> 
-            <title>PT|Cine Mundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1192.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Cine Mundo</link> 
-        </item> 
-          <item> 
-            <title>PT|Hollywood HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/889.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Hollywood HD</link> 
-        </item> 
-          <item> 
-            <title>PT|Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Fox Crime</link> 
-        </item> 
-          <item> 
-            <title>PT|Fox Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1182.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Fox Movies</link> 
-        </item> 
-          <item> 
-            <title>PT|Fox Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Fox Comedy</link> 
-        </item> 
-          <item> 
-            <title>PT|FoxLife</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|FoxLife</link> 
-        </item> 
-          <item> 
-            <title>PT|FoxHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|FoxHD</link> 
-        </item> 
-          <item> 
-            <title>PT|SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|SYFY</link> 
-        </item> 
-          <item> 
-            <title>PT|AXN-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|AXN-HD</link> 
-        </item> 
-          <item> 
-            <title>PT|AXN WhiteHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|AXN WhiteHD</link> 
-        </item> 
-          <item> 
-            <title>PT|Axn Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Axn Black HD</link> 
-        </item> 
-          <item> 
-            <title>--|PT CULTURE|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|PT CULTURE|--</link> 
-        </item> 
-          <item> 
-            <title>PT|24 Kitchen</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1198.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|24 Kitchen</link> 
-        </item> 
-          <item> 
-            <title>PT|Reality TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1191.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Reality TV</link> 
-        </item> 
-          <item> 
-            <title>PT|CBC Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|CBC Reality</link> 
-        </item> 
-          <item> 
-            <title>PT|Odissia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1194.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Odissia</link> 
-        </item> 
-          <item> 
-            <title>PT|Caca Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1197.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Caca Pesca</link> 
-        </item> 
-          <item> 
-            <title>PT|NatGeoWild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|NatGeoWild</link> 
-        </item> 
-          <item> 
-            <title>PT|Discovery-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Discovery-HD</link> 
-        </item> 
-          <item> 
-            <title>--|PT ENFANTS|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|PT ENFANTS|--</link> 
-        </item> 
-          <item> 
-            <title>PT|JimJim</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|JimJim</link> 
-        </item> 
-          <item> 
-            <title>PT|SIC Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|SIC Kids</link> 
-        </item> 
-          <item> 
-            <title>PT|Nickelodeon HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Nickelodeon HD</link> 
-        </item> 
-          <item> 
-            <title>PT|Cartoon Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Cartoon Network HD</link> 
-        </item> 
-          <item> 
-            <title>PT|Baby tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1190.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Baby tv</link> 
-        </item> 
-          <item> 
-            <title>PT|Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1193.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>PT|Disney Ju</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Disney Ju</link> 
-        </item> 
-          <item> 
-            <title>PT|Disney Ch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Disney Ch</link> 
-        </item> 
-          <item> 
-            <title>--|PT SPORT|--</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=--|PT SPORT|--</link> 
-        </item> 
-          <item> 
-            <title>PT|EuroSport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1199.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|EuroSport</link> 
-        </item> 
-          <item> 
-            <title>PT|Canal Porto</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Canal Porto</link> 
-        </item> 
-          <item> 
-            <title>PT|Abola TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://195.154.154.185:5890/live/mario2017/mario2017/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT|Abola TV</link> 
-        </item> 
-     
+
+ 
+ 
+    
+
+   
   
+  
+ 
+ 
+   
