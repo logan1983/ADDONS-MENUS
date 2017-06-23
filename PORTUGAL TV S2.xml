@@ -25,380 +25,121 @@
  
  
 
+ 
           <item> 
-            <title>RTP 1 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5702.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 FHD</link> 
+            <title>PT: RTP1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP1</link> 
         </item> 
           <item> 
-            <title>RTP 1 HD LOW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5694.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 HD LOW</link> 
+            <title>PT: RTP2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP2</link> 
         </item> 
           <item> 
-            <title>RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5703.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
+            <title>PT: RTP3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP3</link> 
         </item> 
           <item> 
-            <title>RTP 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5700.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 FHD</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5701.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>SIC FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5698.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC FHD</link> 
+            <title>PT: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX</link> 
         </item> 
           <item> 
-            <title>SIC HD LOW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5692.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD LOW</link> 
+            <title>PT: FOX Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Comedy</link> 
         </item> 
           <item> 
-            <title>SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5699.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
+            <title>PT: FOX Life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Life</link> 
         </item> 
           <item> 
-            <title>TVI FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5696.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FHD</link> 
+            <title>PT: FOX Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime</link> 
         </item> 
           <item> 
-            <title>TVI HD LOW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5691.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD LOW</link> 
+            <title>PT: FOX Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies</link> 
         </item> 
           <item> 
-            <title>TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5697.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
+            <title>PT: Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Syfy</link> 
         </item> 
           <item> 
-            <title>RTP Açores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5668.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Açores</link> 
+            <title>PT: MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV</link> 
         </item> 
           <item> 
-            <title>RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5671.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Africa</link> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
         </item> 
           <item> 
-            <title>RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5669.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Madeira</link> 
+            <title>PT: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN</link> 
         </item> 
           <item> 
-            <title>RTP Memória</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5670.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Memória</link> 
+            <title>PT: AXN Black</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black</link> 
         </item> 
           <item> 
-            <title>★●•★● INFORMAÇÃO ●•★●•★</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=★●•★● INFORMAÇÃO ●•★●•★</link> 
+            <title>PT: AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White</link> 
         </item> 
           <item> 
-            <title>RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5673.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
+            <title>PT: TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
         </item> 
           <item> 
-            <title>TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5695.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
+            <title>PT: TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1</link> 
         </item> 
           <item> 
-            <title>SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5678.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Noticias</link> 
+            <title>PT: TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2</link> 
         </item> 
           <item> 
-            <title>SIC NOTICIAS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5677.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS HD</link> 
+            <title>PT: TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3</link> 
         </item> 
           <item> 
-            <title>CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5676.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
+            <title>PT: TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4</link> 
         </item> 
           <item> 
-            <title>CMTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5675.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HD</link> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
         </item> 
           <item> 
-            <title>Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto Canal</link> 
+            <title>PT: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
         </item> 
           <item> 
-            <title>Porto Canal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/6975.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto Canal HD</link> 
+            <title>PT: Jim Jam</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Jim Jam</link> 
         </item> 
           <item> 
-            <title>TPA INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5672.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA INTERNACIONAL</link> 
+            <title>PT: SIC Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids</link> 
         </item> 
           <item> 
-            <title>FOX News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5580.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX News</link> 
+            <title>PT: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/550.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
         </item> 
           <item> 
-            <title>SKY News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5519.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY News</link> 
+            <title>PT: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HISTORIA</link> 
         </item> 
           <item> 
-            <title>Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews</link> 
+            <title>PT: MOTOVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTOVISION</link> 
         </item> 
           <item> 
-            <title>France 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5655.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 24</link> 
-        </item> 
-          <item> 
-            <title>★●•★●• ENTRETENIMENTO ●•★●•★</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=★●•★●• ENTRETENIMENTO ●•★●•★</link> 
-        </item> 
-          <item> 
-            <title>SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5683.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Mulher</link> 
-        </item> 
-          <item> 
-            <title>SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5682.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Caras</link> 
-        </item> 
-          <item> 
-            <title>SIC Caras HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5681.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Caras HD</link> 
-        </item> 
-          <item> 
-            <title>SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5680.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Radical</link> 
-        </item> 
-          <item> 
-            <title>SIC Radical HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5679.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Radical HD</link> 
-        </item> 
-          <item> 
-            <title>TVI Ficção</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5690.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Ficção</link> 
-        </item> 
-          <item> 
-            <title>TVI Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5689.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Reality</link> 
-        </item> 
-          <item> 
-            <title>24 Kitchen HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5548.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Kitchen HD</link> 
-        </item> 
-          <item> 
-            <title>Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5549.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Q</link> 
-        </item> 
-          <item> 
-            <title>CTV Vaticano</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/6151.ts&amp;streamtype=TSDOWNLOADER&amp;name=CTV Vaticano</link> 
-        </item> 
-          <item> 
-            <title>St Fátima FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/6152.ts&amp;streamtype=TSDOWNLOADER&amp;name=St Fátima FHD</link> 
-        </item> 
-          <item> 
-            <title>Canção Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/6994.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canção Nova</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5618.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5616.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2</link> 
-        </item> 
-          <item> 
-            <title>Fight Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5555.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fight Network HD</link> 
-        </item> 
-          <item> 
-            <title>Kombat Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5607.ts&amp;streamtype=TSDOWNLOADER&amp;name=Kombat Sport</link> 
-        </item> 
-          <item> 
-            <title>PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5612.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
-        </item> 
-          <item> 
-            <title>NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5615.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA TV</link> 
-        </item> 
-          <item> 
-            <title>Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5611.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motors TV</link> 
-        </item> 
-          <item> 
-            <title>Motorvision HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision HD</link> 
-        </item> 
-          <item> 
-            <title>Fuel TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5604.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fuel TV</link> 
-        </item> 
-          <item> 
-            <title>ABola TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5620.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABola TV</link> 
-        </item> 
-          <item> 
-            <title>Caçavision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5608.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caçavision</link> 
-        </item> 
-          <item> 
-            <title>Caça e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5605.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caça e Pesca</link> 
-        </item> 
-          <item> 
-            <title>Toros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV</link> 
-        </item> 
-          <item> 
-            <title>★●•★●• FILMES  ●•★●•★</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=★●•★●• FILMES  ●•★●•★</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5602.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCine 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5603.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 1</link> 
-        </item> 
-          <item> 
-            <title>TVCine 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5600.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 2 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCine 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5601.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 2</link> 
-        </item> 
-          <item> 
-            <title>TVCine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5598.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 3 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCine 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5599.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 3</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5596.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCine 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5597.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 4</link> 
-        </item> 
-          <item> 
-            <title>AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5585.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
-        </item> 
-          <item> 
-            <title>AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5586.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
-        </item> 
-          <item> 
-            <title>Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5589.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood</link> 
-        </item> 
-          <item> 
-            <title>Hollywood HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5588.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood HD</link> 
-        </item> 
-          <item> 
-            <title>FOX Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5578.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Movies</link> 
-        </item> 
-          <item> 
-            <title>Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5587.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cinemundo</link> 
-        </item> 
-          <item> 
-            <title>★●•★●• SERIES ●•★●•★</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=★●•★●• SERIES ●•★●•★</link> 
-        </item> 
-          <item> 
-            <title>TVSeries HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5590.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVSeries HD</link> 
-        </item> 
-          <item> 
-            <title>TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5591.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES</link> 
-        </item> 
-          <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5581.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
-        </item> 
-          <item> 
-            <title>FOX Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5575.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Comedy</link> 
-        </item> 
-          <item> 
-            <title>FOX Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5576.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Crime HD</link> 
-        </item> 
-          <item> 
-            <title>FOX Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5579.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Life HD</link> 
-        </item> 
-          <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5571.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
-        </item> 
-          <item> 
-            <title>AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5572.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN Black HD</link> 
-        </item> 
-          <item> 
-            <title>AXN White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5573.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White HD</link> 
-        </item> 
-          <item> 
-            <title>Sundance HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5582.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sundance HD</link> 
-        </item> 
-          <item> 
-            <title>SyFy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5583.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD</link> 
-        </item> 
-          <item> 
-            <title>SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5584.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy</link> 
-        </item> 
-          <item> 
-            <title>★●•★●• INFANTIL ●•★●•★</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=★●•★●• INFANTIL ●•★●•★</link> 
-        </item> 
-          <item> 
-            <title>SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5529.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
-        </item> 
-          <item> 
-            <title>Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>JimJam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5527.ts&amp;streamtype=TSDOWNLOADER&amp;name=JimJam</link> 
-        </item> 
-          <item> 
-            <title>Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Biggs</link> 
-        </item> 
-          <item> 
-            <title>Baby First</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby First</link> 
-        </item> 
-          <item> 
-            <title>Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://194.88.104.81:8000/live/Santos/Santos/5525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
+            <title>PT: Casa - Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Casa - Pesca</link> 
         </item> 
   
