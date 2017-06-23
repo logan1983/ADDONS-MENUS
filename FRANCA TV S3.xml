@@ -30,160 +30,321 @@
 
  
  
+ 
           <item> 
-            <title>|FR| 6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35429.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| 6TER HD</link> 
+            <title>FR_TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TF1</link> 
         </item> 
           <item> 
-            <title>|FR| ARTE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35427.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| ARTE HD</link> 
+            <title>FR_M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6</link> 
         </item> 
           <item> 
-            <title>|FR| BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35426.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| BFM TV</link> 
+            <title>FR_FRANCE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE2</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35425.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL J</link> 
+            <title>FR_FRANCE3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE3</link> 
         </item> 
           <item> 
-            <title>|FR| CHERIE25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35424.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CHERIE25 HD</link> 
+            <title>FR_FRANCE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE4</link> 
         </item> 
           <item> 
-            <title>|FR| COMEDIE  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35423.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| COMEDIE  HD</link> 
+            <title>FR_FRANCE5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE5</link> 
         </item> 
           <item> 
-            <title>|FR| DISNEY CINEMA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35422.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| DISNEY CINEMA HD</link> 
+            <title>FR_FRANCE_O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_O</link> 
         </item> 
           <item> 
-            <title>|FR| DISNEY XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35421.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| DISNEY XD HD</link> 
+            <title>FR_C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_C8</link> 
         </item> 
           <item> 
-            <title>|FR| EUROSPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35420.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| EUROSPORT 2 HD</link> 
+            <title>FR_CStar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CStar</link> 
         </item> 
           <item> 
-            <title>|FR| FRANCE 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35419.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| FRANCE 24</link> 
+            <title>FR_HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_HD1</link> 
         </item> 
           <item> 
-            <title>|FR| FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35418.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| FRANCE 5</link> 
+            <title>FR_NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NT1</link> 
         </item> 
           <item> 
-            <title>|FR| HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35414.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| HD1</link> 
+            <title>FR_6TER_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_6TER_HD</link> 
         </item> 
           <item> 
-            <title>|FR| J ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35413.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| J ONE</link> 
+            <title>FR_W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_W9</link> 
         </item> 
           <item> 
-            <title>|FR| LCI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35412.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| LCI HD</link> 
+            <title>FR_TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TMC</link> 
         </item> 
           <item> 
-            <title>|FR| LCP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35411.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| LCP HD</link> 
+            <title>FR_ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ARTE</link> 
         </item> 
           <item> 
-            <title>|FR| MANGAS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35410.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| MANGAS HD</link> 
+            <title>FR_RTL9_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL9_HD</link> 
         </item> 
           <item> 
-            <title>|FR| MCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35409.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| MCM</link> 
+            <title>FR_AB1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1_HD</link> 
         </item> 
           <item> 
-            <title>|FR| NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35408.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| NT1</link> 
+            <title>FR_Cherie25HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cherie25HD</link> 
         </item> 
           <item> 
-            <title>|FR| NUMERO 23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35407.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| NUMERO 23 HD</link> 
+            <title>FR_Teva_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teva_HD</link> 
         </item> 
           <item> 
-            <title>|FR| PLANETE CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35406.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| PLANETE CI</link> 
+            <title>FR_TV_BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TV_BREIZH</link> 
         </item> 
           <item> 
-            <title>|FR| TIJI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35405.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TIJI HD</link> 
+            <title>FR_13eme_Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_13eme_Rue</link> 
         </item> 
           <item> 
-            <title>|FR| TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35416.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TMC</link> 
+            <title>FR_PARIS_PREMIERE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARIS_PREMIERE_HD</link> 
         </item> 
           <item> 
-            <title>|FR| TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35404.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| TMC HD</link> 
+            <title>FR_NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NRJ12</link> 
         </item> 
           <item> 
-            <title>|FR| USHUAIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35403.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| USHUAIA TV</link> 
+            <title>FR_BFM_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BFM_TV</link> 
         </item> 
           <item> 
-            <title>|FR| VIRGIN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35402.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| VIRGIN HD</link> 
+            <title>FR_I-Tele</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_I-Tele</link> 
         </item> 
           <item> 
-            <title>|FR| W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35415.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| W9</link> 
+            <title>FR_Euronews_FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Euronews_FR</link> 
         </item> 
           <item> 
-            <title>|FR| ZOUZOU TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35401.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| ZOUZOU TV HD</link> 
+            <title>FR_CANAL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_HD</link> 
         </item> 
           <item> 
-            <title>|FR| Chérie 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35437.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| Chérie 25 HD</link> 
+            <title>FR_CANAL_DECALE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_DECALE_HD</link> 
         </item> 
           <item> 
-            <title>|FR| A LA CARTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35467.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| A LA CARTE 1</link> 
+            <title>FR_CANAL_CINEMA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_CINEMA_HD</link> 
         </item> 
           <item> 
-            <title>|FR| A LA CARTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35466.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| A LA CARTE 2</link> 
+            <title>FR_CANAL_SPORT_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_SPORT_HD</link> 
         </item> 
           <item> 
-            <title>|FR| A LA CARTE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35465.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| A LA CARTE 3</link> 
+            <title>FR_CANAL_FAMILY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_FAMILY_HD</link> 
         </item> 
           <item> 
-            <title>|FR| A LA CARTE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35464.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| A LA CARTE 4</link> 
+            <title>FR_CANAL_SERIE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CANAL_SERIE_HD</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35468.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 10</link> 
+            <title>FR_CINE_PREMIER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_PREMIER</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35475.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 3</link> 
+            <title>FR_CINE_EMOTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_EMOTION</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35473.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 5</link> 
+            <title>FR_CINE_FAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_FAMIZ</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35472.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 6</link> 
+            <title>FR_CINE_FRISSON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_FRISSON</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35471.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 7</link> 
+            <title>FR_CINE_CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_CLASSIC</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35470.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 8</link> 
+            <title>FR_Cine_Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Club</link> 
         </item> 
           <item> 
-            <title>|FR| CANAL PLAY 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dexonline.ninja:8000/live/nancy/nancy/35469.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR| CANAL PLAY 9</link> 
+            <title>FR_CINEFX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINEFX</link> 
+        </item> 
+          <item> 
+            <title>FR_CINE_POLAR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_CINE_POLAR_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_CHOC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_CHOC_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_City</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_City</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_Geants_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR_OCS_Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_Geants_HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR_OCS_MAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_MAX</link> 
+        </item> 
+          <item> 
+            <title>FR_Action_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Action_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_COMEDIE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_COMEDIE_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_SERIE_CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SERIE_CLUB</link> 
+        </item> 
+          <item> 
+            <title>FR_PARAMOUNT_CHANNEL_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PARAMOUNT_CHANNEL_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_E!_Entertainement</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_E!_Entertainement</link> 
+        </item> 
+          <item> 
+            <title>FR_TCM_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TCM_CINEMA</link> 
+        </item> 
+          <item> 
+            <title>FR_Syfy_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Syfy_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>FR_DISNEY_XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_XD</link> 
+        </item> 
+          <item> 
+            <title>FR_DISNEY_CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISNEY_CINEMA</link> 
+        </item> 
+          <item> 
+            <title>FR_DisneyJunior_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DisneyJunior_HD</link> 
+        </item> 
+          <item> 
+            <title>FR_Cartoon_NetWork</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cartoon_NetWork</link> 
+        </item> 
+          <item> 
+            <title>FR_BOOMERANG-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BOOMERANG-HD</link> 
+        </item> 
+          <item> 
+            <title>FR_NICKELEDON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NICKELEDON</link> 
+        </item> 
+          <item> 
+            <title>FR_Teletoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teletoon</link> 
+        </item> 
+          <item> 
+            <title>FR_Canal_J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_J</link> 
+        </item> 
+          <item> 
+            <title>FR_Piwi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Piwi</link> 
+        </item> 
+          <item> 
+            <title>FR_TIJI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TIJI</link> 
+        </item> 
+          <item> 
+            <title>FR_GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_GULLI</link> 
+        </item> 
+          <item> 
+            <title>FR_MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_MANGAS</link> 
+        </item> 
+          <item> 
+            <title>FR_J-One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_J-One</link> 
+        </item> 
+          <item> 
+            <title>FR_Game_One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Game_One</link> 
+        </item> 
+          <item> 
+            <title>FR_NAT_GEO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NAT_GEO</link> 
+        </item> 
+          <item> 
+            <title>FR_NAT_GEO_WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NAT_GEO_WILD</link> 
+        </item> 
+          <item> 
+            <title>FR_Season_hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/1937.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Season_hd</link> 
+        </item> 
+          <item> 
+            <title>FR_DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISCOVERY</link> 
+        </item> 
+          <item> 
+            <title>FR_DISCOVERY_SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_DISCOVERY_SCIENCE</link> 
+        </item> 
+          <item> 
+            <title>FR_PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANET</link> 
+        </item> 
+          <item> 
+            <title>FR_PLANETE_A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANETE_A&amp;E</link> 
+        </item> 
+          <item> 
+            <title>FR_PLANETE_CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_PLANETE_CI</link> 
+        </item> 
+          <item> 
+            <title>FR_USHUAIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_USHUAIA</link> 
+        </item> 
+          <item> 
+            <title>FR_ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ANIMAUX</link> 
+        </item> 
+          <item> 
+            <title>FR_Chasse_et_Peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Chasse_et_Peche</link> 
+        </item> 
+          <item> 
+            <title>FR_SCIENCES&amp;VIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ns3005761.ip-151-80-36.eu:8000/live/arrow/arrow/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SCIENCES&amp;VIE</link> 
         </item> 
     
