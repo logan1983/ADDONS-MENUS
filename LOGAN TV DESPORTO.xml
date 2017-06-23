@@ -216,11 +216,14 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY LOGAN</link>
+<thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
+</item>
 
 <item> 
 <title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY LOGAN</link>
 <sportsdevil>http://www.nowwatchtvlive.cc/channel-tab-frame/sporttv1hd-1.php</sportsdevil>
 <referer>http://hdfree.tv/</referer>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
