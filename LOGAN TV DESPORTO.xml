@@ -280,7 +280,7 @@
 <item>
 <title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv$$lsname=SPORT TV 1 BY LOGAN</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=sportsky3@www.bigcast.us/embed.php?sid=default&v=tvsport3&vw=650&vh=390 decryptUrl=http://www.bigcast.us/embed.php?sid=default&v=tvsport3&vw=650&vh=390$$lsname=SPORT TV 1</link>
+<linkplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=sportsky3@www.bigcast.us/embed.php?sid=default&v=tvsport3&vw=650&vh=390 decryptUrl=http://www.bigcast.us/embed.php?sid=default&v=tvsport3&vw=650&vh=390$$lsname=SPORT TV 1</link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
  
@@ -289,21 +289,21 @@
 <item>
 <title>[B][COLOR white] SPORT TV 2[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv2$$lsname=SPORT TV 2 BY LOGAN</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embed.php?sid=default&v=tvsport2&vw=650&vh=390$$lsname=SPORT TV 2</link>
+<linkplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embed.php?sid=default&v=tvsport2&vw=650&vh=390$$lsname=SPORT TV 2</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
  
 <item>
 <title>[B][COLOR white] SPORT TV 3[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://tvdesporto.info/play.php?canal=sporttv3$$lsname=SPORT TV 3 </link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embed.php?sid=default&v=tvsport3&vw=650&vh=390$$lsname=SPORT TV 3 (SportsDevil)</link>
+<linkplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.bigcast.us/embed.php?sid=default&v=tvsport3&vw=650&vh=390$$lsname=SPORT TV 3 (SportsDevil)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
 </item>
  
 <item>
 <title>[B][COLOR white] SPORT TV 4[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv4$$lsname=SPORT TV 4 BY LOGAN </link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hdfree.tv/watch/79/sport-tv-4-pt-live-stream.html$$lsname=SPORT TV 4 (SportsDevil)</link>
+<linkplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hdfree.tv/watch/79/sport-tv-4-pt-live-stream.html$$lsname=SPORT TV 4 (SportsDevil)</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
  
@@ -311,7 +311,7 @@
 <item>
 <title>[B][COLOR white] SPORT TV 5[/B][/COLOR]</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://www.sporttvsonlinehd.net/index.php?canal=sporttv5$$lsname=SPORT TV 5 BY LOGAN</link>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5BY LOGAN</link>
+<linkplugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://hdfree.tv/watch/80/sport-tv-5-pt-live-stream.html$$lsname=SPORT TV 5BY LOGAN</link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png</thumbnail>
 </item>
 
