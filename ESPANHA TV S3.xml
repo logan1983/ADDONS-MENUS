@@ -28,128 +28,473 @@
    
   
  
+  
           <item> 
-            <title>ES: LA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1</link> 
+            <title>#0 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1056.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD ES</link> 
         </item> 
           <item> 
-            <title>ES: LA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2</link> 
+            <title>A&amp;E ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 
         </item> 
           <item> 
-            <title>ES: LA SEXTA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA</link> 
+            <title>AMC HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1053.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD ES</link> 
         </item> 
           <item> 
-            <title>ES: Antena 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3</link> 
+            <title>AXN HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1052.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD ES</link> 
         </item> 
           <item> 
-            <title>ES: M. COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. COMEDIA</link> 
+            <title>AXN White ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1051.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White ES</link> 
         </item> 
           <item> 
-            <title>ES: M. SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SERIES</link> 
+            <title>Extremadura TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=Extremadura TV ES</link> 
         </item> 
           <item> 
-            <title>ES: M. SeriesXtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. SeriesXtra</link> 
+            <title>Antena 3 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antena 3 HD ES</link> 
         </item> 
           <item> 
-            <title>ES: M. XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. XTRA</link> 
+            <title>Lancelot TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1022.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lancelot TV ES</link> 
         </item> 
           <item> 
-            <title>ES: M. ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ACCION</link> 
+            <title>Barca TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1038.ts&amp;streamtype=TSDOWNLOADER&amp;name=Barca TV ES</link> 
         </item> 
           <item> 
-            <title>ES: M. ESTRENOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. ESTRENOS</link> 
+            <title>Boing ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1015.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing ES</link> 
         </item> 
           <item> 
-            <title>ES: M. DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DCINE</link> 
+            <title>C+ Estrellas ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1046.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrellas ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 1</link> 
+            <title>Calle 13 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 HD ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 2</link> 
+            <title>Canal Cocina ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Cocina ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 3</link> 
+            <title>Canal Decasa ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Decasa ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 4</link> 
+            <title>Canal Panda ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 5</link> 
+            <title>Canal SUR ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1057.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal SUR ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 6</link> 
+            <title>Caza Y Pesca ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 7</link> 
+            <title>TV3 Cat ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1019.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 Cat ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 8</link> 
+            <title>Comedy Central HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD ES</link> 
         </item> 
           <item> 
-            <title>ES: Taquilla 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Taquilla 9</link> 
+            <title>Cosmos HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1047.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmos HD ES</link> 
         </item> 
           <item> 
-            <title>ES: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: National Geographic</link> 
+            <title>Cuatro ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro ES</link> 
         </item> 
           <item> 
-            <title>ES: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Nat Geo Wild</link> 
+            <title>Discovery HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1030.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD ES</link> 
         </item> 
           <item> 
-            <title>ES: Bein Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Bein Sport</link> 
+            <title>Clan TVE ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1031.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clan TVE ES</link> 
         </item> 
           <item> 
-            <title>ES: BeIN LALIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BeIN LALIGA</link> 
+            <title>Disney Channel ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1017.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel ES</link> 
         </item> 
           <item> 
-            <title>ES: M. LIGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. LIGA</link> 
+            <title>Disney XD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1016.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD ES</link> 
         </item> 
           <item> 
-            <title>ES: M. FUTBOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. FUTBOL</link> 
+            <title>Energy ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1044.ts&amp;streamtype=TSDOWNLOADER&amp;name=Energy ES</link> 
         </item> 
           <item> 
-            <title>ES: M. DEPORTES 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. DEPORTES 2</link> 
+            <title>EuroNews ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1018.ts&amp;streamtype=TSDOWNLOADER&amp;name=EuroNews ES</link> 
         </item> 
           <item> 
-            <title>ES: M. GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M. GOLF</link> 
+            <title>EuroSport 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=EuroSport 1 HD ES</link> 
         </item> 
           <item> 
-            <title>ES: M.FORMULA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.FORMULA 1</link> 
+            <title>Fox News ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1074.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox News ES</link> 
         </item> 
           <item> 
-            <title>ES: M.MOTOGP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M.MOTOGP</link> 
+            <title>FDF ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF ES</link> 
         </item> 
           <item> 
-            <title>ES: TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.tnsat.org:8888/live/ali/ali/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TOROS TV</link> 
+            <title>Fox HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1055.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox HD ES</link> 
+        </item> 
+          <item> 
+            <title>Fox Life HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Life HD ES</link> 
+        </item> 
+          <item> 
+            <title>Galicia TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=Galicia TV ES</link> 
+        </item> 
+          <item> 
+            <title>Gol TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1040.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gol TV ES</link> 
+        </item> 
+          <item> 
+            <title>Andalucia TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1039.ts&amp;streamtype=TSDOWNLOADER&amp;name=Andalucia TV ES</link> 
+        </item> 
+          <item> 
+            <title>Historia ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1029.ts&amp;streamtype=TSDOWNLOADER&amp;name=Historia ES</link> 
+        </item> 
+          <item> 
+            <title>Hollywood ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood ES</link> 
+        </item> 
+          <item> 
+            <title>La 1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 1 ES</link> 
+        </item> 
+          <item> 
+            <title>La Sexta ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1081.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta ES</link> 
+        </item> 
+          <item> 
+            <title>LaLiga TV Bar ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1062.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaLiga TV Bar ES</link> 
+        </item> 
+          <item> 
+            <title>Mega ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1012.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mega ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Accion ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Accion ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Comedia ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Comedia ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar DCine ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar DCine ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Deportes 1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Deportes 1 ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Deportes 2 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1073.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Deportes 2 HD ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Estrenos ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Estrenos ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar F1 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1035.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar F1 ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Futbol ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Futbol ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Golf ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1061.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Golf ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar MotoGP HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1041.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar MotoGP HD ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Series HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1067.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series HD ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Series Xtra ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1066.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Series Xtra ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Toros HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1065.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Toros HD ES</link> 
+        </item> 
+          <item> 
+            <title>MovieStar Xtra ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1071.ts&amp;streamtype=TSDOWNLOADER&amp;name=MovieStar Xtra ES</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1033.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo ES</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo Wild HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1032.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD ES</link> 
+        </item> 
+          <item> 
+            <title>Neox ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=Neox ES</link> 
+        </item> 
+          <item> 
+            <title>Nick Junior ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1013.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior ES</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1014.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon HD ES</link> 
+        </item> 
+          <item> 
+            <title>Nova ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nova ES</link> 
+        </item> 
+          <item> 
+            <title>Odisea HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisea HD ES</link> 
+        </item> 
+          <item> 
+            <title>Telecinco HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1077.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco HD ES</link> 
+        </item> 
+          <item> 
+            <title>Esperanza TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1020.ts&amp;streamtype=TSDOWNLOADER&amp;name=Esperanza TV ES</link> 
+        </item> 
+          <item> 
+            <title>Real Madrid TV ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Madrid TV ES</link> 
+        </item> 
+          <item> 
+            <title>SyFy HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1050.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy HD ES</link> 
+        </item> 
+          <item> 
+            <title>TCM ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1059.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM ES</link> 
+        </item> 
+          <item> 
+            <title>TNT ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1058.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT ES</link> 
+        </item> 
+          <item> 
+            <title>TV3 24H ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1021.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 24H ES</link> 
+        </item> 
+          <item> 
+            <title>La Sexta HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Sexta HD ES</link> 
+        </item> 
+          <item> 
+            <title>TVE LA 2 ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE LA 2 ES</link> 
+        </item> 
+          <item> 
+            <title>Telecinco ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1082.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco ES</link> 
+        </item> 
+          <item> 
+            <title>Viajar HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar HD ES</link> 
+        </item> 
+          <item> 
+            <title>Antenna 3 FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antenna 3 FHD ES</link> 
+        </item> 
+          <item> 
+            <title>AXN FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4414.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN FHD ES</link> 
+        </item> 
+          <item> 
+            <title>AXN White FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4413.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White FHD ES</link> 
+        </item> 
+          <item> 
+            <title>C+ Accion FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4409.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Accion FHD ES</link> 
+        </item> 
+          <item> 
+            <title>C+ DCine FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4407.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ DCine FHD ES</link> 
+        </item> 
+          <item> 
+            <title>C+ Dep 2 FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4405.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Dep 2 FHD ES</link> 
+        </item> 
+          <item> 
+            <title>C+ Estrenos FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4408.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Estrenos FHD ES</link> 
+        </item> 
+          <item> 
+            <title>C  Series FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4410.ts&amp;streamtype=TSDOWNLOADER&amp;name=C  Series FHD ES</link> 
+        </item> 
+          <item> 
+            <title>C+ Xtra FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4411.ts&amp;streamtype=TSDOWNLOADER&amp;name=C+ Xtra FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Calle 13 FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4416.ts&amp;streamtype=TSDOWNLOADER&amp;name=Calle 13 FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Caza Y Pesca FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caza Y Pesca FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Cosmo FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cosmo FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Cuatro FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cuatro FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Fox FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox FHD ES</link> 
+        </item> 
+          <item> 
+            <title>LA 1 FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4428.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 FHD ES</link> 
+        </item> 
+          <item> 
+            <title>LA Sexta FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4424.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA Sexta FHD ES</link> 
+        </item> 
+          <item> 
+            <title>M  Formula 1 FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4400.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Formula 1 FHD ES</link> 
+        </item> 
+          <item> 
+            <title>M+ Futbol FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4406.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ Futbol FHD ES</link> 
+        </item> 
+          <item> 
+            <title>M  Golf  FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4402.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  Golf  FHD ES</link> 
+        </item> 
+          <item> 
+            <title>M  MotoGP FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4399.ts&amp;streamtype=TSDOWNLOADER&amp;name=M  MotoGP FHD ES</link> 
+        </item> 
+          <item> 
+            <title>MoviStar F1 FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4401.ts&amp;streamtype=TSDOWNLOADER&amp;name=MoviStar F1 FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo Wild FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild FHD ES</link> 
+        </item> 
+          <item> 
+            <title>SyFy FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4420.ts&amp;streamtype=TSDOWNLOADER&amp;name=SyFy FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Telecinco FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4425.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telecinco FHD ES</link> 
+        </item> 
+          <item> 
+            <title>Viajar FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viajar FHD ES</link> 
+        </item> 
+          <item> 
+            <title>beIN LA Liga FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4403.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN LA Liga FHD ES</link> 
+        </item> 
+          <item> 
+            <title>beIN Sport FHD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/4404.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN Sport FHD ES</link> 
+        </item> 
+          <item> 
+            <title>beINSport HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1043.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport HD ES</link> 
+        </item> 
+          <item> 
+            <title>beINSport LaLiga HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1042.ts&amp;streamtype=TSDOWNLOADER&amp;name=beINSport LaLiga HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 1 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1011.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 1 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 2 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1010.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 2 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 3 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1009.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 3 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 4 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1008.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 4 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 5 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1007.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 5 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 6 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1006.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 6 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 7 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1005.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 7 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 8 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1004.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 8 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 9 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1003.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 9 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 10 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1002.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 10 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 11 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1001.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 11 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 12 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/1000.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 12 HD ES</link> 
+        </item> 
+          <item> 
+            <title>Taquilla 13 HD ES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://sekoiptv.ddns.net:8080/live/dilo/dilo/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=Taquilla 13 HD ES</link> 
         </item> 
   
