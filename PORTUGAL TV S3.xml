@@ -42,384 +42,469 @@
   
  
   
+  
           <item> 
             <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7762.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6792.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7761.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <title>PT: RTP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD</link> 
         </item> 
           <item> 
-            <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
+            <title>PT: RTP 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD</link> 
         </item> 
           <item> 
-            <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+            <title>PT: RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6787.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES</link> 
         </item> 
           <item> 
-            <title>PT: RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
+            <title>PT: RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6786.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>PT: RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
+            <title>PT: RTP Int.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6785.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Int.</link> 
         </item> 
           <item> 
-            <title>PT: RTP Ãfrica</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Ãfrica</link> 
+            <title>PT: RTP Internacional</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Internacional</link> 
         </item> 
           <item> 
-            <title>PT: SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC HD</link> 
+            <title>PT: RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6784.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6775.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP2</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP3</link> 
+        </item> 
+          <item> 
+            <title>PT: SBT br</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6766.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SBT br</link> 
         </item> 
           <item> 
             <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15376.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6783.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>PT: SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15377.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
+            <title>PT: SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6774.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT: SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15378.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
+            <title>PT: SIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6782.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC HD</link> 
         </item> 
           <item> 
-            <title>PT: SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15379.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Mulher</link> 
+            <title>PT: SIC k</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6752.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC k</link> 
         </item> 
           <item> 
-            <title>PT: SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15380.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical</link> 
+            <title>PT: SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6772.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT: Tvi 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7752.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6763.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6773.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
         </item> 
           <item> 
             <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6780.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6765.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
             <title>PT: TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6778.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
         </item> 
           <item> 
-            <title>PT: Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7763.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal</link> 
-        </item> 
-          <item> 
-            <title>PT: TPA Angola</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA Angola</link> 
-        </item> 
-          <item> 
-            <title>PT: TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7818.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
-        </item> 
-          <item> 
-            <title>PT: Cancao Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15381.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cancao Nova</link> 
-        </item> 
-          <item> 
-            <title>PT: FTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15372.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FTV</link> 
-        </item> 
-          <item> 
-            <title>PT: Fuel TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15373.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fuel TV</link> 
-        </item> 
-          <item> 
-            <title>PT: Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15362.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Globo</link> 
-        </item> 
-          <item> 
-            <title>PT: Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15374.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Globo Premium</link> 
-        </item> 
-          <item> 
-            <title>PT: TVE Internacional</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15382.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVE Internacional</link> 
-        </item> 
-          <item> 
-            <title>PT: MOV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7766.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV</link> 
-        </item> 
-          <item> 
-            <title>=====  Desporto =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13830.ts&amp;streamtype=TSDOWNLOADER&amp;name======  Desporto =====</link> 
-        </item> 
-          <item> 
-            <title>PT: EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7769.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT NEWS</link> 
-        </item> 
-          <item> 
-            <title>PT: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7743.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-            <title>PT: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7739.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>PT: EuroSport 2 XTRA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15339.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EuroSport 2 XTRA HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7822.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
-        </item> 
-          <item> 
-            <title>PT: PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7764.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
-        </item> 
-          <item> 
-            <title>PT: Caca &amp; Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7833.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Caca &amp; Pesca</link> 
-        </item> 
-          <item> 
-            <title>PT: ABOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7771.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ABOLA TV</link> 
-        </item> 
-          <item> 
-            <title>====== Documentários ======</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13828.ts&amp;streamtype=TSDOWNLOADER&amp;name======= Documentários ======</link> 
-        </item> 
-          <item> 
-            <title>PT: National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: National Geographic HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7821.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>PT: Discovery Showcase HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15360.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Showcase HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13858.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>PT: Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7765.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
-        </item> 
-          <item> 
-            <title>PT: Travel Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel Channel HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15363.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7832.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Historia</link> 
-        </item> 
-          <item> 
-            <title>===== Infantil =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13832.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Infantil =====</link> 
-        </item> 
-          <item> 
-            <title>PT: CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7815.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>PT: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>PT: Baby First</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15358.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby First</link> 
-        </item> 
-          <item> 
-            <title>PT: Baby Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15359.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby Tv</link> 
-        </item> 
-          <item> 
-            <title>PT: Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15370.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Biggs</link> 
-        </item> 
-          <item> 
-            <title>PT: Panda Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda Biggs</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC Kids HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7810.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Cartoon NetWork</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7814.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon NetWork</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>=====  Filmes e Séries =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13836.ts&amp;streamtype=TSDOWNLOADER&amp;name======  Filmes e Séries =====</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7755.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Hollywood HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7767.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15357.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7824.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7830.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title>PT: CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7826.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Crime HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7768.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7825.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
-        </item> 
-          <item> 
-            <title>PT: FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title>PT: FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7823.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FX</link> 
-        </item> 
-          <item> 
-            <title>PT: SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7819.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SyFy</link> 
-        </item> 
-          <item> 
-            <title>===== Entretenimento =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13831.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Entretenimento =====</link> 
-        </item> 
-          <item> 
-            <title>PT: A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7837.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>PT: E! Entertaunment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7828.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertaunment</link> 
+            <title>PT: TVI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6781.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI HD</link> 
         </item> 
           <item> 
             <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6777.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15369.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+            <title>PT: TVI-SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6779.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI-SD</link> 
         </item> 
           <item> 
-            <title>PT: CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7831.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS Reality</link> 
+            <title>PT: TV GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6768.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
         </item> 
           <item> 
-            <title>PT: MCM Pop</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15365.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM Pop</link> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
         </item> 
           <item> 
-            <title>PT: MCM Top</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15366.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM Top</link> 
+            <title>PT: TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6767.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
         </item> 
           <item> 
-            <title>PT: Motorvision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15364.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motorvision</link> 
+            <title>PT: 24 KITCHEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN</link> 
         </item> 
           <item> 
-            <title>PT: MTV Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15367.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Portugal</link> 
+            <title>PT: 24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6771.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>PT: A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV</link> 
+        </item> 
+          <item> 
+            <title>PT: A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6690.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A&amp;E</link> 
         </item> 
           <item> 
             <title>PT: Afro Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
         </item> 
           <item> 
-            <title>===== Lifestyle =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13835.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Lifestyle =====</link> 
+            <title>PT: AFRO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AFRO TV</link> 
         </item> 
           <item> 
-            <title>PT: 24 Kitchen HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 Kitchen HD</link> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6712.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
         </item> 
           <item> 
-            <title>===== Informação =====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/13833.ts&amp;streamtype=TSDOWNLOADER&amp;name====== Informação =====</link> 
+            <title>PT: ARTV PARLAMENTO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ARTV PARLAMENTO</link> 
         </item> 
           <item> 
-            <title>PT: Record News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15375.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Record News</link> 
+            <title>PT: AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6707.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD</link> 
         </item> 
           <item> 
-            <title>PT: SIC Noticias HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/8409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias HD</link> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6706.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
         </item> 
           <item> 
-            <title>PT: SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7820.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
+            <title>PT: AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: BABY  FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6762.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY  FIRST</link> 
+        </item> 
+          <item> 
+            <title>PT: BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6761.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV</link> 
+        </item> 
+          <item> 
+            <title>PT: BBC ENTRAITEMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6688.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BBC ENTRAITEMENT</link> 
+        </item> 
+          <item> 
+            <title>PT: CA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CA</link> 
+        </item> 
+          <item> 
+            <title>PT: CACA E PESCA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACA E PESCA HD</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6760.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>PT: CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6769.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL Q</link> 
+        </item> 
+          <item> 
+            <title>PT: CANCAO NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANCAO NOVA</link> 
+        </item> 
+          <item> 
+            <title>PT: CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6756.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT: CARTOON NETWORK PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6751.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON NETWORK PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>PT: CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6689.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>PT: CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6711.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINEMUNDO</link> 
         </item> 
           <item> 
             <title>PT: CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/7829.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6764.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
         </item> 
           <item> 
-            <title>PT: EUroNews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/15361.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUroNews</link> 
+            <title>PT: CMUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6666.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMUSIC</link> 
         </item> 
           <item> 
-            <title>Latino: El Trece HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/11721.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: El Trece HD</link> 
+            <title>PT: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY</link> 
         </item> 
           <item> 
-            <title>Latino: Efekto TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/11720.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: Efekto TV HD</link> 
+            <title>PT: Discovery Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Kids</link> 
         </item> 
           <item> 
-            <title>Latino: DW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xtream.swiftiptv.com:6500/live/camill/AbppXmtq/11719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Latino: DW</link> 
+            <title>PT: Discovery Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Showcase</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6759.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6758.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT: E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6730.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT NEWS</link> 
+        </item> 
+          <item> 
+            <title>PT: FASHION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6687.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FASHION TV</link> 
+        </item> 
+          <item> 
+            <title>PT: FOOD NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6770.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOOD NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX COMEDY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX CRIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6701.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6703.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6699.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIVE HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PT: HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6686.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6708.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>PT: JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>PT: KOMBAT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: KOMBAT SPORT</link> 
+        </item> 
+          <item> 
+            <title>PT: M. MotoGp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: M. MotoGp</link> 
+        </item> 
+          <item> 
+            <title>PT: MCM POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6673.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM POP</link> 
+        </item> 
+          <item> 
+            <title>PT: MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM TOP</link> 
+        </item> 
+          <item> 
+            <title>PT: MCS EXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCS EXTREME</link> 
+        </item> 
+          <item> 
+            <title>PT: MCS LIFESTYLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCS LIFESTYLE</link> 
+        </item> 
+          <item> 
+            <title>PT: MEZZO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6684.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MEZZO HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6729.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
+        </item> 
+          <item> 
+            <title>PT: MOTORVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6728.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORVISION</link> 
+        </item> 
+          <item> 
+            <title>PT: MOV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6697.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>PT: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>PT: NBA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6678.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NBA HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6757.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>PT: PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6755.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>PT: Real Madrid TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Real Madrid TV</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+        </item> 
+          <item> 
+            <title>PT: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6776.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+        </item> 
+          <item> 
+            <title>PT: Touros TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Touros TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TPA</link> 
+        </item> 
+          <item> 
+            <title>PT: Trace Urban TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6669.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Trace Urban TV</link> 
+        </item> 
+          <item> 
+            <title>PT: TRAVEL CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6685.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TRAVEL CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6715.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6714.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV Cine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
+        </item> 
+          <item> 
+            <title>PT: VEVO 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 1</link> 
+        </item> 
+          <item> 
+            <title>PT: VEVO 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 2</link> 
+        </item> 
+          <item> 
+            <title>PT: VEVO 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VEVO 3</link> 
+        </item> 
+          <item> 
+            <title>PT: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
+        </item> 
+          <item> 
+            <title>PT: VH1 CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://173.212.194.126:8000/live/58965889362952/1593574628/6665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1 CLASSIC</link> 
         </item> 
   
