@@ -32,388 +32,797 @@
  
   
  
+ 
           <item> 
-            <title>TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/897.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1</link> 
+            <title>TF1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 HD</link> 
         </item> 
           <item> 
-            <title>M6-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/904.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6-HD</link> 
+            <title>France 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2 HD</link> 
         </item> 
           <item> 
-            <title>France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2</link> 
+            <title>France 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 3 HD</link> 
         </item> 
           <item> 
-            <title>France 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/899.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 3</link> 
+            <title>France 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 4 HD</link> 
         </item> 
           <item> 
-            <title>France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 4</link> 
+            <title>France 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 5 HD</link> 
         </item> 
           <item> 
-            <title>France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/901.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 5</link> 
+            <title>M6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 HD</link> 
         </item> 
           <item> 
-            <title>France O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/902.ts&amp;streamtype=TSDOWNLOADER&amp;name=France O</link> 
+            <title>Arte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte HD</link> 
         </item> 
           <item> 
-            <title>RTL (new)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4245.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL (new)</link> 
+            <title>C8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8 HD</link> 
         </item> 
           <item> 
-            <title>C-Star (new)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1107.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-Star (new)</link> 
+            <title>W9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 HD</link> 
+        </item> 
+          <item> 
+            <title>TMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC HD</link> 
         </item> 
           <item> 
             <title>HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2870.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1</link> 
         </item> 
           <item> 
-            <title>W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9</link> 
+            <title>NRJ 12 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ 12 HD</link> 
         </item> 
           <item> 
-            <title>FR:C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C8</link> 
-        </item> 
-          <item> 
-            <title>TMC (fr)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC (fr)</link> 
-        </item> 
-          <item> 
-            <title>arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/903.ts&amp;streamtype=TSDOWNLOADER&amp;name=arte</link> 
-        </item> 
-          <item> 
-            <title>NRJ 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ 12</link> 
+            <title>13eme Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme Rue</link> 
         </item> 
           <item> 
             <title>NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2868.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
         </item> 
           <item> 
-            <title>6ter</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/944.ts&amp;streamtype=TSDOWNLOADER&amp;name=6ter</link> 
+            <title>Paris premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris premiere</link> 
         </item> 
           <item> 
-            <title>>>>==== CANAL PLUS =====<<<</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4164.ts&amp;streamtype=TSDOWNLOADER&amp;name=>>>==== CANAL PLUS =====<<<</link> 
+            <title>6Ter HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=6Ter HD</link> 
         </item> 
           <item> 
-            <title>Canal+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/905.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+</link> 
+            <title>C STAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=C STAR HD</link> 
         </item> 
           <item> 
-            <title>FR:-CANAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2926.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-CANAL HD</link> 
+            <title>CNEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNEWS HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal+Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+Family</link> 
+            <title>RTL 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 9 HD</link> 
         </item> 
           <item> 
-            <title>Canal+cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2048.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+cinema</link> 
+            <title>France O HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=France O HD</link> 
         </item> 
           <item> 
-            <title>FR: Canal+Decale</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+Decale</link> 
+            <title>Lequipe 21 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lequipe 21 HD</link> 
         </item> 
           <item> 
-            <title>Canal+Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/909.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Series</link> 
+            <title>INFOSPORT+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT+</link> 
         </item> 
           <item> 
-            <title>Canal+Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+Sport</link> 
+            <title>Numero  23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numero  23</link> 
         </item> 
           <item> 
-            <title>Cine+Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/911.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+Premier</link> 
+            <title>France 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 24</link> 
         </item> 
           <item> 
-            <title>Cine+FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/912.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+FRISSON</link> 
+            <title>Cherie 25 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cherie 25 HD</link> 
         </item> 
           <item> 
-            <title>Cine+Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/913.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+Emotion</link> 
+            <title>France info HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3180.ts&amp;streamtype=TSDOWNLOADER&amp;name=France info HD</link> 
         </item> 
           <item> 
-            <title>Cine+ Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/910.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic</link> 
+            <title>BFM TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM TV HD</link> 
         </item> 
           <item> 
-            <title>Cine+ Famiz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2927.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Famiz</link> 
+            <title>BFM Business</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM Business</link> 
         </item> 
           <item> 
-            <title>OCS-MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS-MAX</link> 
+            <title>BFM SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM SPORT HD</link> 
         </item> 
           <item> 
-            <title>OCS-GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS-GEANTS</link> 
+            <title>SPORT 365 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3179.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORT 365 HD</link> 
         </item> 
           <item> 
-            <title>FR: Ocs Choc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/914.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs Choc</link> 
+            <title>LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
         </item> 
           <item> 
-            <title>FR:CINEFX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINEFX</link> 
+            <title>Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews</link> 
         </item> 
           <item> 
             <title>TV5 Monde</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/943.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 Monde</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 Monde</link> 
+        </item> 
+          <item> 
+            <title>LCP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCP</link> 
+        </item> 
+          <item> 
+            <title>TV BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV BREIZH</link> 
+        </item> 
+          <item> 
+            <title>Syfy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy HD</link> 
+        </item> 
+          <item> 
+            <title>E ! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2856.ts&amp;streamtype=TSDOWNLOADER&amp;name=E ! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>TEVA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA HD</link> 
+        </item> 
+          <item> 
+            <title>Comedie+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie+ HD</link> 
+        </item> 
+          <item> 
+            <title>TCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ HD</link> 
+        </item> 
+          <item> 
+            <title>Canal+ Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3943.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Low</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ DECALE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ DECALE HD</link> 
+        </item> 
+          <item> 
+            <title>Canal+ Decale Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3944.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Decale Low</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ CINEMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA HD</link> 
+        </item> 
+          <item> 
+            <title>Canal+ Cinema Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3942.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Cinema Low</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FAMILY HD</link> 
+        </item> 
+          <item> 
+            <title>Canal+ Family Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3939.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Family Low</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SPORT HD</link> 
+        </item> 
+          <item> 
+            <title>Canal+ Sport Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3941.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Sport Low</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>Canal+ Series Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3940.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal+ Series Low</link> 
+        </item> 
+          <item> 
+            <title>Cine+ Premier HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Premier HD</link> 
+        </item> 
+          <item> 
+            <title>Cine+ Famiz HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Famiz HD</link> 
+        </item> 
+          <item> 
+            <title>Cine+ Frisson HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Frisson HD</link> 
+        </item> 
+          <item> 
+            <title>Cine+ Emotion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Emotion HD</link> 
+        </item> 
+          <item> 
+            <title>Cine+ Classic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic HD</link> 
+        </item> 
+          <item> 
+            <title>OCS Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Max HD</link> 
+        </item> 
+          <item> 
+            <title>OCS City HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS City HD</link> 
+        </item> 
+          <item> 
+            <title>OCS Choc HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Choc HD</link> 
+        </item> 
+          <item> 
+            <title>OCS Geant HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Geant HD</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5608.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema Disney</link> 
+        </item> 
+          <item> 
+            <title>Orange cinema action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5605.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange cinema action</link> 
+        </item> 
+          <item> 
+            <title>Orange cinema Aventure</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5606.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange cinema Aventure</link> 
+        </item> 
+          <item> 
+            <title>Orange cinema comedie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5611.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange cinema comedie</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema Horreur</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema Horreur</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema Doc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema Doc</link> 
+        </item> 
+          <item> 
+            <title>CINE FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1617.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FX</link> 
+        </item> 
+          <item> 
+            <title>CINE Polar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE Polar</link> 
+        </item> 
+          <item> 
+            <title>Serie Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=Serie Club</link> 
         </item> 
           <item> 
             <title>Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/955.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action</link> 
-        </item> 
-          <item> 
-            <title>Comedie+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2929.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedie+</link> 
-        </item> 
-          <item> 
-            <title>FR:-SyFy-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2933.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-SyFy-HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Elle</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2935.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Elle</link> 
-        </item> 
-          <item> 
-            <title>FR: 13emeRue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13emeRue</link> 
-        </item> 
-          <item> 
-            <title>E! France</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! France</link> 
-        </item> 
-          <item> 
-            <title>Dreamania A La Carte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4506.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dreamania A La Carte</link> 
-        </item> 
-          <item> 
-            <title>A La Carte 1 ( Dreamania )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4188.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 1 ( Dreamania )</link> 
-        </item> 
-          <item> 
-            <title>A La Carte 2 ( Dreamania )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4189.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 2 ( Dreamania )</link> 
-        </item> 
-          <item> 
-            <title>A La Carte 3 ( Dreamania )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4190.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 3 ( Dreamania )</link> 
-        </item> 
-          <item> 
-            <title>A La Carte 4 ( Dreamania )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4191.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 4 ( Dreamania )</link> 
-        </item> 
-          <item> 
-            <title>>>>==== ENFANT =====<<<</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4165.ts&amp;streamtype=TSDOWNLOADER&amp;name=>>>==== ENFANT =====<<<</link> 
-        </item> 
-          <item> 
-            <title>Canal J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal J</link> 
-        </item> 
-          <item> 
-            <title>FR:-NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2939.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:-NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>ENF | Teletoon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2872.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Teletoon</link> 
-        </item> 
-          <item> 
-            <title>Nickeleodeon Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2873.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickeleodeon Junior</link> 
-        </item> 
-          <item> 
-            <title>ENF | Gulli</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2875.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Gulli</link> 
-        </item> 
-          <item> 
-            <title>ENF | Disney Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel HD</link> 
-        </item> 
-          <item> 
-            <title>ENF | Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2876.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Boing</link> 
-        </item> 
-          <item> 
-            <title>Piwi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=Piwi</link> 
-        </item> 
-          <item> 
-            <title>FR:TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TIJI</link> 
-        </item> 
-          <item> 
-            <title>Disney Junior (fr)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior (fr)</link> 
-        </item> 
-          <item> 
-            <title>Disney XD (fr)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2164.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD (fr)</link> 
-        </item> 
-          <item> 
-            <title>Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1802.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
-        </item> 
-          <item> 
-            <title>MANGAS fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1803.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS fr</link> 
-        </item> 
-          <item> 
-            <title>>>>==== Dicouverte &amp; Divers =====<<<</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4166.ts&amp;streamtype=TSDOWNLOADER&amp;name=>>>==== Dicouverte &amp; Divers =====<<<</link> 
-        </item> 
-          <item> 
-            <title>FR:Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>Planete+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+</link> 
-        </item> 
-          <item> 
-            <title>RMC Decouverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC Decouverte</link> 
-        </item> 
-          <item> 
-            <title>Nat Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/956.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo HD</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4192.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>CHASSE ET PECHE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/948.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHASSE ET PECHE HD</link> 
-        </item> 
-          <item> 
-            <title>CRIME DESTRICT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/953.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME DESTRICT</link> 
-        </item> 
-          <item> 
-            <title>FR:ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ANIMAUX</link> 
-        </item> 
-          <item> 
-            <title>Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire</link> 
-        </item> 
-          <item> 
-            <title>SCIENCE ET VIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=SCIENCE ET VIE HD</link> 
-        </item> 
-          <item> 
-            <title>PLanete CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/922.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLanete CI</link> 
-        </item> 
-          <item> 
-            <title>TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1798.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA</link> 
-        </item> 
-          <item> 
-            <title>MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1822.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
-        </item> 
-          <item> 
-            <title>Eurosport 1 FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/908.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 FR</link> 
-        </item> 
-          <item> 
-            <title>Game ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1807.ts&amp;streamtype=TSDOWNLOADER&amp;name=Game ONE</link> 
-        </item> 
-          <item> 
-            <title>Disney Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1809.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinema</link> 
-        </item> 
-          <item> 
-            <title>Cartoon Net FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Net FR</link> 
-        </item> 
-          <item> 
-            <title>Paris première HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2866.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris première HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action</link> 
         </item> 
           <item> 
             <title>Paramount Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2867.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD</link> 
         </item> 
           <item> 
-            <title>>>>==== SPORT=====<<<</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/4167.ts&amp;streamtype=TSDOWNLOADER&amp;name=>>>==== SPORT=====<<<</link> 
+            <title>RMC Decouverte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC Decouverte HD</link> 
         </item> 
           <item> 
-            <title>Infosport+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=Infosport+</link> 
+            <title>Planete+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+ HD</link> 
         </item> 
           <item> 
-            <title>Lequipe21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lequipe21</link> 
+            <title>PLANETE+ CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+ CI</link> 
         </item> 
           <item> 
-            <title>BFM Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/923.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM Sport</link> 
+            <title>Planete+ AE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+ AE HD</link> 
         </item> 
           <item> 
-            <title>GOLF  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2871.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF  HD</link> 
+            <title>Crime District</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Crime District</link> 
         </item> 
           <item> 
-            <title>Equidia LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1272.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia LIFE</link> 
+            <title>National Geographic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD</link> 
         </item> 
           <item> 
-            <title>FR: EUROSPORT 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2942.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2 HD</link> 
+            <title>NatGeo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=NatGeo Wild HD</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD</link> 
+            <title>Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science HD</link> 
+        </item> 
+          <item> 
+            <title>Discovery Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5566.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Investigation</link> 
+        </item> 
+          <item> 
+            <title>Orange Enquetes exclusives</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5607.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Enquetes exclusives</link> 
+        </item> 
+          <item> 
+            <title>Science et Vie TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science et Vie TV</link> 
+        </item> 
+          <item> 
+            <title>Voyage HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage HD</link> 
+        </item> 
+          <item> 
+            <title>ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX</link> 
+        </item> 
+          <item> 
+            <title>USHUAIA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA TV HD</link> 
+        </item> 
+          <item> 
+            <title>Trek TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trek TV HD</link> 
+        </item> 
+          <item> 
+            <title>Museum HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5738.ts&amp;streamtype=TSDOWNLOADER&amp;name=Museum HD</link> 
+        </item> 
+          <item> 
+            <title>Histoire HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2848.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire HD</link> 
+        </item> 
+          <item> 
+            <title>Toute l'Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute l'Histoire</link> 
+        </item> 
+          <item> 
+            <title>Seasons hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=Seasons hd</link> 
+        </item> 
+          <item> 
+            <title>Chasse et peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et peche</link> 
+        </item> 
+          <item> 
+            <title>SFR SPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>SFR SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>SFR SPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 3 HD</link> 
+        </item> 
+          <item> 
+            <title>SFR SPORT 4K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3471.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 4K</link> 
+        </item> 
+          <item> 
+            <title>SFR SPORT 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT 5 HD</link> 
+        </item> 
+          <item> 
+            <title>Eurosport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport HD</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Foot+ 24/24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=Foot+ 24/24 HD</link> 
+        </item> 
+          <item> 
+            <title>GOLF+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF+ HD</link> 
+        </item> 
+          <item> 
+            <title>AB Moteurs</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1616.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB Moteurs</link> 
+        </item> 
+          <item> 
+            <title>MOTOR TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/7195.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOR TV</link> 
+        </item> 
+          <item> 
+            <title>Equidia Live HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia Live HD</link> 
+        </item> 
+          <item> 
+            <title>Equidia life</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia life</link> 
+        </item> 
+          <item> 
+            <title>Elle Girl</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=Elle Girl</link> 
+        </item> 
+          <item> 
+            <title>ENF | TOONAMI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | TOONAMI</link> 
+        </item> 
+          <item> 
+            <title>ENF | TIJI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | TIJI HD</link> 
+        </item> 
+          <item> 
+            <title>ENF | PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | PIWI</link> 
+        </item> 
+          <item> 
+            <title>ENF | Zouzous TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1195.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Zouzous TV</link> 
+        </item> 
+          <item> 
+            <title>ENF | Teletoon+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Teletoon+</link> 
+        </item> 
+          <item> 
+            <title>ENF | Gulli</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Gulli</link> 
+        </item> 
+          <item> 
+            <title>ENF | Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Boomerang</link> 
+        </item> 
+          <item> 
+            <title>Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item> 
+          <item> 
+            <title>ENF | Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>ENF | NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>ENF | Nickeleodeon Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Nickeleodeon Junior</link> 
+        </item> 
+          <item> 
+            <title>ENF | Disney Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel HD</link> 
+        </item> 
+          <item> 
+            <title>ENF | Disney Channel +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Channel +1</link> 
+        </item> 
+          <item> 
+            <title>ENF | Disney Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2732.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Cinema HD</link> 
+        </item> 
+          <item> 
+            <title>ENF | Disney Junior HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney Junior HD</link> 
+        </item> 
+          <item> 
+            <title>ENF | Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | Disney XD</link> 
+        </item> 
+          <item> 
+            <title>ENF | CANAL J HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1804.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | CANAL J HD</link> 
+        </item> 
+          <item> 
+            <title>ENF | MANGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | MANGA</link> 
+        </item> 
+          <item> 
+            <title>ENF | J One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENF | J One</link> 
+        </item> 
+          <item> 
+            <title>GAME ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1787.ts&amp;streamtype=TSDOWNLOADER&amp;name=GAME ONE</link> 
+        </item> 
+          <item> 
+            <title>AB1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1 HD</link> 
+        </item> 
+          <item> 
+            <title>MCM HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM HD</link> 
+        </item> 
+          <item> 
+            <title>NRJ HITS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2938.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ HITS HD</link> 
+        </item> 
+          <item> 
+            <title>Trace urban</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3968.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace urban</link> 
+        </item> 
+          <item> 
+            <title>Ofive</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2843.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ofive</link> 
+        </item> 
+          <item> 
+            <title>M6 Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 Music</link> 
+        </item> 
+          <item> 
+            <title>MTV FRANCE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3181.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV FRANCE HD</link> 
+        </item> 
+          <item> 
+            <title>MTV Hits HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=MTV Hits HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/930.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 HD</link> 
+            <title>MTV Base HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Base HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/931.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>MTV Dance HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Dance HD</link> 
         </item> 
           <item> 
-            <title>FR: Bein Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3 HD</link> 
+            <title>MTV ROCK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3470.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCK</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/932.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>Clubbing TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clubbing TV</link> 
         </item> 
           <item> 
-            <title>SFR.Sport.1.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1268.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR.Sport.1.HD</link> 
+            <title>BET TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET TV</link> 
         </item> 
           <item> 
-            <title>SFR.Sport.2.HD (+5 mega )</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR.Sport.2.HD (+5 mega )</link> 
+            <title>BRAVA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=BRAVA HD</link> 
         </item> 
           <item> 
-            <title>SFR.Sport.3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://dmiptv.noip.me:8000/live/issam/issam/2941.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR.Sport.3</link> 
+            <title>Virgin TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=Virgin TV</link> 
+        </item> 
+          <item> 
+            <title>GONG TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1615.ts&amp;streamtype=TSDOWNLOADER&amp;name=GONG TV</link> 
+        </item> 
+          <item> 
+            <title>WEO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=WEO TV</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 5 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 6 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 7 HD</link> 
+        </item> 
+          <item> 
+            <title>A la Carte 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=A la Carte 8</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 9 HD</link> 
+        </item> 
+          <item> 
+            <title>A LA CARTE 10 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 10 HD</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 1</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/1614.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 2</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2193.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 3</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2192.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 4</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2191.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 5</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2190.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 6</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2189.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 7</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2188.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 8</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2187.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 9</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2200.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 10</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2199.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 11</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2198.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 12</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2197.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 13</link> 
+        </item> 
+          <item> 
+            <title>CANAL PLAY 14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2196.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 14</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5597.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 1</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5598.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 2</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5599.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 3</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5600.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 4</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5601.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 5</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5602.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 6</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5603.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 7</link> 
+        </item> 
+          <item> 
+            <title>OCS GO Cine+ 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5604.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GO Cine+ 8</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5617.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 1</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5618.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 2</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5619.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 3</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5620.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 4</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 5</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/5622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 6</link> 
+        </item> 
+          <item> 
+            <title>Orange Premium 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2878.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Premium 7</link> 
+        </item> 
+          <item> 
+            <title>Mirabelle TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/2342.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mirabelle TV</link> 
+        </item> 
+          <item> 
+            <title>Tébéo TV Bretagne</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tébéo TV Bretagne</link> 
+        </item> 
+          <item> 
+            <title>TV7 Bordeaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3546.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV7 Bordeaux</link> 
+        </item> 
+          <item> 
+            <title>Grand Lille</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3535.ts&amp;streamtype=TSDOWNLOADER&amp;name=Grand Lille</link> 
+        </item> 
+          <item> 
+            <title>La chaine normande</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3542.ts&amp;streamtype=TSDOWNLOADER&amp;name=La chaine normande</link> 
+        </item> 
+          <item> 
+            <title>Alsace 20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alsace 20</link> 
+        </item> 
+          <item> 
+            <title>Vosges Television</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3547.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vosges Television</link> 
+        </item> 
+          <item> 
+            <title>ILTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3544.ts&amp;streamtype=TSDOWNLOADER&amp;name=ILTV</link> 
+        </item> 
+          <item> 
+            <title>FR | Bein Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR | Bein Sport 1 Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3969.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 1 Low</link> 
+        </item> 
+          <item> 
+            <title>FR | Bein Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>FR | Bein Sport 2 Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3970.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 2 Low</link> 
+        </item> 
+          <item> 
+            <title>FR | Bein Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>FR | Bein Sport 3 Low</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ndasat.pro:8000/live/exch/exch/3971.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR | Bein Sport 3 Low</link> 
         </item> 
   
