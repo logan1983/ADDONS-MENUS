@@ -34,15 +34,7 @@
           <item> 
             <title>#0 HD ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/12734.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 HD ES</link> 
-        </item> 
-          <item> 
-            <title>Movistar eSports ES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Movistar eSports&amp;streamtype=TSDOWNLOADER&amp;name=Movistar eSports ES</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5475.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
+        </item>  
           <item> 
             <title>A&amp;E ES</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link/live/veronicatalic/test/5474.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E ES</link> 

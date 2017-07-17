@@ -22,50 +22,7 @@
 </item> 
 
 
-          <item> 
-            <title>ANTENA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
-        </item> 
-          <item> 
-            <title>CUATRO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
-        </item> 
-          <item> 
-            <title>TELECINCO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
-        </item> 
-          <item> 
-            <title>LA SEXTA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
-        </item> 
-          <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
-        </item> 
-          <item> 
-            <title>AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
-        </item> 
-          <item> 
-            <title>HOLLYWOODHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOODHD</link> 
-        </item> 
-          <item> 
-            <title>M.ESTRENOSHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.ESTRENOSHD</link> 
-        </item> 
-          <item> 
-            <title>M.COMEDIA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.COMEDIA HD</link> 
-        </item> 
+
           <item> 
             <title>M. XTRA HD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=M. XTRA HD</link> 
@@ -109,7 +66,51 @@
           <item> 
             <title>CLAN TVE</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TVE</link> 
+        </item>
+          <item> 
+            <title>ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
         </item> 
+          <item> 
+            <title>CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
+        </item> 
+          <item> 
+            <title>TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOODHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOODHD</link> 
+        </item> 
+          <item> 
+            <title>M.ESTRENOSHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.ESTRENOSHD</link> 
+        </item> 
+          <item> 
+            <title>M.COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=M.COMEDIA HD</link> 
+        </item>  
           <item> 
             <title>NICKELODEONHD</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEONHD</link> 
