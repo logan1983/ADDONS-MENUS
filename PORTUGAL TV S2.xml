@@ -1,835 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-
 <item>       
-<title>  [COLOR lime] •S2 UPDATE 18-07-2017 BY LOGAN  [/COLOR]  </title>
+<title>  [COLOR lime] •S2 UPDATE 26-07-2017 BY LOGAN  [/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 </item>
 
-<item>       
-<title>  [COLOR lime] •CANAIS PODEM DEMORAR ALGUNS SEGUNDOS ABRIR POR FAVOR ESPERAR [/COLOR]  </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://i.ytimg.com/vi/zsvl_MVuWeM/maxresdefault.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item> 
- 
-
-
-
-
-<item>
-<title>[COLOR=white] [B] RTP PLAY [/B] [/COLOR]</title>
-<fanart>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</fanart>
-<thumbnail>http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/thumb_rtpPlay_00.jpg</thumbnail>
-<link>http://ignore.me</link>
-<jsonrpc>plugin://plugin.video.rtpplay/?url=http%3A%2F%2Fwww.rtp.pt%2Fplay%2Fdireto&amp;mode=1&amp;name=%5BCOLOR+white%5D%5BB%5DAo+rtp diretos%5B%2FB%5D%5B%2FCOLOR%5D</jsonrpc>
- 
-
-
-<item>
-<title>[COLOR=white] [B] SIC (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8</link>
-<link>http://188.250.214.28:8889/play/a02a</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR=white] [B] TVI (LOGAN TV)[/B] [/COLOR]</title>
-<sportsdevil>http://www.estadiofutebol.com/gratis/tvi</sportsdevil>
-<link>http://noscdn1.connectedviews.com:1935/live/smil:tvi.smil/playlist.m3u8</link>
-<referer>http://ezcast.tv/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] TVI HD (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w103393150_b814000_49365.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR=white] [B] TVI (LOGAN TV)[/B] [/COLOR]</title>
-<sportsdevil>http://www.stream2watch.cc/streams/680/1300</sportsdevil>
-<referer>http://www.stream2watch.cc/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR white] [B] SIC NOTICIAS HD (LOGAN TV)[/B] [/COLOR] </title>
-<link>http://85.7.107.8:8012/play/a00k</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.tvtuga.com/wp-content/uploads/2015/10/sicnoticias.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B] TVI 24 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] CM TV (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://188.250.214.28:8889/play/a04l</link>
-<sportsdevil>http://www.estadiofutebol.com/gratis/cmtv</sportsdevil>
-<referer>http://www.liveflashplayer.net/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://mb.web.sapo.io/1/0/2/8c10cca436228677d10be1cb5d21794e2464a.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] PORTO CANAL (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://213.13.26.11:1935/live/portocanal/LOGAN TV.m3u8</link>
-<sportsdevil>http://www.desportonline.com/index.php?canal=portocanal</sportsdevil>
-<referer>http://www.sportvdireto.online/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B] ABOLA TV (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://188.250.214.28:8889/play/a059</link>
-<sportsdevil>http://www.estadiofutebol.com/gratis/abolatv</sportsdevil>
-<referer>http://www.sporttvsonline.com/</referer>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/abolatv.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] EURONEWS (LOGAN TV)[/B] [/COLOR]</title>
-<link>rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/tuuryw1433426397.png/medium</thumbnail>
-</item>
-
-
-
- 
-<item>  
-<title>[COLOR white] [B] AUTO HOJE TV (LOGAN TV)[/B] [/COLOR]</title>
-<link>mms://195.22.25.134/mpltv</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://s32.postimg.org/s76r6no6d/ndice.jpg</thumbnail>
- </item>
- 
-
-
-
-<item>
-<title>[COLOR white] [B] TCV (LOGAN TV)[/B] [/COLOR]</title>
-<link>rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://c3.quickcachr.fotos.sapo.pt/i/P1313c2ba/14950636_1qKLz.jpeg</thumbnail>
-</item>
- 
-
- 
- 
- 
-<item>
-<title>[COLOR white] [B] TV MOCAMBIQUE (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_w1814628488_b714000_slpor.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/470fc902333d534a6c54aee7427950ab.png</thumbnail>
-</item>
- 
-<item>
-<title>[COLOR white] [B] TV MOCAMBIQUE 2 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w478241971_b714000_slpor.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.cxtv.com.br/img/Tvs/Logo/0aa35a42bd20a08ec8436c03bacfb11d.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] TVI REALITY (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://4.31.30.145:9040</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] TVI REALITY (LOGAN TV)[/COLOR] [/B]</title>
-<sportsdevil>http://buefixe.net/ss1.php?</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.atelevisao.com/wp-content/uploads/2016/02/TVI_reality2.jpg</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR white] [B] TVI FICCAO (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://4.31.30.145:9004</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/vsvuyy1433357902.png/medium</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] SIC MULHER (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://188.250.214.28:8889/play/a05g</link>
-<sportsdevil>http://www.estadiofutebol.com/gratis/sicmulher</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/suyuur1436891341.png/medium</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] SIC RADICAL (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a06s</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ustqwy1436891230.png/medium</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] SIC K (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a08h</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white][B][I] BIGGS (LOGAN TV)[/I][/B][/COLOR] [COLOR lime](ON)[/COLOR] </title>
-<link>http://178.192.242.14:9000/play/a01d</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white][B][I]  DISNEY JUNIOR (LOGAN TV)[/I][/B][/COLOR] [COLOR lime](ON)[/COLOR] </title>
-<link>http://178.192.242.14:9000/play/a01n</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/a6/32/93/a632933d32b39a078b033604ada8f70f.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR white] [B] TV CINE 1 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://grouprevelation.com:8000/live/Max/Max/5602.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.thelogodb.com/images/media/logo/sxpuvs1436896350.png</thumbnail>
-</item>
-
-
-
-
- 
-<item>
-<title>[COLOR white] [B] TV CINE 2 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a00t</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] TV CINE 3 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a00r</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC3.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[COLOR white] [B] TV CINE 4 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://80.90.41.118:6600/play/a00v</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] TV CINE SERIES 5 (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a00s</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://www.bantumen.com/wp-content/uploads/2015/07/tvcine-840x420.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] AMC (LOGAN TV)[/B] [/COLOR]</title>
-<link>$doregex[select_Url]</link>
-<regex>
-<name>select_Url</name>
-<expres>$pyFunction: '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' if not '$doregex[get_sxstream]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36'=='' else '$doregex[get_sxstream1]|User-Agent=iPhone'</expres>
-<page></page>
-</regex>
-<regex>
-<name>get_sxstream</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/amc.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<regex>
-<name>get_sxstream1</name>
-<expres>src=.*[",'](.*m3u8.*?)[",']</expres>
-<page>http://www.liveonlinetv247.info/embed/amc.php</page>
-<referer>http://www.liveonlinetv247.info/</referer>
-<agent></agent>
-</regex>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/AMC_logo_2013.png/200px-AMC_logo_2013.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B] HOLLYWOOD [/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a088</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/holly.png</thumbnail>
-</item>
-
-
-
-
-
-
-
-<item>
-<title>[COLOR white] [B] AXN (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://188.250.214.28:8889/play/a05b</link>
-<sportsdevil>http://www.estadiofutebol.com/gratis/axn</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/axn.png</thumbnail>
-</item>
-
-
-
-<item>
-<title[COLOR white] [B] AXN WHITE (LOGAN TV)[/B] [/COLOR]</title>
-<sportsdevilhttp://www.estadiofutebol.com/gratis/axnwhite</sportsdevil>
-<refererhttp://ucaster.eu</referer>
-<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] FOX (LOGAN TV)[/B] [/COLOR]</title>
-http://188.250.214.28:8889/play/a058
-<sportsdevil>http://www.estadiofutebol.com/gratis/fox</sportsdevil>
-<referer>http://escast.tv/</referer>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/fox.png</thumbnail>
-</item>
-
-
-<item>
-<title[COLOR white] [B] FOX MOVIES (LOGAN TV)[/B] [/COLOR]</title>
-
-<sportsdevilhttp://www.estadiofutebol.com/gratis/foxmovies</sportsdevil>
-<refererhttp://ezcast.tv/</referer>
-<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnailhttps://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxmovies.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[COLOR white] [B] FOX CRIME (LOGAN TV)[/B] [/COLOR]</title>
-http://178.192.242.14:9000/play/a00m
-<sportsdevil>http://www.estadiofutebol.com/gratis/foxcrime</sportsdevil>
-<link>http://178.192.242.14:9000/play/a00m</link>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/foxcrime.png</thumbnail>
-</item>
-
-<item
-<title[COLOR white] [B] FOX LIFE HD (LOGAN TV)[/B] [/COLOR]</title>
-<linrtmp://$doregex[get-ip]/stream playpath=foxlifea?id=19709$doregex[pk] conn=S:OK swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<nameget-ip</name>
-<expresredirect=(.*)</expres>
-<pagehttp://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex
-<regex
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<pagehttp://www.liveflashplayer.net/embedplayer/foxlifea/1/650/500</page>
-<refererhttp://www.liveflashplayer.net</referer>
-<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnailhttp://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
-</regex>
-<item>
-
-
-<item>
-<title>[COLOR white] [B] MTV (LOGAN TV)[/B] [/COLOR]</title>
-http://80.90.41.118:6600/play/a00s
-<sportsdevil>http://www.estadiofutebol.com/gratis/mtv</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR white] [B] NAT GEO (LOGAN TV)[/B] [/COLOR]</title>
-http://178.192.242.14:9000/play/a06r
-<sportsdevil>http://www.estadiofutebol.com/gratis/nationalgeographic</sportsdevil>
-<referer>http://ucaster.eu/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/ngc.png</thumbnail>
-</item>
-
-
-<item>
-<title[COLOR white] [B] DISCOVERY (LOGAN TV)[/B] [/COLOR]</title>
-<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=discovery</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnailhttp://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
-</item>
-
-
-<item>
-<title>[COLOR white] [B] HISTORIA (LOGAN TV)[/B] [/COLOR]</title>
-http://80.90.41.118:6600/play/a009
-<sportsdevil>http://www.sporttvsonline.com/index.php?canal=historia</sportsdevil>
-<referer>http://liveflashplayer.com/</referer>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/historia.png</thumbnail>
-</item>
-
-
-
-<item>
-<title[COLOR white] [B] ODISSEIA (LOGAN TV)[/B] [/COLOR]</title>
-
-<sportsdevilhttp://www.sporttvsonline.com/index.php?canal=odisseia</sportsdevil>
-<refererhttp://ucaster.eu/</referer>
-<fanarthttp://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnailhttp://www.thelogodb.com/images/media/logo/uspyqq1436893244.png/medium</thumbnail>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR white] [B] RT DECOMENTARY (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://i.imgur.com/8i73Fnl.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B] CANAL CAZA Y PESCA (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a08l</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://3.bp.blogspot.com/-HOTGqsd4B90/VWeORz7ELLI/AAAAAAAAEDA/BuUBzhFSyU0/s320/logocaza.jpg</thumbnail>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR white] [B] TOROS TV (LOGAN TV)[/B] [/COLOR]</title>
-<link>http://178.192.242.14:9000/play/a07w</link>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<thumbnail>http://i.imgur.com/KXZE1Qb.png</thumbnail>
-</item>
- 
-
-<item>       
-<title>        [COLOR lime] :)••••LISTA••••FREE TV••••CHANNELS(:  [/COLOR]        </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
-
- 
-<item>                        
-<title>RTP 1</title>                        
-<fanart></fanart>                        
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp1.png</thumbnail>                        
-<link>http://rtp-pull-wrtp-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.pt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&amp;Referer=http://www.rtp.pt/play/</link>
-</item>
- 
-<item>                        
-<title>RTP 2</title>                        
-<fanart></fanart>                        
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
-<sportsdevil>http://www.rtp.pt/play/direto/rtp2</sportsdevil>
-<referer>http://www.rtp.pt/</referer>
-<info>A RTP 2 apresenta uma programacao tematica, com programas proximos da sociedade civil, series, desporto e informacao.</info>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp2.png</thumbnail>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>RTP 3</title>  
-<sportsdevil>http://www.rtp.pt/play/direto/rtp3</sportsdevil>
-<referer>http://www.rtp.pt/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/rtp3.png</thumbnail>
-<info>RTP 3 apresenta noticias atuais e programas proximos da sociedade civil, series, desporto e informacao.</info>
-<fanart></fanart>
-</item>
- 
-<item>
-<title>SIC  </title>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.liveflashplayer.net/membedplayer/SIC7483874/1/565/440</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.liveflashplayer.net</referer>
-<fanart></fanart>
-<info>A SIC e um canal generalista com programas de informacao, entretenimento, documentarios e programas de ficcao, falados em Portugues.</info>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sic.png</thumbnail>
-</item>
- 
- 
- 
-<item>
-<title>TVI</title>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link>
-<info>A TVI apresenta conteudos com base em producao nacional, sustentada sobretudo em ficcao (novelas e series), entretenimento, generos complementados com o desporto e programacao internacional, baseada em grande cinema e series de referencia.</info>
-</item>
- 
-<item>
-<title>TVI</title>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi.png</thumbnail>
-<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
-<item>
- 
- 
-<item>
-<title>TVI 24</title>
-<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/tvi24.png</thumbnail>
-<info>Canal dedicado a informacao, onde podera encontrar as noticias mais atuais 24 horas por dia, 7 dias por semana.</info>
-</item>
- 
- 
-<item>
-<title>CMTV </title>
-<sportsdevil>http://www.tvdez.com/embed.php?c=cmtv</sportsdevil>
-<referer>http://www.tvdez.com/</referer>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/cmtv.png</thumbnail>
-<info>As ultimas noticias e reportagens sobre Portugal e o Mundo. Programas e Grelha CMTV de Portugal e Angola.</info>
-</item>
- 
-<item>
-<title>PORTO CANAL</title>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
-<link>http://213.13.26.11:1935/live/portocanal/PSYCHOTEAM.m3u8</link>
-</item>
- 
-<item>
-<title>PORTO CANAL</title>
-<fanart></fanart>
-<thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/portocanal.png</thumbnail>
-<link>http://$doregex[ip]$doregex[m3u8]</link>
-<regex>
-<name>ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.pubucaster.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>m3u8</name>
-<expres>ea \+ "(.*?)"</expres>
-<page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page>
-<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-<referer>http://www.embeducaster.com/</referer>
-<info>Porto Canal e um canal de televisao portugues dedicado a todo o territorio nacional, com uma programacao diversificada em diversas areas: informacao, deporto e entretenimento. </info>
-</item>
- 
- 
- 
- 
- 
-<item>
-<title>SKY SPORTS 1 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SkySports1.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/5zc44az4a4rj5jf/skysports1.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 2 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SkySports2.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/arrn4b16mlbmmj2/skysports2.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 3 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SkySports3.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/d3d2nwe8qvew75l/skysports3.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 4 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SkySports4.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/59kttn4p1mrjy1d/skysports4.png</thumbnail>
-</item>
-<item>
-<title>SKY SPORTS 5 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SkySports5.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/5uym4sr51ao0jjo/skysports5.png</thumbnail>
-</item>
-<item>
-<title>BT SPORTS 1 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/BTSport1.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/qxzc2bedfbjphh6/btsports1.png</thumbnail>
-</item>
-<item>
-<title>BT SPORTS 2 </title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/BTSport2.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/ztbornamxbj5puz/btsports2.png</thumbnail>
-</item>
-<item>
-<title>BT SPORTS 3</title>
-<link>$doregex[getUrl]</link>
-<regex>
-<name>getUrl</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
- import requests, re
- link = re.findall('src="(.*/channel.php.*?)"', page_data)[0].replace('channel','embed')
- headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36', 'Referer':'http://castfree.me/ace/uk/bteurope.php'}
- source= requests.get(link, headers = headers)
- vars = re.search(r"var name.+?'(.*?)'.*\s.*edgeserverip.+?'(.*?)'.*\s.*appName.+?'(.*?)'", source.text)
- token = re.findall('"(\.m3u8[^"]+)"', source.text)[0]
- return 'http://' + vars.group(2) + '/' + vars.group(3) + '/' + vars.group(1) + token + '|Referer=http://castfree.me/ace/uk/bteurope.php'
-]]></expres>
-<page>http://castfree.me/ace/uk/bteurope.php</page>
-<cookieJar></cookieJar>
-<agent></agent>
-</regex>
-</item>
-<item>
-<title>SPORT KLUB 1</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SportKlub1.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/byqwymga3xke95b/SK1.png</thumbnail>
-</item>
-<item>
-<title>SPORT KLUB 2</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SportKlub2.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/1who997ucjvjgqz/SK2.png</thumbnail>
-</item>
-<item>
-<title>SPORT KLUB 3</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/SportKlub3.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>https://dl.dropboxusercontent.com/s/s87bp9bawa05fba/SK3.png</thumbnail>
-</item>
-<item>
-<title>MATCH FUTBOL 1</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/MatchFutbol1.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MATCH FUTBOL 2</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/MatchFutbol2.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>MATCH FUTBOL 3</title>
-<link>$doregex[getLink]|Cookie=$get_cookies$&amp;User-Agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</link>
-<regex>
-<name>getLink</name>
-<expres>videoLink = '(.*?)'</expres>
-<page>http://www.livesport.pw/MatchFutbol3.html</page>
-<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0</agent>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail></thumbnail>
-</item>
- 
-<item>                        
-<title>CAPITAL TV </title>                        
-<fanart></fanart>                        
-<thumbnail>https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-capital-tv.png</thumbnail>                        
-<link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>                        
-</item>
- 
-<item>
-<title>Eska Party TV</title>  
-<link>http://stream.smcloud.net:1935/tv/eska_party/eska_party_720p/playlist.m3u8</link>
-<thumbnail>http://thumbs.eska.pl/common/1/0/s/1065115QbfX.png/ru-0-r-108,108-n-1065115QbfX.png</thumbnail>
-</item>
- 
-<item>                        
-<title>CITY MUSIC  </title>                        
-<fanart></fanart>                        
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/City_tv_bulgaria.gif/200px-City_tv_bulgaria.gif</thumbnail>                      
-<link>http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/playlist.m3u8</link>                      
-</item>
- 
-<item>                        
-<title>Ibiza Global TV  </title>                        
-<fanart></fanart>                        
-<thumbnail>http://www.allzicradio.com/media/radios/logo-2.png</thumbnail>                      
-<link>http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8</link>                        
-</item>
-
 
 
 
 
 <item>       
-<title>        [COLOR yellow] :)••••LISTA••••TV••••CHANNELS(:  [/COLOR]        </title>
+<title>                         [COLOR lime] BY LOGAN TV LISTA:1 [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
-<thumbnail>http://i.imgur.com/QBbZPwG.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[COLOR lime]LOGAN[/COLOR]WEBTV[makelist.param1]</title>
- <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;name=[COLOR lime]LOGAN[/COLOR] WEBTV [makelist.param1]</link>
-<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
+<thumbnail>https://i.imgsafe.org/fe957d1165.png</thumbnail>
 <fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
- ]]></listrepeat>
-<expres>#EXTINF:-1,[makelist2.param3](.*?)\n(.*)</expres>
-<page>[makelist2.param2]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
-<thumbnail>http://2.bp.blogspot.com/-c0kdQC3_FyY/Uc41kmF7ykI/AAAAAAAAAWU/AlkWniR6Ud0/s1200/14127967-woman-with-flag-painted-on-her-face-to-show-portugal-support-in-sports.jpg</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-</regex>
+<item>
 
 
 
-
-
-
-
+  
+ 
+ 
+          <item> 
+            <title>PT-RTP_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2173.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_1</link> 
+        </item> 
+          <item> 
+            <title>PT-RTP_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2172.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_2</link> 
+        </item> 
+          <item> 
+            <title>PT-RTP_Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-RTP_Memoria</link> 
+        </item> 
+          <item> 
+            <title>PT-Sic_Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Radical</link> 
+        </item> 
+          <item> 
+            <title>PT-Sic_Mulher</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Sic_Mulher</link> 
+        </item> 
+          <item> 
+            <title>PT-TVI_Ficcao</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVI_Ficcao</link> 
+        </item> 
+          <item> 
+            <title>PT-TV_Globo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2169.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Globo</link> 
+        </item> 
+          <item> 
+            <title>PT-Record</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Record</link> 
+        </item> 
+          <item> 
+            <title>PT-TVCine1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2168.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine1</link> 
+        </item> 
+          <item> 
+            <title>PT-TVCine2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2167.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine2</link> 
+        </item> 
+          <item> 
+            <title>PT-TVCine3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TVCine3</link> 
+        </item> 
+          <item> 
+            <title>PT-TV_Cseries</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-TV_Cseries</link> 
+        </item> 
+          <item> 
+            <title>PT-Fox_Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2170.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Movies</link> 
+        </item> 
+          <item> 
+            <title>PT-Fox_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2175.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_HD</link> 
+        </item> 
+          <item> 
+            <title>PT-Fox_Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2176.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Crime</link> 
+        </item> 
+          <item> 
+            <title>PT-Fox_Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2177.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Fox_Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT-Disney_Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2178.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Junior</link> 
+        </item> 
+          <item> 
+            <title>PT-Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/2179.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Disney_Channel</link> 
+        </item> 
+          <item> 
+            <title>PT-Toros_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Toros_tv</link> 
+        </item> 
+          <item> 
+            <title>PT-Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3409.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Motors_TV</link> 
+        </item> 
+          <item> 
+            <title>PT-Jim_Jim</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Jim_Jim</link> 
+        </item> 
+          <item> 
+            <title>PT-Discovery_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Discovery_HD</link> 
+        </item> 
+          <item> 
+            <title>PT-Canal_Porto</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3412.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Canal_Porto</link> 
+        </item> 
+          <item> 
+            <title>PT-AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3413.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-AXN_HD</link> 
+        </item> 
+          <item> 
+            <title>PT-Abola_tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://best4u.biz:8000/live/DOCTOR/DOCTOR/3414.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT-Abola_tv</link> 
+        </item> 
+  
