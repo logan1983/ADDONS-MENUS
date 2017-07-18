@@ -470,6 +470,11 @@
 
 
 #EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 26-07-2017 ---[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[COLOR lime][I][B]--- BY LOGAN TV ---[/B][/I][/COLOR]
+
 
 #EXTINF:-1,RTP 1
 plugin://plugin.video.f4mTester/?url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.ts&amp;streamtype=tsDOWNLOADER
