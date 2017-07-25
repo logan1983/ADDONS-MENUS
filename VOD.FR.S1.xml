@@ -1,1016 +1,1085 @@
-import sys
-import os
-import urllib
-import xbmc
-import xbmcgui
-import xbmcplugin
-import xbmcaddon
-import logging
-from operator import itemgetter
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.alltube.tv" version="2.1" name="alltube.tv" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.simple.downloader" optional="true"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">alltube.tv</summary>
+  <description lang="en">Zasoby alltube.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <source></source>
+</extension>
+</addon>
 
-def show_tags():
-  tag_handle = int(sys.argv[1])
-  xbmcplugin.setContent(tag_handle, 'tags')
+<addon
+	id="plugin.video.anime.pl" name="anime.pl" version="1.5" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="3.0.15"/>
+	<import addon="script.module.ramic"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">anime</summary>
+    <description lang="en">anime.pl</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website>https://github.com/ramicspa/kodi</website>
+    <email>ramicspa at gmail dot com</email>
+    <source></source>
+  </extension>
+</addon>
 
-  for tag in tags:
-    iconPath = os.path.join(home, 'logos', tag['icon'])
-    li = xbmcgui.ListItem(tag['name'], iconImage=iconPath)
-    url = sys.argv[0] + '?tag=' + str(tag['id'])
-    xbmcplugin.addDirectoryItem(handle=tag_handle, url=url, listitem=li, isFolder=True)
+ <addon id="plugin.video.bajkionline" version="1.3" name="bajki" provider-name="Michal">
+ <requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+ </requires>
+ <extension point="xbmc.python.pluginsource" library="main.py">
+   <provides>video</provides>
+ </extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Bajkionline, Bajkipopolsku</summary>
+  <description lang="en">Bajkionline, Bajkipopolsku</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
 
-  xbmcplugin.endOfDirectory(tag_handle)
+<addon id="plugin.video.cdahd" version="1.0" name="cda-hd" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">cda-hd.pl </summary>
+  <description lang="en">Zasoby cda-hd.pl</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <source>https://github.com/ramicspa/kodi</source>
+</extension>
+</addon>
 
+<addon id="plugin.video.cdapl" version="1.9.4" name="cda.pl" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">CDAPL Kodi Video Plugin</summary>
+  <description lang="en">cda.pl playlist</description>
+  <disclaimer lang="en">private kodi addon</disclaimer>
+  <platform>all</platform>
+  <language></language>
+  <license></license>
+  <forum></forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <source></source>
+</extension>
+</addon>
 
-def show_streams(tag):
-  stream_handle = int(sys.argv[1])
-  xbmcplugin.setContent(stream_handle, 'streams')
-  logging.warning('TAG show_streams!!!! %s', tag)
-  for stream in streams[str(tag)]:
-    logging.debug('STREAM HERE!!! %s', stream['name'])
-    iconPath = os.path.join(home, 'logos', stream['icon'])
-    li = xbmcgui.ListItem(stream['name'], iconImage=iconPath)
-    xbmcplugin.addDirectoryItem(handle=stream_handle, url=stream['url'], listitem=li)
+<addon id="plugin.video.CinemaHD" version="2.9" name="CinemaHD" provider-name="Michal">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver" version="3.0.20"/>
+	<import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">CinemaHD</summary>
+  <description lang="en">CinemaHD</description>
+  <disclaimer lang="en">A private use only.</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum></forum>
+  <website></website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+<news>
+- FilmwebBooster
+</news>
+</extension>
+</addon>
 
-  xbmcplugin.endOfDirectory(stream_handle)
+<addon id="plugin.video.dmchannels" name="Dailymotion channels" version="1.6" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver" version="3.0.15"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="he">ערוצי משתמש Dailymotion</summary>
+  <summary lang="pl">Kanały użytkowników z Dailymotion</summary>
+  <summary lang="fr">Canaux des utilisateurs de Dailymotion</summary>
+  <summary lang="en">Dailymotion user channels</summary>
+  <description lang="he">ההרחבה מאפשרת לעיין בתוכן הערוצים שנוצרו על ידי משתמשים ב - Dailymotion.</description>
+  <description lang="pl">Wtyczka pozwala na przeglądanie zasobów video kanałów użytkowników serwisu.</description>
+  <description lang="en">The addon allows to browse the content of the channels created by Dailymotion users.</description>
+  <description lang="fr">Cette addon permet de pa\rcourir le contenu des chaînes créées par les utilisateurs de Dailymotion.</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+</news>
+ </extension>
+</addon>
 
+<addon id="plugin.video.dreamvision" name="Dream Vision" version="1.0.1" provider-name="TheHiddenOne">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver"/>
+        <import addon="script.module.requests" version="2.9.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Dream Vision</summary>
+		<description>Dream Vision - w prezencie na swieta!</description>
+		<platform>all</platform>
+		<assets>
+			<icon>resources/icons/icon.png</icon>
+		</assets>
+	</extension>
+</addon>
 
-def get_params():
-  """
-  Retrieves the current existing parameters from XBMC.
-  """
-  param = []
-  paramstring = sys.argv[2]
-  if len(paramstring) >= 2:
-    params = sys.argv[2]
-    cleanedparams = params.replace('?', '')
-    if params[len(params) - 1] == '/':
-      params = params[0:len(params) - 2]
-    pairsofparams = cleanedparams.split('&')
-    param = {}
-    for i in range(len(pairsofparams)):
-      splitparams = {}
-      splitparams = pairsofparams[i].split('=')
-      if (len(splitparams)) == 2:
-        param[splitparams[0]] = splitparams[1]
-  return param
+<addon id="plugin.video.efilmy" version="1.13" name="efilmy" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.urlresolver" version="3.0.20"/>
+  <import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">efilmy</summary>
+  <description lang="en">Zasoby efilmy.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+filwebapi fixed
+  </news>
+</extension>
+</addon>
 
+<addon id="plugin.video.efilmy.online" version="1.2" name="efilmy.online" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.25.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">efilmy.online</summary>
+  <description lang="en">efilmy.online</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <source>https://github.com/ramicspa/kodi</source>
+</extension>
+</addon>
 
-def lower_getter(field):
-  def _getter(obj):
-    return obj[field].lower()
+<addon 	id="plugin.video.ekabaretpl" name="ekabaret" version="1.3" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="3.0.15"/>
+	<import addon="script.module.ramic" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+   <summary lang="en">ekabaret</summary>
+   <description lang="en">Zasoby ekabaret.pl</description>
+   <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language>pl</language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
 
-  return _getter
+<addon id="plugin.video.ekinotv" name="ekino-tv" version="1.8" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver" version="3.0.15"/>
+	<import addon="script.module.ramic"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">http://ekino-tv.pl/</summary>
+    <description lang="en">Odgrywa zasoby Ekino-tv</description>
+    <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://github.com/ramicspa/kodi(2)/issues</forum>
+    <website>https://github.com/ramicspa/kodi(2)</website>
+    <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
 
+  </news>
+  </extension>
+</addon>
 
-addon = xbmcaddon.Addon()
-home = xbmc.translatePath(addon.getAddonInfo('path'))
+<addon id="plugin.video.ekstraklasa" name="Ekstraklasa" version="1.22" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver" version="3.0.15"/>
+	<import addon="script.module.ramic" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="pl">Mecze ekstraklasy z dailymotion i nie tylko</summary>
+    <description lang="en">Ekstraklasa</description>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://github.com/ramicspa/kodi/issues</forum>
+    <website>https://github.com/ramicspa/kodi</website>
+    <email>ramicspa at gmail dot com</email>
+    <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
+  <news>
+- Ekstraklasy z Dalimotion
+- Estadios
+- FootballOrgin
+- GoalArena
+- Polast Sport
+- Lech TV
+- ekstrakalasa.tv
+ </news>
+  </extension>
+</addon>
 
-tags = [
-  {
-    'name': 'Live TV',
-    'id': 'LiveTV',
-    'icon': 'livetv.png'
-  }, {
-    'name': 'Movies',
-    'id': 'Movies',
-    'icon': 'ukmovies.png'
-  }
-]
+<addon id="plugin.video.filisertv" version="1.5" name="Filiser" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic"/>
+</requires>
 
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
 
-LiveTV = [{
-  'name': 'US: Voice Clips Usa 1',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2034.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 2',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2035.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 3',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2036.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 4',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2037.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 5',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2038.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 6',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2039.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 7',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2040.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 8',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2041.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 9',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2042.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 10',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2043.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 11',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2044.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 12',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2045.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 13',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2046.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 14',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2047.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 15',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2048.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 16',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2049.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 17',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2050.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 18',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2051.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 19',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2052.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 20',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2053.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 21',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2054.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 22',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2055.mp4',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'US: Voice Clips Usa 23',
-  'url': 'http://ipsatpro.com:8000/movie/156/156/2056.mp4',
-  'icon': 'uk.png',
-  'disabled': False  
-}, {
-  'name': 'Vevo 2',
-  'url': 'http://pro-unibox.com:8000/live/bali/bali/59.ts',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'SHOWTIME HD',
-  'url': 'http://185.59.222.49:8000/live/D3KUeZI4CB/oQik1d8k5f/6346.ts',
-  'icon': 'uk.png',
-  'disabled': False  
-}, {
-  'name': 'Vevo 3',
-  'url': 'http://pro-unibox.com:8000/live/bali/bali/60.ts',
-  'icon': 'uk.png',
-  'disabled': False  
-}, {
-  'name': 'ABC',
-  'url': 'http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'FOX SPORT',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/58.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'HISTORY 2',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/36.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'MLB NETWORK',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/48.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'MLS SOCCER',
-  'url': 'http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8',
-  'icon': 'uk.png',
-  'disabled': False  
-}, {
-  'name': 'NBA SPORTS',
-  'url': 'http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'NBA TV',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/47.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'SN',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/57.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'SNWL',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/59.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'TS 1',
-  'url': 'http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'TS 3',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/54.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'TS 4',
-  'url': 'http://46.166.162.35:9090/load/b0922f3fa8aa/55.m3u8',
-  'icon': 'uk.png',
-  'disabled': False  
-}, {
-  'name': 'CBS News HD',
-  'url': 'http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'CHICAGO POLICE-live audio feeds',
-  'url': 'http://audio4.broadcastify.com/il_chicago_police2.mp3',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'CTV News Live Events Feed 1 HD',
-  'url': 'http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Euronews',
-  'url': 'http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'France24',
-  'url': 'http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'NHK World',
-  'url': 'http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'RTE NEWS NOW',
-  'url': 'http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': '360 North Alaska',
-  'url': 'http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'NASA TV HD',
-  'url': 'http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': '_International Space Station Live 1',
-  'url': 'http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'International Space Station Live 2',
-  'url': 'http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'H2 USA',
-  'url': 'http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Hunting Channel',
-  'url': 'http://fluvod1.giniko.com/all-hunting/all-hunting/tracks-5,6/index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'NDR HD',
-  'url': 'http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': ',AMG',
-  'url': 'http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Arirang',
-  'url': 'http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Comedy Central HD',
-  'url': 'http://216.31.255.235/hlsl/1/COMEDY/COMEDY.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'E/I',
-  'url': 'http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'FXX HD',
-  'url': 'http://216.31.255.235/hlsl/4/FXX/FXX.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'TVA Montreal',
-  'url': 'http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 National HD',
-  'url': 'http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 Arizona HD',
-  'url': 'http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 Bay Area HD',
-  'url': 'http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_2328_av-p.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 Los Angeles HD',
-  'url': 'http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_2328_av-p.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 Mountain HD',
-  'url': 'http://xrxs.net/video/live-p12moun-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 Oregon HD',
-  'url': 'http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC 12 Washington HD',
-  'url': 'http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Poker Central',
-  'url': 'http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
- }, {
-  'name': 'REAL MADRID CHANNEL',
-  'url': 'http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'VERSUS',
-  'url': 'http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'QVC HD',
-  'url': 'http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'The Shopping Channel HD',
-  'url': 'http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'DJING ANIMATION',
-  'url': 'http://djing.com/tv/a-05.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'DJING UNDERGROUND',
-  'url': 'http://djing.com/tv/u-05.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'HEART TV',
-  'url': 'http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': '_m2o TV',
-  'url': 'http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': '_Spirit Television',
-  'url': 'http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Dream TV',
-  'url': 'http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Power Turk',
-  'url': 'http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'ABC News',
-  'url': 'http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'AMG TV',
-  'url': 'http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist_2.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Bloomberg',
-  'url': 'http://cdn3.videos.bloomberg.com/btv/us/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Capital TV',
-  'url': 'http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'CBSN News',
-  'url': 'http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Cinestream TV',
-  'url': 'http://68.71.42.179/live/livestream1/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'France24',
-  'url': 'http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Heartv',
-  'url': 'http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'HSN 1',
-  'url': 'http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'London Live',
-  'url': 'http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Mystery Science Theater 3000',
-  'url': 'http://goo.gl/B2UPYd',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'NASA TV',
-  'url': 'http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'NHK World',
-  'url': 'http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (Arizona)',
-  'url': 'http://xrxs.net/video/live-p12ariz-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (Bay Area)',
-  'url': 'http://xrxs.net/video/live-p12baya-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (Los Angeles)',
-  'url': 'http://xrxs.net/video/live-p12losa-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (Mountain)',
-  'url': 'http://xrxs.net/video/live-p12moun-2328.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (National)',
-  'url': 'http://xrxs.net/video/live-p12netw-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (Oregon)',
-  'url': 'http://xrxs.net/video/live-p12oreg-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'PAC-12 Net. (Washington)',
-  'url': 'http://xrxs.net/video/live-p12wash-4728.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Poker Central',
-  'url': 'http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'QVC 1',
-  'url': 'http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'QVC 2',
-  'url': 'http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'QVC Beauty',
-  'url': 'http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'QVC Style',
-  'url': 'http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Smile of a Child',
-  'url': 'http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/master.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Toonami Aftermath',
-  'url': 'http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'TSC',
-  'url': 'http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'Versus',
-  'url': 'http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'WGN News Chicago',
-  'url': 'http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'SkyUKSport3HD',
-  'url': 'http://firstiptv.ddns.net:7500/live/akk/akk/857.ts',
-  'icon': 'uk.png',
-  'disabled': False
-}, {
-  'name': 'UK-Syfy',
-  'url': 'http://firstiptv.ddns.net:7500/live/akk/akk/1069.ts',
-  'icon': 'uk.png',
-  'disabled': False  
-  
-}]
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Filiser</summary>
+  <description lang="en">Filiser</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
 
+<addon id="plugin.video.filmbooster" version="1.4" name="FilmwebBooster" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">FilmwebBooster</summary>
+  <description lang="en">FilmwebBooster</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email></email>
+  <source>https://github.com/ramicspa/kodi</source>
+</extension>
+</addon>
 
-Movies = [{
-  'name': 'Batman v Superman: Dawn of Justice',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2769.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Hunger Games',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2770.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Hunger Games2',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2771.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Deadpool 4K',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2610.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Revenant',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2576.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Stars Wars The Force Awakens',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2581.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': '007 Spectre',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2582.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Runner',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2578.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Deadpool',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2585.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Triple 9',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2584.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Pandemic',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2591.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Skin Trade',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2592.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'David et Goliath',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2593.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Creed',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2579.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Gods of egypt 3D',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2580.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Fourth Pyramid',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2590.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
+<addon id="plugin.video.filmmilicyjny" version="1.2" name="film-milicyjny" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">http://www.film-milicyjny.klubmord.com/</summary>
+  <description lang="en">film-milicyjny: Klub MOrd – Polskie filmy kryminalne i sensacyjne - Filmy PRL -</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language>pl</language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
 
-}, {
-  'name': 'Precious Cargo',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2589.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Ride along 2',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2604.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': '99 home',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2607.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Seul Contre Tous',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2608.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': '13 Hours',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2606.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Our Brand is Crisis',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2603.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Kung Fu Panda 3',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2605.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Ip Man 3',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2602.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Race',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2588.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Taxi 3',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2609.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Mr Right',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2599.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Eddie The Eagle',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2597.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'i will See You In My Dreams',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2598.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Bone Tomahawk',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2594.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Legend',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2587.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Requiem for a dream',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2802.avi',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Much Loved',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2586.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'zootopia',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2577.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Boruto : Naruto',
-  'url': 'http://ip.cs4ip.com:8000/movie/tactac/tactac/2601.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Zoolander 2',
-  'url': 'http://37.187.167.137/movie/a/a/3245.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'We Are Still Here',
-  'url': 'http://37.187.167.137/movie/a/a/3260.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Visions',
-  'url': 'http://37.187.167.137/movie/a/a/3261.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Witch',
-  'url': 'http://37.187.167.137/movie/a/a/3244.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Trust',
-  'url': 'http://37.187.167.137/movie/a/a/3255.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Invitation',
-  'url': 'http://37.187.167.137/movie/a/a/3237.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Huntsman Winters War',
-  'url': 'http://37.187.167.137/movie/a/a/3236.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Family Fang',
-  'url': 'http://37.187.167.137/movie/a/a/3239.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Diabolical',
-  'url': 'http://37.187.167.137/movie/a/a/3259.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'The Boy',
-  'url': 'http://37.187.167.137/movie/a/a/3251.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Risen',
-  'url': 'http://37.187.167.137/movie/a/a/3249.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Ride Along 2',
-  'url': 'http://37.187.167.137/movie/a/a/3257.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Pride and Prejudice and Zombies',
-  'url': 'http://37.187.167.137/movie/a/a/3258.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Precious Cargo',
-  'url': 'http://37.187.167.137/movie/a/a/3250.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Pandemic',
-  'url': 'http://37.187.167.137/movie/a/a/3252.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Nina',
-  'url': 'http://37.187.167.137/movie/a/a/3253.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Mojave',
-  'url': 'http://37.187.167.137/movie/a/a/3262.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Manhattan Night',
-  'url': 'http://37.187.167.137/movie/a/a/3238.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'London Has Fallen',
-  'url': 'http://37.187.167.137/movie/a/a/3242.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Hyena Road',
-  'url': 'http://37.187.167.137/movie/a/a/3246.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Hush',
-  'url': 'http://37.187.167.137/movie/a/a/3256.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'High-Rise',
-  'url': 'http://37.187.167.137/movie/a/a/3241.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 8',
-  'url': 'http://37.187.167.137/movie/a/a/3270.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 7',
-  'url': 'http://37.187.167.137/movie/a/a/3269.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 6',
-  'url': 'http://37.187.167.137/movie/a/a/3268.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 5',
-  'url': 'http://37.187.167.137/movie/a/a/3267.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 4',
-  'url': 'http://37.187.167.137/movie/a/a/3266.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 3',
-  'url': 'http://37.187.167.137/movie/a/a/3265.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 2',
-  'url': 'http://37.187.167.137/movie/a/a/3264.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Harry Potter 1',
-  'url': 'http://37.187.167.137/movie/a/a/3263.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Hail Caesar',
-  'url': 'http://37.187.167.137/movie/a/a/3247.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Gods of Egypt',
-  'url': 'http://37.187.167.137/movie/a/a/3240.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Dont Grow Up',
-  'url': 'http://37.187.167.137/movie/a/a/3254.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Deadpool',
-  'url': 'http://37.187.167.137/movie/a/a/3248.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'Choufli Hal 2008 Ep16 A 20',
-  'url': 'http://37.187.167.137/movie/a/a/3026.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': 'ChoufliHall 2008 Ep 1 a 15',
-  'url': 'http://37.187.167.137/movie/a/a/3025.mkv',
-  'icon': 'ukmovies.png',
-  'disabled': False
-}, {
-  'name': '10 Cloverfield Lane',
-  'url': 'http://37.187.167.137/movie/a/a/3243.mp4',
-  'icon': 'ukmovies.png',
-  'disabled': False  
-  
-}]
+<addon id="plugin.video.filmydokumentalne" version="1.3" name="Filmy Dokumentalne" provider-name="Michal">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver" version="3.0.20"/>
+	<import addon="script.module.ramic" />
+</requires>
 
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
 
-streams = {
-  'LiveTV': sorted((i for i in LiveTV if not i.get('disabled', False)), key=lower_getter('name')),
-  'Movies': sorted((i for i in Movies if not i.get('disabled', False)), key=lower_getter('name')),
-  # 'LiveTV': sorted(LiveTV, key=lower_getter('name')),
-  # 'Movies': sorted(Movies, key=lower_getter('name')),
-}
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">http://www.filmydokumentalne.eu/</summary>
+  <description lang="en">http://www.filmydokumentalne.eu/</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
 
-PARAMS = get_params()
-TAG = None
-logging.warning('PARAMS!!!! %s', PARAMS)
+<addon id="plugin.video.filmyto" version="1.9" name="Filmy.to" provider-name="Michal">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.urlresolver" version="3.0.20"/>
+	<import addon="script.module.ramic"/>
+</requires>
 
-try:
-  TAG = PARAMS['tag']
-except:
-  pass
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
 
-logging.warning('ARGS!!!! sys.argv %s', sys.argv)
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Filmy.to</summary>
+  <description lang="en">Filmy.to</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
 
-if TAG == None:
-  show_tags()
-else:
-  show_streams(TAG)
+<addon id="plugin.video.folderramic" name="folder" provider-name="Michal" version="1.1b">
+<requires>
+  <import addon="xbmc.python" version="2.1.0" />
+</requires>
+<extension library="default.py" point="xbmc.python.pluginsource">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">ramic folder</summary>
+  <summary lang="pl">ramic folder</summary>
+  <description lang="en">a folder for video plugins</description>
+  <description lang="pl">katalog dla pluginów video</description>
+  <disclaimer lang="en">private use</disclaimer>
+  <language />
+  <platform>all</platform>
+  <license />
+  <forum />
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa@gmail.com</email>
+  <source />
+</extension>
+</addon>
+
+<addon id="plugin.video.freedisc.pl" version="1.3" name="freedisc" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.ramic" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Freedisc</summary>
+  <description lang="en">Freedisc</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.iitv" name="iitv-seriale" version="1.8" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+	<import addon="script.module.urlresolver" version="3.0.0"/>
+	<import addon="script.module.ramic" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">iitv</summary>
+    <description lang="en">Odgrywa zasoby iitv.pl</description>
+	<disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum>https://github.com/ramicspa/kodi/issues</forum>
+	<website>https://github.com/ramicspa/kodi</website>
+	<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<news>
+	</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.iwatchonline" version="1.5" name="iwatchonline" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.urlresolver" version="3.0.20"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">iwatchonline</summary>
+  <description lang="en">iwatchonline</description>
+  <disclaimer lang="en">private use</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum></forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <source></source>
+</extension>
+</addon>
+
+<addon id="plugin.video.kino24tv" version="1.3" name="cda-kino" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">cda-kino</summary>
+  <description lang="en">Zasoby http://cda-kino.pl/</description>
+  <disclaimer lang="en">private use</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum></forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <source></source>
+</extension>
+</addon>
+
+<addon id="plugin.video.kinoiseriale" version="1.5" name="Joy.tv" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.0"/>
+  <import addon="script.module.ramic" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Joy.tv</summary>
+  <description lang="en">Zasoby serwisu filmyiseriale.org</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.kinostacja" version="1.0" name="kinostacja" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">kinostacja</summary>
+  <description lang="en">kinostacja</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <source>https://github.com/ramicspa/kodi</source>
+</extension>
+</addon>
+
+<addon id="plugin.video.LiveIPTV" name="Live IPTV" version="2.0" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.f4mTester" version="2.2.3" optional="true" />
+    <import addon="script.module.ramic" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+
+ <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live IP TV </summary>
+    <description lang="en">Live IP TV</description>
+    <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://github.com/ramicspa/kodi/issues</forum>
+    <website>https://github.com/ramicspa/kodi</website>
+    <email></email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+
+  </news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.LivePolishTV" name="LivePolishTV" version="2.3.8" provider-name="Michal">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="service.cronxbmc" optional="true"/>
+        <import addon="script.module.ramic" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live Polish TV</summary>
+    <description lang="en">Live Polish TV</description>
+    <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum>https://github.com/ramicspa/kodi(2)/issues</forum>
+    <website>https://github.com/ramicspa/kodi(2)</website>
+    <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+
+  </news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.naszekino" name="Nasze-Kino" version="2.4" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.ramic"/>
+    <import addon="script.module.urlresolver" version="3.0.20"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">nasze-kino.online</summary>
+    <description lang="en">Odgrywa zasoby nasze-kino.online</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+<addon id="plugin.video.naszekinotv" version="1.0" name="nasze-kino.tv" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic" />
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">nasze-kino.tv</summary>
+  <description lang="en">nasze-kino.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email></email>
+  <source>https://github.com/ramicspa/kodi</source>
+</extension>
+</addon>
+
+<addon id="plugin.video.ninateka" version="1.1" name="ninateka" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.ramic"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">ninateka</summary>
+  <description lang="en">ninateka</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot>resources/screenshot-01.jpg</screenshot>
+    <screenshot>resources/screenshot-02.jpg</screenshot>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ramicpolsat" version="1.0" name="PolsatNews" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">PolsatNews</summary>
+  <description lang="en">PolsatNews</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.ramictvn24" version="1.2" name="TVN24" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">TVN24</summary>
+  <description lang="en">TVN24</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.segos" version="2.8" name="segos" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.urlresolver" version="3.0.15"/>
+  <import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">segos</summary>
+  <description lang="en">Zasoby segos.es</description>
+  <disclaimer lang="en">private use</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license></license>
+  <forum></forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <source></source>
+</extension>
+</addon>
+
+<addon id="plugin.video.serialosypl" version="1.5" name="serialosy.pl" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.module.urlresolver" version="3.0.20"/>
+  <import addon="script.module.ramic" />
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Serialosy.pl</summary>
+  <description lang="en">Serialosy.pl</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+</news>
+</extension>
+</addon>
+
+<addon id="plugin.video.szukajkatv" version="1.1" name="Szukajka.tv" provider-name="Michal">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.common.plugin.cache" version="2.5.5"/>
+    <import addon="script.module.urlresolver" version="3.0.20"/>
+	<import addon="script.module.ramic"/>
+</requires>
+
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">Szukajka.tv</summary>
+  <description lang="en">Szukajka.tv</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.TVP.pl" name="TVP.pl" version="2.1.0" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.ramic"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</summary>
+	<description lang="en">Zasoby serwisu tvp.pl oraz vod.tvp.pl</description>
+	<disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+	<language>pl</language>
+	<platform>all</platform>
+	<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	<forum>https://github.com/ramicspa/kodi/issues</forum>
+	<website>https://github.com/ramicspa/kodi</website>
+	<email></email>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	<news>
+	</news>
+  </extension>
+</addon>
+
+<addon id="plugin.video.viderpl" version="1.4" name="vider" provider-name="Michal">
+<requires>
+  <import addon="xbmc.python" version="2.1.0"/>
+  <import addon="script.common.plugin.cache" version="2.5.5"/>
+  <import addon="script.module.ramic" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">vider.info</summary>
+  <description lang="en">vider.pl</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspa at gmail dot com</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="plugin.video.zalukajcom" version="1.3" name="Zalukaj" provider-name="Michal">
+<requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.urlresolver" version="3.0.0"/>
+    <import addon="script.module.ramic"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">zalukaj.com</summary>
+  <description lang="en">zalukaj.com</description>
+  <disclaimer lang="en">A private use only. For bugs, requests or general questions visit my repository https://github.com/ramicspa/kodi</disclaimer>
+  <language></language>
+  <platform>all</platform>
+  <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  <forum>https://github.com/ramicspa/kodi/issues</forum>
+  <website>https://github.com/ramicspa/kodi</website>
+  <email>ramicspaatgmaildotcom</email>
+  <assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>
+  </assets>
+  <news>
+  </news>
+</extension>
+</addon>
+
+<addon id="repository.ramic" name="Ramic Kodi Add-ons Repository" version="1.3.4" provider-name="Michal">
+    <extension point="xbmc.addon.repository" name="Ramic Kodi Add-ons Repository">
+        <dir>
+            <info compressed="false">https://github.com/kawamic/speedy/raw/master/zips/addons.xml</info>
+            <checksum>https://github.com/kawamic/speedy/raw/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/kawamic/speedy/raw/master/zips/</datadir>
+        </dir>
+        <dir>
+			<info compressed="false">http://raw.github.com/ramicspa/kodi/master/addons.xml</info>
+			<checksum>http://raw.github.com/ramicspa/kodi/master/addons.xml.md5</checksum>
+            <datadir zip="true">http://www.ramic.ga/ramicspa/kodi/zips/</datadir>
+        </dir>
+		<dir>
+			<info compressed="false">http://raw.github.com/ramicspa/kodi/master/addons.xml</info>
+			<checksum>http://raw.github.com/ramicspa/kodi/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/ramicspa/kodi/zips/</datadir>
+		</dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Ramic Kodi Repository</summary>
+        <summary lang="pl">Repozytorium wtyczek by Ramic</summary>
+        <summary lang="en">Addons repository</summary>
+        <description>Unofficial, private Addons repository.</description>
+        <disclaimer>Repository has non-comercial nature. Just for fun</disclaimer>
+        <disclaimer lang="pl">Zawartość repozytorium ma charakter niekomercyjny, tworzone dla zabawy.</disclaimer>
+        <platform>all</platform>
+        <website>https://github.com/ramicspa/kodi</website>
+        <email></email>
+    </extension>
+</addon>
+
+<addon id="script.module.ramic" name="repository.ramic" version="1.0.9" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="script.module.urlresolver" name="URLResolver" version="3.0.29" provider-name="tvaddons.ag, Eldorado">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
+		<description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
+	</extension>
+</addon>
+</addons>
