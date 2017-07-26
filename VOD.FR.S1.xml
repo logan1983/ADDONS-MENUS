@@ -1,22 +1,1715 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.LiveIPTV" name="Live IPTV" version="1.6" provider-name="Michal">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="plugin.video.f4mTester" version="2.2.3" optional="true" />
-</requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-  
- <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Live IP TV </summary>
-    <description lang="en">Live IP TV</description>
-    <disclaimer lang="en"></disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website>https://github.com/ramicspa/kodi</website>
-    <email>ramicspa@gmail.com</email>
-  </extension>
-</addon>
+#EXTM3U
+#EXTINF:-1,Alibi.com -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3231.mkv
+#EXTINF:-1,Altitude -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3232.mkv
+#EXTINF:-1,Fast & Furious 8 -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3233.mkv
+#EXTINF:-1,Ghost In The Shell -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3234.mkv
+#EXTINF:-1,ISRA 88 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3235.mkv
+#EXTINF:-1,Jem et les Hologrammes -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3236.mkv
+#EXTINF:-1,Kong: Skull Island -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3237.mkv
+#EXTINF:-1,L.A. Rush -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3238.mkv
+#EXTINF:-1,Power Rangers -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3239.mkv
+#EXTINF:-1,Rivales -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3240.mkv
+#EXTINF:-1,Logan -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3225.mkv
+#EXTINF:-1,A Cure for Life -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3218.mkv
+#EXTINF:-1,Aftermath -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3219.mkv
+#EXTINF:-1,Angle mort -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3220.mkv
+#EXTINF:-1,Jackie -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3221.mkv
+#EXTINF:-1,John Wick 2 -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3223.mkv
+#EXTINF:-1,John Wick 1 -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3222.mkv
+#EXTINF:-1,Kill'em All -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3224.mkv
+#EXTINF:-1,No Way Out -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3226.mkv
+#EXTINF:-1,Raid dingue -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3227.mkv
+#EXTINF:-1,The Last Face -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3228.mkv
+#EXTINF:-1,The Veil -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3229.mkv
+#EXTINF:-1,Un sac de billes -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3230.mkv
+#EXTINF:-1,Fist Fight -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3200.mkv
+#EXTINF:-1,Max 2: White House Hero -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3203.mkv
+#EXTINF:-1,Max 1 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3202.mkv
+#EXTINF:-1,La Grande Muraille -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3201.mkv
+#EXTINF:-1,xXx 3: Reactivated -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3206.mkv
+#EXTINF:-1,xXx 2 : The Next Level -2005
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3205.mkv
+#EXTINF:-1,xXx 1 -2002
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3204.mkv
+#EXTINF:-1,Cinquante Nuances plus sombres -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3181.mkv
+#EXTINF:-1,Stratton -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3182.mkv
+#EXTINF:-1,Mes vies de chien -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2954.mkv
+#EXTINF:-1,Resident Evil 6: Chapitre Final -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2953.mkv
+#EXTINF:-1,Resident Evil 5: Retribution -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2952.mkv
+#EXTINF:-1,Resident Evil 4: Afterlife -2010
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2951.mkv
+#EXTINF:-1,Resident Evil 3: Extinction -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2950.mkv
+#EXTINF:-1,Resident Evil 2: Apocalypse -2004
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2949.mkv
+#EXTINF:-1,Resident Evil 1 -2002
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2948.mkv
+#EXTINF:-1,The Marine 5: Battleground -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2946.mkv
+#EXTINF:-1,Vengeance: A Love Story -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2947.mkv
+#EXTINF:-1,The Bye Bye Man -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2945.mkv
+#EXTINF:-1,Split -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2942.mkv
+#EXTINF:-1,Monster Cars -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2939.mkv
+#EXTINF:-1,Demain tout commence -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2937.mkv
+#EXTINF:-1,Dog Eat Dog -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2943.mkv
+#EXTINF:-1,Lion -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2938.mkv
+#EXTINF:-1,Papa ou maman 1 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2940.mkv
+#EXTINF:-1,Papa ou maman 2 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2941.mkv
+#EXTINF:-1,Personal Shopper -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2944.mkv
+#EXTINF:-1,Le Seigneur des anneaux 1: la communauté de l'anneau -2001
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2930.mkv
+#EXTINF:-1,Le Seigneur des anneaux 2: les deux tours -2002
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2931.mkv
+#EXTINF:-1,Le Seigneur des anneaux 3: le retour du roi -2003
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2932.mkv
+#EXTINF:-1,Monster High: Electrified -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2936.mkv
+#EXTINF:-1,Iris -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2897.mkv
+#EXTINF:-1,Rogue One: A Star Wars Story -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2898.mkv
+#EXTINF:-1,Sniper: Special Ops -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2899.mkv
+#EXTINF:-1,Traque à Boston -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2900.mkv
+#EXTINF:-1,Assassin's Creed -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2890.mkv
+#EXTINF:-1,Débarquement immédiat -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2883.mkv
+#EXTINF:-1,Pirates Des Caraibes 4: La Fontaine De Jouvence -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2896.mkv
+#EXTINF:-1,Pirates Des Caraibes 3: Jusqu'au Bout Du Monde -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2895.mkv
+#EXTINF:-1,Pirates Des Caraibes 2: Le Secret Du Coffre Maudit -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2894.mkv
+#EXTINF:-1,Pirates Des Caraibes 1: La Malediction Du Black Pearl -2003
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2893.mkv
+#EXTINF:-1,Fast & Furious 7 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2920.mkv
+#EXTINF:-1,Fast & Furious 6 -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2919.mkv
+#EXTINF:-1,Fast & Furious 5 -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2918.mkv
+#EXTINF:-1,Fast & Furious 4 -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2917.mkv
+#EXTINF:-1,Fast & Furious 3: Tokyo Drift -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2916.mkv
+#EXTINF:-1,Fast & Furious 2: 2 Fast 2 Furious -2003
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2915.mkv
+#EXTINF:-1,Fast & Furious 1 -2001
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2914.mkv
+#EXTINF:-1,Tous en scène -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2892.mkv
+#EXTINF:-1,Live By Night -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2884.mkv
+#EXTINF:-1,Underworld 5: Blood Wars -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2889.mkv
+#EXTINF:-1,Underworld 4: Nouvelle ère -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2888.mkv
+#EXTINF:-1,Underworld 3: le soulèvement des Lycans -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2887.mkv
+#EXTINF:-1,Underworld 2: Evolution -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2886.mkv
+#EXTINF:-1,Underworld 1 -2003
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2885.mkv
+#EXTINF:-1,Passengers -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2704.mkv
+#EXTINF:-1,666 Road (Southbound) -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2697.mkv
+#EXTINF:-1,Bad Santa 2 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2698.mkv
+#EXTINF:-1,Beauté cachée -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2699.mkv
+#EXTINF:-1,Chain of Command -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2700.mkv
+#EXTINF:-1,Les Animaux fantastiques -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2701.mkv
+#EXTINF:-1,Moonlight -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2702.mkv
+#EXTINF:-1,Sing Street -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2703.mkv
+#EXTINF:-1,Doctor Strange -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2618.mkv
+#EXTINF:-1,Alliés -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2615.mkv
+#EXTINF:-1,Brice 3 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2616.mkv
+#EXTINF:-1,Captain Fantastic -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2617.mkv
+#EXTINF:-1,Mal de pierres -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2620.mkv
+#EXTINF:-1,Nocturnal Animals -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2619.mkv
+#EXTINF:-1,Vaiana, la légende du bout du monde -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2614.mkv
+#EXTINF:-1,Cigognes Et Compagnie -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2609.mkv
+#EXTINF:-1,Cinquante Nuances De Grey -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2610.mkv
+#EXTINF:-1,Dans Le Noir -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2611.mkv
+#EXTINF:-1,Juste La Fin Du Monde -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2612.mkv
+#EXTINF:-1,L'incroyable Destin De Savva -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2608.mkv
+#EXTINF:-1,Tu Ne Tueras Point -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2613.mkv
+#EXTINF:-1,Insiders -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2600.mkv
+#EXTINF:-1,Justice League Dark -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2599.mkv
+#EXTINF:-1,La 5ème Vague -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2601.mkv
+#EXTINF:-1,Premier Contact -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2602.mkv
+#EXTINF:-1,The Escort -2017
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2603.mkv
+#EXTINF:-1,Almost Christmas -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2296.mkv
+#EXTINF:-1,Cinquante Nuances De Black -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2297.mkv
+#EXTINF:-1,Countdown - 2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2298.mkv
+#EXTINF:-1,Don Verdean -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2299.mkv
+#EXTINF:-1,End Of A Gun -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2300.mkv
+#EXTINF:-1,Inferno -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2302.mkv
+#EXTINF:-1,Les Trolls -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2295.mkv
+#EXTINF:-1,Palmeras En La Nieve -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2305.mkv
+#EXTINF:-1,When The Bough Breaks -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2307.mkv
+#EXTINF:-1,Les 7 Mercenaires -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2290.mkv
+#EXTINF:-1,Frantz -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2280.mkv
+#EXTINF:-1,Jack Reacher: Never Go Back -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2281.mkv
+#EXTINF:-1,Les Cerveaux (Masterminds) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2282.mkv
+#EXTINF:-1,Les Espions d'à côté -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2283.mkv
+#EXTINF:-1,Ouija: les origines -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2284.mkv
+#EXTINF:-1,Radin! -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2285.mkv
+#EXTINF:-1,The Strangers -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2286.mkv
+#EXTINF:-1,The Whole Truth -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2287.mkv
+#EXTINF:-1,Victoria -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2288.mkv
+#EXTINF:-1,Howl -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2268.mkv
+#EXTINF:-1,Police Story: Lockdown -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2273.mkv
+#EXTINF:-1,Suspicions (Exposed) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2275.mkv
+#EXTINF:-1,Ben-Hur -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2232.mkv
+#EXTINF:-1,Bourne 5 (Jason Bourne) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2233.mkv
+#EXTINF:-1,C'est quoi cette famille?! -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2234.mkv
+#EXTINF:-1,Dead Rising: Endgame -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2235.mkv
+#EXTINF:-1,Deadpool -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2258.mkv
+#EXTINF:-1,Deepwater -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2237.mkv
+#EXTINF:-1,Free Dance -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2238.mkv
+#EXTINF:-1,I T  -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2239.mkv
+#EXTINF:-1,Interrogation -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2240.mkv
+#EXTINF:-1,Kickboxer: Vengeance -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2261.mkv
+#EXTINF:-1,Le BGG: Le Bon gros géant -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2243.mkv
+#EXTINF:-1,Meet The Blacks -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2246.mkv
+#EXTINF:-1,Mercy -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2247.mkv
+#EXTINF:-1,Middle School: The Worst Years of My Life -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2248.mkv
+#EXTINF:-1,Miss Peregrine et les enfants particuliers -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2249.mkv
+#EXTINF:-1,Mr Wolff -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2250.mkv
+#EXTINF:-1,Nitro Rush -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2251.mkv
+#EXTINF:-1,Peter et Elliott le dragon -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2252.mkv
+#EXTINF:-1,Snowden -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2253.mkv
+#EXTINF:-1,Spectral -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2254.mkv
+#EXTINF:-1,Suicide Squad -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2255.mkv
+#EXTINF:-1,Sully -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2256.mkv
+#EXTINF:-1,Tarzan -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2260.mkv
+#EXTINF:-1,USS Indianapolis -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2257.mkv
+#EXTINF:-1,War Dogs -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2189.mkv
+#EXTINF:-1,Mechanic Résurrection -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2184.mkv
+#EXTINF:-1,Ma vie de chat -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2183.mkv
+#EXTINF:-1,Pension complète -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2185.mkv
+#EXTINF:-1,Skiptrace -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2186.mkv
+#EXTINF:-1,Viens avec moi -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2188.mkv
+#EXTINF:-1,The Perfect Weapon -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2187.mkv
+#EXTINF:-1,Imperium -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2182.mkv
+#EXTINF:-1,Anthropoid -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2181.mkv
+#EXTINF:-1,Sausage Party -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2179.mkv
+#EXTINF:-1,Le Monde de Dory -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2154.mkv
+#EXTINF:-1,Ratchet et Clank -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2138.mkv
+#EXTINF:-1,Zootopie -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2152.mkv
+#EXTINF:-1,Norm -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2116.mkv
+#EXTINF:-1,Robinson Crusoe -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2140.mkv
+#EXTINF:-1,Bling -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2079.mkv
+#EXTINF:-1,Batman: The Killing Joke -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2078.mkv
+#EXTINF:-1,Batman Unlimited: Mechs Vs  Mutants -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2077.mkv
+#EXTINF:-1,Lego DC Comics Super Heroes: Gotham City Breakout -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2109.mkv
+#EXTINF:-1,Monster High: Welcome To Monster High -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2114.mkv
+#EXTINF:-1,Dofus, Livre 1: Julith -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2086.mkv
+#EXTINF:-1,Angry Birds LE FILM -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2073.mkv
+#EXTINF:-1,Comme des bêtes -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2085.mkv
+#EXTINF:-1,Pokémon 19: Volcanion et la merveille mécanique -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2180.mkv
+#EXTINF:-1,Pokémon 18: Hoopa et le Choc des légendes -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2175.mkv
+#EXTINF:-1,Pokémon 17: Diancie et le Cocon de l'annihilation -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2173.mkv
+#EXTINF:-1,Pokémon 16: Genesect et l'éveil de la légende -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2172.mkv
+#EXTINF:-1,Pokémon 15: Kyurem vs la Lame de la justice -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2171.mkv
+#EXTINF:-1,Pokémon 14 (Noir): Victini et Reshiram -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2170.mkv
+#EXTINF:-1,Pokémon 14 (Blanc): Victini et Zekrom -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2169.mkv
+#EXTINF:-1,Pokémon 13: Zoroark, le maître des illusions -2010
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2168.mkv
+#EXTINF:-1,Pokémon 12: Arceus et le Joyau de Vie -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2167.mkv
+#EXTINF:-1,Pokémon 11: Giratina et le Gardien du ciel -2008
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2166.mkv
+#EXTINF:-1,Pokémon 10: L'ascension de Darkrai -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2155.mkv
+#EXTINF:-1,Pokémon 9: Pokémon Ranger et le Temple des Mers -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2164.mkv
+#EXTINF:-1,Pokémon 8: Lucario et le mystère de Mew -2005
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2163.mkv
+#EXTINF:-1,Pokémon 7: La destinée de Deoxys -2004
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2162.mkv
+#EXTINF:-1,Pokémon 6: Jirachi, le génie des vœux -2003
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2161.mkv
+#EXTINF:-1,Pokémon 5: Les Héros -2002
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2160.mkv
+#EXTINF:-1,Pokémon 4: Celebi, la voix de la forêt -2001
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2159.mkv
+#EXTINF:-1,Pokémon 3: Le sort des Zarbi -2000
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2158.mkv
+#EXTINF:-1,Pokémon 2: Le pouvoir est en toi -1999
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2157.mkv
+#EXTINF:-1,Pokémon 1: Mewtwo contre Mew -1998
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2156.mkv
+#EXTINF:-1,Shrek 1 -2001
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2141.mkv
+#EXTINF:-1,Shrek 2 -2004
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2142.mkv
+#EXTINF:-1,Shrek 3 -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2143.mkv
+#EXTINF:-1,Shrek 4 -2010
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2144.mkv
+#EXTINF:-1,Vice Versa (Inside Out) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2151.mkv
+#EXTINF:-1,Toy Story 3 -2010
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2150.mkv
+#EXTINF:-1,Toy Story 2 -1999
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2149.mkv
+#EXTINF:-1,Toy Story 1 -1995
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2148.mkv
+#EXTINF:-1,The Last: Naruto the Movie -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2147.mkv
+#EXTINF:-1,Tarzan -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2146.mkv
+#EXTINF:-1,Snoopy et les Peanuts -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2145.mkv
+#EXTINF:-1,Ribbit, Prince malgré lui -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2139.mkv
+#EXTINF:-1,Ratatouille -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2137.mkv
+#EXTINF:-1,Raiponce -2010
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2136.mkv
+#EXTINF:-1,Paddington -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2119.mkv
+#EXTINF:-1,Oups! J'ai raté l'arche -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2118.mkv
+#EXTINF:-1,Open Season: Scared Silly -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2117.mkv
+#EXTINF:-1,Mune, le gardien de la lune -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2115.mkv
+#EXTINF:-1,Moi Moche Et Mechant 2 -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2113.mkv
+#EXTINF:-1,Moi Moche Et Mechant 1 -2010
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2112.mkv
+#EXTINF:-1,les sept nains -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2153.mkv
+#EXTINF:-1,Les Pingouins de Madagascar -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2111.mkv
+#EXTINF:-1,Les Nouveaux héros -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2110.mkv
+#EXTINF:-1,Le Voyage d'Arlo -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2107.mkv
+#EXTINF:-1,Le Roi Lion 3: Hakuna Matata -2004
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2106.mkv
+#EXTINF:-1,Le Roi Lion 2: l'Honneur de la Tribu -1998
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2105.mkv
+#EXTINF:-1,Le Roi Lion 1 -1994
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2104.mkv
+#EXTINF:-1,Le Petit Prince -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2103.mkv
+#EXTINF:-1,Le Monde de Nemo -2003
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2102.mkv
+#EXTINF:-1,Le garçon et la bête -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2108.mkv
+#EXTINF:-1,La reine des neiges 2 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2101.mkv
+#EXTINF:-1,La reine des neiges 1 -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2100.mkv
+#EXTINF:-1,La Maison de Mickey Mouse -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2099.mkv
+#EXTINF:-1,La Grande aventure de Maya l'abeille -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2098.mkv
+#EXTINF:-1,L'âge de glace 5: les lois de l'Univers -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1945.mkv
+#EXTINF:-1,L'Âge de glace 4: La Dérive des continents -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2097.mkv
+#EXTINF:-1,L'Âge de glace 3: Le Temps des dinosaures -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2096.mkv
+#EXTINF:-1,L'Âge de Glace 2 -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2095.mkv
+#EXTINF:-1,L'Âge de Glace 1 -2002
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2094.mkv
+#EXTINF:-1,Kung Fu Panda 3 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2093.mkv
+#EXTINF:-1,Kung Fu Panda 2 -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2092.mkv
+#EXTINF:-1,Kung Fu Panda 1 -2008
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2091.mkv
+#EXTINF:-1,Hotel Transylvanie 2 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2088.mkv
+#EXTINF:-1,Hôtel Transylvanie 1 -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2090.mkv
+#EXTINF:-1,Hâmonî -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2089.mkv
+#EXTINF:-1,En route! -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2087.mkv
+#EXTINF:-1,Clochette et la créature légendaire -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2084.mkv
+#EXTINF:-1,Cars 2 -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2083.mkv
+#EXTINF:-1,Cars 1 -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2082.mkv
+#EXTINF:-1,Bob l'éponge: Un héros sort de l'eau -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2081.mkv
+#EXTINF:-1,Bob l'éponge LE FILM -2004
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2080.mkv
+#EXTINF:-1,Barbie et la porte secrète -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2076.mkv
+#EXTINF:-1,Avril et le monde truqué -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2075.mkv
+#EXTINF:-1,Astérix: Le Domaine des Dieux -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2074.mkv
+#EXTINF:-1,Alvin et les Chipmunks 4: A fond la caisse -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2072.mkv
+#EXTINF:-1,Alvin et les Chipmunks 3 -2011
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2071.mkv
+#EXTINF:-1,Alvin et les Chipmunks 2 -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2070.mkv
+#EXTINF:-1,Alvin et les Chipmunks 1 -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2069.mkv
+#EXTINF:-1,Camping 3 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2068.mkv
+#EXTINF:-1,Camping 2 -2009
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2067.mkv
+#EXTINF:-1,Camping 1 -2006
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2066.mkv
+#EXTINF:-1,Blood Father -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2065.mkv
+#EXTINF:-1,Bad Moms -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2054.mkv
+#EXTINF:-1,The Exorcism of Molly Hartley -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2050.mkv
+#EXTINF:-1,Star Trek Sans limites -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2049.mkv
+#EXTINF:-1,Kenshin: La Fin de la légende -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2037.mkv
+#EXTINF:-1,Infiltrator -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2036.mkv
+#EXTINF:-1,Alice de l'autre côté du miroir HD -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1944.mkv
+#EXTINF:-1,S O S  Fantômes -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2003.mkv
+#EXTINF:-1,Divergente 3 : Au-delà du mur -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1786.mkv
+#EXTINF:-1,Captain America : Civil War -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1773.mkv
+#EXTINF:-1,X-Men : Apocalypse -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1873.mkv
+#EXTINF:-1,Agents presque secrets -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1763.mkv
+#EXTINF:-1,Ninja turtles 2 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1832.mkv
+#EXTINF:-1,Warcraft : Le commencement -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1871.mkv
+#EXTINF:-1,Un flic à la maternelle 2 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1868.mkv
+#EXTINF:-1,Marauders -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1825.mkv
+#EXTINF:-1,Batman v Superman : L'Aube de la Justice -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1766.mkv
+#EXTINF:-1,Cafe Society -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1920.mkv
+#EXTINF:-1,Amis publics -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1764.mkv
+#EXTINF:-1,The Shallows -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1861.mkv
+#EXTINF:-1,The Revenge (I Am Wrath) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1860.mkv
+#EXTINF:-1,Les Visiteurs La Revolution -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1820.mkv
+#EXTINF:-1,The Revenant -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1859.mkv
+#EXTINF:-1,Barbershop: The Next Cut -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1916.mkv
+#EXTINF:-1,The Nice Guys -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1857.mkv
+#EXTINF:-1,Marseille -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1933.mkv
+#EXTINF:-1,Mariage à la grecque 2 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1932.mkv
+#EXTINF:-1,Le Livre de la jungle -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1814.mkv
+#EXTINF:-1,Le Casse (The Trust) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1813.mkv
+#EXTINF:-1,Ave, César! (Hail Caesar) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1915.mkv
+#EXTINF:-1,La Dream Team -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1811.mkv
+#EXTINF:-1,The Call Up -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1853.mkv
+#EXTINF:-1,Term Life -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1852.mkv
+#EXTINF:-1,Independence Day: Resurgence -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2002.mkv
+#EXTINF:-1,Sniper: Ghost Shooter -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1850.mkv
+#EXTINF:-1,Jarhead 3 : le siège -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1805.mkv
+#EXTINF:-1,Jamel et ses amis au Marrakech du rire HD -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1804.mkv
+#EXTINF:-1,Le Chasseur et la reine des glaces (Huntsman Winters War) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1929.mkv
+#EXTINF:-1,Insaisissables 2 (Now You See Me 2) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1802.mkv
+#EXTINF:-1,Identify (Kill Command) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1801.mkv
+#EXTINF:-1,La Vache ! -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1928.mkv
+#EXTINF:-1,L'Avenir -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1927.mkv
+#EXTINF:-1,Hors contrôle -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1798.mkv
+#EXTINF:-1,Good luck Algeria -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1926.mkv
+#EXTINF:-1,Get A Job -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1925.mkv
+#EXTINF:-1,Everybody Wants Some -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1924.mkv
+#EXTINF:-1,Antboy 3: Le combat final -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1913.mkv
+#EXTINF:-1,Retour chez ma mère -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1841.mkv
+#EXTINF:-1,Gods of Egypt -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1791.mkv
+#EXTINF:-1,Explorer (Arrowhead) -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1789.mkv
+#EXTINF:-1,Quand on a 17 ans -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1839.mkv
+#EXTINF:-1,13 Hours: The Secret Soldiers -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1911.mkv
+#EXTINF:-1,Precious Cargo -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1837.mkv
+#EXTINF:-1,Dirty papy -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1784.mkv
+#EXTINF:-1,Un Homme A La Hauteur -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1941.mkv
+#EXTINF:-1,Pattaya -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1834.mkv
+#EXTINF:-1,Bastille Day -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1917.mkv
+#EXTINF:-1,Code of Honor -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1779.mkv
+#EXTINF:-1,The Wave -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1939.mkv
+#EXTINF:-1,Chasse à l'homme 2 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1776.mkv
+#EXTINF:-1,Cell Phone -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1774.mkv
+#EXTINF:-1,Triple 9 -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1866.mkv
+#EXTINF:-1,The Do-Over -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1938.mkv
+#EXTINF:-1,Money Monster -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1827.mkv
+#EXTINF:-1,Caprice HD -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1921.mkv
+#EXTINF:-1,Braqueurs HD -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1919.mkv
+#EXTINF:-1,Bon Bini Holland -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1918.mkv
+#EXTINF:-1,Ashby -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1914.mkv
+#EXTINF:-1,Adopte un veuf -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1912.mkv
+#EXTINF:-1,Tout Pour Etre Heureux -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1940.mkv
+#EXTINF:-1,Rurouni Kenshin: Kyoto Inferno -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1937.mkv
+#EXTINF:-1,Mr  Right -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1936.mkv
+#EXTINF:-1,Moonwalkers -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1935.mkv
+#EXTINF:-1,Monk Comes Down The Mountain -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1934.mkv
+#EXTINF:-1,Le Pourpre et le Noir -1983
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1931.mkv
+#EXTINF:-1,Le Nouveau -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1930.mkv
+#EXTINF:-1,Et ta soeur -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1923.mkv
+#EXTINF:-1,DieuMerci ! -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1922.mkv
+#EXTINF:-1,World War Z -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1872.mkv
+#EXTINF:-1,Vice -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1870.mkv
+#EXTINF:-1,Un voisin trop parfait (The Boy Next Door) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1869.mkv
+#EXTINF:-1,Un Homme Parfait (The Perfect Guy) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1867.mkv
+#EXTINF:-1,Transformers 4 : l'âge de l'extinction -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1865.mkv
+#EXTINF:-1,Titanium -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1864.mkv
+#EXTINF:-1,Time Lapse -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1863.mkv
+#EXTINF:-1,The Shamer -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1862.mkv
+#EXTINF:-1,The Night Before -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1858.mkv
+#EXTINF:-1,The Guvnors -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1856.mkv
+#EXTINF:-1,The Gambler -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1855.mkv
+#EXTINF:-1,The Circle chapitre 1 : les élues -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1854.mkv
+#EXTINF:-1,Synchronicity -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1851.mkv
+#EXTINF:-1,Seul Sur MARS (The Martian) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1848.mkv
+#EXTINF:-1,Seul contre tous (Concussion) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1849.mkv
+#EXTINF:-1,Secret Agency (Barely Lethal) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1847.mkv
+#EXTINF:-1,Run Out (Vehicle 19) -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1845.mkv
+#EXTINF:-1,Robin des bois, la véritable histoire -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1844.mkv
+#EXTINF:-1,Riot : Enfermé pour tuer -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1843.mkv
+#EXTINF:-1,Rio Siege -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1842.mkv
+#EXTINF:-1,Renaissances (Self Less) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1840.mkv
+#EXTINF:-1,Régression -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1846.mkv
+#EXTINF:-1,Prémonitions (Solace) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1838.mkv
+#EXTINF:-1,Point Break -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1836.mkv
+#EXTINF:-1,Plastic -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1835.mkv
+#EXTINF:-1,Pan -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1833.mkv
+#EXTINF:-1,Navy Seals: Battle for New Orleans -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1831.mkv
+#EXTINF:-1,N W A - Straight Outta Compton -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1830.mkv
+#EXTINF:-1,Mythica: The Darkspore -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1829.mkv
+#EXTINF:-1,Mythica: A Quest for Heroes -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1828.mkv
+#EXTINF:-1,Mission Impossible 5 : Rogue Nation -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1826.mkv
+#EXTINF:-1,MI-5 Infiltration (Spooks) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1821.mkv
+#EXTINF:-1,Mara et le démon de feu -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1824.mkv
+#EXTINF:-1,Mad Max: Fury Road -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1823.mkv
+#EXTINF:-1,Mad Dog -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1822.mkv
+#EXTINF:-1,Les Profs 2 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1819.mkv
+#EXTINF:-1,Les Miller, une famille en herbe (We're the Millers) -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1818.mkv
+#EXTINF:-1,Les Gorilles -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1817.mkv
+#EXTINF:-1,Les 4 Fantastiques -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1816.mkv
+#EXTINF:-1,Le Pont des Espions (Bridge of Spies) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1815.mkv
+#EXTINF:-1,La Mort en sursis (Tomorrow You're Gone) -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1812.mkv
+#EXTINF:-1,La Chute de Londres -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1810.mkv
+#EXTINF:-1,L'Oracle -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1809.mkv
+#EXTINF:-1,L'Aube rouge (Red Dawn) -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1808.mkv
+#EXTINF:-1,Kung Fu Jungle -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1807.mkv
+#EXTINF:-1,Invisible boy -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1803.mkv
+#EXTINF:-1,Hunger Games - La Révolte : Partie 2 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1800.mkv
+#EXTINF:-1,Hot Pursuit -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1799.mkv
+#EXTINF:-1,Hitman: Agent 47 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1797.mkv
+#EXTINF:-1,Hardcore Henry -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1796.mkv
+#EXTINF:-1,Halo : La Chute de Reach -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1795.mkv
+#EXTINF:-1,Gunman -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1794.mkv
+#EXTINF:-1,Gridlocked -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1793.mkv
+#EXTINF:-1,Grand Chauffeur (Big Driver) -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1792.mkv
+#EXTINF:-1,Extinction -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1790.mkv
+#EXTINF:-1,Dragon Ball Z - La Résurrection de F -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1788.mkv
+#EXTINF:-1,Don Jon -2013
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1787.mkv
+#EXTINF:-1,Divergente 2 : l'insurrection -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1785.mkv
+#EXTINF:-1,David et Goliath -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1783.mkv
+#EXTINF:-1,Criminal : Un espion dans la tête -2016
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1782.mkv
+#EXTINF:-1,Creed - L'Héritage de Rocky Balboa -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1781.mkv
+#EXTINF:-1,Cop Car -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1780.mkv
+#EXTINF:-1,Code Momentum -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1778.mkv
+#EXTINF:-1,Close Range -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1777.mkv
+#EXTINF:-1,Cendrillon -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1775.mkv
+#EXTINF:-1,Boy 7 -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1772.mkv
+#EXTINF:-1,Bourne 4: L'Heritage -2012
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1771.mkv
+#EXTINF:-1,Bourne 3: La Vengeance dans la peau -2007
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1770.mkv
+#EXTINF:-1,Bourne 2: La Mort dans la peau -2004
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1769.mkv
+#EXTINF:-1,Bourne 1: La Memoire dans la peau -2002
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1768.mkv
+#EXTINF:-1,Beasts Of No Nation -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1767.mkv
+#EXTINF:-1,Ant-Man -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1765.avi
+#EXTINF:-1,A vif ! (Burnt) -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1762.mkv
+#EXTINF:-1,400 Days -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1761.mkv
+#EXTINF:-1,2047 : The Final War -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1760.mkv
+#EXTINF:-1,10 000 days -2014
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1759.mkv
+#EXTINF:-1,007 Spectre -2015
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1758.mkv
+#EXTINF:-1,Aladdin -1992
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2710.mkv
+#EXTINF:-1,Alice au pays des merveilles -1951
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2711.mkv
+#EXTINF:-1,Bambi 1 -1942
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2712.mkv
+#EXTINF:-1,Bambi 2 -2005
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2713.mkv
+#EXTINF:-1,Blanche Neige et les sept nains -1937
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2714.mkv
+#EXTINF:-1,Cendrillon -1950
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2715.mkv
+#EXTINF:-1,Dumbo -1941
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2716.mkv
+#EXTINF:-1,Fantasia -1940
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2717.mkv
+#EXTINF:-1,Hercule -1997
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2718.mkv
+#EXTINF:-1,L'Apprentie sorcière -1971
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2719.mkv
+#EXTINF:-1,L'Etrange Noël de M. Jack -1993
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2720.mkv
+#EXTINF:-1,La Belle au bois dormant -1959
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2721.mkv
+#EXTINF:-1,La Belle et le clochard 1 -1955
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2737.mkv
+#EXTINF:-1,La Belle et le clochard 2, L'appel de la rue -2001
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2723.mkv
+#EXTINF:-1,La Petite Sirène -1989
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2724.mkv
+#EXTINF:-1,Le Livre de la jungle -1967
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2725.mkv
+#EXTINF:-1,Les 101 Dalmatiens -1961
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2726.mkv
+#EXTINF:-1,Les Aristochats -1970
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2727.mkv
+#EXTINF:-1,Merlin l'enchanteur -1963
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2729.mkv
+#EXTINF:-1,Oliver et compagnie -1988
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2730.mkv
+#EXTINF:-1,Peter Pan 1 -1953
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2731.mkv
+#EXTINF:-1,Peter Pan 2, retour au Pays Imaginaire -2001
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2732.mkv
+#EXTINF:-1,Pinocchio -1940
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2733.mkv
+#EXTINF:-1,Pocahontas 1, une légende indienne -1995
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2734.mkv
+#EXTINF:-1,Pocahontas 2, un monde nouveau -1998
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2735.mkv
+#EXTINF:-1,Robin des Bois -1973
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2736.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E13.FINAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2001.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2000.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1999.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1998.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1997.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1996.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1995.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1994.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1993.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1992.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1991.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1990.mkv
+#EXTINF:-1,Marvels.Luke.Cage.S01E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1989.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E10.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2064.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2063.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2062.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2061.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2060.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2059.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2058.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2057.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2056.mkv
+#EXTINF:-1,Game.Of.Thrones.S06E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2055.mkv
+#EXTINF:-1,Game.of.Thrones.S05E10.FINAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2048.mkv
+#EXTINF:-1,Game.of.Thrones.S05E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2047.mkv
+#EXTINF:-1,Game.of.Thrones.S05E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2046.mkv
+#EXTINF:-1,Game.of.Thrones.S05E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2045.mkv
+#EXTINF:-1,Game.of.Thrones.S05E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2044.mkv
+#EXTINF:-1,Game.of.Thrones.S05E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2043.mkv
+#EXTINF:-1,Game.of.Thrones.S05E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2042.mkv
+#EXTINF:-1,Game.of.Thrones.S05E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2041.mkv
+#EXTINF:-1,Game.of.Thrones.S05E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2040.mkv
+#EXTINF:-1,Game.of.Thrones.S05E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2039.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E10.FINAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2013.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2012.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2011.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2010.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2009.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2008.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2007.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2006.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2005.mkv
+#EXTINF:-1,Game.Of.Thrones.S04E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2004.mkv
+#EXTINF:-1,Game.of.Thrones.S03E10.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1988.mkv
+#EXTINF:-1,Game.of.Thrones.S03E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1987.mkv
+#EXTINF:-1,Game.of.Thrones.S03E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1986.mkv
+#EXTINF:-1,Game.of.Thrones.S03E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1985.mkv
+#EXTINF:-1,Game.of.Thrones.S03E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1984.mkv
+#EXTINF:-1,Game.of.Thrones.S03E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1983.mkv
+#EXTINF:-1,Game.of.Thrones.S03E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1982.mkv
+#EXTINF:-1,Game.of.Thrones.S03E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1981.mkv
+#EXTINF:-1,Game.of.Thrones.S03E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1980.mkv
+#EXTINF:-1,Game.of.Thrones.S03E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1979.mkv
+#EXTINF:-1,game.of.thrones.s02e10.final
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1965.mkv
+#EXTINF:-1,game.of.thrones.s02e09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1964.mkv
+#EXTINF:-1,game.of.thrones.s02e08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1963.mkv
+#EXTINF:-1,game.of.thrones.s02e07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1962.mkv
+#EXTINF:-1,game.of.thrones.s02e06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1961.mkv
+#EXTINF:-1,game.of.thrones.s02e05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1960.mkv
+#EXTINF:-1,game.of.thrones.s02e04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1959.mkv
+#EXTINF:-1,game.of.thrones.s02e03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1958.mkv
+#EXTINF:-1,game.of.thrones.s02e02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1957.mkv
+#EXTINF:-1,game.of.thrones.s02e01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1956.mkv
+#EXTINF:-1,game.of.thrones.s01e10.final
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1955.mkv
+#EXTINF:-1,game.of.thrones.s01e09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1954.mkv
+#EXTINF:-1,game.of.thrones.s01e08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1953.mkv
+#EXTINF:-1,game.of.thrones.s01e07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1952.mkv
+#EXTINF:-1,game.of.thrones.s01e06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1951.mkv
+#EXTINF:-1,game.of.thrones.s01e05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1950.mkv
+#EXTINF:-1,game.of.thrones.s01e04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1949.mkv
+#EXTINF:-1,game.of.thrones.s01e03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1948.mkv
+#EXTINF:-1,game.of.thrones.s01e02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1947.mkv
+#EXTINF:-1,game.of.thrones.s01e01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/1946.mkv
+#EXTINF:-1,Mr.Robot.S01E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2626.mkv
+#EXTINF:-1,Mr.Robot.S01E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2627.mkv
+#EXTINF:-1,Mr.Robot.S01E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2628.mkv
+#EXTINF:-1,Mr.Robot.S01E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2629.mkv
+#EXTINF:-1,Mr.Robot.S01E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2630.mkv
+#EXTINF:-1,Mr.Robot.S01E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2631.mkv
+#EXTINF:-1,Mr.Robot.S01E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2632.mkv
+#EXTINF:-1,Mr.Robot.S01E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2633.mkv
+#EXTINF:-1,Mr.Robot.S01E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2634.mkv
+#EXTINF:-1,Mr.Robot.S01E10.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2635.mkv
+#EXTINF:-1,Mr.Robot.S02E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2636.mkv
+#EXTINF:-1,Mr.Robot.S02E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2637.mkv
+#EXTINF:-1,Mr.Robot.S02E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2638.mkv
+#EXTINF:-1,Mr.Robot.S02E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2639.mkv
+#EXTINF:-1,Mr.Robot.S02E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2640.mkv
+#EXTINF:-1,Mr.Robot.S02E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2641.mkv
+#EXTINF:-1,Mr.Robot.S02E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2642.mkv
+#EXTINF:-1,Mr.Robot.S02E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2643.mkv
+#EXTINF:-1,Mr.Robot.S02E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2644.mkv
+#EXTINF:-1,Mr.Robot.S02E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2645.mkv
+#EXTINF:-1,Mr.Robot.S02E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2646.mkv
+#EXTINF:-1,Mr.Robot.S02E12.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2647.mkv
+#EXTINF:-1,Vikings.S01E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2648.mkv
+#EXTINF:-1,Vikings.S01E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2649.mkv
+#EXTINF:-1,Vikings.S01E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2650.mkv
+#EXTINF:-1,Vikings.S01E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2651.mkv
+#EXTINF:-1,Vikings.S01E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2652.mkv
+#EXTINF:-1,Vikings.S01E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2653.mkv
+#EXTINF:-1,Vikings.S01E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2654.mkv
+#EXTINF:-1,Vikings.S01E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2655.mkv
+#EXTINF:-1,Vikings.S01E09.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2656.mkv
+#EXTINF:-1,Vikings.S02E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2657.mkv
+#EXTINF:-1,Vikings.S02E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2658.mkv
+#EXTINF:-1,Vikings.S02E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2659.mkv
+#EXTINF:-1,Vikings.S02E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2660.mkv
+#EXTINF:-1,Vikings.S02E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2661.mkv
+#EXTINF:-1,Vikings.S02E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2662.mkv
+#EXTINF:-1,Vikings.S02E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2663.mkv
+#EXTINF:-1,Vikings.S02E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2664.mkv
+#EXTINF:-1,Vikings.S02E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2665.mkv
+#EXTINF:-1,Vikings.S02E10.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2666.mkv
+#EXTINF:-1,Vikings.S03E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2667.mkv
+#EXTINF:-1,Vikings.S03E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2668.mkv
+#EXTINF:-1,Vikings.S03E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2669.mkv
+#EXTINF:-1,Vikings.S03E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2670.mkv
+#EXTINF:-1,Vikings.S03E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2671.mkv
+#EXTINF:-1,Vikings.S03E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2672.mkv
+#EXTINF:-1,Vikings.S03E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2673.mkv
+#EXTINF:-1,Vikings.S03E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2674.mkv
+#EXTINF:-1,Vikings.S03E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2675.mkv
+#EXTINF:-1,Vikings.S03E10.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2676.mkv
+#EXTINF:-1,Vikings.S04E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2677.mkv
+#EXTINF:-1,Vikings.S04E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2678.mkv
+#EXTINF:-1,Vikings.S04E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2679.mkv
+#EXTINF:-1,Vikings.S04E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2680.mkv
+#EXTINF:-1,Vikings.S04E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2681.mkv
+#EXTINF:-1,Vikings.S04E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2682.mkv
+#EXTINF:-1,Vikings.S04E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2683.mkv
+#EXTINF:-1,Vikings.S04E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2684.mkv
+#EXTINF:-1,Vikings.S04E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2685.mkv
+#EXTINF:-1,Vikings.S04E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2686.mkv
+#EXTINF:-1,Vikings.S04E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2687.mkv
+#EXTINF:-1,Vikings.S04E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2688.mkv
+#EXTINF:-1,Vikings.S04E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2689.mkv
+#EXTINF:-1,Vikings.S04E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2690.mkv
+#EXTINF:-1,Vikings.S04E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2691.mkv
+#EXTINF:-1,Vikings.S04E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2692.mkv
+#EXTINF:-1,Vikings.S04E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2693.mkv
+#EXTINF:-1,Vikings.S04E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2694.mkv
+#EXTINF:-1,Vikings.S04E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2695.mkv
+#EXTINF:-1,Vikings.S04E20.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2696.mkv
+#EXTINF:-1,Prison.break.S01E01: La grande évasion
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2804.mkv
+#EXTINF:-1,Prison.break.S01E02: Allen
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2805.mkv
+#EXTINF:-1,Prison.break.S01E03: Mise à l'épreuve
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2806.mkv
+#EXTINF:-1,Prison.break.S01E04: Alchimie
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2807.mkv
+#EXTINF:-1,Prison.break.S01E05: Le transfert
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2808.mkv
+#EXTINF:-1,Prison.break.S01E06: Au coeur de l'enfer (1 sur 2)
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2809.mkv
+#EXTINF:-1,Prison.break.S01E07: Au coeur de l'enfer (2 sur 2)
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2810.mkv
+#EXTINF:-1,Prison.break.S01E08: Route 66
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2811.mkv
+#EXTINF:-1,Prison.break.S01E09: Un homme hors du commun
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2812.mkv
+#EXTINF:-1,Prison.break.S01E10: Cause perdue
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2813.mkv
+#EXTINF:-1,Prison.break.S01E11: Un de trop
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2814.mkv
+#EXTINF:-1,Prison.break.S01E12: Rédemption
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2815.mkv
+#EXTINF:-1,Prison.break.S01E13: Au bout du tunnel
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2816.mkv
+#EXTINF:-1,Prison.break.S01E14: Comme un rat
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2817.mkv
+#EXTINF:-1,Prison.break.S01E15: In extremis
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2818.mkv
+#EXTINF:-1,Prison.break.S01E16: Les blessures de l'ame
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2819.mkv
+#EXTINF:-1,Prison.break.S01E17: Dépression
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2820.mkv
+#EXTINF:-1,Prison.break.S01E18: Poker menteur
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2821.mkv
+#EXTINF:-1,Prison.break.S01E19: La clé
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2822.mkv
+#EXTINF:-1,Prison.break.S01E20: Sans retour
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2823.mkv
+#EXTINF:-1,Prison.break.S01E21: Le grand soir
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2824.mkv
+#EXTINF:-1,Prison.break.S01E22: Les fugitifs
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2825.mkv
+#EXTINF:-1,Prison.break.S02E01: Chasse à l'homme
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2826.mkv
+#EXTINF:-1,Prison.break.S02E02: Otis
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2827.mkv
+#EXTINF:-1,Prison.break.S02E03: L'erreur est humaine
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2828.mkv
+#EXTINF:-1,Prison.break.S02E04: Association de malfaiteurs
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2829.mkv
+#EXTINF:-1,Prison.break.S02E05: Plan 1213
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2830.mkv
+#EXTINF:-1,Prison.break.S02E06: L'étau se resserre
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2831.mkv
+#EXTINF:-1,Prison.break.S02E07: Les confessions
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2832.mkv
+#EXTINF:-1,Prison.break.S02E08: A la vie, à la mort
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2833.mkv
+#EXTINF:-1,Prison.break.S02E09: Le duel
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2834.mkv
+#EXTINF:-1,Prison.break.S02E10: Rendez-vous
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2835.mkv
+#EXTINF:-1,Prison.break.S02E11: Bolshoi Booze
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2836.mkv
+#EXTINF:-1,Prison.break.S02E12: Si près du but
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2837.mkv
+#EXTINF:-1,Prison.break.S02E13: Le piège parfait
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2838.mkv
+#EXTINF:-1,Prison.break.S02E14: Un simple inconnu
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2839.mkv
+#EXTINF:-1,Prison.break.S02E15: Entre les lignes
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2840.mkv
+#EXTINF:-1,Prison.break.S02E16: La fin du voyage
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2841.mkv
+#EXTINF:-1,Prison.break.S02E17: Le pèché originel
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2842.mkv
+#EXTINF:-1,Prison.break.S02E18: Dernière chance
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2843.mkv
+#EXTINF:-1,Prison.break.S02E19: Le chantage
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2844.mkv
+#EXTINF:-1,Prison.break.S02E20: Panama
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2845.mkv
+#EXTINF:-1,Prison.break.S02E21: L'appat du gain
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2846.mkv
+#EXTINF:-1,Prison.break.S02E22: Sona
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2847.mkv
+#EXTINF:-1,Prison.break.S03E01: Survivre
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2848.mkv
+#EXTINF:-1,Prison.break.S03E02: L'eau et le feu
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2849.mkv
+#EXTINF:-1,Prison.break.S03E03: Le chat et la souris
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2850.mkv
+#EXTINF:-1,Prison.break.S03E04: Chacun pour soi
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2851.mkv
+#EXTINF:-1,Prison.break.S03E05: Interférence
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2852.mkv
+#EXTINF:-1,Prison.break.S03E06: Le dernier combat
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2853.mkv
+#EXTINF:-1,Prison.break.S03E07: Oeui pour Oeui
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2854.mkv
+#EXTINF:-1,Prison.break.S03E08: Plus dure sera la chute
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2855.mkv
+#EXTINF:-1,Prison.break.S03E09: Contre-pouvoir
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2856.mkv
+#EXTINF:-1,Prison.break.S03E10: Régner et mourir
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2857.mkv
+#EXTINF:-1,Prison.break.S03E11: 30 secondes
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2858.mkv
+#EXTINF:-1,Prison.break.S03E12: Contre vents et marées
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2859.mkv
+#EXTINF:-1,Prison.break.S03E13: Vengeance
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2860.mkv
+#EXTINF:-1,Prison.break.S04E01 et E02: De charybde ...en Scylla
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2861.mkv
+#EXTINF:-1,Prison.break.S04E03: A bout de souffle
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2862.mkv
+#EXTINF:-1,Prison.break.S04E04: Les aigles et les anges
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2863.mkv
+#EXTINF:-1,Prison.break.S04E05: L'esprit d'équipe
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2864.mkv
+#EXTINF:-1,Prison.break.S04E06: Tous pour un
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2865.mkv
+#EXTINF:-1,Prison.break.S04E07: La manière forte
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2866.mkv
+#EXTINF:-1,Prison.break.S04E08: Pacte avec le diable
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2867.mkv
+#EXTINF:-1,Prison.break.S04E09: Sacrifice
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2868.mkv
+#EXTINF:-1,Prison.break.S04E10: En terrain miné
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2869.mkv
+#EXTINF:-1,Prison.break.S04E11: L'armée du silence
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2870.mkv
+#EXTINF:-1,Prison.break.S04E12: Self controle
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2871.mkv
+#EXTINF:-1,Prison.break.S04E13: Le mieux est de fuir...
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2872.mkv
+#EXTINF:-1,Prison.break.S04E14: L'offre et la demande
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2873.mkv
+#EXTINF:-1,Prison.break.S04E15: Les apparences sont trompeuses
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2874.mkv
+#EXTINF:-1,Prison.break.S04E16: Mésalliance
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2875.mkv
+#EXTINF:-1,Prison.break.S04E17: Les liens du sang
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2876.mkv
+#EXTINF:-1,Prison.break.S04E18: Les frères ennemis
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2877.mkv
+#EXTINF:-1,Prison.break.S04E19: Fils de...
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2878.mkv
+#EXTINF:-1,Prison.break.S04E20: L'effet domino
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2879.mkv
+#EXTINF:-1,Prison.break.S04E21: Le choix de Michael
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2880.mkv
+#EXTINF:-1,Prison.break.S04E22: Vers la liberté
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2881.mkv
+#EXTINF:-1,Prison.break.S04E23 et E24: La dernière évasion
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2882.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2901.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2902.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2903.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2904.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2905.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2906.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2907.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2908.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2909.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2910.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2911.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2912.mkv
+#EXTINF:-1,Marvels.Iron.Fist.S01E13.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/2913.mkv
+#EXTINF:-1,Dr.House.S01E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3005.mkv
+#EXTINF:-1,Dr.House.S01E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3006.mkv
+#EXTINF:-1,Dr.House.S01E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3007.mkv
+#EXTINF:-1,Dr.House.S01E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3008.mkv
+#EXTINF:-1,Dr.House.S01E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3009.mkv
+#EXTINF:-1,Dr.House.S01E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3010.mkv
+#EXTINF:-1,Dr.House.S01E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3011.mkv
+#EXTINF:-1,Dr.House.S01E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3012.mkv
+#EXTINF:-1,Dr.House.S01E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3013.mkv
+#EXTINF:-1,Dr.House.S01E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3014.mkv
+#EXTINF:-1,Dr.House.S01E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3015.mkv
+#EXTINF:-1,Dr.House.S01E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3016.mkv
+#EXTINF:-1,Dr.House.S01E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3017.mkv
+#EXTINF:-1,Dr.House.S01E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3018.mkv
+#EXTINF:-1,Dr.House.S01E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3019.mkv
+#EXTINF:-1,Dr.House.S01E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3020.mkv
+#EXTINF:-1,Dr.House.S01E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3021.mkv
+#EXTINF:-1,Dr.House.S01E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3022.mkv
+#EXTINF:-1,Dr.House.S01E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3023.mkv
+#EXTINF:-1,Dr.House.S01E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3024.mkv
+#EXTINF:-1,Dr.House.S01E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3025.mkv
+#EXTINF:-1,Dr.House.S01E22.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3026.mkv
+#EXTINF:-1,Dr.House.S02E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3027.mkv
+#EXTINF:-1,Dr.House.S02E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3028.mkv
+#EXTINF:-1,Dr.House.S02E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3029.mkv
+#EXTINF:-1,Dr.House.S02E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3030.mkv
+#EXTINF:-1,Dr.House.S02E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3031.mkv
+#EXTINF:-1,Dr.House.S02E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3032.mkv
+#EXTINF:-1,Dr.House.S02E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3033.mkv
+#EXTINF:-1,Dr.House.S02E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3034.mkv
+#EXTINF:-1,Dr.House.S02E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3035.mkv
+#EXTINF:-1,Dr.House.S02E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3036.mkv
+#EXTINF:-1,Dr.House.S02E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3037.mkv
+#EXTINF:-1,Dr.House.S02E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3038.mkv
+#EXTINF:-1,Dr.House.S02E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3039.mkv
+#EXTINF:-1,Dr.House.S02E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3040.mkv
+#EXTINF:-1,Dr.House.S02E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3041.mkv
+#EXTINF:-1,Dr.House.S02E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3042.mkv
+#EXTINF:-1,Dr.House.S02E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3043.mkv
+#EXTINF:-1,Dr.House.S02E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3044.mkv
+#EXTINF:-1,Dr.House.S02E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3045.mkv
+#EXTINF:-1,Dr.House.S02E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3046.mkv
+#EXTINF:-1,Dr.House.S02E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3047.mkv
+#EXTINF:-1,Dr.House.S02E22
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3048.mkv
+#EXTINF:-1,Dr.House.S02E23
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3049.mkv
+#EXTINF:-1,Dr.House.S02E24.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3050.mkv
+#EXTINF:-1,Dr.House.S03E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3051.mkv
+#EXTINF:-1,Dr.House.S03E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3052.mkv
+#EXTINF:-1,Dr.House.S03E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3053.mkv
+#EXTINF:-1,Dr.House.S03E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3054.mkv
+#EXTINF:-1,Dr.House.S03E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3055.mkv
+#EXTINF:-1,Dr.House.S03E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3056.mkv
+#EXTINF:-1,Dr.House.S03E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3057.mkv
+#EXTINF:-1,Dr.House.S03E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3058.mkv
+#EXTINF:-1,Dr.House.S03E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3059.mkv
+#EXTINF:-1,Dr.House.S03E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3060.mkv
+#EXTINF:-1,Dr.House.S03E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3061.mkv
+#EXTINF:-1,Dr.House.S03E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3062.mkv
+#EXTINF:-1,Dr.House.S03E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3063.mkv
+#EXTINF:-1,Dr.House.S03E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3064.mkv
+#EXTINF:-1,Dr.House.S03E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3065.mkv
+#EXTINF:-1,Dr.House.S03E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3066.mkv
+#EXTINF:-1,Dr.House.S03E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3067.mkv
+#EXTINF:-1,Dr.House.S03E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3068.mkv
+#EXTINF:-1,Dr.House.S03E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3069.mkv
+#EXTINF:-1,Dr.House.S03E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3070.mkv
+#EXTINF:-1,Dr.House.S03E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3071.mkv
+#EXTINF:-1,Dr.House.S03E22
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3072.mkv
+#EXTINF:-1,Dr.House.S03E23
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3073.mkv
+#EXTINF:-1,Dr.House.S03E24.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3074.mkv
+#EXTINF:-1,Dr.House.S04E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3075.mkv
+#EXTINF:-1,Dr.House.S04E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3076.mkv
+#EXTINF:-1,Dr.House.S04E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3077.mkv
+#EXTINF:-1,Dr.House.S04E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3078.mkv
+#EXTINF:-1,Dr.House.S04E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3079.mkv
+#EXTINF:-1,Dr.House.S04E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3080.mkv
+#EXTINF:-1,Dr.House.S04E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3081.mkv
+#EXTINF:-1,Dr.House.S04E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3082.mkv
+#EXTINF:-1,Dr.House.S04E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3083.mkv
+#EXTINF:-1,Dr.House.S04E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3084.mkv
+#EXTINF:-1,Dr.House.S04E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3085.mkv
+#EXTINF:-1,Dr.House.S04E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3086.mkv
+#EXTINF:-1,Dr.House.S04E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3087.mkv
+#EXTINF:-1,Dr.House.S04E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3088.mkv
+#EXTINF:-1,Dr.House.S04E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3089.mkv
+#EXTINF:-1,Dr.House.S04E16.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3090.mkv
+#EXTINF:-1,Dr.House.S05E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3091.mkv
+#EXTINF:-1,Dr.House.S05E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3092.mkv
+#EXTINF:-1,Dr.House.S05E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3093.mkv
+#EXTINF:-1,Dr.House.S05E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3094.mkv
+#EXTINF:-1,Dr.House.S05E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3095.mkv
+#EXTINF:-1,Dr.House.S05E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3096.mkv
+#EXTINF:-1,Dr.House.S05E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3097.mkv
+#EXTINF:-1,Dr.House.S05E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3098.mkv
+#EXTINF:-1,Dr.House.S05E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3099.mkv
+#EXTINF:-1,Dr.House.S05E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3100.mkv
+#EXTINF:-1,Dr.House.S05E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3101.mkv
+#EXTINF:-1,Dr.House.S05E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3102.mkv
+#EXTINF:-1,Dr.House.S05E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3103.mkv
+#EXTINF:-1,Dr.House.S05E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3104.mkv
+#EXTINF:-1,Dr.House.S05E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3105.mkv
+#EXTINF:-1,Dr.House.S05E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3106.mkv
+#EXTINF:-1,Dr.House.S05E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3107.mkv
+#EXTINF:-1,Dr.House.S05E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3108.mkv
+#EXTINF:-1,Dr.House.S05E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3109.mkv
+#EXTINF:-1,Dr.House.S05E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3110.mkv
+#EXTINF:-1,Dr.House.S05E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3111.mkv
+#EXTINF:-1,Dr.House.S05E22
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3112.mkv
+#EXTINF:-1,Dr.House.S05E23
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3113.mkv
+#EXTINF:-1,Dr.House.S05E24.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3114.mkv
+#EXTINF:-1,Dr.House.S06E01-02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3115.mkv
+#EXTINF:-1,Dr.House.S06E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3116.mkv
+#EXTINF:-1,Dr.House.S06E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3117.mkv
+#EXTINF:-1,Dr.House.S06E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3118.mkv
+#EXTINF:-1,Dr.House.S06E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3119.mkv
+#EXTINF:-1,Dr.House.S06E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3120.mkv
+#EXTINF:-1,Dr.House.S06E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3121.mkv
+#EXTINF:-1,Dr.House.S06E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3122.mkv
+#EXTINF:-1,Dr.House.S06E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3123.mkv
+#EXTINF:-1,Dr.House.S06E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3124.mkv
+#EXTINF:-1,Dr.House.S06E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3125.mkv
+#EXTINF:-1,Dr.House.S06E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3126.mkv
+#EXTINF:-1,Dr.House.S06E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3127.mkv
+#EXTINF:-1,Dr.House.S06E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3128.mkv
+#EXTINF:-1,Dr.House.S06E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3129.mkv
+#EXTINF:-1,Dr.House.S06E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3130.mkv
+#EXTINF:-1,Dr.House.S06E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3131.mkv
+#EXTINF:-1,Dr.House.S06E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3132.mkv
+#EXTINF:-1,Dr.House.S06E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3133.mkv
+#EXTINF:-1,Dr.House.S06E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3134.mkv
+#EXTINF:-1,Dr.House.S06E22.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3135.mkv
+#EXTINF:-1,Dr.House.S07E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3136.mkv
+#EXTINF:-1,Dr.House.S07E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3137.mkv
+#EXTINF:-1,Dr.House.S07E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3138.mkv
+#EXTINF:-1,Dr.House.S07E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3139.mkv
+#EXTINF:-1,Dr.House.S07E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3140.mkv
+#EXTINF:-1,Dr.House.S07E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3141.mkv
+#EXTINF:-1,Dr.House.S07E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3142.mkv
+#EXTINF:-1,Dr.House.S07E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3143.mkv
+#EXTINF:-1,Dr.House.S07E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3144.mkv
+#EXTINF:-1,Dr.House.S07E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3145.mkv
+#EXTINF:-1,Dr.House.S07E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3146.mkv
+#EXTINF:-1,Dr.House.S07E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3147.mkv
+#EXTINF:-1,Dr.House.S07E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3148.mkv
+#EXTINF:-1,Dr.House.S07E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3149.mkv
+#EXTINF:-1,Dr.House.S07E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3150.mkv
+#EXTINF:-1,Dr.House.S07E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3151.mkv
+#EXTINF:-1,Dr.House.S07E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3152.mkv
+#EXTINF:-1,Dr.House.S07E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3153.mkv
+#EXTINF:-1,Dr.House.S07E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3154.mkv
+#EXTINF:-1,Dr.House.S07E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3155.mkv
+#EXTINF:-1,Dr.House.S07E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3156.mkv
+#EXTINF:-1,Dr.House.S07E22
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3157.mkv
+#EXTINF:-1,Dr.House.S07E23.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3158.mkv
+#EXTINF:-1,Dr.House.S08E01
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3159.mkv
+#EXTINF:-1,Dr.House.S08E02
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3160.mkv
+#EXTINF:-1,Dr.House.S08E03
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3161.mkv
+#EXTINF:-1,Dr.House.S08E04
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3162.mkv
+#EXTINF:-1,Dr.House.S08E05
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3163.mkv
+#EXTINF:-1,Dr.House.S08E06
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3164.mkv
+#EXTINF:-1,Dr.House.S08E07
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3165.mkv
+#EXTINF:-1,Dr.House.S08E08
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3166.mkv
+#EXTINF:-1,Dr.House.S08E09
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3167.mkv
+#EXTINF:-1,Dr.House.S08E10
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3168.mkv
+#EXTINF:-1,Dr.House.S08E11
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3169.mkv
+#EXTINF:-1,Dr.House.S08E12
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3170.mkv
+#EXTINF:-1,Dr.House.S08E13
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3171.mkv
+#EXTINF:-1,Dr.House.S08E14
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3172.mkv
+#EXTINF:-1,Dr.House.S08E15
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3173.mkv
+#EXTINF:-1,Dr.House.S08E16
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3174.mkv
+#EXTINF:-1,Dr.House.S08E17
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3175.mkv
+#EXTINF:-1,Dr.House.S08E18
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3176.mkv
+#EXTINF:-1,Dr.House.S08E19
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3177.mkv
+#EXTINF:-1,Dr.House.S08E20
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3178.mkv
+#EXTINF:-1,Dr.House.S08E21
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3179.mkv
+#EXTINF:-1,Dr.House.S08E22.FiNAL
+http://roiduiptv.ddns.net:9000/movie/bruno_marcilly/CzXF1al1qJ/3180.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
