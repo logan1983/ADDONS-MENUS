@@ -23,517 +23,745 @@
    
    
          
- 
+  
           <item> 
-            <title>|FR|TF1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TF1_HD</link> 
+            <title> tvg-name="TF1 " tvg-logo="" group-title="CANALSAT"TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/140.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TF1 " tvg-logo="" group-title="CANALSAT"TF1</link> 
         </item> 
           <item> 
-            <title>|FR|TF1.SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TF1.SD</link> 
+            <title> tvg-name="M6 " tvg-logo="" group-title="CANALSAT"M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/142.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="M6 " tvg-logo="" group-title="CANALSAT"M6</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_2_HD</link> 
+            <title> tvg-name="France 2 " tvg-logo="" group-title="CANALSAT"France 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/141.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="France 2 " tvg-logo="" group-title="CANALSAT"France 2</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_3_HD</link> 
+            <title> tvg-name="W9 " tvg-logo="" group-title="CANALSAT"W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/143.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="W9 " tvg-logo="" group-title="CANALSAT"W9</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_4_HD</link> 
+            <title> tvg-name="Canal   " tvg-logo="" group-title="CANALSAT"Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/1.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal   " tvg-logo="" group-title="CANALSAT"Canal</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_5_HD</link> 
+            <title> tvg-name="Canal  Cinema " tvg-logo="" group-title="CANALSAT"Canal  Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/2.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal  Cinema " tvg-logo="" group-title="CANALSAT"Canal  Cinema</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_O_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_O_HD</link> 
+            <title> tvg-name="Canal  Series " tvg-logo="" group-title="CANALSAT"Canal  Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/3.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal  Series " tvg-logo="" group-title="CANALSAT"Canal  Series</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_O</link> 
+            <title> tvg-name="Canal  Family " tvg-logo="" group-title="CANALSAT"Canal  Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/4.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal  Family " tvg-logo="" group-title="CANALSAT"Canal  Family</link> 
         </item> 
           <item> 
-            <title>|FR|M6_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|M6_HD</link> 
+            <title> tvg-name="Canal  Sport " tvg-logo="" group-title="CANALSAT"Canal  Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/5.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal  Sport " tvg-logo="" group-title="CANALSAT"Canal  Sport</link> 
         </item> 
           <item> 
-            <title>|FR|M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|M6</link> 
+            <title> tvg-name="beIN SPORTS 1 " tvg-logo="" group-title="CANALSAT"beIN SPORTS 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/183.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="beIN SPORTS 1 " tvg-logo="" group-title="CANALSAT"beIN SPORTS 1</link> 
         </item> 
           <item> 
-            <title>|FR|ARTE-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ARTE-HD</link> 
+            <title> tvg-name="beIN SPORTS 2 " tvg-logo="" group-title="CANALSAT"beIN SPORTS 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/184.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="beIN SPORTS 2 " tvg-logo="" group-title="CANALSAT"beIN SPORTS 2</link> 
         </item> 
           <item> 
-            <title>|FR|TMC-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TMC-HD</link> 
+            <title> tvg-name="beIN SPORTS 3 " tvg-logo="" group-title="CANALSAT"beIN SPORTS 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/185.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="beIN SPORTS 3 " tvg-logo="" group-title="CANALSAT"beIN SPORTS 3</link> 
         </item> 
           <item> 
-            <title>|FR|6TER-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|6TER-HD</link> 
+            <title> tvg-name="OCS Max " tvg-logo="" group-title="CANALSAT"OCS Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/190.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="OCS Max " tvg-logo="" group-title="CANALSAT"OCS Max</link> 
         </item> 
           <item> 
-            <title>|FR|ARTE_SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ARTE_SD</link> 
+            <title> tvg-name="Ciné  Premier " tvg-logo="" group-title="CANALSAT"Ciné  Premier</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/191.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Ciné  Premier " tvg-logo="" group-title="CANALSAT"Ciné  Premier</link> 
         </item> 
           <item> 
-            <title><<<<<< Cinema France>>>>>></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=<<<<<< Cinema France>>>>>></link> 
+            <title> tvg-name="Cine  Frisson ( H265 )" tvg-logo="" group-title="CANALSAT"Cine  Frisson ( H265 )</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/202.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cine  Frisson ( H265 )" tvg-logo="" group-title="CANALSAT"Cine  Frisson ( H265 )</link> 
         </item> 
           <item> 
-            <title>|FR|CANAL+HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL+HD</link> 
+            <title> tvg-name="Cine  Emotion " tvg-logo="" group-title="CANALSAT"Cine  Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/187.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cine  Emotion " tvg-logo="" group-title="CANALSAT"Cine  Emotion</link> 
         </item> 
           <item> 
-            <title>|FR|CANAL+CINEMA_</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/1932.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL+CINEMA_</link> 
+            <title> tvg-name="Ushuaïa " tvg-logo="" group-title="CANALSAT"Ushuaïa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/188.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Ushuaïa " tvg-logo="" group-title="CANALSAT"Ushuaïa</link> 
         </item> 
           <item> 
-            <title>|FR|CANAL+FAMILY-</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL+FAMILY-</link> 
+            <title> tvg-name="National Geographic " tvg-logo="" group-title="CANALSAT"National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/189.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="National Geographic " tvg-logo="" group-title="CANALSAT"National Geographic</link> 
         </item> 
           <item> 
-            <title>|FR|CINE+FRISSON-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE+FRISSON-HD</link> 
+            <title> tvg-name="FRANCEINFO:" tvg-logo="" group-title="CANALSAT"FRANCEINFO:</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/153.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="FRANCEINFO:" tvg-logo="" group-title="CANALSAT"FRANCEINFO:</link> 
         </item> 
           <item> 
-            <title>|FR|CINE+FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE+FAMIZ</link> 
+            <title> tvg-name="I-Tele" tvg-logo="" group-title="CANALSAT"I-Tele</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/41.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="I-Tele" tvg-logo="" group-title="CANALSAT"I-Tele</link> 
         </item> 
           <item> 
-            <title>|FR|Cine+Classic-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|Cine+Classic-HD</link> 
+            <title> tvg-name="LCI" tvg-logo="" group-title="CANALSAT"LCI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/40.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="LCI" tvg-logo="" group-title="CANALSAT"LCI</link> 
         </item> 
           <item> 
-            <title>|FR|CINE-POLAR-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE-POLAR-HD</link> 
+            <title> tvg-name="Infosport" tvg-logo="" group-title="CANALSAT"Infosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/88.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Infosport" tvg-logo="" group-title="CANALSAT"Infosport</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/165.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-1</link> 
+            <title> tvg-name="BFM TV" tvg-logo="" group-title="CANALSAT"BFM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/42.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="BFM TV" tvg-logo="" group-title="CANALSAT"BFM TV</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-2</link> 
+            <title> tvg-name="BFM_Business" tvg-logo="" group-title="CANALSAT"BFM_Business</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/71.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="BFM_Business" tvg-logo="" group-title="CANALSAT"BFM_Business</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-3</link> 
+            <title> tvg-name="TF1" tvg-logo="" group-title="CANALSAT"TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/19.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TF1" tvg-logo="" group-title="CANALSAT"TF1</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-4</link> 
+            <title> tvg-name="M6" tvg-logo="" group-title="CANALSAT"M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/20.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="M6" tvg-logo="" group-title="CANALSAT"M6</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/169.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-5</link> 
+            <title> tvg-name="CSTAR" tvg-logo="" group-title="CANALSAT"CSTAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/67.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="CSTAR" tvg-logo="" group-title="CANALSAT"CSTAR</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-6</link> 
+            <title> tvg-name="C8" tvg-logo="" group-title="CANALSAT"C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/70.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="C8" tvg-logo="" group-title="CANALSAT"C8</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-7</link> 
+            <title> tvg-name="W9" tvg-logo="" group-title="CANALSAT"W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/28.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="W9" tvg-logo="" group-title="CANALSAT"W9</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-8</link> 
+            <title> tvg-name="HD1" tvg-logo="" group-title="CANALSAT"HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/29.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="HD1" tvg-logo="" group-title="CANALSAT"HD1</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-9</link> 
+            <title> tvg-name="6ter" tvg-logo="" group-title="CANALSAT"6ter</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/27.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="6ter" tvg-logo="" group-title="CANALSAT"6ter</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/174.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-10</link> 
+            <title> tvg-name="France 2" tvg-logo="" group-title="CANALSAT"France 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/21.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="France 2" tvg-logo="" group-title="CANALSAT"France 2</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-11</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/175.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-11</link> 
+            <title> tvg-name="France 3" tvg-logo="" group-title="CANALSAT"France 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/22.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="France 3" tvg-logo="" group-title="CANALSAT"France 3</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-12</link> 
+            <title> tvg-name="France 4" tvg-logo="" group-title="CANALSAT"France 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/23.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="France 4" tvg-logo="" group-title="CANALSAT"France 4</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/177.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-13</link> 
+            <title> tvg-name="France 5" tvg-logo="" group-title="CANALSAT"France 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/24.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="France 5" tvg-logo="" group-title="CANALSAT"France 5</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-14</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-14</link> 
+            <title> tvg-name="France O" tvg-logo="" group-title="CANALSAT"France O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/25.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="France O" tvg-logo="" group-title="CANALSAT"France O</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-15</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-15</link> 
+            <title> tvg-name="TMC" tvg-logo="" group-title="CANALSAT"TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/44.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TMC" tvg-logo="" group-title="CANALSAT"TMC</link> 
         </item> 
           <item> 
-            <title>CANALPLAY-16</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/352.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANALPLAY-16</link> 
+            <title> tvg-name="NT1" tvg-logo="" group-title="CANALSAT"NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/36.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NT1" tvg-logo="" group-title="CANALSAT"NT1</link> 
         </item> 
           <item> 
-            <title>ALACARTE-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE-1</link> 
+            <title> tvg-name="Arte" tvg-logo="" group-title="CANALSAT"Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/26.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Arte" tvg-logo="" group-title="CANALSAT"Arte</link> 
         </item> 
           <item> 
-            <title>ALACARTE-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE-2</link> 
+            <title> tvg-name="BET" tvg-logo="" group-title="CANALSAT"BET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/35.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="BET" tvg-logo="" group-title="CANALSAT"BET</link> 
         </item> 
           <item> 
-            <title>ALACARTE-3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE-3</link> 
+            <title> tvg-name="Canal" tvg-logo="" group-title="CANALSAT"Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/6.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal" tvg-logo="" group-title="CANALSAT"Canal</link> 
         </item> 
           <item> 
-            <title>ALACARTE-4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE-4</link> 
+            <title> tvg-name="Canal Series" tvg-logo="" group-title="CANALSAT"Canal Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/9.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal Series" tvg-logo="" group-title="CANALSAT"Canal Series</link> 
         </item> 
           <item> 
-            <title>ALACARTE_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE_5</link> 
+            <title> tvg-name="Canal Family" tvg-logo="" group-title="CANALSAT"Canal Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/10.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal Family" tvg-logo="" group-title="CANALSAT"Canal Family</link> 
         </item> 
           <item> 
-            <title>ALACARTE_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE_6</link> 
+            <title> tvg-name="Canal Decale" tvg-logo="" group-title="CANALSAT"Canal Decale</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/7.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal Decale" tvg-logo="" group-title="CANALSAT"Canal Decale</link> 
         </item> 
           <item> 
-            <title>ALACARTE_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE_7</link> 
+            <title> tvg-name="Canal Cinema" tvg-logo="" group-title="CANALSAT"Canal Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/8.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal Cinema" tvg-logo="" group-title="CANALSAT"Canal Cinema</link> 
         </item> 
           <item> 
-            <title>ALACARTE_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE_8</link> 
+            <title> tvg-name="Canal  Sport" tvg-logo="" group-title="CANALSAT"Canal  Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/80.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal  Sport" tvg-logo="" group-title="CANALSAT"Canal  Sport</link> 
         </item> 
           <item> 
-            <title>ALACARTE_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE_9</link> 
+            <title> tvg-name="OCS Max" tvg-logo="" group-title="CANALSAT"OCS Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/15.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="OCS Max" tvg-logo="" group-title="CANALSAT"OCS Max</link> 
         </item> 
           <item> 
-            <title>ALACARTE-10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE-10</link> 
-        </item> 
-          <item> 
-            <title><<<<<< Sport France>>>>>></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=<<<<<< Sport France>>>>>></link> 
-        </item> 
-          <item> 
-            <title>|FR|CANAL-DECALE.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL-DECALE.HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|FOOT+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FOOT+</link> 
-        </item> 
-          <item> 
-            <title>|FR|beINSPORT-1-SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beINSPORT-1-SD</link> 
-        </item> 
-          <item> 
-            <title>|FR|beINSPORT-2-SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beINSPORT-2-SD</link> 
-        </item> 
-          <item> 
-            <title>|FR|beINSPORT-3-SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beINSPORT-3-SD</link> 
-        </item> 
-          <item> 
-            <title>|FR|INFOSPORT-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|INFOSPORT-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|L'EQUIPE_21_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|L'EQUIPE_21_HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|AB_Moteur</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|AB_Moteur</link> 
-        </item> 
-          <item> 
-            <title>beIN_Discovery-SC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_Discovery-SC</link> 
-        </item> 
-          <item> 
-            <title>|FR|EUROSPORT2-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EUROSPORT2-HD</link> 
-        </item> 
-          <item> 
-            <title>|PT|KOMBATSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=|PT|KOMBATSPORT</link> 
-        </item> 
-          <item> 
-            <title>|FR|EQUIDIA-LIFE-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EQUIDIA-LIFE-HD</link> 
-        </item> 
-          <item> 
-            <title><<<<<< Divertissement>>>>>></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=<<<<<< Divertissement>>>>>></link> 
-        </item> 
-          <item> 
-            <title>|FR|CANAL+SERIES-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL+SERIES-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|SERIE_CLUB-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SERIE_CLUB-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|SYFY-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SYFY-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TEVA</link> 
-        </item> 
-          <item> 
-            <title>RTS_UN-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS_UN-HD</link> 
-        </item> 
-          <item> 
-            <title>RTS-DEUX-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS-DEUX-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|E!_ENTERTAINEMENT-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|E!_ENTERTAINEMENT-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|BET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/449.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BET</link> 
-        </item> 
-          <item> 
-            <title>|FR|HD1-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|HD1-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|AB1</link> 
-        </item> 
-          <item> 
-            <title>|FR|AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|AB3</link> 
-        </item> 
-          <item> 
-            <title>|FR|C8_SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|C8_SD</link> 
-        </item> 
-          <item> 
-            <title>|FR|Cstar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|Cstar</link> 
-        </item> 
-          <item> 
-            <title>|FR|WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|WEO</link> 
-        </item> 
-          <item> 
-            <title>|FR|MIRABELLE_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MIRABELLE_TV</link> 
-        </item> 
-          <item> 
-            <title>|FR|RTL9-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RTL9-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|NT1-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/442.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NT1-HD</link> 
-        </item> 
-          <item> 
-            <title>|FR|W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|W9</link> 
-        </item> 
-          <item> 
-            <title>|FR|W9_SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|W9_SD</link> 
-        </item> 
-          <item> 
-            <title><<<<<< Enfants>>>>>></title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,<<<<<< Enfants&amp;streamtype=TSDOWNLOADER&amp;name=<<<<<< Enfants>>>>>></link> 
+            <title> tvg-name="OCS Geants" tvg-logo="" group-title="CANALSAT"OCS Geants</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-name="OCS Geants" tvg-logo="" group-title="CANALSAT",OCS Geants&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="OCS Geants" tvg-logo="" group-title="CANALSAT"OCS Geants</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>|FR|NICKELODEON-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NICKELODEON-HD</link> 
+            <title> tvg-name="OCS City" tvg-logo="" group-title="CANALSAT"OCS City</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/17.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="OCS City" tvg-logo="" group-title="CANALSAT"OCS City</link> 
         </item> 
           <item> 
-            <title>|BE|KETNET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/765.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|KETNET</link> 
+            <title> tvg-name="OCS Choc" tvg-logo="" group-title="CANALSAT"OCS Choc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/18.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="OCS Choc" tvg-logo="" group-title="CANALSAT"OCS Choc</link> 
         </item> 
           <item> 
-            <title>|FR|PIWI-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PIWI-HD</link> 
+            <title> tvg-name="Cine Premier" tvg-logo="" group-title="CANALSAT"Cine Premier</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/12.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cine Premier" tvg-logo="" group-title="CANALSAT"Cine Premier</link> 
         </item> 
           <item> 
-            <title>|FR|Baby_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|Baby_TV</link> 
+            <title> tvg-name="Cine Frisson" tvg-logo="" group-title="CANALSAT"Cine Frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/13.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cine Frisson" tvg-logo="" group-title="CANALSAT"Cine Frisson</link> 
         </item> 
           <item> 
-            <title>|FR|zouzous</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|zouzous</link> 
+            <title> tvg-name="Cine Emotion" tvg-logo="" group-title="CANALSAT"Cine Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/14.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cine Emotion" tvg-logo="" group-title="CANALSAT"Cine Emotion</link> 
         </item> 
           <item> 
-            <title>|FR|Canal_J-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/454.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|Canal_J-HD</link> 
+            <title> tvg-name="Serie Club" tvg-logo="" group-title="CANALSAT"Serie Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/47.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Serie Club" tvg-logo="" group-title="CANALSAT"Serie Club</link> 
         </item> 
           <item> 
-            <title>|FR|GONG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|GONG</link> 
+            <title> tvg-name="Paris Premiere" tvg-logo="" group-title="CANALSAT"Paris Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/11.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Paris Premiere" tvg-logo="" group-title="CANALSAT"Paris Premiere</link> 
         </item> 
           <item> 
-            <title>|FR|CARTOON-NETWORK-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CARTOON-NETWORK-HD</link> 
+            <title> tvg-name="Play   Cinema 1" tvg-logo="" group-title="CANALSAT"Play   Cinema 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/192.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 1" tvg-logo="" group-title="CANALSAT"Play   Cinema 1</link> 
         </item> 
           <item> 
-            <title>|FR|GULLI-FULLHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|GULLI-FULLHD</link> 
+            <title> tvg-name="Play   Cinema 2" tvg-logo="" group-title="CANALSAT"Play   Cinema 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/193.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 2" tvg-logo="" group-title="CANALSAT"Play   Cinema 2</link> 
         </item> 
           <item> 
-            <title><<<<<< Culture>>>>>></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=<<<<<< Culture>>>>>></link> 
+            <title> tvg-name="Play   Cinema 3" tvg-logo="" group-title="CANALSAT"Play   Cinema 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/194.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 3" tvg-logo="" group-title="CANALSAT"Play   Cinema 3</link> 
         </item> 
           <item> 
-            <title>|FR|PLANETE+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE+</link> 
+            <title> tvg-name="Play   Cinema 4" tvg-logo="" group-title="CANALSAT"Play   Cinema 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/195.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 4" tvg-logo="" group-title="CANALSAT"Play   Cinema 4</link> 
         </item> 
           <item> 
-            <title>|FR|PLANETE_CI-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE_CI-HD</link> 
+            <title> tvg-name="Play   Cinema 5" tvg-logo="" group-title="CANALSAT"Play   Cinema 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/196.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 5" tvg-logo="" group-title="CANALSAT"Play   Cinema 5</link> 
         </item> 
           <item> 
-            <title>|FR|PLANETE_A&amp;E-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE_A&amp;E-HD</link> 
+            <title> tvg-name="Play   Cinema 6" tvg-logo="" group-title="CANALSAT"Play   Cinema 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/197.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 6" tvg-logo="" group-title="CANALSAT"Play   Cinema 6</link> 
         </item> 
           <item> 
-            <title>|FR|DISCOVERY-SCIENCE-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISCOVERY-SCIENCE-HD</link> 
+            <title> tvg-name="Play   Cinema 7" tvg-logo="" group-title="CANALSAT"Play   Cinema 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/198.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 7" tvg-logo="" group-title="CANALSAT"Play   Cinema 7</link> 
         </item> 
           <item> 
-            <title>|FR|NATIONAL-GEO-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NATIONAL-GEO-HD</link> 
+            <title> tvg-name="Play   Cinema 8" tvg-logo="" group-title="CANALSAT"Play   Cinema 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/199.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 8" tvg-logo="" group-title="CANALSAT"Play   Cinema 8</link> 
         </item> 
           <item> 
-            <title>|FR|NAT_GEO_WILD-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NAT_GEO_WILD-HD</link> 
+            <title> tvg-name="Play   Cinema 9" tvg-logo="" group-title="CANALSAT"Play   Cinema 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/200.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 9" tvg-logo="" group-title="CANALSAT"Play   Cinema 9</link> 
         </item> 
           <item> 
-            <title>|FR|TREK-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TREK-HD</link> 
+            <title> tvg-name="Play   Cinema 10" tvg-logo="" group-title="CANALSAT"Play   Cinema 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/201.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Play   Cinema 10" tvg-logo="" group-title="CANALSAT"Play   Cinema 10</link> 
         </item> 
           <item> 
-            <title>|FR|CHASSE-PECHE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CHASSE-PECHE_HD</link> 
+            <title> tvg-name="RTS Un HD" tvg-logo="" group-title="CANALSAT"RTS Un HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/30.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RTS Un HD" tvg-logo="" group-title="CANALSAT"RTS Un HD</link> 
         </item> 
           <item> 
-            <title>|FR|toute_L'Hisoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|toute_L'Hisoire</link> 
+            <title> tvg-name="RTS Deux HD" tvg-logo="" group-title="CANALSAT"RTS Deux HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/31.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RTS Deux HD" tvg-logo="" group-title="CANALSAT"RTS Deux HD</link> 
         </item> 
           <item> 
-            <title><<<<<<News>>>>>></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=<<<<<<News>>>>>></link> 
+            <title> tvg-name="TVBREIZH" tvg-logo="" group-title="CANALSAT"TVBREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/64.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TVBREIZH" tvg-logo="" group-title="CANALSAT"TVBREIZH</link> 
         </item> 
           <item> 
-            <title>|FR|EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EURONEWS</link> 
+            <title> tvg-name="RTL TVI" tvg-logo="" group-title="CANALSAT"RTL TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/48.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RTL TVI" tvg-logo="" group-title="CANALSAT"RTL TVI</link> 
         </item> 
           <item> 
-            <title>MTV-DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/412.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV-DANCE</link> 
+            <title> tvg-name="Plug RTL" tvg-logo="" group-title="CANALSAT"Plug RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/49.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Plug RTL" tvg-logo="" group-title="CANALSAT"Plug RTL</link> 
         </item> 
           <item> 
-            <title>|FR|FRANCE_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_24</link> 
+            <title> tvg-name="Teva" tvg-logo="" group-title="CANALSAT"Teva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/45.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Teva" tvg-logo="" group-title="CANALSAT"Teva</link> 
         </item> 
           <item> 
-            <title>|FR|BFM_TV_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BFM_TV_HD</link> 
+            <title> tvg-name="Syfy" tvg-logo="" group-title="CANALSAT"Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/46.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Syfy" tvg-logo="" group-title="CANALSAT"Syfy</link> 
         </item> 
           <item> 
-            <title>|FR|BFM_TV.SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BFM_TV.SD</link> 
+            <title> tvg-name="La Une" tvg-logo="" group-title="CANALSAT"La Une</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/32.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="La Une" tvg-logo="" group-title="CANALSAT"La Une</link> 
         </item> 
           <item> 
-            <title>|FR|CNEWS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CNEWS_HD</link> 
+            <title> tvg-name="La Trois" tvg-logo="" group-title="CANALSAT"La Trois</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/34.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="La Trois" tvg-logo="" group-title="CANALSAT"La Trois</link> 
         </item> 
           <item> 
-            <title>|FR|TV5_MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TV5_MONDE</link> 
+            <title> tvg-name="La Deux" tvg-logo="" group-title="CANALSAT"La Deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/33.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="La Deux" tvg-logo="" group-title="CANALSAT"La Deux</link> 
         </item> 
           <item> 
-            <title>=====MUSIC=====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/268.ts&amp;streamtype=TSDOWNLOADER&amp;name======MUSIC=====</link> 
+            <title> tvg-name="Comedie" tvg-logo="" group-title="CANALSAT"Comedie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/59.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Comedie" tvg-logo="" group-title="CANALSAT"Comedie</link> 
         </item> 
           <item> 
-            <title>MTV-PULSE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV-PULSE</link> 
+            <title> tvg-name="Club RTL" tvg-logo="" group-title="CANALSAT"Club RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/50.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Club RTL" tvg-logo="" group-title="CANALSAT"Club RTL</link> 
         </item> 
           <item> 
-            <title>MTV-MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV-MUSIC</link> 
+            <title> tvg-name="Cinepolar" tvg-logo="" group-title="CANALSAT"Cinepolar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/60.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cinepolar" tvg-logo="" group-title="CANALSAT"Cinepolar</link> 
         </item> 
           <item> 
-            <title>|FR|M6_Music_Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|M6_Music_Club</link> 
+            <title> tvg-name="CINEFAMIZ" tvg-logo="" group-title="CANALSAT"CINEFAMIZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/68.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="CINEFAMIZ" tvg-logo="" group-title="CANALSAT"CINEFAMIZ</link> 
         </item> 
           <item> 
-            <title>MTV-BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV-BASE</link> 
+            <title> tvg-name="Cine FX" tvg-logo="" group-title="CANALSAT"Cine FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/55.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cine FX" tvg-logo="" group-title="CANALSAT"Cine FX</link> 
         </item> 
           <item> 
-            <title>|FR|NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NRJ12</link> 
+            <title> tvg-name="Action" tvg-logo="" group-title="CANALSAT"Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/52.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Action" tvg-logo="" group-title="CANALSAT"Action</link> 
         </item> 
           <item> 
-            <title>beIN_Nat-Geo-Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_Nat-Geo-Wild</link> 
+            <title> tvg-name="CHERIE_25" tvg-logo="" group-title="CANALSAT"CHERIE_25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/69.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="CHERIE_25" tvg-logo="" group-title="CANALSAT"CHERIE_25</link> 
         </item> 
           <item> 
-            <title>=====Orange=====</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/786.ts&amp;streamtype=TSDOWNLOADER&amp;name======Orange=====</link> 
+            <title> tvg-name="AB1" tvg-logo="" group-title="CANALSAT"AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/56.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="AB1" tvg-logo="" group-title="CANALSAT"AB1</link> 
         </item> 
           <item> 
-            <title>beIN_FOX-Movies-Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN_FOX-Movies-Action</link> 
+            <title> tvg-name="13eme Rue" tvg-logo="" group-title="CANALSAT"13eme Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/53.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="13eme Rue" tvg-logo="" group-title="CANALSAT"13eme Rue</link> 
         </item> 
           <item> 
-            <title>Orange_Cine</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/782.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine</link> 
+            <title> tvg-name="NUMERO_23_HD" tvg-logo="" group-title="CANALSAT"NUMERO_23_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/65.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NUMERO_23_HD" tvg-logo="" group-title="CANALSAT"NUMERO_23_HD</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+1</link> 
+            <title> tvg-name="E! Entertainment" tvg-logo="" group-title="CANALSAT"E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/57.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="E! Entertainment" tvg-logo="" group-title="CANALSAT"E! Entertainment</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+2</link> 
+            <title> tvg-name="NRJ12" tvg-logo="" group-title="CANALSAT"NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/38.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NRJ12" tvg-logo="" group-title="CANALSAT"NRJ12</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+3</link> 
+            <title> tvg-name="Voyage" tvg-logo="" group-title="CANALSAT"Voyage</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/98.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Voyage" tvg-logo="" group-title="CANALSAT"Voyage</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+4</link> 
+            <title> tvg-name="USHUAIA TV" tvg-logo="" group-title="CANALSAT"USHUAIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/99.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="USHUAIA TV" tvg-logo="" group-title="CANALSAT"USHUAIA TV</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+5</link> 
+            <title> tvg-name="Planete  CI" tvg-logo="" group-title="CANALSAT"Planete  CI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/95.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Planete  CI" tvg-logo="" group-title="CANALSAT"Planete  CI</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+6</link> 
+            <title> tvg-name="Planete" tvg-logo="" group-title="CANALSAT"Planete</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/96.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Planete" tvg-logo="" group-title="CANALSAT"Planete</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+7</link> 
+            <title> tvg-name="National Geographic" tvg-logo="" group-title="CANALSAT"National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/93.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="National Geographic" tvg-logo="" group-title="CANALSAT"National Geographic</link> 
         </item> 
           <item> 
-            <title>Orange_Cine+8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ipro.newtvhd.com:8789/live/touka70/skype/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange_Cine+8</link> 
+            <title> tvg-name="Nat Geo Wild" tvg-logo="" group-title="CANALSAT"Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/92.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Nat Geo Wild" tvg-logo="" group-title="CANALSAT"Nat Geo Wild</link> 
         </item> 
-   
+          <item> 
+            <title> tvg-name="Seasons" tvg-logo="" group-title="CANALSAT"Seasons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/186.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Seasons" tvg-logo="" group-title="CANALSAT"Seasons</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Histoire" tvg-logo="" group-title="CANALSAT"Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/94.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Histoire" tvg-logo="" group-title="CANALSAT"Histoire</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Animaux" tvg-logo="" group-title="CANALSAT"Animaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/97.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Animaux" tvg-logo="" group-title="CANALSAT"Animaux</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Chasse et Peche" tvg-logo="" group-title="CANALSAT"Chasse et Peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/51.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Chasse et Peche" tvg-logo="" group-title="CANALSAT"Chasse et Peche</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="BEIN Sport 1" tvg-logo="" group-title="CANALSAT"BEIN Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/81.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="BEIN Sport 1" tvg-logo="" group-title="CANALSAT"BEIN Sport 1</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="BEIN Sport 2" tvg-logo="" group-title="CANALSAT"BEIN Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/82.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="BEIN Sport 2" tvg-logo="" group-title="CANALSAT"BEIN Sport 2</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="BEIN Sport 3" tvg-logo="" group-title="CANALSAT"BEIN Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/83.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="BEIN Sport 3" tvg-logo="" group-title="CANALSAT"BEIN Sport 3</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="SFR SPORT 1 HD" tvg-logo="" group-title="CANALSAT"SFR SPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/84.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="SFR SPORT 1 HD" tvg-logo="" group-title="CANALSAT"SFR SPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="SFR SPORT 2 HD" tvg-logo="" group-title="CANALSAT"SFR SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/85.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="SFR SPORT 2 HD" tvg-logo="" group-title="CANALSAT"SFR SPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="SFR SPORT 3 HD" tvg-logo="" group-title="CANALSAT"SFR SPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/86.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="SFR SPORT 3 HD" tvg-logo="" group-title="CANALSAT"SFR SPORT 3 HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Eurosport 1" tvg-logo="" group-title="CANALSAT"Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/89.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Eurosport 1" tvg-logo="" group-title="CANALSAT"Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Eurosport 2" tvg-logo="" group-title="CANALSAT"Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/90.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Eurosport 2" tvg-logo="" group-title="CANALSAT"Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Equipe 21" tvg-logo="" group-title="CANALSAT"Equipe 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/87.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Equipe 21" tvg-logo="" group-title="CANALSAT"Equipe 21</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="PIWI" tvg-logo="" group-title="CANALSAT"PIWI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/62.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PIWI" tvg-logo="" group-title="CANALSAT"PIWI</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="NICKLODEON" tvg-logo="" group-title="CANALSAT"NICKLODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/78.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NICKLODEON" tvg-logo="" group-title="CANALSAT"NICKLODEON</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="NICKELODEON" tvg-logo="" group-title="CANALSAT"NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/37.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NICKELODEON" tvg-logo="" group-title="CANALSAT"NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Mangas" tvg-logo="" group-title="CANALSAT"Mangas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/63.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Mangas" tvg-logo="" group-title="CANALSAT"Mangas</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Disney XD" tvg-logo="" group-title="CANALSAT"Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/75.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Disney XD" tvg-logo="" group-title="CANALSAT"Disney XD</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="GULLI" tvg-logo="" group-title="CANALSAT"GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/73.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="GULLI" tvg-logo="" group-title="CANALSAT"GULLI</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="GAME_ONE" tvg-logo="" group-title="CANALSAT"GAME_ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/66.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="GAME_ONE" tvg-logo="" group-title="CANALSAT"GAME_ONE</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Disney Cinema" tvg-logo="" group-title="CANALSAT"Disney Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/76.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Disney Cinema" tvg-logo="" group-title="CANALSAT"Disney Cinema</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Disney Channel 1" tvg-logo="" group-title="CANALSAT"Disney Channel 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/77.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Disney Channel 1" tvg-logo="" group-title="CANALSAT"Disney Channel 1</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Disney Channel" tvg-logo="" group-title="CANALSAT"Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/79.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Disney Channel" tvg-logo="" group-title="CANALSAT"Disney Channel</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Cartoon Network" tvg-logo="" group-title="CANALSAT"Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/61.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Cartoon Network" tvg-logo="" group-title="CANALSAT"Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Boomerang TV" tvg-logo="" group-title="CANALSAT"Boomerang TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/74.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Boomerang TV" tvg-logo="" group-title="CANALSAT"Boomerang TV</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="M6 Music" tvg-logo="" group-title="CANALSAT"M6 Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/54.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="M6 Music" tvg-logo="" group-title="CANALSAT"M6 Music</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Equidia Live" tvg-logo="" group-title="CANALSAT"Equidia Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/91.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Equidia Live" tvg-logo="" group-title="CANALSAT"Equidia Live</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Enorme TV" tvg-logo="" group-title="CANALSAT"Enorme TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/58.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Enorme TV" tvg-logo="" group-title="CANALSAT"Enorme TV</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Tva sport" tvg-logo="" group-title="CANALSAT"Tva sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/173.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Tva sport" tvg-logo="" group-title="CANALSAT"Tva sport</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="TV5 MONDE" tvg-logo="" group-title="CANALSAT"TV5 MONDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/164.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TV5 MONDE" tvg-logo="" group-title="CANALSAT"TV5 MONDE</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="TREK" tvg-logo="" group-title="CANALSAT"TREK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/154.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TREK" tvg-logo="" group-title="CANALSAT"TREK</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="toute L Histoire" tvg-logo="" group-title="CANALSAT"toute L Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/155.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="toute L Histoire" tvg-logo="" group-title="CANALSAT"toute L Histoire</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Tiji kids" tvg-logo="" group-title="CANALSAT"Tiji kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/167.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Tiji kids" tvg-logo="" group-title="CANALSAT"Tiji kids</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="teletoon CAN" tvg-logo="" group-title="CANALSAT"teletoon CAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/179.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="teletoon CAN" tvg-logo="" group-title="CANALSAT"teletoon CAN</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="TELETOON" tvg-logo="" group-title="CANALSAT"TELETOON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/165.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TELETOON" tvg-logo="" group-title="CANALSAT"TELETOON</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="TELEMAGINO" tvg-logo="" group-title="CANALSAT"TELEMAGINO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/174.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TELEMAGINO" tvg-logo="" group-title="CANALSAT"TELEMAGINO</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="tele quebec" tvg-logo="" group-title="CANALSAT"tele quebec</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/178.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="tele quebec" tvg-logo="" group-title="CANALSAT"tele quebec</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Science et Vie" tvg-logo="" group-title="CANALSAT"Science et Vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/156.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Science et Vie" tvg-logo="" group-title="CANALSAT"Science et Vie</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="RTL9" tvg-logo="" group-title="CANALSAT"RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/157.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RTL9" tvg-logo="" group-title="CANALSAT"RTL9</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="RMC Decouverte HD" tvg-logo="" group-title="CANALSAT"RMC Decouverte HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/158.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RMC Decouverte HD" tvg-logo="" group-title="CANALSAT"RMC Decouverte HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="RDS" tvg-logo="" group-title="CANALSAT"RDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/177.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RDS" tvg-logo="" group-title="CANALSAT"RDS</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="NUMERO 23" tvg-logo="" group-title="CANALSAT"NUMERO 23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/159.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NUMERO 23" tvg-logo="" group-title="CANALSAT"NUMERO 23</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="NRJ 12" tvg-logo="" group-title="CANALSAT"NRJ 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/160.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="NRJ 12" tvg-logo="" group-title="CANALSAT"NRJ 12</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="LCP" tvg-logo="" group-title="CANALSAT"LCP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/161.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="LCP" tvg-logo="" group-title="CANALSAT"LCP</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="L EQUIPE 21" tvg-logo="" group-title="CANALSAT"L EQUIPE 21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/162.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="L EQUIPE 21" tvg-logo="" group-title="CANALSAT"L EQUIPE 21</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="ici montreal." tvg-logo="" group-title="CANALSAT"ici montreal.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/175.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="ici montreal." tvg-logo="" group-title="CANALSAT"ici montreal.</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="EURONEWS" tvg-logo="" group-title="CANALSAT"EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/168.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="EURONEWS" tvg-logo="" group-title="CANALSAT"EURONEWS</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Disney Junior" tvg-logo="" group-title="CANALSAT"Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/166.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Disney Junior" tvg-logo="" group-title="CANALSAT"Disney Junior</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="canal vie" tvg-logo="" group-title="CANALSAT"canal vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/180.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="canal vie" tvg-logo="" group-title="CANALSAT"canal vie</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="Canal Sport" tvg-logo="" group-title="CANALSAT"Canal Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/169.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="Canal Sport" tvg-logo="" group-title="CANALSAT"Canal Sport</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="AB MOTEURS" tvg-logo="" group-title="CANALSAT"AB MOTEURS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/163.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="AB MOTEURS" tvg-logo="" group-title="CANALSAT"AB MOTEURS</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-1" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/100.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-1" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-1</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-2" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/101.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-2" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-2</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-3" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/102.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-3" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-3</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-4" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/103.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-4" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-4</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-5" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/104.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-5" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-5</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-6" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/105.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-6" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-6</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-7" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/106.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-7" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-7</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-8" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/107.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-8" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-8</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-9" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/108.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-9" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-9</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-10" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/109.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-10" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-10</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-11" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/110.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-11" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-11</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-12" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/111.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-12" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-12</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-13" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/112.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-13" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-13</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-14" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/113.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-14" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-14</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-15" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/114.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-15" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-15</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-16" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/115.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-16" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-16</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-17" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/116.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-17" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-17</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-18" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-18</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/117.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-18" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-18</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-19" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-19</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/118.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-19" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-19</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-20" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/119.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-20" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-20</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-21" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-21</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/120.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-21" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-21</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-22" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-22</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/121.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-22" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-22</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-23" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/122.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-23" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-23</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-24" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/123.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-24" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-24</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-25" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-25</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/124.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-25" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-25</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-26" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-26</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/125.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-26" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-26</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-27" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-27</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/126.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-27" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-27</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-28" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-28</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/127.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-28" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-28</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-29" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-29</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/128.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-29" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-29</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-30" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-30</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/129.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-30" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-30</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-31" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-31</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/130.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-31" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-31</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-32" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-32</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/131.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-32" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-32</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-33" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-33</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/132.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-33" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-33</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-34" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-34</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/133.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-34" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-34</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-35" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-35</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/134.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-35" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-35</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-36" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-36</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/135.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-36" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-36</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-37" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-37</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/136.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-37" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-37</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-38" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-38</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/137.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-38" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-38</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-39" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-39</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/138.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-39" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-39</link> 
+        </item> 
+          <item> 
+            <title> tvg-name="A-LA-CARTE-40" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://62.210.245.19:8000/live/testapp/testapp/139.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="A-LA-CARTE-40" tvg-logo="" group-title="A-LA-CARTE"A-LA-CARTE-40</link> 
+        </item> 
+  
