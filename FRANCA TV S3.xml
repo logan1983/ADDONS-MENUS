@@ -35,465 +35,1029 @@
  
   
    
+  
           <item> 
-            <title>TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://supiptv.com:8000/live/tester/tester/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1</link> 
+            <title>TF1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/440.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 FR</link> 
         </item> 
-         
           <item> 
-            <title>FR : 13eme Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8652.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : 13eme Rue</link> 
+            <title>TF1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/441.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 HD FR</link> 
         </item> 
           <item> 
-            <title>FR : 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8649.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : 6TER</link> 
+            <title>TF1 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6488.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR : AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8659.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : AB3</link> 
+            <title>M6 Boutique FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 Boutique FR</link> 
         </item> 
           <item> 
-            <title>FR : CHERIE 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8656.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : CHERIE 25 HD</link> 
+            <title>M6 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 FR</link> 
         </item> 
           <item> 
-            <title>FR : Cine Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8668.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : Cine Premiere</link> 
+            <title>M6 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/432.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 HD FR</link> 
         </item> 
           <item> 
-            <title>FR : D17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : D17</link> 
+            <title>M6 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6489.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR : D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : D8</link> 
+            <title>M6 Music FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6 Music FR</link> 
         </item> 
           <item> 
-            <title>FR : NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8651.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : NRJ12</link> 
+            <title>France 2 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/438.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2 FR</link> 
         </item> 
           <item> 
-            <title>FR : NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8650.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : NT1</link> 
+            <title>France 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/439.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2 HD FR</link> 
         </item> 
           <item> 
-            <title>FR : RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8647.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : RTL9</link> 
+            <title>France 2 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6535.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 2 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR : Serie Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8655.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : Serie Club</link> 
+            <title>France 3 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/436.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 3 FR</link> 
         </item> 
           <item> 
-            <title>FR : Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8646.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : Syfy</link> 
+            <title>France 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/437.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 3 HD FR</link> 
         </item> 
           <item> 
-            <title>FR : TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8644.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : TF1 HD</link> 
+            <title>France 4 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/435.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 4 HD FR</link> 
         </item> 
           <item> 
-            <title>FR : Tmc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8666.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : Tmc</link> 
+            <title>France 5 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/434.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 5 FR</link> 
         </item> 
           <item> 
-            <title>FR : W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8645.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : W9</link> 
+            <title>France Ô FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/433.ts&amp;streamtype=TSDOWNLOADER&amp;name=France Ô FR</link> 
         </item> 
-          <item> 
-            <title>FR:&amp;nbsp; Enorme TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8657.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:&amp;nbsp; Enorme TV</link> 
-        </item> 
-          <item> 
-            <title>FR: 13 Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/17601.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 Rue</link> 
-        </item> 
-          <item> 
-            <title>FR: 6Ter HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6Ter HD</link> 
-        </item> 
-          <item> 
-            <title>FR: A LA CARTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9455.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 1</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9464.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 10</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9456.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 2</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9457.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 3</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9458.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 4</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9459.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 5</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9460.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 6</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9461.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 7</link> 
-        </item> 
-          <item> 
-            <title>FR: A la Carte 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9463.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la Carte 9</link> 
-        </item> 
-          <item> 
-            <title>FR: AB1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8658.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1_HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8667.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action</link> 
-        </item> 
-          <item> 
-            <title>FR: Animaux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9420.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux</link> 
-        </item> 
-          <item> 
-            <title>FR: Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
-        </item> 
-          <item> 
-            <title>FR: BEIN SPORTS Max 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS Max 4</link> 
-        </item> 
-          <item> 
-            <title>FR: BEIN SPORTS Max 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS Max 5</link> 
-        </item> 
-          <item> 
-            <title>FR: BEIN SPORTS Max 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS Max 6</link> 
-        </item> 
-          <item> 
-            <title>FR: BEIN SPORTS Max 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS Max 7</link> 
-        </item> 
-          <item> 
-            <title>FR: BEIN SPORTS Max 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS Max 8</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9438.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV HD</link> 
-        </item> 
-          <item> 
-            <title>FR: BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9437.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal&amp;nbsp;&amp;nbsp; Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9419.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal&amp;nbsp;&amp;nbsp; Cinema</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal&amp;nbsp;&amp;nbsp; Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9418.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal&amp;nbsp;&amp;nbsp; Family</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL&amp;nbsp; Décalé</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9454.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL&amp;nbsp; Décalé</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal&amp;nbsp; Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9445.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal&amp;nbsp; Family</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9444.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal +</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9417.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Series</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal+&amp;nbsp; Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9416.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+&amp;nbsp; Sport</link> 
-        </item> 
-          <item> 
-            <title>FR: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9415.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>FR: CHASSE &amp;amp; PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9452.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CHASSE &amp;amp; PECHE</link> 
-        </item> 
-          <item> 
-            <title>FR: Cherie 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9421.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cherie 25</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE&amp;nbsp;&amp;nbsp; Famiz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9448.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE&amp;nbsp;&amp;nbsp; Famiz</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine&amp;nbsp; Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9414.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine&amp;nbsp; Classic</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE&amp;nbsp; Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9449.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE&amp;nbsp; Emotion</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE&amp;nbsp; FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9446.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE&amp;nbsp; FRISSON</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine&amp;nbsp; Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9413.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine&amp;nbsp; Premier</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Fx</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9412.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Fx</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8665.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine POLAR</link> 
-        </item> 
-          <item> 
-            <title>FR: COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9447.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: COMEDIE</link> 
-        </item> 
-          <item> 
-            <title>FR: COMEDIE+ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8662.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: COMEDIE+ HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9411.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery</link> 
-        </item> 
-          <item> 
-            <title>FR: Discovery science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9410.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery science</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9435.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY CHANNEL&amp;nbsp; FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9436.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CHANNEL&amp;nbsp; FHD</link> 
-        </item> 
-          <item> 
-            <title>FR: Disney Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Cinema</link> 
-        </item> 
-          <item> 
-            <title>FR: Disney junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9409.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney junior</link> 
-        </item> 
-          <item> 
-            <title>FR: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9453.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>FR: Equida Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13703.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Equida Live</link> 
-        </item> 
-          <item> 
-            <title>FR: Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9408.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Euronews</link> 
-        </item> 
-          <item> 
-            <title>FR: Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9407.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport</link> 
-        </item> 
-          <item> 
-            <title>FR: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/14080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-            <title>FR: Eurosport 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9406.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport 2 FHD</link> 
-        </item> 
-          <item> 
-            <title>FR: Foot+24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9405.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Foot+24</link> 
-        </item> 
-          <item> 
-            <title>FR: France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
-        </item> 
-          <item> 
-            <title>FR: France 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3</link> 
+                    <item> 
+            <title>Arte FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte FR</link> 
         </item> 
           <item> 
-            <title>FR: France 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD</link> 
+            <title>Arte FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Arte FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
+            <title>TV5MONDE FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5MONDE FR</link> 
         </item> 
           <item> 
-            <title>FR: France O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8592.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O</link> 
+            <title>RTS Un HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/424.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS Un HD FR</link> 
         </item> 
           <item> 
-            <title>FR: GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GULLI</link> 
+            <title>RTS Deux HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/423.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTS Deux HD FR</link> 
+        </item>
+<item> 
+            <title>13eme Rue FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme Rue FR</link> 
         </item> 
           <item> 
-            <title>FR: HD1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8648.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1 HD</link> 
+            <title>13eme Rue FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4116.ts&amp;streamtype=TSDOWNLOADER&amp;name=13eme Rue FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9426.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Histoire</link> 
+            <title>serieclub FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=serieclub FR</link> 
         </item> 
           <item> 
-            <title>FR: I-Tele HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13078.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: I-Tele HD</link> 
+            <title>serieclub FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4099.ts&amp;streamtype=TSDOWNLOADER&amp;name=serieclub FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: Infosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9404.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Infosport</link> 
+            <title>HD1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1473.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 FR</link> 
         </item> 
           <item> 
-            <title>FR: L'EQUIPE 21 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9465.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'EQUIPE 21 HD</link> 
+            <title>HD1 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4113.ts&amp;streamtype=TSDOWNLOADER&amp;name=HD1 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9439.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI</link> 
+            <title>RTL 9 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 9 FR</link> 
         </item> 
           <item> 
-            <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/2920.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <title>RTL 9 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4120.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL 9 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: M6 Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9429.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 Music</link> 
+            <title>NT1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 FR</link> 
         </item> 
           <item> 
-            <title>FR: MANGA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MANGA</link> 
+            <title>NT1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1 HD FR</link> 
         </item> 
           <item> 
-            <title>FR: Mangas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9401.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Mangas</link> 
+            <title>W9 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/430.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 HD FR</link> 
         </item> 
           <item> 
-            <title>FR: National geo wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9400.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National geo wild</link> 
+            <title>W9 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4117.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: National geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9399.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National geographic</link> 
+            <title>C-8 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1474.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-8 FR</link> 
         </item> 
           <item> 
-            <title>FR: NRJ 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9422.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12</link> 
+            <title>C-8 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/428.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-8 HD FR</link> 
         </item> 
           <item> 
-            <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13076.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
+            <title>C-Star FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-Star FR</link> 
         </item> 
           <item> 
-            <title>FR: Ocs Choc HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9398.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs Choc HD</link> 
+            <title>C-Star HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1381.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-Star HD FR</link> 
         </item> 
           <item> 
-            <title>FR: OCS City HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9450.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City HD</link> 
+            <title>NRJ 12 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ 12 FR</link> 
         </item> 
           <item> 
-            <title>FR: OCS Géants HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: OCS Géants&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Géants HD</link> 
+            <title>NRJ Hits FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,NRJ Hits&amp;streamtype=TSDOWNLOADER&amp;name=NRJ Hits FR</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9451.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4059.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Ocs max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9397.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs max</link> 
+            <title>TVBreizh FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4076.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVBreizh FR</link> 
         </item> 
           <item> 
-            <title>FR: PARAMOUNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8664.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT</link> 
+            <title>TVBreizh HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVBreizh HD FR</link> 
         </item> 
           <item> 
-            <title>FR: Paris Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8653.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Premiere</link> 
+            <title>Chérie 25 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chérie 25 FR</link> 
         </item> 
           <item> 
-            <title>FR: PIWI+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9432.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PIWI+</link> 
+            <title>Chérie 25 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chérie 25 FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: Planete+ CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9395.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete+ CI</link> 
+            <title>6ter FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/425.ts&amp;streamtype=TSDOWNLOADER&amp;name=6ter FR</link> 
         </item> 
           <item> 
-            <title>FR: RMC DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9440.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC DECOUVERTE</link> 
+            <title>6ter HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/426.ts&amp;streamtype=TSDOWNLOADER&amp;name=6ter HD FR</link> 
         </item> 
           <item> 
-            <title>FR: RTS DEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13074.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS DEUX</link> 
+            <title>6ter FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4118.ts&amp;streamtype=TSDOWNLOADER&amp;name=6ter FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: RTS UN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13073.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS UN</link> 
+            <title>Numéro 23 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=Numéro 23 FR</link> 
         </item> 
           <item> 
-            <title>FR: Science et vie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9394.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Science et vie</link> 
+            <title>Be Curious TV FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4111.ts&amp;streamtype=TSDOWNLOADER&amp;name=Be Curious TV FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: Science&amp;amp;Vie TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9442.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Science&amp;amp;Vie TV</link> 
+            <title>Canal Alpha JU FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4079.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Alpha JU FR</link> 
         </item> 
           <item> 
-            <title>FR: Serie club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9393.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Serie club</link> 
+            <title>France Info FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=France Info FR</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13053.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 1 HD</link> 
+            <title>BFM TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/421.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM TV FR</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13054.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 2 HD</link> 
+            <title>BFM Business FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4060.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM Business FR</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 3 HD</link> 
+            <title>CANAL+ HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1471.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ HD FR</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/13720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 5 HD</link> 
+            <title>CANAL+ FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4109.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: TELETOON + HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON + HD</link> 
+            <title>CANAL+ Cinema HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1470.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Cinema HD FR</link> 
         </item> 
           <item> 
-            <title>FR: Téva HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9428.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Téva HD</link> 
+            <title>CANAL+ Cinema FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4106.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Cinema FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: Toute l'histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9427.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Toute l'histoire</link> 
+            <title>CANAL+ Family HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1468.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Family HD FR</link> 
         </item> 
           <item> 
-            <title>FR: TV-breizh HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/8654.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV-breizh HD</link> 
+            <title>CANAL+ Family FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4108.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Family FHD FR</link> 
         </item> 
           <item> 
-            <title>FR: USHUAIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://sporti.tv:6500/live/wKG3YmUVXf/97k9cIvcrr/9441.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: USHUAIA TV</link> 
+            <title>CANAL+ Decale HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1469.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Decale HD FR</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ Décalé FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4107.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Décalé FHD FR</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ Series HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1466.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Series HD FR</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ Series FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4105.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Series FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Premier HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Premier HD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Premier FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4104.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Premier FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Famiz FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1467.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Famiz FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Famiz HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Famiz HD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Classic HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Classic HD FR</link> 
+        </item> 
+          <item> 
+            <title>Cine+ Classic FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6534.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine+ Classic FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Frisson HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Frisson HD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Frisson FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4103.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Frisson FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Emotion HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Emotion HD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Emotion FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4101.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Emotion FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné+ Club FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4100.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné+ Club FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné Polar FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné Polar FR</link> 
+        </item> 
+          <item> 
+            <title>Ciné FX FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ciné FX FR</link> 
+        </item> 
+          <item> 
+            <title>Action FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action FR</link> 
+        </item> 
+          <item> 
+            <title>Action FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Action FHD FR</link> 
+        </item> 
+          <item> 
+            <title>TCM Cinéma HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM Cinéma HD FR</link> 
+        </item> 
+          <item> 
+            <title>TCM Cinéma FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4042.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM Cinéma FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Paramount Channel FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1383.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Paramount Channel HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4050.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel HD FR</link> 
+        </item> 
+          <item> 
+            <title>TMC FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC FR</link> 
+        </item> 
+          <item> 
+            <title>Syfy FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy FR</link> 
+        </item> 
+          <item> 
+            <title>Syfy FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4115.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy FHD FR</link> 
+        </item> 
+          <item> 
+            <title>E! FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1379.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! FR</link> 
+        </item> 
+          <item> 
+            <title>Comédie+ FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comédie+ FR</link> 
+        </item> 
+          <item> 
+            <title>AB1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1 FR</link> 
+        </item> 
+          <item> 
+            <title>AB3 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4077.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB3 FR</link> 
+        </item> 
+          <item> 
+            <title>MCM FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM FR</link> 
+        </item> 
+          <item> 
+            <title>Mezzo Live HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4080.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mezzo Live HD FR</link> 
+        </item> 
+          <item> 
+            <title>MTV Base FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4056.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Base FR</link> 
+        </item> 
+          <item> 
+            <title>MTV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4055.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV FR</link> 
+        </item> 
+          <item> 
+            <title>MTV Hits FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=MTV Hits FR</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4057.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>MTV Music FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4058.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV Music FR</link> 
+        </item> 
+          <item> 
+            <title>RFM FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1380.ts&amp;streamtype=TSDOWNLOADER&amp;name=RFM FR</link> 
+        </item> 
+          <item> 
+            <title>Trace Urban FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4075.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace Urban FR</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ Sport HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Sport HD FR</link> 
+        </item> 
+          <item> 
+            <title>CANAL+ Sport FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4094.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ Sport FHD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1170.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 1 HD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 1 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4086.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 1 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1169.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 2 HD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 2 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4085.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 2 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1168.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 3 HD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 3 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4084.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 3 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 4K FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4083.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 4K FHD FR</link> 
+        </item> 
+          <item> 
+            <title>SFR Sport 5 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4082.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 5 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 1 FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 1 HD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 1 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4093.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 1 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 2 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/415.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 2 FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/416.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 2 HD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 2 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4092.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 2 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 3 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/413.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 3 FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/414.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 3 HD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS 3 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4091.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS 3 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS MAX 4 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4090.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS MAX 4 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS MAX 5 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4089.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS MAX 5 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS MAX 6 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4088.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS MAX 6 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>beIN SPORTS MAX 7 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4087.ts&amp;streamtype=TSDOWNLOADER&amp;name=beIN SPORTS MAX 7 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>InfoSport+ FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4047.ts&amp;streamtype=TSDOWNLOADER&amp;name=InfoSport+ FR</link> 
+        </item> 
+          <item> 
+            <title>InfoSport+ FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6536.ts&amp;streamtype=TSDOWNLOADER&amp;name=InfoSport+ FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1389.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 FR</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1388.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 FR</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6537.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 FHD FR</link> 
+        </item> 
+          <item> 
+            <title>L'Equipe 21 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1387.ts&amp;streamtype=TSDOWNLOADER&amp;name=L'Equipe 21 FR</link> 
+        </item> 
+          <item> 
+            <title>Equidia Life FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia Life FR</link> 
+        </item> 
+          <item> 
+            <title>Equidia Live FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1386.ts&amp;streamtype=TSDOWNLOADER&amp;name=Equidia Live FR</link> 
+        </item> 
+          <item> 
+            <title>Paris Premiere FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paris Premiere FR</link> 
+        </item> 
+          <item> 
+            <title>téva FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=téva FR</link> 
+        </item> 
+          <item> 
+            <title>téva HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4114.ts&amp;streamtype=TSDOWNLOADER&amp;name=téva HD FR</link> 
+        </item> 
+          <item> 
+            <title>GOLF+ FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1378.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF+ FHD FR</link> 
+        </item> 
+          <item> 
+            <title>AB Moteurs FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1385.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB Moteurs FR</link> 
+        </item> 
+          <item> 
+            <title>BFM Sport FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1167.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM Sport FR</link> 
+        </item> 
+          <item> 
+            <title>FOOT+ 24/24 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOT+ 24/24 FR</link> 
+        </item> 
+          <item> 
+            <title>OLTV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4048.ts&amp;streamtype=TSDOWNLOADER&amp;name=OLTV FR</link> 
+        </item> 
+          <item> 
+            <title>Seasons FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=Seasons FR</link> 
+        </item> 
+          <item> 
+            <title>Season FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4081.ts&amp;streamtype=TSDOWNLOADER&amp;name=Season FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Elle Girl FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1375.ts&amp;streamtype=TSDOWNLOADER&amp;name=Elle Girl FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel +1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4053.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel +1 FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Cinema FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinema FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Cinema HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinema HD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Cinema FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Cinema FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Junior HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior HD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney Junior FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4097.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney XD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1376.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD FR</link> 
+        </item> 
+          <item> 
+            <title>Disney XD FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4096.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon FR</link> 
+        </item> 
+          <item> 
+            <title>Nick Jr. FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Jr. FR</link> 
+        </item> 
+          <item> 
+            <title>téléTOON+ FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=téléTOON+ FR</link> 
+        </item> 
+          <item> 
+            <title>Canal J FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal J FR</link> 
+        </item> 
+          <item> 
+            <title>Mangas FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1409.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mangas FR</link> 
+        </item> 
+          <item> 
+            <title>Gulli FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gulli FR</link> 
+        </item> 
+          <item> 
+            <title>Gulli HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=Gulli HD FR</link> 
+        </item> 
+          <item> 
+            <title>Piwi+ HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=Piwi+ HD FR</link> 
+        </item> 
+          <item> 
+            <title>Piwi  FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Piwi  FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Tiji FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tiji FR</link> 
+        </item> 
+          <item> 
+            <title>Cartoon Network FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network FR</link> 
+        </item> 
+          <item> 
+            <title>Cartoon Network FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Boomerang FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4052.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang FR</link> 
+        </item> 
+          <item> 
+            <title>Boing FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing FR</link> 
+        </item> 
+          <item> 
+            <title>Boing FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing FHD FR</link> 
+        </item> 
+          <item> 
+            <title>KTO FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4041.ts&amp;streamtype=TSDOWNLOADER&amp;name=KTO FR</link> 
+        </item> 
+          <item> 
+            <title>BET FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4078.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET FR</link> 
+        </item> 
+          <item> 
+            <title>Game One FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=Game One FR</link> 
+        </item> 
+          <item> 
+            <title>RMC Decouverte HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1384.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC Decouverte HD FR</link> 
+        </item> 
+          <item> 
+            <title>Planète+ A&amp;E HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ A&amp;E HD FR</link> 
+        </item> 
+          <item> 
+            <title>Planète+ CI HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ CI HD FR</link> 
+        </item> 
+          <item> 
+            <title>Planete+ Crime Investigation FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+ Crime Investigation FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Planète+ HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planète+ HD FR</link> 
+        </item> 
+          <item> 
+            <title>Planete+ FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Planete+ FHD FR</link> 
+        </item> 
+          <item> 
+            <title>National Geographic HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD FR</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo Wild HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild HD FR</link> 
+        </item> 
+          <item> 
+            <title>Nat Geo Wild FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nat Geo Wild FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Discovery Channel HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel HD FR</link> 
+        </item> 
+          <item> 
+            <title>Discovery FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6526.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Discovery Science HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science HD FR</link> 
+        </item> 
+          <item> 
+            <title>Discovery Science FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Science FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Investigation Discovery HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Investigation Discovery HD FR</link> 
+        </item> 
+          <item> 
+            <title>Animaux HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux HD FR</link> 
+        </item> 
+          <item> 
+            <title>Animaux FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Animaux FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Voyage FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage FR</link> 
+        </item> 
+          <item> 
+            <title>Voyage FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Voyage FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Trek HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4119.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trek HD FR</link> 
+        </item> 
+          <item> 
+            <title>Trek FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trek FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Histoire FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire FR</link> 
+        </item> 
+          <item> 
+            <title>Histoire FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6524.ts&amp;streamtype=TSDOWNLOADER&amp;name=Histoire FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Toute l'Histoire FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toute l'Histoire FR</link> 
+        </item> 
+          <item> 
+            <title>Ushuaïa TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ushuaïa TV FR</link> 
+        </item> 
+          <item> 
+            <title>Ushuaia FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ushuaia FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Zouzous FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4051.ts&amp;streamtype=TSDOWNLOADER&amp;name=Zouzous FR</link> 
+        </item> 
+          <item> 
+            <title>Africa 24 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=Africa 24 FR</link> 
+        </item> 
+          <item> 
+            <title>Alsace 20 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4070.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alsace 20 FR</link> 
+        </item> 
+          <item> 
+            <title>Amazing TV PL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4046.ts&amp;streamtype=TSDOWNLOADER&amp;name=Amazing TV PL</link> 
+        </item> 
+          <item> 
+            <title>C-News FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/422.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-News FR</link> 
+        </item> 
+          <item> 
+            <title>CNews FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6518.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNews FHD FR</link> 
+        </item> 
+          <item> 
+            <title>Campagne TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4049.ts&amp;streamtype=TSDOWNLOADER&amp;name=Campagne TV FR</link> 
+        </item> 
+          <item> 
+            <title>Chasse et Pêche FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=Chasse et Pêche FR</link> 
+        </item> 
+          <item> 
+            <title>Clubbing TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=Clubbing TV FR</link> 
+        </item> 
+          <item> 
+            <title>Demain TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4061.ts&amp;streamtype=TSDOWNLOADER&amp;name=Demain TV FR</link> 
+        </item> 
+          <item> 
+            <title>Euronews FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/420.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews FR</link> 
+        </item> 
+          <item> 
+            <title>France 24 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/419.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 24 FR</link> 
+        </item> 
+          <item> 
+            <title>ILTV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4072.ts&amp;streamtype=TSDOWNLOADER&amp;name=ILTV FR</link> 
+        </item> 
+          <item> 
+            <title>J-One FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=J-One FR</link> 
+        </item> 
+          <item> 
+            <title>La Chaîne Normande TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4073.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Chaîne Normande TV FR</link> 
+        </item> 
+          <item> 
+            <title>Mirabelle TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4074.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mirabelle TV FR</link> 
+        </item> 
+          <item> 
+            <title>Ofive TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=Ofive TV FR</link> 
+        </item> 
+          <item> 
+            <title>Public Sénat FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=Public Sénat FR</link> 
+        </item> 
+          <item> 
+            <title>La Une HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1382.ts&amp;streamtype=TSDOWNLOADER&amp;name=La Une HD FR</link> 
+        </item> 
+          <item> 
+            <title>Science &amp; Vie TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=Science &amp; Vie TV FR</link> 
+        </item> 
+          <item> 
+            <title>Stingray Brava FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=Stingray Brava FR</link> 
+        </item> 
+          <item> 
+            <title>Vosges Télévision HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Vosges Télévision HD FR</link> 
+        </item> 
+          <item> 
+            <title>Weo FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Weo FR</link> 
+        </item> 
+          <item> 
+            <title>eNORME TV FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4071.ts&amp;streamtype=TSDOWNLOADER&amp;name=eNORME TV FR</link> 
+        </item> 
+          <item> 
+            <title>i24NEWS FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4062.ts&amp;streamtype=TSDOWNLOADER&amp;name=i24NEWS FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Choc FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Choc FR</link> 
+        </item> 
+          <item> 
+            <title>OCS City FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS City FR</link> 
+        </item> 
+          <item> 
+            <title>OCS City FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6531.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS City FHD FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Geants FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,OCS Geants&amp;streamtype=TSDOWNLOADER&amp;name=OCS Geants FR</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>OCS Geants FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,OCS Geants&amp;streamtype=TSDOWNLOADER&amp;name=OCS Geants FHD FR</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6533.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>OCS Max FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Max FR</link> 
+        </item> 
+          <item> 
+            <title>OCS MAX FHD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/6532.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS MAX FHD FR</link> 
+        </item> 
+          <item> 
+            <title>A La Carte 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4141.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 1 HD FR</link> 
+        </item> 
+          <item> 
+            <title>A La Carte 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4140.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 2 HD FR</link> 
+        </item> 
+          <item> 
+            <title>A La Carte 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4139.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 3 HD FR</link> 
+        </item> 
+          <item> 
+            <title>A La Carte 4 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4138.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 4 HD FR</link> 
+        </item> 
+          <item> 
+            <title>A La Carte 5 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4137.ts&amp;streamtype=TSDOWNLOADER&amp;name=A La Carte 5 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Canal Play 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Play 1 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Canal Play 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4125.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Play 2 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Canal Play 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Play 3 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Canal Play 4 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Play 4 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Canal Play 5 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4122.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Play 5 HD FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Go Cinema 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4131.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Go Cinema 1 HD FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Go Cinema 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4130.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Go Cinema 2 HD FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Go Cinema 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4129.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Go Cinema 3 HD FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Go Cinema 4 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4128.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Go Cinema 4 HD FR</link> 
+        </item> 
+          <item> 
+            <title>OCS Go Cinema 5 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4127.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS Go Cinema 5 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4136.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema 1 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4135.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema 2 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema 3 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema 4 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4133.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema 4 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema 5 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4132.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema 5 HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema Action HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4066.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema Action HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema Aventure HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4067.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema Aventure HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4068.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Cinema Horreur HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4069.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Cinema Horreur HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Comment C'Est Fait HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4064.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Comment C'Est Fait HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Documentaire HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4063.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Documentaire HD FR</link> 
+        </item> 
+          <item> 
+            <title>Orange Enquete Exlusive HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.137:8080/live/JELj3YBXB4/91pzzdxns2/4065.ts&amp;streamtype=TSDOWNLOADER&amp;name=Orange Enquete Exlusive HD FR</link> 
         </item> 
   
