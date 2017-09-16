@@ -24,213 +24,293 @@
 
 
  
-          <item> 
-            <title>ES_M_ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_ACCION</link> 
-        </item> 
-          <item> 
-            <title>ES_M_COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/640.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_COMEDIA</link> 
-        </item> 
-          <item> 
-            <title>ES_M_Serie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/630.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_Serie</link> 
-        </item> 
-          <item> 
-            <title>ES_M_ESTRENOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_ESTRENOS</link> 
-        </item> 
-          <item> 
-            <title>ES_FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/621.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_FOX</link> 
-        </item> 
-          <item> 
-            <title>ES_FOX_LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_FOX_LIFE</link> 
-        </item> 
-          <item> 
-            <title>ES_SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/607.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_SYFY</link> 
-        </item> 
-          <item> 
-            <title>ES_LA_SEXTA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/617.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA_SEXTA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES_TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELECINCO</link> 
-        </item> 
-          <item> 
-            <title>ES_LA1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA1</link> 
-        </item> 
-          <item> 
-            <title>ES_LA2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/615.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LA2</link> 
-        </item> 
-          <item> 
-            <title>ES_#0</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_#0</link> 
-        </item> 
-          <item> 
-            <title>ES_24H</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/647.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_24H</link> 
-        </item> 
-          <item> 
-            <title>ES_Antenna_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Antenna_3</link> 
-        </item> 
-          <item> 
-            <title>ES_AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_AXN</link> 
-        </item> 
-          <item> 
-            <title>ES_CALLE_13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CALLE_13</link> 
-        </item> 
-          <item> 
-            <title>ES_CAZA-Y-PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CAZA-Y-PESCA</link> 
-        </item> 
-          <item> 
-            <title>ES_CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_CUATRO</link> 
-        </item> 
-          <item> 
-            <title>ES_DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_DCINE</link> 
-        </item> 
-          <item> 
-            <title>ES_Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Euronews</link> 
-        </item> 
-          <item> 
-            <title>ES_EXTREMADURA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/622.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_EXTREMADURA_HD</link> 
-        </item> 
-          <item> 
-            <title>ES_HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/619.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>ES_Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/618.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Hollywood</link> 
-        </item> 
-          <item> 
-            <title>ES_National_Geographic_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/613.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_National_Geographic_HD</link> 
-        </item> 
-          <item> 
-            <title>ES_National_Geographic_WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_National_Geographic_WILD</link> 
-        </item> 
-          <item> 
-            <title>ES_NEOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/611.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NEOX</link> 
-        </item> 
-          <item> 
-            <title>ES_NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_NOVA</link> 
-        </item> 
-          <item> 
-            <title>ES_TV_Galicia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TV_Galicia</link> 
-        </item> 
-          <item> 
-            <title>ES_TV3_Cat</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TV3_Cat</link> 
-        </item> 
-          <item> 
-            <title>ES_ETB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_ETB</link> 
-        </item> 
-          <item> 
-            <title>ES_BEINSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BEINSPORT</link> 
-        </item> 
-          <item> 
-            <title>ES_Bein_Liga</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Bein_Liga</link> 
-        </item> 
-          <item> 
-            <title>ES_LaligaTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/608.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_LaligaTV</link> 
-        </item> 
-          <item> 
-            <title>ES_M_Futbol</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_Futbol</link> 
-        </item> 
-          <item> 
-            <title>ES_M_PARTIZADO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/636.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_PARTIZADO</link> 
-        </item> 
-          <item> 
-            <title>ES_M_DEPORTES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_DEPORTES</link> 
-        </item> 
-          <item> 
-            <title>ES_M_DEPORTES-2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_M_DEPORTES-2</link> 
-        </item> 
-          <item> 
-            <title>ES_Gol_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/637.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Gol_TV</link> 
-        </item> 
-          <item> 
-            <title>ES_MOVIESTAR_MOTOGP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_MOVIESTAR_MOTOGP</link> 
-        </item> 
-          <item> 
-            <title>ES_TELEDEPORTE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_TELEDEPORTE_HD</link> 
-        </item> 
-          <item> 
-            <title>ES_Real_Madrid_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Real_Madrid_TV</link> 
-        </item> 
-          <item> 
-            <title>ES_BARCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_BARCA</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/648.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_1</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/649.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_2</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_3</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_4</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_5</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_6</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/654.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_7</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_8</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_9</link> 
-        </item> 
-          <item> 
-            <title>ES_Alquiler_10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://s1.xtra-sat.net:8000/live/123456/123456/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES_Alquiler_10</link> 
-        </item> 
   
+          <item> 
+            <title>ES|  AXN White</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31722.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES|  AXN White</link> 
+        </item> 
+          <item> 
+            <title>ES|  C  Dcine Espanol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31743.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES|  C  Dcine Espanol</link> 
+        </item> 
+          <item> 
+            <title>ES| :AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31721.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| :AXN HD</link> 
+        </item> 
+          <item> 
+            <title>ES| ANDALUCIA_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31700.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| ANDALUCIA_TV</link> 
+        </item> 
+          <item> 
+            <title>ES| BarÃ§a</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31701.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| BarÃ§a</link> 
+        </item> 
+          <item> 
+            <title>ES| Barca TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31694.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Barca TV</link> 
+        </item> 
+          <item> 
+            <title>ES| BEIN_SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31525.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| BEIN_SPORTS</link> 
+        </item> 
+          <item> 
+            <title>ES| C  AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31744.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  AMC</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Canal Odisea</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31714.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Canal Odisea</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Clan TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31745.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Clan TVE</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31746.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Cosmo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31747.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Cosmo</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Crimen Inves</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31748.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Crimen Inves</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Deportes</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31749.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Deportes</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31750.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Discovery HD</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31751.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Estrenos</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31753.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Estrenos</link> 
+        </item> 
+          <item> 
+            <title>ES| C  FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31754.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  FDF</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Iberalia TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31755.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Iberalia TV</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Los40</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Los40</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31757.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Nat Geo Wild</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Nonstopeople</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31758.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Nonstopeople</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Nova</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31759.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Nova</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Teledeporte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31760.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Teledeporte</link> 
+        </item> 
+          <item> 
+            <title>ES| C  Viajar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31761.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C  Viajar</link> 
+        </item> 
+          <item> 
+            <title>ES| C 24 Horas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31762.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C 24 Horas</link> 
+        </item> 
+          <item> 
+            <title>ES| C Plus Cocina</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31727.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| C Plus Cocina</link> 
+        </item> 
+          <item> 
+            <title>ES| Calle 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31723.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Calle 13</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal   1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31724.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal   1</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal   Accion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31726.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal   Accion</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal   Comedia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31698.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal   Comedia</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal   Dcine</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31699.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal   Dcine</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal   Futbol</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31716.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal   Futbol</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31725.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal 2</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31717.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal HD</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal Liga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31730.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal Liga</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal Plus Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31729.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal Plus Golf</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal Plus Series Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31731.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal Plus Series Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES| Canal Plus Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31732.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Canal Plus Xtra</link> 
+        </item> 
+          <item> 
+            <title>ES| CanalPlus Decasa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31728.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| CanalPlus Decasa</link> 
+        </item> 
+          <item> 
+            <title>ES| CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31695.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>ES| CUATRO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31702.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| CUATRO</link> 
+        </item> 
+          <item> 
+            <title>ES| DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31703.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>ES| Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31752.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Disney XD</link> 
+        </item> 
+          <item> 
+            <title>ES| EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31704.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>ES| EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31705.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>ES| FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31706.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>ES| Fox Spain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31718.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Fox Spain</link> 
+        </item> 
+          <item> 
+            <title>ES| GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31707.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| GALICIA</link> 
+        </item> 
+          <item> 
+            <title>ES| Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31736.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Historia</link> 
+        </item> 
+          <item> 
+            <title>ES| History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31719.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| History</link> 
+        </item> 
+          <item> 
+            <title>ES| Hollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31696.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Hollywood</link> 
+        </item> 
+          <item> 
+            <title>ES| LA SEXTA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31710.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| LA SEXTA</link> 
+        </item> 
+          <item> 
+            <title>ES| La1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31708.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| La1 HD</link> 
+        </item> 
+          <item> 
+            <title>ES| La2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31709.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| La2</link> 
+        </item> 
+          <item> 
+            <title>ES| MOVISTAR_F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31711.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| MOVISTAR_F1</link> 
+        </item> 
+          <item> 
+            <title>ES| MoviStar_MotoGp</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31712.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| MoviStar_MotoGp</link> 
+        </item> 
+          <item> 
+            <title>ES| MTV Spain</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31720.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| MTV Spain</link> 
+        </item> 
+          <item> 
+            <title>ES| NATIONAL_GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31713.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| NATIONAL_GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>ES| REAL_MADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31715.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| REAL_MADRID</link> 
+        </item> 
+          <item> 
+            <title>ES| SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31740.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>ES| Taquilla 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31733.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Taquilla 4</link> 
+        </item> 
+          <item> 
+            <title>ES| Taquilla 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31734.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Taquilla 5</link> 
+        </item> 
+          <item> 
+            <title>ES| Taquilla 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31735.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| Taquilla 6</link> 
+        </item> 
+          <item> 
+            <title>ES| taquilla_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31737.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| taquilla_1</link> 
+        </item> 
+          <item> 
+            <title>ES| taquilla_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31738.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| taquilla_2</link> 
+        </item> 
+          <item> 
+            <title>ES| taquilla_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31739.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| taquilla_3</link> 
+        </item> 
+          <item> 
+            <title>ES| TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31741.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| TCM</link> 
+        </item> 
+          <item> 
+            <title>ES| TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31697.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| TELECINCO HD</link> 
+        </item> 
+          <item> 
+            <title>ES| TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/31742.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| TNT</link> 
+        </item> 
+          <item> 
+            <title>ES| beIN LALIGA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/32975.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| beIN LALIGA HD</link> 
+        </item> 
+          <item> 
+            <title>ES| beIN SPORTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://link.softclientarea.com:9100/live/simon/simon/32974.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES| beIN SPORTS HD</link> 
+        </item> 
   
