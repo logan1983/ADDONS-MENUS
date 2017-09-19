@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>       
-<title>  [COLOR lime] •S2 UPDATE 18-09-2017[/COLOR] </title>
+<title>  [COLOR lime] •S2 UPDATE 26-09-2017[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -26,172 +26,189 @@
  
    
    
+    
           <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
+            <title>PT:RTP1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP1</link> 
         </item> 
           <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <title>PT:RTP2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP2</link> 
         </item> 
           <item> 
-            <title>PT: RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
+            <title>PT:RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/841.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 3</link> 
         </item> 
           <item> 
-            <title>PT: RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP ACORES</link> 
+            <title>PT:SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC</link> 
         </item> 
           <item> 
-            <title>PT: RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
+            <title>PT:SIC-NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC-NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
+            <title>PT:SIC-KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC-KIDS</link> 
         </item> 
           <item> 
-            <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <title>PT:TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/838.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI</link> 
         </item> 
           <item> 
-            <title>PT: SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
+            <title>PT:tvi24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/840.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:tvi24</link> 
         </item> 
           <item> 
-            <title>PT: SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
+            <title>PT:TVI-REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-REALITY</link> 
         </item> 
           <item> 
-            <title>PT: SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
+            <title>PT:TVI-NET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-NET</link> 
         </item> 
           <item> 
-            <title>PT: SIC KIDS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS</link> 
+            <title>PT:TVI-FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI-FICCAO</link> 
         </item> 
           <item> 
-            <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <title>PT:TVGLOBOPREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/871.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVGLOBOPREMIUM</link> 
         </item> 
           <item> 
-            <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <title>PT:TV-GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-GLOBO</link> 
         </item> 
           <item> 
-            <title>PT: TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FICCAO</link> 
+            <title>PT:TV-CINE1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-CINE1</link> 
         </item> 
           <item> 
-            <title>PT: TV GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3158.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
+            <title>PT:TV-CINE2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-CINE2</link> 
         </item> 
           <item> 
-            <title>PT: TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3160.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
+            <title>PT:TV-Cine-2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-2HD</link> 
         </item> 
           <item> 
-            <title>PT: CANAL PORTO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3164.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PORTO</link> 
+            <title>PT:TV-CINE3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-CINE3</link> 
         </item> 
           <item> 
-            <title>PT: CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
+            <title>PT:TV-Cine-3HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-Cine-3HD</link> 
         </item> 
           <item> 
-            <title>PT: Abola TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3165.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Abola TV</link> 
+            <title>PT:TV-CINE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-CINE4</link> 
         </item> 
           <item> 
-            <title>PT: MOTOR TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTOR TV</link> 
+            <title>PT:TVSERIES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVSERIES_HD</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1</link> 
+            <title>PT:PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/847.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PANDA</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2</link> 
+            <title>PT:JIM-JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM-JAM</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3</link> 
+            <title>PT:FOX-MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX-MOVIES</link> 
         </item> 
           <item> 
-            <title>PT: TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4</link> 
+            <title>PT:FOX-LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/864.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX-LIFE</link> 
         </item> 
           <item> 
-            <title>PT: Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Hollywood</link> 
+            <title>PT:FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FOX</link> 
         </item> 
           <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+            <title>PT:DISNEY-JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISNEY-JUNIOR</link> 
         </item> 
           <item> 
-            <title>PT: Axn White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn White HD</link> 
+            <title>PT:CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CMTV</link> 
         </item> 
           <item> 
-            <title>PT: Axn Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Axn Black HD</link> 
+            <title>PT:CBS-REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CBS-REALITY</link> 
         </item> 
           <item> 
-            <title>PT: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
+            <title>PT:CANCAO-NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CANCAO-NOVA</link> 
         </item> 
           <item> 
-            <title>PT: FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3161.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+            <title>PT:CACAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/873.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CACAVISION</link> 
         </item> 
           <item> 
-            <title>PT: FOX CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME</link> 
+            <title>PT:AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:AMC</link> 
         </item> 
           <item> 
-            <title>PT: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
+            <title>PT:ABOLA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:ABOLA</link> 
         </item> 
           <item> 
-            <title>PT: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+            <title>PT:_Motor_Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_Motor_Tv</link> 
         </item> 
           <item> 
-            <title>PT: ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3159.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
+            <title>PT:_Discovery_Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_Discovery_Showcase</link> 
         </item> 
           <item> 
-            <title>PT: CANAL HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HISTORIA</link> 
+            <title>PT:_DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_DISCOVERY</link> 
         </item> 
           <item> 
-            <title>PT: DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
+            <title>PT:_Canal_Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_Canal_Panda</link> 
         </item> 
           <item> 
-            <title>PT: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
+            <title>PT:_Canal_Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_Canal_Historia</link> 
         </item> 
           <item> 
-            <title>PT: CAZA y PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3162.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CAZA y PESCA</link> 
+            <title>PT:_AXN_WHITE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_AXN_WHITE_HD</link> 
         </item> 
           <item> 
-            <title>PT: CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+            <title>PT:_AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_AXN_HD</link> 
         </item> 
           <item> 
-            <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3166.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+            <title>PT:_AXN_BLACK_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:_AXN_BLACK_HD</link> 
         </item> 
           <item> 
-            <title>PT: DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+            <title>PT:HOLLYWOOD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD_HD</link> 
         </item> 
           <item> 
-            <title>PT: JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.tbs-tv.com:25461/live/paul1/paul1/3163.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
+            <title>PT:Fox_Movies_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Fox_Movies_HD</link> 
+        </item> 
+          <item> 
+            <title>PT:TV-ALL-SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TV-ALL-SPORTS</link> 
+        </item> 
+          <item> 
+            <title>PT:TOROS-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TOROS-TV</link> 
+        </item> 
+          <item> 
+            <title>PT:REALMADRID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REALMADRID</link> 
+        </item> 
+          <item> 
+            <title>PT:PORTO-CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://server3.tv-monde.com:8000/live/bvcf78azg/generator/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PORTO-CANAL</link> 
         </item> 
   
