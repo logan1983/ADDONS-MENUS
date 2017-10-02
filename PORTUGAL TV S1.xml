@@ -26,233 +26,328 @@
 
   
  
-  
           <item> 
-            <title>PORTUGAL:RTP1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTUGAL:RTP1</link> 
+            <title>RTP 1 (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 (PT)</link> 
         </item> 
           <item> 
-            <title>Rtp_1_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4487.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_1_-_Portugal</link> 
+            <title>RTP 2 (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 (PT)</link> 
         </item> 
           <item> 
-            <title>Rtp_2_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4488.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_2_-_Portugal</link> 
+            <title>RTP 3 (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 (PT)</link> 
         </item> 
           <item> 
-            <title>Rtp_3_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4489.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_3_-_Portugal</link> 
+            <title>RTP AFRICA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4794.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (PT)</link> 
         </item> 
           <item> 
-            <title>Rtp_Africa_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4523.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rtp_Africa_-_Portugal</link> 
+            <title>RTP MADEIRA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (PT)</link> 
         </item> 
           <item> 
-            <title>Sic_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4531.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_-_Portugal</link> 
+            <title>RTP MEMORIA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (PT)</link> 
         </item> 
           <item> 
-            <title>Tv_Sick_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/3608.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv_Sick_-_Portugal</link> 
+            <title>RTP ACORES 24 (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES 24 (PT)</link> 
         </item> 
           <item> 
-            <title>Sic_Caras_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4527.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Caras_-_Portugal</link> 
+            <title>SIC HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD (PT)</link> 
         </item> 
           <item> 
-            <title>Sic_Kids_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4532.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Kids_-_Portugal</link> 
+            <title>SIC RADICAL (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (PT)</link> 
         </item> 
           <item> 
-            <title>Sic_Mulher_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4528.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Mulher_-_Portugal</link> 
+            <title>SIC NOTICIAS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (PT)</link> 
         </item> 
           <item> 
-            <title>Sic_Noticias_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4529.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Noticias_-_Portugal</link> 
+            <title>SIC MULHER (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (PT)</link> 
         </item> 
           <item> 
-            <title>Sic_Radical_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4530.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sic_Radical_-_Portugal</link> 
+            <title>SIC KIDS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC KIDS (PT)</link> 
         </item> 
           <item> 
-            <title>Tvi_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4501.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tvi_-_Portugal</link> 
+            <title>BABY FIRST (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4789.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST (PT)</link> 
         </item> 
           <item> 
-            <title>Tvi_24_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4502.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tvi_24_-_Portugal</link> 
+            <title>SIC CARAS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (PT)</link> 
         </item> 
           <item> 
-            <title>TV_Globo_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4533.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Globo_-_Portugal</link> 
+            <title>TVI (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI (PT)</link> 
         </item> 
           <item> 
-            <title>Tv_Globo_Premium_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4505.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tv_Globo_Premium_-_Portugal</link> 
+            <title>TVI REALITY (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (PT)</link> 
         </item> 
           <item> 
-            <title>24_Kitchen_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4506.ts&amp;streamtype=TSDOWNLOADER&amp;name=24_Kitchen_-_Portugal</link> 
+            <title>TVI FICCAO (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (PT)</link> 
         </item> 
           <item> 
-            <title>A&amp;E_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4507.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E_-_Portugal</link> 
+            <title>TVI 24 (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 (PT)</link> 
         </item> 
           <item> 
-            <title>Abola_TV_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4508.ts&amp;streamtype=TSDOWNLOADER&amp;name=Abola_TV_-_Portugal</link> 
+            <title>TVE INT (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE INT (PT)</link> 
         </item> 
           <item> 
-            <title>Axn_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn_-_Portugal</link> 
+            <title>CANAL PANDA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA HD</link> 
         </item> 
           <item> 
-            <title>Axn_Black_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4504.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn_Black_-_Portugal</link> 
+            <title>CARTOON NETWORK (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (PT)</link> 
         </item> 
           <item> 
-            <title>Axn_White_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4473.ts&amp;streamtype=TSDOWNLOADER&amp;name=Axn_White_-_Portugal</link> 
+            <title>BIGGS HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS HD (PT)</link> 
         </item> 
           <item> 
-            <title>Baby_TV_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4509.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby_TV_-_Portugal</link> 
+            <title>JIM JAM (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM (PT)</link> 
         </item> 
           <item> 
-            <title>Canal_Panda_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4475.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal_Panda_-_Portugal</link> 
+            <title>REAL MADRID HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID HD (PT)</link> 
         </item> 
           <item> 
-            <title>Cartoon_Network_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4476.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon_Network_-_Portugal</link> 
+            <title>MOTORS TV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (PT)</link> 
         </item> 
           <item> 
-            <title>Cbs_Reality_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4510.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cbs_Reality_-_Portugal</link> 
+            <title>MOTOR VISION HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOR VISION HD (PT)</link> 
         </item> 
           <item> 
-            <title>Cm_TV_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4477.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cm_TV_-_Portugal</link> 
+            <title>FUEL TV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV (PT)</link> 
         </item> 
           <item> 
-            <title>Discovery_Channel_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4478.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Channel_-_Portugal</link> 
+            <title>ABOLA TV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABOLA TV (PT)</link> 
         </item> 
           <item> 
-            <title>Discovery_Showcase_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4479.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery_Showcase_-_Portugal</link> 
+            <title>EURO NEWS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO NEWS (PT)</link> 
         </item> 
           <item> 
-            <title>Disney_Channel_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4480.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney_Channel_-_Portugal</link> 
+            <title>TV SERIES (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES (PT)</link> 
         </item> 
           <item> 
-            <title>E!_Entertainment_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4481.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!_Entertainment_-_Portugal</link> 
+            <title>TVC1 HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC1 HD (PT)</link> 
         </item> 
           <item> 
-            <title>Economico_TV_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4511.ts&amp;streamtype=TSDOWNLOADER&amp;name=Economico_TV_-_Portugal</link> 
+            <title>TVC2 HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC2 HD (PT)</link> 
         </item> 
           <item> 
-            <title>Eurosport_1_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4512.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_1_-_Portugal</link> 
+            <title>TVC3 HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC3 HD (PT)</link> 
         </item> 
           <item> 
-            <title>Eurosport_2_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4513.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport_2_-_Portugal</link> 
+            <title>TVC4 HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC4 HD (PT)</link> 
         </item> 
           <item> 
-            <title>Fox_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_-_Portugal</link> 
+            <title>TLC (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC (PT)</link> 
         </item> 
           <item> 
-            <title>Fox_Comedy_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4483.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Comedy_-_Portugal</link> 
+            <title>SYFY (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY (PT)</link> 
         </item> 
           <item> 
-            <title>Fox_Crime_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4484.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Crime_-_Portugal</link> 
+            <title>PORTO CANAL (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (PT)</link> 
         </item> 
           <item> 
-            <title>Fox_Life_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Life_-_Portugal</link> 
+            <title>ODISSEIA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (PT)</link> 
         </item> 
           <item> 
-            <title>Fox_Movies_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4514.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox_Movies_-_Portugal</link> 
+            <title>NICKELODEON (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (PT)</link> 
         </item> 
           <item> 
-            <title>Fuel_TV_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4515.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fuel_TV_-_Portugal</link> 
+            <title>NAT GEO HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/582.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO HD (PT)</link> 
         </item> 
           <item> 
-            <title>Hollywood_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4516.ts&amp;streamtype=TSDOWNLOADER&amp;name=Hollywood_-_Portugal</link> 
+            <title>NAT GEO WILD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/581.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (PT)</link> 
         </item> 
           <item> 
-            <title>Mcm_Top_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4517.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mcm_Top_-_Portugal</link> 
+            <title>TOROS TV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV (PT)</link> 
         </item> 
           <item> 
-            <title>Motorvision_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4518.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision_-_Portugal</link> 
+            <title>VH1 ClASSIC (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 ClASSIC (PT)</link> 
         </item> 
           <item> 
-            <title>Mov_HD_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4519.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mov_HD_-_Portugal</link> 
+            <title>VH1 (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 (PT)</link> 
         </item> 
           <item> 
-            <title>National_Geographic_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4526.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geographic_-_Portugal</link> 
+            <title>MTV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV (PT)</link> 
         </item> 
           <item> 
-            <title>National_Geographic_Wild_HD_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4503.ts&amp;streamtype=TSDOWNLOADER&amp;name=National_Geographic_Wild_HD_-_Portugal</link> 
+            <title>TRAVEL CHANNEL HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD (PT)</link> 
         </item> 
           <item> 
-            <title>Nickelodeon_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4486.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon_-_Portugal</link> 
+            <title>MCS EXTREME (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME (PT)</link> 
         </item> 
           <item> 
-            <title>Pfc_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4520.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pfc_-_Portugal</link> 
+            <title>AXN HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD (PT)</link> 
         </item> 
           <item> 
-            <title>Porto_Canal_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4521.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto_Canal_-_Portugal</link> 
+            <title>MOV HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD (PT)</link> 
         </item> 
           <item> 
-            <title>Rt_Global_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4522.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rt_Global_-_Portugal</link> 
+            <title>AXN WHITE HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD (PT)</link> 
         </item> 
           <item> 
-            <title>Tlc_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Tlc_-_Portugal</link> 
+            <title>AXN BLACK HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD (PT)</link> 
         </item> 
           <item> 
-            <title>Travel_Channel_HD_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4525.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel_Channel_HD_-_Portugal</link> 
+            <title>AMC (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC (PT)</link> 
         </item> 
           <item> 
-            <title>TV_Cine_1_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4496.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_1_-_Portugal</link> 
+            <title>AFRO MUSIC (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (PT)</link> 
         </item> 
           <item> 
-            <title>TV_Cine_2_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4497.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_2_-_Portugal</link> 
+            <title>A&amp;E (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E (PT)</link> 
         </item> 
           <item> 
-            <title>TV_Cine_3_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4498.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_3_-_Portugal</link> 
+            <title>HOLLYWOOD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (PT)</link> 
         </item> 
           <item> 
-            <title>TV_Cine_4_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4499.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Cine_4_-_Portugal</link> 
+            <title>HISTORIA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA (PT)</link> 
         </item> 
           <item> 
-            <title>TV_Series_-_Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://ip.cs4ip.com:8000/live/active/active/4500.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV_Series_-_Portugal</link> 
+            <title>FOX MOVIES (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (PT)</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD (PT)</link> 
+        </item> 
+          <item> 
+            <title>FOX HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD (PT)</link> 
+        </item> 
+          <item> 
+            <title>FOX CRIME HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD (PT)</link> 
+        </item> 
+          <item> 
+            <title>FOX COMEDY (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (PT)</link> 
+        </item> 
+          <item> 
+            <title>E! (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! (PT)</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JR (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JR (PT)</link> 
+        </item> 
+          <item> 
+            <title>DISNEY (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY (PT)</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY SHOWCASE HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE HD (PT)</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (PT)</link> 
+        </item> 
+          <item> 
+            <title>CM TV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM TV (PT)</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (PT)</link> 
+        </item> 
+          <item> 
+            <title>CBS REALITY (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (PT)</link> 
+        </item> 
+          <item> 
+            <title>CACA EPESCA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACA EPESCA (PT)</link> 
+        </item> 
+          <item> 
+            <title>CANAL NOS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4790.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL NOS (PT)</link> 
+        </item> 
+          <item> 
+            <title>CANAL Q (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4710.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q (PT)</link> 
+        </item> 
+          <item> 
+            <title>EURO SPORT 1 HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4707.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO SPORT 1 HD (PT)</link> 
+        </item> 
+          <item> 
+            <title>EURO SPORT 2 XTRA HD (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4708.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO SPORT 2 XTRA HD (PT)</link> 
+        </item> 
+          <item> 
+            <title>EURO SPORT NEWS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4785.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO SPORT NEWS (PT)</link> 
+        </item> 
+          <item> 
+            <title>FOX NEWS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX NEWS (PT)</link> 
+        </item> 
+          <item> 
+            <title>MCM POP (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4793.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP (PT)</link> 
+        </item> 
+          <item> 
+            <title>MEZZO (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4787.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO (PT)</link> 
+        </item> 
+          <item> 
+            <title>NOVA (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4709.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA (PT)</link> 
+        </item> 
+          <item> 
+            <title>RECORD NEWS (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4788.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS (PT)</link> 
+        </item> 
+          <item> 
+            <title>TRACE TV (PT)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4795.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV (PT)</link> 
         </item> 
   
