@@ -27,724 +27,277 @@
  
  
   
+  
           <item> 
             <title>FR: TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9687.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
         </item> 
           <item> 
-            <title>FR: TF1 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9626.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD (1080P)</link> 
+            <title>FR: M6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD</link> 
         </item> 
           <item> 
-            <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9722.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <title>FR: RTL 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL 9</link> 
         </item> 
           <item> 
-            <title>FR: M6 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9628.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD (1080P)</link> 
+            <title>FR: France O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O</link> 
         </item> 
           <item> 
-            <title>FR: 6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9793.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER HD</link> 
+            <title>FR: France 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
         </item> 
           <item> 
-            <title>FR : W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9803.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : W9</link> 
+            <title>FR: France 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3</link> 
         </item> 
           <item> 
-            <title>FR : RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9805.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : RTL9</link> 
+            <title>FR: France 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
         </item> 
           <item> 
-            <title>FR: France O  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O  HD</link> 
+            <title>FR: France 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
         </item> 
           <item> 
-            <title>FR: France 02 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9631.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 02 HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: FRANCE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9737.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2</link> 
-        </item> 
-          <item> 
-            <title>FR: France 03 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9630.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 03 HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR : FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9806.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : FRANCE 3</link> 
-        </item> 
-          <item> 
-            <title>FR: France 4  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4  HD</link> 
-        </item> 
-          <item> 
-            <title>FR: France 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9739.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Teva</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Teva</link> 
-        </item> 
-          <item> 
-            <title>FR:TEVA/TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9662.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TEVA/TMC</link> 
-        </item> 
-          <item> 
-            <title>FR: RTS Deux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9701.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Deux</link> 
-        </item> 
-          <item> 
-            <title>FR: RTS Un</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9700.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Un</link> 
-        </item> 
-          <item> 
-            <title>FR : TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9804.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : TELETOON</link> 
-        </item> 
-          <item> 
-            <title>FR:  Cartoon Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9800.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  Cartoon Network HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  Discovery Science HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  Discovery Science HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  Disney Jr Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9798.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  Disney Jr Fr</link> 
-        </item> 
-          <item> 
-            <title>FR:  Nat Geo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9797.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  Nat Geo HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  Nat Geo Wild  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9796.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  Nat Geo Wild  HD</link> 
-        </item> 
-          <item> 
-            <title>FR:  NRJ12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9795.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  NRJ12 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: 13 EME RUE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9794.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 EME RUE HD</link> 
-        </item> 
-          <item> 
-            <title>FR: A LA CARTE 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9792.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 10</link> 
-        </item> 
-          <item> 
-            <title>FR: A LA CARTE 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 7</link> 
-        </item> 
-          <item> 
-            <title>FR: A LA CARTE 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9790.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 8</link> 
-        </item> 
-          <item> 
-            <title>FR: A LA CARTE 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9789.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A LA CARTE 9</link> 
-        </item> 
-          <item> 
-            <title>FR: AB Moteur HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9788.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB Moteur HD</link> 
-        </item> 
-          <item> 
-            <title>FR: AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9787.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
-        </item> 
-          <item> 
-            <title>FR: AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9786.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB3</link> 
-        </item> 
-          <item> 
-            <title>FR: ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9785.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ACTION</link> 
-        </item> 
-          <item> 
-            <title>FR: ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9784.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ANIMAUX</link> 
-        </item> 
-          <item> 
-            <title>FR: ARTE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9783.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE HD</link> 
-        </item> 
-          <item> 
-            <title>FR: BE CURIOUS TV HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9644.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BE CURIOUS TV HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR : Bein max 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : Bein max 4</link> 
-        </item> 
-          <item> 
-            <title>FR : EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9807.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR : EURONEWS</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sport Max 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9777.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sport Max 10</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sport Max 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9778.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sport Max 5</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sport Max 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9779.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sport Max 6</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sport Max 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9780.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sport Max 7</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sport Max 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9781.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sport Max 8</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sport Max 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9782.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sport Max 9</link> 
-        </item> 
-          <item> 
-            <title>FR: BeIN SPORTS 1 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9643.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN SPORTS 1 HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: Bein Sports 1 HD backup</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD backup</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9624.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: BeIN SPORTS 2 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9642.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN SPORTS 2 HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: BeIN SPORTS 3 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9641.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN SPORTS 3 HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: beIN SPORTS 3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORTS 3HD</link> 
-        </item> 
-          <item> 
-            <title>FR: beIN SPORTS1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9694.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beIN SPORTS1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: beINS PORTS 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: beINS PORTS 2HD</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM business</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9645.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM business</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9622.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM SPORT</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9743.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
-        </item> 
-          <item> 
-            <title>FR: Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9801.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boing</link> 
-        </item> 
-          <item> 
-            <title>FR: BOOMERANG HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9802.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG HD</link> 
-        </item> 
-          <item> 
-            <title>FR: C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9775.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: C8</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9774.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Cinema</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Decale</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9773.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Decale</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Family</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL  HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9640.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL  HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Series</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9770.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal  Sport HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9639.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL CINEMA HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9638.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL CINEMA HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL J</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 1</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9767.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 2</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 3</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9765.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 4</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 5</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9763.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 6</link> 
-        </item> 
-          <item> 
-            <title>FR: CANAL PLAY 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL PLAY 7</link> 
-        </item> 
-          <item> 
-            <title>FR: Cartoon Network HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9637.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: Chasse et Peche</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chasse et Peche</link> 
-        </item> 
-          <item> 
-            <title>FR: CHERIE 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CHERIE 25 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE CLASSIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE CLASSIC HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9757.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE EMOTION</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE EMOTION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE EMOTION HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FAMIZ</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Famiz HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Famiz HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Famiz HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9636.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Famiz HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9753.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE FRISSON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FRISSON HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Frisson HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9635.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Frisson HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE FX</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9750.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE POLAR</link> 
-        </item> 
-          <item> 
-            <title>FR: CINE PREMIER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9749.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE PREMIER HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Premier HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9634.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Premier HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: COMEDIE  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9748.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: COMEDIE  HD</link> 
-        </item> 
-          <item> 
-            <title>FR: COMEDIE Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9747.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: COMEDIE Plus</link> 
-        </item> 
-          <item> 
-            <title>FR: CRIME DISTRICT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9625.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CRIME DISTRICT HD</link> 
-        </item> 
-          <item> 
-            <title>FR: CSTAR HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9746.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CSTAR HD</link> 
-        </item> 
-          <item> 
-            <title>FR: D17</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9745.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D17</link> 
-        </item> 
-          <item> 
-            <title>FR: D8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9776.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8</link> 
-        </item> 
-          <item> 
-            <title>FR: DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9659.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY</link> 
-        </item> 
-          <item> 
-            <title>FR: Discovery Investigation HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9646.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Investigation HD</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9730.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9731.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CINEMA</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY CINEMA HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9633.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY CINEMA HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: DISNEY JUNIOR HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9632.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISNEY JUNIOR HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: Disney xd  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9732.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney xd  HD</link> 
-        </item> 
-          <item> 
-            <title>FR: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9647.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>FR: ELLE GIRL HD 1080</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9651.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ELLE GIRL HD 1080</link> 
-        </item> 
-          <item> 
-            <title>FR: EQUIDIA LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9623.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIFE</link> 
-        </item> 
-          <item> 
-            <title>FR: EQUIDIA live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9733.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA live</link> 
-        </item> 
-          <item> 
-            <title>FR: Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport 1</link> 
-        </item> 
-          <item> 
-            <title>FR: Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport 2</link> 
-        </item> 
-          <item> 
-            <title>FR: EUROSPORT2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9736.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT2</link> 
-        </item> 
-          <item> 
-            <title>FR: FOOT  24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9657.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FOOT  24</link> 
-        </item> 
-          <item> 
-            <title>FR: GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GAME ONE</link> 
-        </item> 
-          <item> 
-            <title>FR: GOLF  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9650.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GOLF  HD</link> 
-        </item> 
-          <item> 
-            <title>FR: GULLI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GULLI HD</link> 
-        </item> 
-          <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9729.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
-        </item> 
-          <item> 
-            <title>FR: HD1 HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9629.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1 HD (1080P)</link> 
-        </item> 
-          <item> 
-            <title>FR: i Tele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9728.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: i Tele</link> 
-        </item> 
-          <item> 
-            <title>FR: INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9727.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INFOSPORT</link> 
-        </item> 
-          <item> 
-            <title>FR: L'EQUIPE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'EQUIPE 21</link> 
+            <title>FR: La Une</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2312.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La Une</link> 
         </item> 
           <item> 
             <title>FR: La Deux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9725.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La Deux</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La Deux</link> 
         </item> 
           <item> 
-            <title>FR: La une BE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9724.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La une BE</link> 
+            <title>FR: La Trois</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: La Trois</link> 
         </item> 
           <item> 
-            <title>FR: LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9723.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCI</link> 
+            <title>FR: RTL TVi HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL TVi HD</link> 
         </item> 
           <item> 
-            <title>FR: Mangas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Mangas</link> 
+            <title>FR: RTS Deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Deux</link> 
         </item> 
           <item> 
-            <title>FR: MCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9654.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MCM</link> 
+            <title>FR: RTS Un</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTS Un</link> 
         </item> 
           <item> 
-            <title>FR: MCM TOP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9653.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MCM TOP</link> 
+            <title>FR: TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
         </item> 
           <item> 
-            <title>FR: National geo wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9720.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National geo wild</link> 
+            <title>FR: VOYAGE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2356.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: VOYAGE HD</link> 
         </item> 
           <item> 
-            <title>FR: Nautical Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9656.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nautical Channel HD</link> 
+            <title>FR: W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
         </item> 
           <item> 
-            <title>FR: Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9652.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nick Jr</link> 
+            <title>FR: D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D17</link> 
         </item> 
           <item> 
-            <title>FR: NICKELODEON HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9673.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEON HD</link> 
+            <title>FR: D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: D8</link> 
         </item> 
           <item> 
-            <title>FR: NICKELODEON JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9719.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NICKELODEON JUNIOR</link> 
+            <title>FR: NRJ 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12</link> 
         </item> 
           <item> 
-            <title>FR: NRJ Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: NRJ Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ Hits</link> 
+            <title>FR: NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9718.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: 13 Eme Rue HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 Eme Rue HD</link> 
         </item> 
           <item> 
-            <title>FR: NUMERO 23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9717.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23 HD</link> 
+            <title>FR: Animaux HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS CHOC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9716.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CHOC HD</link> 
+            <title>FR: discovery Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: discovery Channel HD</link> 
         </item> 
           <item> 
-            <title>FR: OCS CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9715.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS CITY</link> 
+            <title>FR: Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>FR: iTELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: iTELE</link> 
+        </item> 
+          <item> 
+            <title>FR: OCS City</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City</link> 
         </item> 
           <item> 
             <title>FR: OCS GEANT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9714.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS GEANT</link> 
         </item> 
           <item> 
-            <title>FR: OCS MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9713.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS MAX</link> 
+            <title>FR: OCS Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Max</link> 
         </item> 
           <item> 
-            <title>FR: PARAMOUNT CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9711.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARAMOUNT CHANNEL HD</link> 
+            <title>FR: Nat. Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat. Geo Wild HD</link> 
         </item> 
           <item> 
-            <title>FR: PARIS PREMIERE  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE  HD</link> 
+            <title>FR: Nat. Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat. Geographic</link> 
         </item> 
           <item> 
-            <title>FR: PARIS PREMIERE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9709.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE HD</link> 
+            <title>FR: Planete A&amp;E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete A&amp;E</link> 
         </item> 
           <item> 
-            <title>FR: PIWI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9708.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PIWI HD</link> 
+            <title>FR: Plug-RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Plug-RTL</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9707.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE  HD</link> 
+            <title>FR:  FOOT  24/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  FOOT  24/24</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE A&amp;E HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9706.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE A&amp;E HD</link> 
+            <title>FR: SFR Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 1</link> 
         </item> 
           <item> 
-            <title>FR: PLANETE CI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PLANETE CI HD</link> 
+            <title>FR: SFR Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 2</link> 
         </item> 
           <item> 
-            <title>FR: rmc decouverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9703.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: rmc decouverte</link> 
+            <title>FR: Bein Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 HD</link> 
         </item> 
           <item> 
-            <title>FR: SCIENCE ET VIE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9699.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SCIENCE ET VIE HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: SCIENCES &amp; VIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SCIENCES &amp; VIE</link> 
+            <title>FR: Bein Sports 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2</link> 
         </item> 
           <item> 
-            <title>FR: Seasons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9655.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Seasons</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: SERIE CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9697.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB</link> 
+            <title>FR: Bein Sports 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3 HD</link> 
         </item> 
           <item> 
-            <title>FR: Series Club HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Series Club HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2324.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORT 3 backup</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9648.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 3 backup</link> 
+            <title>FR: BFMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFMTV</link> 
         </item> 
           <item> 
-            <title>FR: SFR Sport 4 4K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9676.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sport 4 4K</link> 
+            <title>FR: Canal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal</link> 
         </item> 
           <item> 
-            <title>FR: SFR sport 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9672.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR sport 5</link> 
+            <title>FR: CANAL  CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CANAL  CINEMA</link> 
         </item> 
           <item> 
-            <title>FR: SFR2 SPORT HD (backup)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9649.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR2 SPORT HD (backup)</link> 
+            <title>FR: Canal  Decale</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Decale</link> 
         </item> 
           <item> 
-            <title>FR: SFR: Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9692.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR: Sport 1</link> 
+            <title>FR: Canal  Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal  Sport</link> 
         </item> 
           <item> 
-            <title>FR: SFR: Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR: Sport 2</link> 
+            <title>FR: Cine  1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  1</link> 
         </item> 
           <item> 
-            <title>FR: SFR: Sport 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR: Sport 3</link> 
+            <title>FR: Cine  2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2308.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  2</link> 
         </item> 
           <item> 
-            <title>FR: Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD</link> 
+            <title>FR: Cine  3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2307.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  3</link> 
         </item> 
           <item> 
-            <title>FR: Syfy HD (1080P)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9627.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD (1080P)</link> 
+            <title>FR: Cine  4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2306.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  4</link> 
         </item> 
           <item> 
-            <title>FR: Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji</link> 
+            <title>FR: Cine  5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2305.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  5</link> 
         </item> 
           <item> 
-            <title>FR: TOUTE LHISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TOUTE LHISTOIRE</link> 
+            <title>FR: Cine  6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2304.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  6</link> 
         </item> 
           <item> 
-            <title>FR: TRACE URBAN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9671.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TRACE URBAN</link> 
+            <title>FR: Cine  7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  7</link> 
         </item> 
           <item> 
-            <title>FR: TV BREIZH HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV BREIZH HD</link> 
+            <title>FR: Cine  Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Classic</link> 
         </item> 
           <item> 
-            <title>FR: USHUAIA  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9683.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: USHUAIA  HD</link> 
+            <title>FR: Cine  Club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Club</link> 
         </item> 
           <item> 
-            <title>FR: Zouzou TV LOCAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9682.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Zouzou TV LOCAL</link> 
+            <title>FR: Cine  Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Emotion</link> 
         </item> 
           <item> 
-            <title>FR:A LA CARTE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9681.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A LA CARTE 5</link> 
+            <title>FR: Cine  Famiz</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Famiz</link> 
         </item> 
           <item> 
-            <title>FR:A la Carte 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9680.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A la Carte 6</link> 
+            <title>FR: Cine  Frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine  Frisson</link> 
         </item> 
           <item> 
-            <title>FR:A.LA.CARTE.1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9679.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A.LA.CARTE.1</link> 
+            <title>FR: CINE  PREMIER HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE  PREMIER HD</link> 
         </item> 
           <item> 
-            <title>FR:A.LA.CARTE.3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9678.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A.LA.CARTE.3</link> 
+            <title>FR: CINE COMEDIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: CINE COMEDIE</link> 
         </item> 
           <item> 
-            <title>FR:A.LA.CARTE.4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9677.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:A.LA.CARTE.4</link> 
+            <title>FR: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Channel</link> 
         </item> 
           <item> 
-            <title>FR:CINE PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9675.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CINE PREMIER</link> 
+            <title>FR: Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
         </item> 
           <item> 
-            <title>FR:FRANCE 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9674.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE 24</link> 
+            <title>FR: Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney XD</link> 
         </item> 
           <item> 
-            <title>FR:NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9664.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
+            <title>FR: TELETOON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TELETOON</link> 
         </item> 
           <item> 
-            <title>FR:TCM CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9663.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TCM CINEMA</link> 
+            <title>FR: Gulli HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Gulli HD</link> 
         </item> 
           <item> 
-            <title>FR:TREK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TREK HD</link> 
+            <title>FR:  TELETOON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  TELETOON</link> 
         </item> 
           <item> 
-            <title>FR:TV5 MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5 MONDE</link> 
-        </item> 
-          <item> 
-            <title>FR:VOYAGE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://www.painelpro.net:8000/live/andre123/andre123/9658.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:VOYAGE HD</link> 
+            <title>FR:  TELETOON Bomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:  TELETOON Bomerang</link> 
         </item> 
   
