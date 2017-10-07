@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>       
-<title>  [COLOR lime] •S1 UPDATE 06-10-2017[/COLOR] </title>
+<title>  [COLOR lime] •S1 UPDATE 15-10-2017[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -26,328 +26,465 @@
 
   
  
+ 
           <item> 
-            <title>RTP 1 (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/524.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 (PT)</link> 
+            <title>RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4399.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
         </item> 
           <item> 
-            <title>RTP 2 (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/525.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 (PT)</link> 
+            <title>RTP1 HQ  (NET FRACA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4683.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP1 HQ  (NET FRACA)</link> 
         </item> 
           <item> 
-            <title>RTP 3 (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/527.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 (PT)</link> 
+            <title>RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4398.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
         </item> 
           <item> 
-            <title>RTP AFRICA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4794.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA (PT)</link> 
+            <title>RTP 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4684.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD</link> 
         </item> 
           <item> 
-            <title>RTP MADEIRA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/529.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA (PT)</link> 
+            <title>RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4397.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
         </item> 
           <item> 
-            <title>RTP MEMORIA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/528.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA (PT)</link> 
+            <title>RTP MEMORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4381.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
         </item> 
           <item> 
-            <title>RTP ACORES 24 (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/526.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES 24 (PT)</link> 
+            <title>RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4380.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>SIC HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/535.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HD (PT)</link> 
+            <title>RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4379.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>SIC RADICAL (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/539.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL (PT)</link> 
+            <title>RTP ACORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4378.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link> 
         </item> 
           <item> 
-            <title>SIC NOTICIAS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/536.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS (PT)</link> 
+            <title>SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
         </item> 
           <item> 
-            <title>SIC MULHER (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/538.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER (PT)</link> 
+            <title>SIC HQ  (NET FRACA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4685.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HQ  (NET FRACA)</link> 
         </item> 
           <item> 
-            <title>SIC KIDS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC KIDS (PT)</link> 
+            <title>SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4386.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
         </item> 
           <item> 
-            <title>BABY FIRST (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4789.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST (PT)</link> 
+            <title>SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4385.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
         </item> 
           <item> 
-            <title>SIC CARAS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/537.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS (PT)</link> 
+            <title>SIC CARAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/6236.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS HD</link> 
         </item> 
           <item> 
-            <title>TVI (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/531.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI (PT)</link> 
+            <title>SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4384.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
         </item> 
           <item> 
-            <title>TVI REALITY (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/534.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY (PT)</link> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4352.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
         </item> 
           <item> 
-            <title>TVI FICCAO (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/533.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO (PT)</link> 
+            <title>TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4395.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
         </item> 
           <item> 
-            <title>TVI 24 (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/532.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 (PT)</link> 
+            <title>TVI HQ  (NET FRACA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4686.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HQ  (NET FRACA)</link> 
         </item> 
           <item> 
-            <title>TVE INT (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVE INT (PT)</link> 
+            <title>SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4393.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>CANAL PANDA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA HD</link> 
+            <title>SIC NOTICIAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/6237.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS HD</link> 
         </item> 
           <item> 
-            <title>CARTOON NETWORK (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK (PT)</link> 
+            <title>GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4389.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO</link> 
         </item> 
           <item> 
-            <title>BIGGS HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS HD (PT)</link> 
+            <title>GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4388.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM</link> 
         </item> 
           <item> 
-            <title>JIM JAM (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM (PT)</link> 
+            <title>globo int europa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/7356.ts&amp;streamtype=TSDOWNLOADER&amp;name=globo int europa</link> 
         </item> 
           <item> 
-            <title>REAL MADRID HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/541.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID HD (PT)</link> 
+            <title>TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4387.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
         </item> 
           <item> 
-            <title>MOTORS TV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV (PT)</link> 
+            <title>TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4392.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
         </item> 
           <item> 
-            <title>MOTOR VISION HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/605.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTOR VISION HD (PT)</link> 
+            <title>TVI FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4391.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
         </item> 
           <item> 
-            <title>FUEL TV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV (PT)</link> 
+            <title>TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
         </item> 
           <item> 
-            <title>ABOLA TV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=ABOLA TV (PT)</link> 
+            <title>MOSAICO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/7252.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOSAICO</link> 
         </item> 
           <item> 
-            <title>EURO NEWS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/612.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO NEWS (PT)</link> 
+            <title>Camera 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/7253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 1</link> 
         </item> 
           <item> 
-            <title>TV SERIES (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/598.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES (PT)</link> 
+            <title>Camera 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 2</link> 
         </item> 
           <item> 
-            <title>TVC1 HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/602.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC1 HD (PT)</link> 
+            <title>Camera 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/7254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 3</link> 
         </item> 
           <item> 
-            <title>TVC2 HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC2 HD (PT)</link> 
+            <title>Camera 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/7255.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 4</link> 
         </item> 
           <item> 
-            <title>TVC3 HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC3 HD (PT)</link> 
+            <title>TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4350.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1</link> 
         </item> 
           <item> 
-            <title>TVC4 HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/599.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVC4 HD (PT)</link> 
+            <title>TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4349.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2</link> 
         </item> 
           <item> 
-            <title>TLC (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/579.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC (PT)</link> 
+            <title>TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4348.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3</link> 
         </item> 
           <item> 
-            <title>SYFY (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/585.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY (PT)</link> 
+            <title>TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4347.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4</link> 
         </item> 
           <item> 
-            <title>PORTO CANAL (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/616.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL (PT)</link> 
+            <title>TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4346.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
         </item> 
           <item> 
-            <title>ODISSEIA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA (PT)</link> 
+            <title>TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4345.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
         </item> 
           <item> 
-            <title>NICKELODEON (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON (PT)</link> 
+            <title>TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4344.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
         </item> 
           <item> 
-            <title>NAT GEO HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/582.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO HD (PT)</link> 
+            <title>TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4343.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
         </item> 
           <item> 
-            <title>NAT GEO WILD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/581.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD (PT)</link> 
+            <title>TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4342.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES</link> 
         </item> 
           <item> 
-            <title>TOROS TV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV (PT)</link> 
+            <title>TV SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4341.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
         </item> 
           <item> 
-            <title>VH1 ClASSIC (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 ClASSIC (PT)</link> 
+            <title>CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
         </item> 
           <item> 
-            <title>VH1 (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 (PT)</link> 
+            <title>FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
         </item> 
           <item> 
-            <title>MTV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV (PT)</link> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/6230.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
         </item> 
           <item> 
-            <title>TRAVEL CHANNEL HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/577.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD (PT)</link> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
         </item> 
           <item> 
-            <title>MCS EXTREME (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME (PT)</link> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
         </item> 
           <item> 
-            <title>AXN HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/588.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD (PT)</link> 
+            <title>HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
         </item> 
           <item> 
-            <title>MOV HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOV HD (PT)</link> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
         </item> 
           <item> 
-            <title>AXN WHITE HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/587.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD (PT)</link> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
         </item> 
           <item> 
-            <title>AXN BLACK HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/586.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD (PT)</link> 
+            <title>FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
         </item> 
           <item> 
-            <title>AMC (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC (PT)</link> 
+            <title>FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
         </item> 
           <item> 
-            <title>AFRO MUSIC (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC (PT)</link> 
+            <title>CRIME &amp; INVESTIGATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/6231.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME &amp; INVESTIGATION</link> 
         </item> 
           <item> 
-            <title>A&amp;E (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=A&amp;E (PT)</link> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
         </item> 
           <item> 
-            <title>HOLLYWOOD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/597.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD (PT)</link> 
+            <title>AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4328.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
         </item> 
           <item> 
-            <title>HISTORIA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA (PT)</link> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4327.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
         </item> 
           <item> 
-            <title>FOX MOVIES (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/590.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES (PT)</link> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4326.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
         </item> 
           <item> 
-            <title>FOX LIFE HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD (PT)</link> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4310.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
         </item> 
           <item> 
-            <title>FOX HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD (PT)</link> 
+            <title>DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4308.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
         </item> 
           <item> 
-            <title>FOX CRIME HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD (PT)</link> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4309.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
         </item> 
           <item> 
-            <title>FOX COMEDY (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY (PT)</link> 
+            <title>CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4307.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
         </item> 
           <item> 
-            <title>E! (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/584.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! (PT)</link> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4306.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
         </item> 
           <item> 
-            <title>DISNEY JR (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JR (PT)</link> 
+            <title>BABY FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4302.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
         </item> 
           <item> 
-            <title>DISNEY (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY (PT)</link> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4305.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
         </item> 
           <item> 
-            <title>DISCOVERY SHOWCASE HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/580.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE HD (PT)</link> 
+            <title>JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4303.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
         </item> 
           <item> 
-            <title>DISCOVERY (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/583.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY (PT)</link> 
+            <title>BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4304.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS</link> 
         </item> 
           <item> 
-            <title>CM TV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/614.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM TV (PT)</link> 
+            <title>SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4301.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
         </item> 
           <item> 
-            <title>CINEMUNDO (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/596.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO (PT)</link> 
+            <title>TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4325.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
         </item> 
           <item> 
-            <title>CBS REALITY (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/576.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY (PT)</link> 
+            <title>CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4324.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
         </item> 
           <item> 
-            <title>CACA EPESCA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACA EPESCA (PT)</link> 
+            <title>CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4394.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
         </item> 
           <item> 
-            <title>CANAL NOS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4790.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL NOS (PT)</link> 
+            <title>CMTV HQ  (NET FRACA)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/5096.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HQ  (NET FRACA)</link> 
         </item> 
           <item> 
-            <title>CANAL Q (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4710.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q (PT)</link> 
+            <title>REGIOES TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/11224.ts&amp;streamtype=TSDOWNLOADER&amp;name=REGIOES TV</link> 
         </item> 
           <item> 
-            <title>EURO SPORT 1 HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4707.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO SPORT 1 HD (PT)</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/6238.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>EURO SPORT 2 XTRA HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4708.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO SPORT 2 XTRA HD (PT)</link> 
+            <title>PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
         </item> 
           <item> 
-            <title>EURO SPORT NEWS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4785.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO SPORT NEWS (PT)</link> 
+            <title>A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4366.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV</link> 
         </item> 
           <item> 
-            <title>FOX NEWS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4791.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX NEWS (PT)</link> 
+            <title>NBA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4365.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA</link> 
         </item> 
           <item> 
-            <title>MCM POP (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4793.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP (PT)</link> 
+            <title>KOMBAT SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4687.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORTS</link> 
         </item> 
           <item> 
-            <title>MEZZO (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4787.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO (PT)</link> 
+            <title>FIGHT NETWORK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4364.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK HD</link> 
         </item> 
           <item> 
-            <title>NOVA (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4709.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA (PT)</link> 
+            <title>MOTORISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4363.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORISION</link> 
         </item> 
           <item> 
-            <title>RECORD NEWS (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4788.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS (PT)</link> 
+            <title>MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4362.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
         </item> 
           <item> 
-            <title>TRACE TV (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://46.166.148.201:8000/live/demo/demo/4795.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV (PT)</link> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4360.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4359.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4356.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4322.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4323.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4321.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4320.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY HD SHOWCASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4319.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HD SHOWCASE</link> 
+        </item> 
+          <item> 
+            <title>NACIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4318.ts&amp;streamtype=TSDOWNLOADER&amp;name=NACIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4317.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>MCS EXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4315.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
+        </item> 
+          <item> 
+            <title>MCS LIFESTYLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4314.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4313.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4354.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
+        </item> 
+          <item> 
+            <title>CACAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4353.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION</link> 
+        </item> 
+          <item> 
+            <title>CACA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4351.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>A.E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4312.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.E</link> 
+        </item> 
+          <item> 
+            <title>24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4311.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>EURO NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4300.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO NEWS</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24</link> 
+        </item> 
+          <item> 
+            <title>SKY NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4298.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY NEWS</link> 
+        </item> 
+          <item> 
+            <title>FOX NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX NEWS</link> 
+        </item> 
+          <item> 
+            <title>TPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4286.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA</link> 
+        </item> 
+          <item> 
+            <title>CABO VERDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4285.ts&amp;streamtype=TSDOWNLOADER&amp;name=CABO VERDE</link> 
+        </item> 
+          <item> 
+            <title>MVM (music)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/11223.ts&amp;streamtype=TSDOWNLOADER&amp;name=MVM (music)</link> 
+        </item> 
+          <item> 
+            <title>AFRO MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4289.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC</link> 
+        </item> 
+          <item> 
+            <title>C-MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4287.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC</link> 
+        </item> 
+          <item> 
+            <title>MCM POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4290.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
+        </item> 
+          <item> 
+            <title>MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4284.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM TOP</link> 
+        </item> 
+          <item> 
+            <title>MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4292.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>TRACE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4293.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV</link> 
+        </item> 
+          <item> 
+            <title>VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4288.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
+        </item> 
+          <item> 
+            <title>VH1 CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/6246.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
+        </item> 
+          <item> 
+            <title>MEZZO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/andre123/andre123/4291.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO</link> 
         </item> 
   
