@@ -27,520 +27,486 @@
  
  
   
-          <item> 
-            <title>RTP 1 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1505.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 FHD</link> 
-        </item> 
+  
           <item> 
             <title>RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4399.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1</link> 
         </item> 
           <item> 
-            <title>RTP 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1506.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 FHD</link> 
+            <title>RTP1 HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4683.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP1 HQ</link> 
         </item> 
           <item> 
             <title>RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/184.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4398.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2</link> 
+        </item> 
+          <item> 
+            <title>RTP 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4684.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 HD</link> 
         </item> 
           <item> 
             <title>RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4397.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3</link> 
         </item> 
-          <item> 
-            <title>RTP INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP INTERNACIONAL</link> 
-        </item> 
-          <item> 
+		  <item> 
             <title>RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4381.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MEMORIA</link> 
         </item> 
           <item> 
             <title>RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/518.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4380.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP AFRICA</link> 
         </item> 
           <item> 
             <title>RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/697.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4379.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP MADEIRA</link> 
         </item> 
           <item> 
             <title>RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4378.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP ACORES</link> 
         </item> 
-          <item> 
-            <title>SIC FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1508.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC FHD</link> 
-        </item> 
-          <item> 
+		 <item> 
             <title>SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4396.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC</link> 
         </item> 
           <item> 
-            <title>SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
-        </item> 
-          <item> 
-            <title>SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
-        </item> 
-          <item> 
-            <title>SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
-        </item> 
-          <item> 
-            <title>SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
-        </item> 
-          <item> 
-            <title>TVI FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1507.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FHD</link> 
+            <title>SIC HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4685.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC HQ</link> 
         </item> 
           <item> 
             <title>TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4395.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI</link> 
         </item> 
           <item> 
+            <title>TVI HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4686.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HQ</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4393.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS</link> 
+        </item> 
+          <item> 
+            <title>SIC NOTICIAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6237.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC NOTICIAS HD</link> 
+        </item> 
+          <item> 
+            <title>SVT NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7374.ts&amp;streamtype=TSDOWNLOADER&amp;name=SVT NOTICIAS</link> 
+        </item> 
+                   <item> 
+            <title>SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4386.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC MULHER</link> 
+        </item> 
+          <item> 
+            <title>SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4385.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS</link> 
+        </item> 
+          <item> 
+            <title>SIC CARAS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6236.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC CARAS HD</link> 
+        </item> 
+          <item> 
+            <title>SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4384.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL</link> 
+        </item> 
+          <item> 
+            <title>SIC RADICAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6238.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC RADICAL HD</link> 
+        </item>
+		  <item> 
             <title>TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/190.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4392.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24</link> 
         </item> 
           <item> 
-            <title>TVI REALTY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY</link> 
+            <title>CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4394.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV</link> 
         </item> 
           <item> 
-            <title>TVI REALTY CAMERA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 1</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 2</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 3</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY CAMERA 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY CAMERA 4</link> 
-        </item> 
-          <item> 
-            <title>TVI REALTY MOSAICO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALTY MOSAICO</link> 
-        </item> 
-          <item> 
-            <title>TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
-        </item> 
-          <item> 
-            <title>TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
-        </item> 
-          <item> 
-            <title>GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO</link> 
-        </item> 
-          <item> 
-            <title>GLOBO PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM</link> 
-        </item> 
-          <item> 
-            <title>CANAL Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL Q</link> 
-        </item> 
-          <item> 
-            <title>PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
-        </item> 
-          <item> 
-            <title>CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/186.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM TV</link> 
-        </item> 
-          <item> 
-            <title>ARTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTV</link> 
-        </item> 
-          <item> 
-            <title>A BOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV</link> 
-        </item> 
-          <item> 
-            <title>REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
-        </item> 
-          <item> 
-            <title>BARCA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARCA TV</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT HD</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/786.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT NEWS</link> 
-        </item> 
-          <item> 
-            <title>NBA TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2046.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA TV HD</link> 
-        </item> 
-          <item> 
-            <title>PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
-        </item> 
-          <item> 
-            <title>MOTORS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
-        </item> 
-          <item> 
-            <title>MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
-        </item> 
-          <item> 
-            <title>FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
-        </item> 
-          <item> 
-            <title>FIGHT NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK</link> 
-        </item> 
-          <item> 
-            <title>KOMBAT SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/900.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORT</link> 
-        </item> 
-          <item> 
-            <title>CACAVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION</link> 
-        </item> 
-          <item> 
-            <title>CAÇA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAÇA E PESCA</link> 
-        </item> 
-          <item> 
-            <title>OUTDOOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/784.ts&amp;streamtype=TSDOWNLOADER&amp;name=OUTDOOR</link> 
-        </item> 
-          <item> 
-            <title>TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
-        </item> 
-          <item> 
-            <title>DOG TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=DOG TV</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2754.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2753.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2752.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>TVCINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2751.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4</link> 
-        </item> 
-          <item> 
-            <title>HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
-        </item> 
-          <item> 
-            <title>AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/522.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
-        </item> 
-          <item> 
-            <title>FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/513.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
-        </item> 
-          <item> 
-            <title>CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
-        </item> 
-          <item> 
-            <title>SUNDANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/780.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUNDANCE</link> 
-        </item> 
-          <item> 
-            <title>SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
-        </item> 
-          <item> 
-            <title>AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
-        </item> 
-          <item> 
-            <title>AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
-        </item> 
-          <item> 
-            <title>AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
-        </item> 
-          <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
-        </item> 
-          <item> 
-            <title>FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
-        </item> 
-          <item> 
-            <title>FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
-        </item> 
-          <item> 
-            <title>FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title>CRIME   INVESTIGATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME   INVESTIGATION</link> 
-        </item> 
-          <item> 
-            <title>TV SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
-        </item> 
-          <item> 
-            <title>E! ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/517.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
-        </item> 
-          <item> 
-            <title>MCS LIFESTYLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
-        </item> 
-          <item> 
-            <title>NAT. GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT. GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>DISCOVERY SHOWCASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/514.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SHOWCASE</link> 
-        </item> 
-          <item> 
-            <title>TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
-        </item> 
-          <item> 
-            <title>A &amp; E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=A &amp; E</link> 
-        </item> 
-          <item> 
-            <title>ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>CANAL HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>24 KITCHEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN</link> 
-        </item> 
-          <item> 
-            <title>FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>TRAVEL CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>FASHION TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/696.ts&amp;streamtype=TSDOWNLOADER&amp;name=FASHION TV</link> 
-        </item> 
-          <item> 
-            <title>LUXE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=LUXE TV</link> 
-        </item> 
-          <item> 
-            <title>FINE LIVING HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=FINE LIVING HD</link> 
-        </item> 
-          <item> 
-            <title>ZEE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/867.ts&amp;streamtype=TSDOWNLOADER&amp;name=ZEE TV</link> 
-        </item> 
-          <item> 
-            <title>MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=MAX</link> 
-        </item> 
-          <item> 
-            <title>TRACE URBAN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/868.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE URBAN HD</link> 
-        </item> 
-          <item> 
-            <title>MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
-        </item> 
-          <item> 
-            <title>MTV ROCKS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/918.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ROCKS</link> 
-        </item> 
-          <item> 
-            <title>MTV MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/919.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC</link> 
-        </item> 
-          <item> 
-            <title>MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/920.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
-        </item> 
-          <item> 
-            <title>MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
-        </item> 
-          <item> 
-            <title>TRACE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV</link> 
-        </item> 
-          <item> 
-            <title>VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
-        </item> 
-          <item> 
-            <title>VH1 CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1036.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>C-MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/865.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC</link> 
-        </item> 
-          <item> 
-            <title>iCONCERTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=iCONCERTS</link> 
-        </item> 
-          <item> 
-            <title>VIRGIN TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV</link> 
-        </item> 
-          <item> 
-            <title>AFRO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/515.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO TV</link> 
-        </item> 
-          <item> 
-            <title>MEZZO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/781.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEZZO</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>PANDA BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PANDA BIGGS</link> 
-        </item> 
-          <item> 
-            <title>JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
-        </item> 
-          <item> 
-            <title>TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/2817.ts&amp;streamtype=TSDOWNLOADER&amp;name=TIJI</link> 
-        </item> 
-          <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
-        </item> 
-          <item> 
-            <title>BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
-        </item> 
-          <item> 
-            <title>BABY FIRST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1504.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
-        </item> 
-          <item> 
-            <title>LOCALVISAO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=LOCALVISAO HD</link> 
-        </item> 
-          <item> 
-            <title>KURIAKOS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/1579.ts&amp;streamtype=TSDOWNLOADER&amp;name=KURIAKOS TV</link> 
+            <title>CMTV HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/5096.ts&amp;streamtype=TSDOWNLOADER&amp;name=CMTV HQ</link> 
         </item> 
           <item> 
             <title>REGIOES TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/898.ts&amp;streamtype=TSDOWNLOADER&amp;name=REGIOES TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/11224.ts&amp;streamtype=TSDOWNLOADER&amp;name=REGIOES TV</link> 
         </item> 
           <item> 
-            <title>SANTUARIO FATIMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=SANTUARIO FATIMA</link> 
+            <title>TVI FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4391.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI FICCAO</link> 
         </item> 
           <item> 
-            <title>TPA INTERNACIONAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA INTERNACIONAL</link> 
+            <title>TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4390.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI REALITY</link> 
         </item> 
           <item> 
-            <title>CANCAO NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANCAO NOVA</link> 
+            <title>MOSAICO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7252.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOSAICO</link> 
         </item> 
           <item> 
-            <title>RECORD NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/866.ts&amp;streamtype=TSDOWNLOADER&amp;name=RECORD NEWS</link> 
+            <title>Camera 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 1</link> 
         </item> 
           <item> 
-            <title>EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+            <title>Camera 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 2</link> 
         </item> 
           <item> 
-            <title>CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=CNN</link> 
+            <title>Camera 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7254.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 3</link> 
         </item> 
           <item> 
-            <title>BBC WORLD NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://painel.soeu.kim:8080/live/toniparis/paris/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC WORLD NEWS</link> 
+            <title>Camera 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7255.ts&amp;streamtype=TSDOWNLOADER&amp;name=Camera 4</link> 
+        </item> 
+		 <item> 
+            <title>CANAL 1 EUROPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7373.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL 1 EUROPA</link> 
+        </item> 
+          <item> 
+            <title>GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4389.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO</link> 
+        </item> 
+          <item> 
+            <title>GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4388.ts&amp;streamtype=TSDOWNLOADER&amp;name=GLOBO PREMIUM</link> 
+        </item> 
+          <item> 
+            <title>globo int europa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/7356.ts&amp;streamtype=TSDOWNLOADER&amp;name=globo int europa</link> 
+        </item> 
+          <item> 
+            <title>TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4387.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV RECORD</link> 
+        </item> 
+ 
+          <item> 
+            <title>PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4366.ts&amp;streamtype=TSDOWNLOADER&amp;name=A BOLA TV</link> 
+        </item> 
+          <item> 
+            <title>NBA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4365.ts&amp;streamtype=TSDOWNLOADER&amp;name=NBA</link> 
+        </item> 
+          <item> 
+            <title>KOMBAT SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4687.ts&amp;streamtype=TSDOWNLOADER&amp;name=KOMBAT SPORTS</link> 
+        </item> 
+          <item> 
+            <title>FIGHT NETWORK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4364.ts&amp;streamtype=TSDOWNLOADER&amp;name=FIGHT NETWORK HD</link> 
+        </item> 
+          <item> 
+            <title>MOTORISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4363.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORISION</link> 
+        </item> 
+          <item> 
+            <title>MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4362.ts&amp;streamtype=TSDOWNLOADER&amp;name=MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>SPORTING TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4361.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV</link> 
+        </item> 
+          <item> 
+            <title>REAL MADRID TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4360.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4359.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT</link> 
+        </item> 
+          <item> 
+            <title>EUROSPORT 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4356.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+        </item> 
+          <item> 
+            <title>TOROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4352.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOROS TV</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4350.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4349.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4348.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4347.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4346.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4345.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4344.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4343.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCINE 4 HD</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4342.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES</link> 
+        </item> 
+          <item> 
+            <title>TV SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4341.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4340.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINEMUNDO</link> 
+        </item> 
+          <item> 
+            <title>FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6230.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
+        </item> 
+          <item> 
+            <title>AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD HD</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX COMEDY</link> 
+        </item> 
+          <item> 
+            <title>FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>CRIME &amp; INVESTIGATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6231.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIME &amp; INVESTIGATION</link> 
+        </item> 
+          <item> 
+            <title>AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD</link> 
+        </item> 
+          <item> 
+            <title>AXN BLACK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4328.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN BLACK HD</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4327.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE HD</link> 
+        </item> 
+          <item> 
+            <title>SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4326.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4310.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4308.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4309.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4307.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4306.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item> 
+          <item> 
+            <title>BABY FIRST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4302.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY FIRST</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4305.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>JIM JAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4303.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIM JAM</link> 
+        </item> 
+          <item> 
+            <title>BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4304.ts&amp;streamtype=TSDOWNLOADER&amp;name=BIGGS</link> 
+        </item> 
+          <item> 
+            <title>SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4301.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K</link> 
+        </item> 
+          <item> 
+            <title>TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4325.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC</link> 
+        </item> 
+          <item> 
+            <title>CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4324.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS REALITY</link> 
+        </item> 
+          <item> 
+            <title>E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4322.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4323.ts&amp;streamtype=TSDOWNLOADER&amp;name=ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4321.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4320.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY HD SHOWCASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4319.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY HD SHOWCASE</link> 
+        </item> 
+          <item> 
+            <title>NACIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4318.ts&amp;streamtype=TSDOWNLOADER&amp;name=NACIONAL GEOGRAPHIC HD</link> 
+        </item> 
+          <item> 
+            <title>NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4317.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+        </item> 
+          <item> 
+            <title>MCS EXTREME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4315.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS EXTREME</link> 
+        </item> 
+          <item> 
+            <title>MCS LIFESTYLE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4314.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LIFESTYLE</link> 
+        </item> 
+          <item> 
+            <title>TRAVEL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4313.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRAVEL CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4354.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC</link> 
+        </item> 
+          <item> 
+            <title>CACAVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4353.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACAVISION</link> 
+        </item> 
+          <item> 
+            <title>CACA E PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4351.ts&amp;streamtype=TSDOWNLOADER&amp;name=CACA E PESCA</link> 
+        </item> 
+          <item> 
+            <title>A.E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4312.ts&amp;streamtype=TSDOWNLOADER&amp;name=A.E</link> 
+        </item> 
+          <item> 
+            <title>24 KITCHEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4311.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 KITCHEN HD</link> 
+        </item> 
+          <item> 
+            <title>EURO NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4300.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURO NEWS</link> 
+        </item> 
+          <item> 
+            <title>FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24</link> 
+        </item> 
+          <item> 
+            <title>SKY NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4298.ts&amp;streamtype=TSDOWNLOADER&amp;name=SKY NEWS</link> 
+        </item> 
+          <item> 
+            <title>FOX NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX NEWS</link> 
+        </item> 
+          <item> 
+            <title>TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4295.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA</link> 
+        </item> 
+          <item> 
+            <title>FASHION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FASHION TV</link> 
+        </item> 
+          <item> 
+            <title>KURIAKOS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6232.ts&amp;streamtype=TSDOWNLOADER&amp;name=KURIAKOS TV</link> 
+        </item> 
+          <item> 
+            <title>TPA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4286.ts&amp;streamtype=TSDOWNLOADER&amp;name=TPA</link> 
+        </item> 
+          <item> 
+            <title>CABO VERDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4285.ts&amp;streamtype=TSDOWNLOADER&amp;name=CABO VERDE</link> 
+        </item> 
+          <item> 
+            <title>MVM (music)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/11223.ts&amp;streamtype=TSDOWNLOADER&amp;name=MVM (music)</link> 
+        </item> 
+          <item> 
+            <title>AFRO MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4289.ts&amp;streamtype=TSDOWNLOADER&amp;name=AFRO MUSIC</link> 
+        </item> 
+          <item> 
+            <title>C-MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4287.ts&amp;streamtype=TSDOWNLOADER&amp;name=C-MUSIC</link> 
+        </item> 
+          <item> 
+            <title>MCM POP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4290.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM POP</link> 
+        </item> 
+          <item> 
+            <title>MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4284.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCM TOP</link> 
+        </item> 
+          <item> 
+            <title>MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4292.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>TRACE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4293.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRACE TV</link> 
+        </item> 
+          <item> 
+            <title>VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/4288.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1</link> 
+        </item> 
+          <item> 
+            <title>VH1 CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://217.182.195.5:8000/live/001/001/6246.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 CLASSIC</link> 
         </item> 
   
