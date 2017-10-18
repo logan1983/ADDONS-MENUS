@@ -29,329 +29,138 @@
   
   
  
- 
+  
           <item> 
-            <title>PT:RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 1 HD</link> 
+            <title>PT: RTP Memória</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/728.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memória</link> 
         </item> 
           <item> 
-            <title>PT: RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
+            <title>PT: RTP África</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP África</link> 
         </item> 
           <item> 
             <title>PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
-            <title>PT:RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:RTP 3</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/727.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+            <title>PT: SIC Radical</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/724.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Radical</link> 
         </item> 
           <item> 
-            <title>PT: RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
+            <title>PT: SIC Noticias</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/725.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Noticias</link> 
         </item> 
           <item> 
-            <title>PT: RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6438.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6466.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Kids</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6436.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Mulher</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Noticias</link> 
-        </item> 
-          <item> 
-            <title>PT: Sic Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Radical</link> 
-        </item> 
-          <item> 
-            <title>PT:SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:SIC CARAS</link> 
+            <title>PT: SIC K</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC K</link> 
         </item> 
           <item> 
             <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6434.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/720.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT: Tvi 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6433.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24</link> 
+            <title>PT: TVI Reality (A Quinta)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Reality (A Quinta)</link> 
         </item> 
           <item> 
-            <title>PT: TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6443.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
+            <title>PT: TVI Ficção</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficção</link> 
         </item> 
           <item> 
-            <title>PT:TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TVI REALITY</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/719.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>PT:GLOBO TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:GLOBO TV</link> 
+            <title>PT: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
         </item> 
           <item> 
-            <title>PT: AXN Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
+            <title>PT: Travel Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Travel Channel HD</link> 
         </item> 
           <item> 
-            <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6481.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White HD</link> 
-        </item> 
-          <item> 
-            <title>PT: AXN.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN.HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Benfica TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6426.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Benfica TV</link> 
-        </item> 
-          <item> 
-            <title>PT: CACA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6441.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CACA E PESCA</link> 
-        </item> 
-          <item> 
-            <title>PT: Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>PT: CARTOON  NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON  NETWORK</link> 
-        </item> 
-          <item> 
-            <title>PT: Cine Mundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
-        </item> 
-          <item> 
-            <title>PT: Disney JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6468.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney JR</link> 
-        </item> 
-          <item> 
-            <title>PT: ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6440.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ENTERTAINMENT</link> 
-        </item> 
-          <item> 
-            <title>PT: Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Life HD</link> 
-        </item> 
-          <item> 
-            <title>PT: Fox Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6489.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Movies</link> 
-        </item> 
-          <item> 
-            <title>PT: Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6432.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Historia</link> 
-        </item> 
-          <item> 
-            <title>PT: Kombat Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT: Kombat Sports&amp;streamtype=TSDOWNLOADER&amp;name=PT: Kombat Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6445.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>PT: LIfestyle TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: LIfestyle TV</link> 
-        </item> 
-          <item> 
-            <title>PT: MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6465.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCS EXTREME</link> 
-        </item> 
-          <item> 
-            <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
-        </item> 
-          <item> 
-            <title>PT: MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6420.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV PORTUGAL</link> 
-        </item> 
-          <item> 
-            <title>PT: Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>PT: NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NBA TV</link> 
-        </item> 
-          <item> 
-            <title>PT: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6469.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
+            <title>PT: Syfy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/722.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Syfy</link> 
         </item> 
           <item> 
             <title>PT: Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/731.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto Canal</link> 
         </item> 
           <item> 
-            <title>PT: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD</link> 
+            <title>PT: Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
         </item> 
           <item> 
-            <title>PT: SYFY SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY SD</link> 
+            <title>PT: Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nickelodeon</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 1</link> 
+            <title>PT: Nat. Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat. Geo Wild</link> 
         </item> 
           <item> 
-            <title>PT: TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 HD</link> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 2</link> 
+            <title>PT: FOX Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 3</link> 
+            <title>PT: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX</link> 
         </item> 
           <item> 
-            <title>PT: TV Cine 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6475.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Cine 4</link> 
+            <title>PT: Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Food Network</link> 
         </item> 
           <item> 
-            <title>PT: TV SERIES HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES HD</link> 
+            <title>PT: EUROSPORT NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT NEWS</link> 
         </item> 
           <item> 
-            <title>PT: TV Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Record</link> 
+            <title>PT: E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertainment</link> 
         </item> 
           <item> 
-            <title>PT: WOOHOO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: WOOHOO</link> 
+            <title>PT: Discovery Showcase HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Showcase HD</link> 
         </item> 
           <item> 
-            <title>PT:24KITCHEN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6428.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:24KITCHEN HD</link> 
+            <title>PT: Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
         </item> 
           <item> 
-            <title>PT:A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6435.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:A&amp;E</link> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/743.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
         </item> 
           <item> 
-            <title>PT:BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BABY TV</link> 
+            <title>PT: Cinemundo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cinemundo</link> 
         </item> 
           <item> 
-            <title>PT:BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:BIGGS</link> 
+            <title>PT: Canal Panda</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Panda</link> 
         </item> 
           <item> 
-            <title>PT:CACAVISION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6442.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CACAVISION HD</link> 
+            <title>PT: Canal Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal Historia</link> 
         </item> 
           <item> 
-            <title>PT:CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CANAL PANDA</link> 
+            <title>PT: Baby Tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby Tv</link> 
         </item> 
           <item> 
-            <title>PT:CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CBS REALITY</link> 
+            <title>PT: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN</link> 
         </item> 
           <item> 
-            <title>PT:CHELSEA TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6423.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:CHELSEA TV HD</link> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
         </item> 
-          <item> 
-            <title>PT:DISCOVERY SHOWCASE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6444.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:DISCOVERY SHOWCASE HD</link> 
-        </item> 
-          <item> 
-            <title>PT:EUROSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6446.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:EUROSPORT</link> 
-        </item> 
-          <item> 
-            <title>PT:FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:FUEL TV</link> 
-        </item> 
-          <item> 
-            <title>PT:HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6480.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title>PT:JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6467.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:JIM JAM</link> 
-        </item> 
-          <item> 
-            <title>PT:MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>PT:MOTORVISION HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6450.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:MOTORVISION HD</link> 
-        </item> 
-          <item> 
-            <title>PT:NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6470.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>PT:PANDA BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6472.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PANDA BIGGS</link> 
-        </item> 
-          <item> 
-            <title>PT:PFC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:PFC HD</link> 
-        </item> 
-          <item> 
-            <title>PT:Q CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:Q CANAL</link> 
-        </item> 
-          <item> 
-            <title>PT:REDE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:REDE TV</link> 
-        </item> 
-          <item> 
-            <title>PT:TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TLC</link> 
-        </item> 
-          <item> 
-            <title>PT:TRAVEL CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:TRAVEL CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>PT:VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://1pipo.ca:25461/live/2333/2333/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT:VH1</link> 
-        </item> 
+  
   
