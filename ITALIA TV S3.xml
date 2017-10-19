@@ -36,288 +36,204 @@
   
  
  
-             <item> 
-            <title>IT:SKY-CINEMA-MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/883.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:SKY-CINEMA-MAX</link> 
-        </item> 
-          <item> 
-            <title>IT:Sky Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Fox HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Sky Cinema Passion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/874.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Cinema Passion HD</link> 
-        </item> 
-          <item> 
-            <title>IT:SKY Cinema Max 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/877.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:SKY Cinema Max 1</link> 
-        </item> 
-          <item> 
-            <title>IT:Sky Cinema Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT:Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Cinema Hits HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/887.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>IT:Sky Cinema Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/869.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Cinema Family HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Sky Cinema Cult HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/870.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Cinema Cult HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Sky Cinema 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/876.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky Cinema 1</link> 
-        </item> 
-          <item> 
-            <title>IT:fox.Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/879.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:fox.Crime</link> 
-        </item> 
-          <item> 
-            <title>IT:CINEMA-COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/872.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:CINEMA-COMEDY</link> 
-        </item> 
-          <item> 
-            <title>IT: Sky Cinema 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/875.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema 1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Sky Cinema  1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/880.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema  1 HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Sky Cinema   24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/881.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Cinema   24 HD</link> 
-        </item> 
-          <item> 
-            <title>IT- Virgin TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Virgin TV</link> 
-        </item> 
-          <item> 
-            <title>IT- TV2000</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- TV2000</link> 
-        </item> 
-          <item> 
-            <title>IT- TSN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- TSN</link> 
-        </item> 
-          <item> 
-            <title>IT- Trentino Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Trentino Tv</link> 
-        </item> 
-          <item> 
-            <title>IT- TG Norba 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- TG Norba 24</link> 
-        </item> 
-          <item> 
-            <title>IT- Super!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Super!</link> 
-        </item> 
-          <item> 
-            <title>IT- Sky Uno HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Sky Uno HD</link> 
-        </item> 
           <item> 
-            <title>IT- Rai Scuola</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai Scuola</link> 
+            <title>IT:Discovery Focus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery Focus</link> 
         </item> 
           <item> 
-            <title>IT- Rai Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai Premium</link> 
+            <title>IT: Supercalcio HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Supercalcio HD</link> 
         </item> 
           <item> 
-            <title>IT- Rai Gulp</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai Gulp</link> 
+            <title>IT: SKY TG 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: SKY TG 24</link> 
         </item> 
           <item> 
-            <title>IT- Rai 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai 5 HD</link> 
+            <title>IT: Sky Fox Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Fox Comedy HD</link> 
         </item> 
           <item> 
-            <title>IT- Rai 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai 4 HD</link> 
+            <title>IT: Sky Calcio 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 7</link> 
         </item> 
           <item> 
-            <title>IT- Rai 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai 3 HD</link> 
+            <title>IT: Sky Calcio 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 6</link> 
         </item> 
           <item> 
-            <title>IT- Rai 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai 2 HD</link> 
+            <title>IT: Sky Calcio 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 5</link> 
         </item> 
           <item> 
-            <title>IT- Rai 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/819.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Rai 1 HD</link> 
+            <title>IT: Sky Calcio 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 4</link> 
         </item> 
           <item> 
-            <title>IT- Radio ITalia TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Radio ITalia TV</link> 
+            <title>IT: Sky Calcio 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 3</link> 
         </item> 
           <item> 
-            <title>IT- Radio Capital</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Radio Capital</link> 
+            <title>IT: Sky Calcio 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 2</link> 
         </item> 
           <item> 
-            <title>IT- Premium Studio Universal HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Studio Universal HD</link> 
+            <title>IT: Sky Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Sky Calcio 1</link> 
         </item> 
           <item> 
-            <title>IT- Premium Stories HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Stories HD</link> 
+            <title>IT: Premium Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Sport 2</link> 
         </item> 
           <item> 
-            <title>IT- Premium Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Crime HD</link> 
+            <title>IT: Premium Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Comedy</link> 
         </item> 
           <item> 
-            <title>IT- Premium Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Cinema HD</link> 
+            <title>IT: Premium Calcio</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Calcio</link> 
         </item> 
           <item> 
-            <title>IT- Premium Cinema Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Cinema Emotion HD</link> 
+            <title>IT: Premium Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Premium Action</link> 
         </item> 
           <item> 
-            <title>IT- Premium Cinema Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Cinema Comedy HD</link> 
+            <title>IT: Pesca e Caccia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Pesca e Caccia</link> 
         </item> 
           <item> 
-            <title>IT- Premium Cinema 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Premium Cinema 2 HD</link> 
+            <title>IT: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: NATIONAL GEOGRAPHIC HD</link> 
         </item> 
           <item> 
-            <title>IT- Mediaset extra HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/821.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Mediaset extra HD</link> 
+            <title>IT: Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Nat Geo Wild HD</link> 
         </item> 
           <item> 
-            <title>IT- Mediaset 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/822.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Mediaset 2 HD</link> 
+            <title>IT: Milan Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Milan Channel</link> 
         </item> 
           <item> 
-            <title>IT- Mediaset 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/823.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Mediaset 1 HD</link> 
+            <title>IT: Juventus TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Juventus TV</link> 
         </item> 
           <item> 
-            <title>IT- MarcoPolo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/824.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- MarcoPolo</link> 
+            <title>IT: Inter Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Inter Channel</link> 
         </item> 
           <item> 
-            <title>IT- La7d HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/845.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- La7d HD</link> 
+            <title>IT: FOX Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: FOX Sport HD</link> 
         </item> 
           <item> 
-            <title>IT- La 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/825.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- La 5 HD</link> 
+            <title>IT: Discovery Travel&amp;Living HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery Travel&amp;Living HD</link> 
         </item> 
           <item> 
-            <title>IT- K2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/826.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- K2</link> 
+            <title>IT: Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery Science HD</link> 
         </item> 
           <item> 
-            <title>IT- Iris Mediaset</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/827.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Iris Mediaset</link> 
+            <title>IT: Discovery HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Discovery HD</link> 
         </item> 
           <item> 
-            <title>IT- Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/830.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Fox Life HD</link> 
+            <title>IT | Sky Sport3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Sport3 HD</link> 
         </item> 
           <item> 
-            <title>IT- Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/832.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Fox HD</link> 
+            <title>IT | Sky Sport2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Sport2 HD</link> 
         </item> 
           <item> 
-            <title>IT- Fox Animation HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/831.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Fox Animation HD</link> 
+            <title>IT | Sky Sport1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Sport1 HD</link> 
         </item> 
           <item> 
-            <title>IT- EuroNews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- EuroNews</link> 
+            <title>IT | Sky Sport F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Sport F1 HD</link> 
         </item> 
           <item> 
-            <title>IT- Disney XD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Disney XD HD</link> 
+            <title>IT | Sky Sport 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Sport 24 HD</link> 
         </item> 
           <item> 
-            <title>IT- D-Max HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- D-Max HD</link> 
+            <title>IT | Sky Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Moto GP HD</link> 
         </item> 
           <item> 
-            <title>IT- Cielo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/842.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Cielo</link> 
+            <title>IT | SKY CINEMA24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | SKY CINEMA24 HD</link> 
         </item> 
           <item> 
-            <title>IT- Cartoonito HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/843.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Cartoonito HD</link> 
+            <title>IT | Sky Cinema Passion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Cinema Passion HD</link> 
         </item> 
           <item> 
-            <title>IT- Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/844.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Cartoon Network</link> 
+            <title>IT | Sky Cinema Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Cinema Max HD</link> 
         </item> 
           <item> 
-            <title>IT- Canale 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/846.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Canale 5 HD</link> 
+            <title>IT | Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Cinema Family HD</link> 
         </item> 
           <item> 
-            <title>IT- Alice</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/849.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT- Alice</link> 
+            <title>IT | Sky Cinema Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Cinema Comedy HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/850.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 1 HD</link> 
+            <title>IT | Sky Cinema Classic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Cinema Classic HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 2 HD</link> 
+            <title>IT | Sky Cinema  1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Sky Cinema  1 HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 3 HD</link> 
+            <title>IT | Premium Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Crime</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/853.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 4 HD</link> 
+            <title>IT | Premium Cinema Energy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Cinema Energy</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/854.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 5 HD</link> 
+            <title>IT | Premium Cinema 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Cinema 2</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA  6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/855.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA  6 HD</link> 
+            <title>IT | Premium Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Cinema</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/856.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 7 HD</link> 
+            <title>IT | Premium Calcio 5*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Calcio 5*</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/857.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 8 HD</link> 
+            <title>IT | Premium Calcio 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Calcio 4</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA  9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/858.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA  9 HD</link> 
+            <title>IT | Premium Calcio 3*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Calcio 3*</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 10 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/859.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 10 HD</link> 
+            <title>IT | Premium Calcio 2*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/163.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Calcio 2*</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 11 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/860.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 11 HD</link> 
+            <title>IT | Premium Calcio 1*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Premium Calcio 1*</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/861.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 12 HD</link> 
+            <title>IT | FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | FOX HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 13 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/862.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 13 HD</link> 
+            <title>IT | Fox Crime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT | Fox Crime HD</link> 
         </item> 
           <item> 
-            <title>IT: PRIMAFILA 14 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://62.210.94.86:8000/live/1514Jl14417t94/25448y19u144P9/863.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: PRIMAFILA 14 HD</link> 
+            <title>IT : Premium Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptvbalhasat.hopto.org:8000/live/tunisia-sat/ounirio/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT : Premium Sport HD</link> 
         </item> 
   
