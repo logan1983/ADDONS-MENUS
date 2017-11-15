@@ -26,211 +26,753 @@
  
  
  
- 
- 
- 
+  
           <item> 
-            <title>FR_TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TF1</link> 
+            <title>[FR][L] TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1269.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] TF1</link> 
         </item> 
           <item> 
-            <title>FR_M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6</link> 
+            <title>[FR] France 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1270.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] France 2</link> 
         </item> 
           <item> 
-            <title>FR_AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/7153.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB1</link> 
+            <title>[FR][L] FRANCE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] FRANCE 3</link> 
         </item> 
           <item> 
-            <title>FR_RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/7152.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL9</link> 
+            <title>[FR][L] FRANCE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1272.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] FRANCE 4</link> 
         </item> 
           <item> 
-            <title>FR_France_O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_O</link> 
+            <title>[FR][L] FRANCE 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] FRANCE 5</link> 
         </item> 
           <item> 
-            <title>FR_France_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_2</link> 
+            <title>[FR][L] FRANCE O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1274.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] FRANCE O</link> 
         </item> 
           <item> 
-            <title>FR_France_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_3</link> 
+            <title>[FR][L] FRANCE 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8676.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] FRANCE 24</link> 
         </item> 
           <item> 
-            <title>FR_France_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_4</link> 
+            <title>[FR][L] ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] ARTE</link> 
         </item> 
           <item> 
-            <title>FR_France_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France_5</link> 
+            <title>[FR][L] C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] C8</link> 
         </item> 
           <item> 
-            <title>FR_Toute_L_Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Toute_L_Histoire</link> 
+            <title>[FR][L] M6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] M6 HD</link> 
         </item> 
           <item> 
-            <title>FR_Planete_Plus_Ci</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete_Plus_Ci</link> 
+            <title>[FR][L] BFM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] BFM TV</link> 
         </item> 
           <item> 
-            <title>FR_Planete_Plus_A_And_E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete_Plus_A_And_E</link> 
+            <title>[FR][L] BFM Business</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] BFM Business</link> 
         </item> 
           <item> 
-            <title>FR_Paramount</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Paramount</link> 
+            <title>[FR][L] W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] W9</link> 
         </item> 
           <item> 
-            <title>FR_OCS_Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_Max</link> 
+            <title>[FR][L] NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] NT1</link> 
         </item> 
           <item> 
-            <title>FR_OCS_Geants</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR_OCS_Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_Geants</link> 
+            <title>[FR] NRJ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] NRJ HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] KTO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8680.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] KTO</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] NRJ 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] NRJ 12</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] TMC</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] E! ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8678.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] E! ENTERTAINMENT</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] CSTAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] CSTAR</link> 
+        </item> 
+          <item> 
+            <title>[FR] GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1304.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] GULLI</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1640.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] HD1</link> 
+        </item> 
+          <item> 
+            <title>[FR] EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] Cherie25 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1670.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] Cherie25 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] RMC DECOUVERTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1318.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] RMC DECOUVERTE</link> 
+        </item> 
+          <item> 
+            <title>[FR][L]  6TER HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1669.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L]  6TER HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1641.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] AB1</link> 
+        </item> 
+          <item> 
+            <title>[FR] Gong HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1652.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Gong HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] C NEWS / ITELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8679.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] C NEWS / ITELE</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] LCI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] LCI HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] NUMERO 23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8677.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] NUMERO 23</link> 
+        </item> 
+          <item> 
+            <title>Â¤Â¤Â¤Â¤Â¤ Chaines Canal Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8667.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ Chaines Canal Â¤Â¤Â¤Â¤Â¤</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8784.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL  Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1325.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL  Sport HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1324.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL  Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1306.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL  Family</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] CANAL  Decale HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1327.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] CANAL  Decale HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL  Cinema HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1328.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL  Cinema HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] TCM CINEMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8683.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] TCM CINEMA HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] CINE Premier</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] CINE Premier</link> 
+        </item> 
+          <item> 
+            <title>[FR] CINE Polar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CINE Polar</link> 
+        </item> 
+          <item> 
+            <title>[FR] CINE FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1323.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CINE FX</link> 
+        </item> 
+          <item> 
+            <title>[FR] CINE Frisson</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CINE Frisson</link> 
+        </item> 
+          <item> 
+            <title>[FR] CINE Famiz</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CINE Famiz</link> 
+        </item> 
+          <item> 
+            <title>[FR] CINE Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CINE Emotion</link> 
+        </item> 
+          <item> 
+            <title>[FR] CINE Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CINE Classic</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1294.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS Max</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS Geants HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,[FR] OCS Geants&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS Geants HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4322.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR_OCS_City</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_City</link> 
+            <title>[FR] OCS CITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1296.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS CITY</link> 
         </item> 
           <item> 
-            <title>FR_OCS_Choc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_OCS_Choc</link> 
+            <title>[FR] OCS CHOC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS CHOC HD</link> 
         </item> 
           <item> 
-            <title>FR_Nicklodeon_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nicklodeon_Junior</link> 
+            <title>Â¤Â¤Â¤Â¤Â¤ Decouverte Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8666.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ Decouverte Â¤Â¤Â¤Â¤Â¤</link> 
         </item> 
           <item> 
-            <title>FR_Nicklodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nicklodeon</link> 
+            <title>[FR][L] TOUTE L'HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1320.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] TOUTE L'HISTOIRE</link> 
         </item> 
           <item> 
-            <title>FR_Nat_Geo_Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nat_Geo_Wild</link> 
+            <title>[FR] VOYAGE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1316.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] VOYAGE HD</link> 
         </item> 
           <item> 
-            <title>FR_Lequipe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Lequipe</link> 
+            <title>[FR] USHUAIA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1315.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] USHUAIA TV HD</link> 
         </item> 
           <item> 
-            <title>FR_Info_Sport_Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Info_Sport_Plus</link> 
+            <title>[FR][L] SCIENCE ET VIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1672.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] SCIENCE ET VIE</link> 
         </item> 
           <item> 
-            <title>FR_Gulli</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Gulli</link> 
+            <title>[FR] Planete+ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1312.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Planete+ HD</link> 
         </item> 
           <item> 
-            <title>FR_Foot_Plus_24_of_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Foot_Plus_24_of_24</link> 
+            <title>[FR] PLANETE CI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1313.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] PLANETE CI HD</link> 
         </item> 
           <item> 
-            <title>FR_Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport</link> 
+            <title>[FR][L] PARIS PREMIERE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8686.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] PARIS PREMIERE HD</link> 
         </item> 
           <item> 
-            <title>FR_Eurosport_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Eurosport_2</link> 
+            <title>[FR] Planete A&amp;E HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1314.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Planete A&amp;E HD</link> 
         </item> 
           <item> 
-            <title>FR_Disney_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_XD</link> 
+            <title>[FR] Season HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8685.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Season HD</link> 
         </item> 
           <item> 
-            <title>FR_Disney_Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Junior</link> 
+            <title>[FR][L] NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1319.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] NATIONAL GEOGRAPHIC</link> 
         </item> 
           <item> 
-            <title>FR_Disney_Cinemagic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Cinemagic</link> 
+            <title>[FR][L] TREK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] TREK</link> 
         </item> 
           <item> 
-            <title>FR_Disney_Channel_Plus_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Channel_Plus_1</link> 
+            <title>[FR] NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1317.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>FR_Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Channel</link> 
+            <title>[FR] DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1321.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] DISCOVERY HD</link> 
         </item> 
           <item> 
-            <title>FR_Discovery_Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Discovery_Science</link> 
+            <title>[FR] Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1648.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Discovery Science HD</link> 
         </item> 
           <item> 
-            <title>FR_Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Discovery</link> 
+            <title>[FR] ANIMAUX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1646.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] ANIMAUX HD</link> 
         </item> 
           <item> 
-            <title>FR_Cine_Plus_Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Plus_Premier</link> 
+            <title>[FR] IL tV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] IL tV</link> 
         </item> 
           <item> 
-            <title>FR_Cine_Polar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Polar</link> 
+            <title>[FR][L] CHASSE &amp; PECHE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] CHASSE &amp; PECHE HD</link> 
         </item> 
           <item> 
-            <title>FR_Cine_FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_FX</link> 
+            <title>[FR] HISTOIRE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1644.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] HISTOIRE HD</link> 
         </item> 
           <item> 
-            <title>FR_Cine_Plus_Frisson</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Plus_Frisson</link> 
+            <title>Â¤Â¤Â¤Â¤Â¤ Series et divertissement Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ Series et divertissement Â¤Â¤Â¤Â¤Â¤</link> 
         </item> 
           <item> 
-            <title>FR_Cine_Plus_Famiz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Plus_Famiz</link> 
+            <title>[FR][L] SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1284.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] SYFY HD</link> 
         </item> 
           <item> 
-            <title>FR_Cine_Plus_Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Plus_Emotion</link> 
+            <title>[FR] Serie club</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1639.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Serie club</link> 
         </item> 
           <item> 
-            <title>FR_Cine_Plus_Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine_Plus_Classic</link> 
+            <title>[FR] 13 EME RUE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1283.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] 13 EME RUE</link> 
         </item> 
           <item> 
-            <title>FR_Chasse_Et_Peche</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Chasse_Et_Peche</link> 
+            <title>[FR][L] ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] ACTION</link> 
         </item> 
           <item> 
-            <title>FR_Cartoon_Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cartoon_Network</link> 
+            <title>[FR] BET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8689.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BET</link> 
         </item> 
           <item> 
-            <title>FR_Canal_Plus_Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4356.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Plus_Sport</link> 
+            <title>[FR] TV BREIZH HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8688.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] TV BREIZH HD</link> 
         </item> 
           <item> 
-            <title>FR_Canal_Plus_Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Plus_Series</link> 
+            <title>[FR] RTL9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1310.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] RTL9 HD</link> 
         </item> 
           <item> 
-            <title>FR_Canal_Plus_Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Plus_Family</link> 
+            <title>[FR] COMEDIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] COMEDIE</link> 
         </item> 
           <item> 
-            <title>FR_Canal_Plus_Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Plus_Cinema</link> 
+            <title>[FR][L] TEVA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1311.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] TEVA HD</link> 
         </item> 
           <item> 
-            <title>FR_Canal_Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal_Plus</link> 
+            <title>[FR] PARAMOUNT CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] PARAMOUNT CHANNEL HD</link> 
         </item> 
           <item> 
-            <title>FR_Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Arte</link> 
+            <title>[FR][L] NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] NICKELODEON</link> 
         </item> 
           <item> 
-            <title>FR_Animaux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Animaux</link> 
+            <title>Â¤Â¤Â¤Â¤Â¤ Sport Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8669.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ Sport Â¤Â¤Â¤Â¤Â¤</link> 
         </item> 
           <item> 
-            <title>FR_Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://isriptv.com:25461/live/Fahmi/Fahmi/4363.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Action</link> 
+            <title>[FR] L'EQUIPE 21 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1331.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] L'EQUIPE 21 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] SFR SPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1344.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] SFR SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1345.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] SFR SPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1346.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 3 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] SFR SPORT 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] SFR SPORT 5 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] FOOT + 24/24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1650.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] FOOT + 24/24 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] INFOSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8691.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] INFOSPORT</link> 
+        </item> 
+          <item> 
+            <title>[FR] GOLF Plus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8690.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] GOLF Plus HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] INFO SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1343.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] INFO SPORT</link> 
+        </item> 
+          <item> 
+            <title>[FR] BFM SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8699.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BFM SPORT</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1349.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] EUROSPORT 1 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1350.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] EUROSPORT 2 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] Equidia Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1649.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Equidia Live</link> 
+        </item> 
+          <item> 
+            <title>[FR] EQUIDIA LIFE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8693.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] EQUIDIA LIFE HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>Â¤Â¤Â¤Â¤Â¤ BEIN Sport Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8672.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ BEIN Sport Â¤Â¤Â¤Â¤Â¤</link> 
+        </item> 
+          <item> 
+            <title>[FR] BEIN SPORTS 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1333.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BEIN SPORTS 1 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] BEIN SPORTS 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1334.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BEIN SPORTS 2 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] BEIN SPORTS 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1335.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BEIN SPORTS 3 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] BEIN SPORTS MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1336.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] BEIN SPORTS MAX 4</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] BEIN SPORTS MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1337.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] BEIN SPORTS MAX 5</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] BEIN SPORTS MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1338.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] BEIN SPORTS MAX 6</link> 
+        </item> 
+          <item> 
+            <title>[FR][L]  BEIN SPORTS MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1339.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L]  BEIN SPORTS MAX 7</link> 
+        </item> 
+          <item> 
+            <title>[FR] BEIN SPORTS MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1340.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BEIN SPORTS MAX 8</link> 
+        </item> 
+          <item> 
+            <title>[FR] BEIN SPORTS MAX 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1341.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BEIN SPORTS MAX 9</link> 
+        </item> 
+          <item> 
+            <title>[FR] BEIN SPORTS MAX 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1342.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] BEIN SPORTS MAX 10</link> 
+        </item> 
+          <item> 
+            <title>Â¤Â¤Â¤Â¤Â¤ Enfants Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Â¤Â¤Â¤Â¤Â¤ Enfants&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ Enfants Â¤Â¤Â¤Â¤Â¤</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8671.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>[FR] DISNEY CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1309.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] DISNEY CINEMA</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] CANAL J</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1307.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] CANAL J</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] ZOUZOU TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8694.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] ZOUZOU TV</link> 
+        </item> 
+          <item> 
+            <title>[FR] Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8695.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Boomerang</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] TiJi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] TiJi</link> 
+        </item> 
+          <item> 
+            <title>[FR] Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Baby TV</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] MANGAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1299.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] MANGAS</link> 
+        </item> 
+          <item> 
+            <title>[FR] Piwi HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1671.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Piwi HD</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] GAME ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] GAME ONE</link> 
+        </item> 
+          <item> 
+            <title>[FR] Boing HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1645.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Boing HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1308.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>[FR] DISNEY JUNIOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1643.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] DISNEY JUNIOR HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] DISNEY CHANNEL +1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1642.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] DISNEY CHANNEL +1 HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1305.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>[FR] Teletoon + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1663.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Teletoon + HD</link> 
+        </item> 
+          <item> 
+            <title>Â¤Â¤Â¤Â¤Â¤ Musique Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8670.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ Musique Â¤Â¤Â¤Â¤Â¤</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] M6 MUSIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1656.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] M6 MUSIC HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] MTV LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1658.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] MTV LIVE</link> 
+        </item> 
+          <item> 
+            <title>[FR] NRJ HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8701.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] NRJ HITS</link> 
+        </item> 
+          <item> 
+            <title>[FR] MTV HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8697.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] MTV HITS</link> 
+        </item> 
+          <item> 
+            <title>[FR] MTV DANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8698.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] MTV DANCE</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] Virgin TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] Virgin TV</link> 
+        </item> 
+          <item> 
+            <title>Â¤Â¤Â¤Â¤Â¤ AUTRE Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/8674.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ AUTRE Â¤Â¤Â¤Â¤Â¤</link> 
+        </item> 
+          <item> 
+            <title>[FR] RTS Un</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] RTS Un</link> 
+        </item> 
+          <item> 
+            <title>[FR] RTS Deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1330.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] RTS Deux</link> 
+        </item> 
+          <item> 
+            <title>[FR] O'Gaming TV Starcraft 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1301.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] O'Gaming TV Starcraft 2</link> 
+        </item> 
+          <item> 
+            <title>[FR] O'Gaming TV League Of Legends</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] O'Gaming TV League Of Legends</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1668.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] Weo</link> 
+        </item> 
+          <item> 
+            <title>[FR] VH 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] VH 1</link> 
+        </item> 
+          <item> 
+            <title>[FR] TV 5 MOND HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] TV 5 MOND HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] PLUG RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1673.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] PLUG RTL</link> 
+        </item> 
+          <item> 
+            <title>[FR] Mirabelle TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1657.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Mirabelle TV</link> 
+        </item> 
+          <item> 
+            <title>[FR][L] LA TELE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1655.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR][L] LA TELE HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] LA CHAINE NORMANDIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1654.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] LA CHAINE NORMANDIE</link> 
+        </item> 
+          <item> 
+            <title>[FR] Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1651.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Golf</link> 
+        </item> 
+          <item> 
+            <title>[FR] ATV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1674.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] ATV HD</link> 
+        </item> 
+          <item> 
+            <title>[FR] MCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9980.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] MCM</link> 
+        </item> 
+          <item> 
+            <title>Â¤Â¤Â¤Â¤Â¤ CANAL PLAY FR &amp; A LA CARTE Â¤Â¤Â¤Â¤Â¤</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9225.ts&amp;streamtype=TSDOWNLOADER&amp;name=Â¤Â¤Â¤Â¤Â¤ CANAL PLAY FR &amp; A LA CARTE Â¤Â¤Â¤Â¤Â¤</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9234.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 1</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9235.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 2</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9236.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 3</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange Cine 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9237.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange Cine 4</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9238.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 5</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9240.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 6</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9241.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 7</link> 
+        </item> 
+          <item> 
+            <title>[FR] Orange_Cine 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9239.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] Orange_Cine 8</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9242.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 1</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9243.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 2</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9244.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 3</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9245.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 4</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9246.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 5</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9247.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 6</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9248.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 7</link> 
+        </item> 
+          <item> 
+            <title>[FR] OCS_GO_CINE 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9249.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] OCS_GO_CINE 8</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_01</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9250.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_01</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_02</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9251.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_02</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_03</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9252.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_03</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_04</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9253.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_04</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_05</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9254.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_05</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_06</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9255.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_06</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_07</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9256.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_07</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_08</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9257.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_08</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_09</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9258.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_09</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9259.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_10</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9260.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_11</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9261.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_12</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9262.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_13</link> 
+        </item> 
+          <item> 
+            <title>[FR] CANAL_PLAY_14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9263.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] CANAL_PLAY_14</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_01</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9226.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_01</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_02</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9227.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_02</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_03</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9228.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_03</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_04</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9229.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_04</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_05</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9230.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_05</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_06</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9231.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_06</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_07</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9232.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_07</link> 
+        </item> 
+          <item> 
+            <title>[FR] A_LA_CARTE_08</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/9233.ts&amp;streamtype=TSDOWNLOADER&amp;name=[FR] A_LA_CARTE_08</link> 
         </item> 
   
