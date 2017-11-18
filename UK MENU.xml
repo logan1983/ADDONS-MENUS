@@ -18,1081 +18,114 @@
  
  
  
+ 
           <item> 
-            <title>UK: Bbc 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bbc 1 HD</link> 
+            <title>UK | BBC One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One</link> 
         </item> 
           <item> 
-            <title>UK: Bbc 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bbc 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Bbc 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bbc 3 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6427.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC News</link> 
-        </item> 
-          <item> 
-            <title>UK: iTV 1 BE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/851.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: iTV 1 BE</link> 
-        </item> 
-          <item> 
-            <title>UK: iTV 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/852.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: iTV 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: iTV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/10077.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: iTV 3</link> 
-        </item> 
-          <item> 
-            <title>UK: iTV 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/878.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: iTV 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Channel 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 5 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Channel 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Cbs Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3134.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cbs Drama</link> 
-        </item> 
-          <item> 
-            <title>UK: Cbs Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5133.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cbs Action</link> 
-        </item> 
-          <item> 
-            <title>UK: Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5123.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Home</link> 
-        </item> 
-          <item> 
-            <title>UK: 4 Seven</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12928.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4 Seven</link> 
-        </item> 
-          <item> 
-            <title>UK: 5Star</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12926.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5Star</link> 
-        </item> 
-          <item> 
-            <title>UK: Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12921.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>UK: At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12920.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: At The Races</link> 
-        </item> 
-          <item> 
-            <title>UK: Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12918.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Baby TV</link> 
-        </item> 
-          <item> 
-            <title>UK: BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12917.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4</link> 
-        </item> 
-          <item> 
-            <title>UK: Boxnation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12912.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Boxnation</link> 
-        </item> 
-          <item> 
-            <title>UK: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12902.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>UK: CBBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12900.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBBC</link> 
-        </item> 
-          <item> 
-            <title>UK: Cbeebies HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12899.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Cbeebies HD</link> 
-        </item> 
-          <item> 
-            <title>UK: CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12898.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>UK: CHELSEA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12894.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHELSEA TV</link> 
-        </item> 
-          <item> 
-            <title>UK: CNN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12892.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CNN HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12891.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Comedy Central</link> 
-        </item> 
-          <item> 
-            <title>UK: ComedyXtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12890.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ComedyXtra</link> 
-        </item> 
-          <item> 
-            <title>UK: Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12887.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Dave</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12885.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery Shed</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12884.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Shed</link> 
-        </item> 
-          <item> 
-            <title>UK: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12883.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>UK: Disney Jr.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12882.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney Jr.</link> 
-        </item> 
-          <item> 
-            <title>UK: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12881.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Disney XD</link> 
-        </item> 
-          <item> 
-            <title>UK: DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12880.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DMAX</link> 
-        </item> 
-          <item> 
-            <title>UK: Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12879.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Drama</link> 
-        </item> 
-          <item> 
-            <title>UK: E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12877.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4</link> 
-        </item> 
-          <item> 
-            <title>UK: Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12876.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eden</link> 
-        </item> 
-          <item> 
-            <title>UK: eir Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12875.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: eir Sport 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12872.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Eurosport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12870.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Eurosport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Film 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12869.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Film 4</link> 
-        </item> 
-          <item> 
-            <title>UK: Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12867.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Food Network</link> 
-        </item> 
-          <item> 
-            <title>UK: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12865.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX</link> 
-        </item> 
-          <item> 
-            <title>UK: History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12861.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: History</link> 
-        </item> 
-          <item> 
-            <title>UK: Horse Country</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12858.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Horse Country</link> 
-        </item> 
-          <item> 
-            <title>UK: Investigation Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12857.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Investigation Discovery</link> 
-        </item> 
-          <item> 
-            <title>UK: London Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12851.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: London Live</link> 
-        </item> 
-          <item> 
-            <title>UK: Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12849.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Motors TV</link> 
-        </item> 
-          <item> 
-            <title>UK: Movies4men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12847.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Movies4men</link> 
-        </item> 
-          <item> 
-            <title>UK: MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12846.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV</link> 
-        </item> 
-          <item> 
-            <title>UK: Mtv Base</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6431.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Mtv Base</link> 
-        </item> 
-          <item> 
-            <title>UK: MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12840.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV</link> 
-        </item> 
-          <item> 
-            <title>UK: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12838.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic</link> 
-        </item> 
-          <item> 
-            <title>UK: National Geographic Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12837.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: National Geographic Wild</link> 
-        </item> 
-          <item> 
-            <title>UK: Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12836.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nick Jr</link> 
-        </item> 
-          <item> 
-            <title>UK: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12834.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>UK: Nicktoons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12833.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nicktoons</link> 
-        </item> 
-          <item> 
-            <title>UK: Nollywood Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12832.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Nollywood Movies</link> 
-        </item> 
-          <item> 
-            <title>UK: Premier Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Premier Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12825.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Quest</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12824.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Quest</link> 
-        </item> 
-          <item> 
-            <title>UK: Racing UK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12823.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Racing UK HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Really</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12821.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Really</link> 
-        </item> 
-          <item> 
-            <title>UK: RTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12820.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE 1</link> 
-        </item> 
-          <item> 
-            <title>UK: RTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12819.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RTE 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Scuzz</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12815.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Scuzz</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12814.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky 2</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky News</link> 
-        </item> 
-          <item> 
-            <title>TR: PLANET MUTFAK (HQ)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/14879.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: PLANET MUTFAK (HQ)</link> 
-        </item> 
-          <item> 
-            <title>TR: PLANET MUTFAK (LOW)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/14880.ts&amp;streamtype=TSDOWNLOADER&amp;name=TR: PLANET MUTFAK (LOW)</link> 
-        </item> 
-          <item> 
-            <title>UK: Sony SAB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony SAB</link> 
-        </item> 
-          <item> 
-            <title>UK: SONY SET MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SONY SET MAX</link> 
-        </item> 
-          <item> 
-            <title>UK: Sony TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12805.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sony TV</link> 
-        </item> 
-          <item> 
-            <title>UK: Spike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Spike</link> 
-        </item> 
-          <item> 
-            <title>UK: Starz TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Starz TV</link> 
-        </item> 
-          <item> 
-            <title>UK: SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12801.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SyFy</link> 
-        </item> 
-          <item> 
-            <title>UK: The Vault</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12798.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: The Vault</link> 
-        </item> 
-          <item> 
-            <title>UK: Tiny Pop</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12797.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tiny Pop</link> 
-        </item> 
-          <item> 
-            <title>UK: TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12796.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC</link> 
-        </item> 
-          <item> 
-            <title>UK: Travel Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12795.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Travel Channel</link> 
-        </item> 
-          <item> 
-            <title>UK: Tru TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Tru TV</link> 
-        </item> 
-          <item> 
-            <title>UK: True Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12792.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Entertainment</link> 
-        </item> 
-          <item> 
-            <title>UK: True Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies</link> 
-        </item> 
-          <item> 
-            <title>UK: True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: True Movies 2</link> 
-        </item> 
-          <item> 
-            <title>UK: TV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12789.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV 3</link> 
-        </item> 
-          <item> 
-            <title>UK: TV5 Monde</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12788.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TV5 Monde</link> 
-        </item> 
-          <item> 
-            <title>UK: Universal Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12787.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Universal Channel</link> 
-        </item> 
-          <item> 
-            <title>UK: UTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12786.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UTV</link> 
-        </item> 
-          <item> 
-            <title>UK: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12785.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1</link> 
-        </item> 
-          <item> 
-            <title>UK: VH1 Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12784.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1 Classic</link> 
-        </item> 
-          <item> 
-            <title>UK: Vintage TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12783.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Vintage TV</link> 
-        </item> 
-          <item> 
-            <title>UK: VIVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12782.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA</link> 
-        </item> 
-          <item> 
-            <title>UK: Watch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12781.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Watch</link> 
-        </item> 
-          <item> 
-            <title>UK: Yesterday</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12780.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Yesterday</link> 
-        </item> 
-          <item> 
-            <title>UK: Fight Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5129.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Fight Network</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/5130.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3138.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>UK: Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3139.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Discovery History</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/959.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Premiere</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/961.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Action</link> 
-        </item> 
-          <item> 
-            <title>UK : Sky Movies Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/17172.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK : Sky Movies Comedy HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/960.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Drama</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Crime&amp;Thriller</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Crime&amp;Thriller</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/6425.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Family</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Movies Syfy &amp; Horror</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Movies Syfy &amp; Horror</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Arts 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Arts 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/3143.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports Mix HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports Mix HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12810.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY Sports Football</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: SKY Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY Sports Football</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12809.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky sport Main Event</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/16913.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky sport Main Event</link> 
-        </item> 
-          <item> 
-            <title>UK: SKY SPORTS NEWS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12808.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS NEWS HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/15610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport F1</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/8043.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport F1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sport HD Premier League</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1202.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sport HD Premier League</link> 
-        </item> 
-          <item> 
-            <title>UK : Sky Sports Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK : Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK : Sky Sports Action HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/17171.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1203.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports HD Cricket</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports HD Cricket</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1204.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 4 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1205.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Sky Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1206.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Bt Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Bt Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bt Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1200.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Bt Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Bt Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bt Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/1201.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Bt Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Bt Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bt Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12911.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: Bt Sports Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: Bt Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: Bt Sports Europe</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12904.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK: BT Sports ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK: BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT Sports ESPN</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://zerocube.co:8000/live/BcIC8JJD3n/9sG4MY7i0b/12903.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2298.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2299.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2300.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 4</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2301.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 4 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 5</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2302.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports 5 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports F1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sports Mix</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Mix</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2303.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sp News HQ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sp News HQ</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Sp News HQ Backup</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2297.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sp News HQ Backup</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport 1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 1HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 2HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport 3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 3HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport ESPN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport ESPN HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport EUROPE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport EUROPE HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sports Extra 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sports Extra 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | MUTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MUTV HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Chelsea TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Chelsea TV HD</link> 
-        </item> 
-          <item> 
-            <title>UK | LIVERPOOL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | LIVERPOOL TV</link> 
-        </item> 
-          <item> 
-            <title>UK | PREMIER SPORTS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2278.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | PREMIER SPORTS HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Racing UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Racing UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Fox Sports1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Fox Sports1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | SKY Fox Sports2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | SKY Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | SKY Fox Sports2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | SKY Fox Sports3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | SKY Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | SKY Fox Sports3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | eir Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | eir Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | eir Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2249.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | eir Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | eir Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | eir Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2250.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>:::::::::::: (    SKY UK     )  ::::::::::::</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://skymanic.org:4499/live/HEASSAN/WSDEEE/191.ts&amp;streamtype=TSDOWNLOADER&amp;name=:::::::::::: (    SKY UK     )  ::::::::::::</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Action Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Action Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Premiere Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Premiere Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky ScFiHorror Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky ScFiHorror Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Select Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Select Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Thriller Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Thriller Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Movies Christmas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2294.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Christmas</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Movies Disney</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Disney</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Greats Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Greats Movies</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Comedy Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/305.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Comedy Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Drama Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Drama Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Family Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Family Movies</link> 
-        </item> 
-          <item> 
-            <title>UK | True Movies 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | True Movies 1</link> 
-        </item> 
-          <item> 
-            <title>UK | True Movies 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | True Movies 2</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC 2 HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC 3 HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC 4 HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Alba</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Alba</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Four UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Four UK</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC News UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News UK</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC One London</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One London</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC One Northern Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2212.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One Northern Ireland</link> 
+            <title>UK | BBC One HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One HD*</link> 
         </item> 
           <item> 
             <title>UK | BBC One Scotland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One Scotland</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9889.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One Scotland</link> 
         </item> 
           <item> 
-            <title>UK | BBC One Wales</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One Wales</link> 
+            <title>UK | BBC One FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/15986.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One FHD</link> 
         </item> 
           <item> 
-            <title>UK | BBC Two UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2217.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Two UK</link> 
+            <title>UK | BBC Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/730.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Two</link> 
         </item> 
           <item> 
-            <title>UK | BBC Two Scotland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Two Scotland</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Parliament</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Parliament</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC World News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2022.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC World News</link> 
-        </item> 
-          <item> 
-            <title>UK | CBBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2231.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBBC</link> 
-        </item> 
-          <item> 
-            <title>UK | CBBC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2232.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBBC HD</link> 
-        </item> 
-          <item> 
-            <title>UK | CBeebies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBeebies</link> 
-        </item> 
-          <item> 
-            <title>UK | CBS Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Action</link> 
-        </item> 
-          <item> 
-            <title>UK | CBS Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Drama</link> 
-        </item> 
-          <item> 
-            <title>UK | CBS Reality 1 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Reality 1 UK</link> 
-        </item> 
-          <item> 
-            <title>UK | CBS Reality UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2234.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Reality UK</link> 
+            <title>UK | BBC Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/729.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Two HD</link> 
         </item> 
           <item> 
             <title>UK | ITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18776.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV</link> 
         </item> 
           <item> 
-            <title>UK | ITV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 1</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV 1 Backup</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 1 Backup</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 2</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 3</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 4</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV Be</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Be</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV Choice</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Choice</link> 
-        </item> 
-          <item> 
-            <title>UK | ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Encore</link> 
+            <title>UK | ITV 1 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 1 SD*</link> 
         </item> 
           <item> 
             <title>UK | ITV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/603.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV HD</link> 
         </item> 
           <item> 
-            <title>UK | ITV HD Backup</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV HD Backup</link> 
+            <title>UK | ITV HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1174.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV HD*</link> 
+        </item> 
+          <item> 
+            <title>UK | Channel 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 4</link> 
         </item> 
           <item> 
             <title>UK | Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 4 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 4 HD</link> 
         </item> 
           <item> 
-            <title>UK | Channel 4 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 4 UK</link> 
+            <title>UK | Channel 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18767.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5</link> 
+        </item> 
+          <item> 
+            <title>UK | Channel 5 SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/692.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5 SD*</link> 
         </item> 
           <item> 
             <title>UK | Channel 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5 HD</link> 
         </item> 
           <item> 
-            <title>UK | Channel 5 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5 UK</link> 
+            <title>UK | Sky One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky One</link> 
         </item> 
           <item> 
-            <title>UK | Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Central</link> 
+            <title>UK | Sky One SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18771.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky One SD*</link> 
         </item> 
           <item> 
-            <title>UK | Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2241.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Central HD</link> 
+            <title>UK | Sky One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/3769.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky One HD</link> 
         </item> 
           <item> 
-            <title>UK | Comedy Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Extra</link> 
+            <title>UK | Sky One HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9647.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky One HD*</link> 
         </item> 
           <item> 
-            <title>UK | Comedy Xtra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Xtra</link> 
+            <title>UK | Sky Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Two</link> 
         </item> 
           <item> 
-            <title>UK | ABC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2205.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ABC News</link> 
+            <title>UK | Sky Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Living</link> 
         </item> 
           <item> 
-            <title>UK | Al Jazeera News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2206.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Al Jazeera News HD</link> 
+            <title>UK | Sky Living SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18775.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Living SD*</link> 
         </item> 
           <item> 
-            <title>UK | Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery</link> 
+            <title>UK | Sky Living HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/754.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Living HD</link> 
         </item> 
           <item> 
-            <title>UK | Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery History</link> 
+            <title>UK | Sky Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Atlantic</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Home&amp;Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Home&amp;Health</link> 
+            <title>UK | Sky Atlantic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Atlantic HD</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Science</link> 
+            <title>UK | Sky Atlantic HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/12581.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Atlantic HD*</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Shed UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2243.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Shed UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Turbo</link> 
-        </item> 
-          <item> 
-            <title>UK | Crime Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Crime Investigation</link> 
-        </item> 
-          <item> 
-            <title>UK | E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>UK | Animal Planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Animal Planet</link> 
-        </item> 
-          <item> 
-            <title>UK | CNBC Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2240.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNBC Europe</link> 
-        </item> 
-          <item> 
-            <title>UK | TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | TCM</link> 
-        </item> 
-          <item> 
-            <title>UK | TCM  1 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | TCM  1 UK</link> 
-        </item> 
-          <item> 
-            <title>UK | TG4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | TG4</link> 
-        </item> 
-          <item> 
-            <title>UK | Travel Channel 1 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Travel Channel 1 UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Travel Channel UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2321.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Travel Channel UK</link> 
-        </item> 
-          <item> 
-            <title>UK | True Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | True Entertainment</link> 
-        </item> 
-          <item> 
-            <title>UK | SyFy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SyFy HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Living 1 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Living 1 UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky News Arabia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2295.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky News Arabia</link> 
-        </item> 
-          <item> 
-            <title>UK | SKY News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2296.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SKY News HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky News UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky News UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/315.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky 1</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2292.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky 1 HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky 2</link> 
+            <title>UK | Sky Atlantic [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16325.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Atlantic [backup]</link> 
         </item> 
           <item> 
             <title>UK | Sky Arts</title> 
@@ -1100,414 +133,998 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Arts HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Arts HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | Sky Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Atlantic</link> 
-        </item> 
-          <item> 
-            <title>UK | RTE News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE News</link> 
-        </item> 
-          <item> 
-            <title>UK | RTE One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE One</link> 
-        </item> 
-          <item> 
-            <title>UK | RTE Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE Two</link> 
-        </item> 
-          <item> 
-            <title>UK | RTEjr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTEjr</link> 
-        </item> 
-          <item> 
-            <title>UK | Russia Today HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Russia Today HD</link> 
-        </item> 
-          <item> 
-            <title>UK | S4C</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | S4C</link> 
-        </item> 
-          <item> 
-            <title>UK | QVC Beauty</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | QVC Beauty</link> 
-        </item> 
-          <item> 
-            <title>UK | QVC Christmas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | QVC Christmas</link> 
-        </item> 
-          <item> 
-            <title>UK | QVC Style</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | QVC Style</link> 
-        </item> 
-          <item> 
-            <title>UK | QVC U.K.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | QVC U.K.</link> 
-        </item> 
-          <item> 
-            <title>UK | National Geographic HD UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | National Geographic HD UK</link> 
-        </item> 
-          <item> 
-            <title>UK | National Geographic UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | National Geographic UK</link> 
-        </item> 
-          <item> 
-            <title>UK | NHK News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | NHK News HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Nick Jr Too</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Jr Too</link> 
-        </item> 
-          <item> 
-            <title>UK | Nick Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Junior</link> 
-        </item> 
-          <item> 
-            <title>UK | Nick UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Pick</link> 
-        </item> 
-          <item> 
-            <title>UK | Quest</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Quest</link> 
-        </item> 
-          <item> 
-            <title>UK | Nat Geo Wild UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nat Geo Wild UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Nat Geo Wild HD UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nat Geo Wild HD UK</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Base HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Base HD</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Base UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Base UK</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Christmas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Christmas</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Classic</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Dance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Dance</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Dance HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Dance HD</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Hits HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Hits!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Hits!</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2267.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2268.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Live HD</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Music UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Music UK</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Rocks HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Rocks HD</link> 
-        </item> 
-          <item> 
-            <title>UK | MTV Rocks UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Rocks UK</link> 
-        </item> 
-          <item> 
-            <title>UK | London Live UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | London Live UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Magic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2262.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Magic</link> 
-        </item> 
-          <item> 
-            <title>UK | More 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | More 4</link> 
-        </item> 
-          <item> 
-            <title>UK | Motors UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Motors UK</link> 
-        </item> 
-          <item> 
-            <title>UK | mov4men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | mov4men</link> 
-        </item> 
-          <item> 
-            <title>UK | mov4men1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | mov4men1</link> 
-        </item> 
-          <item> 
-            <title>UK | ID UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ID UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Film 4 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Film 4 UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Fine Living Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Fine Living Network</link> 
-        </item> 
-          <item> 
-            <title>UK | Food Network UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Food Network UK</link> 
-        </item> 
-          <item> 
-            <title>UK | FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Fox News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Fox News</link> 
-        </item> 
-          <item> 
-            <title>UK | France 24 English</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | France 24 English</link> 
-        </item> 
-          <item> 
-            <title>UK | GOLD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | GOLD HD</link> 
-        </item> 
-          <item> 
-            <title>UK | H2 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | H2 UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Heart TV UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Heart TV UK</link> 
-        </item> 
-          <item> 
-            <title>UK | History UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | History UK</link> 
-        </item> 
-          <item> 
-            <title>UK | Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Home</link> 
-        </item> 
-          <item> 
-            <title>UK | Home  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Home  1</link> 
-        </item> 
-          <item> 
-            <title>UK | Horror Channel UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Horror Channel UK</link> 
-        </item> 
-          <item> 
-            <title>UK | DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DMAX</link> 
-        </item> 
-          <item> 
-            <title>UK | Drama UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Drama UK</link> 
-        </item> 
-          <item> 
-            <title>UK | E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | E4</link> 
-        </item> 
-          <item> 
-            <title>UK | Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eden</link> 
-        </item> 
-          <item> 
-            <title>UK | Eden  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eden  1</link> 
-        </item> 
-          <item> 
-            <title>UK | Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Euronews</link> 
-        </item> 
-          <item> 
-            <title>UK | CGTN News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CGTN News</link> 
-        </item> 
-          <item> 
-            <title>UK | CGTN Documentary</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CGTN Documentary</link> 
-        </item> 
-          <item> 
-            <title>UK | Challenge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Challenge</link> 
-        </item> 
-          <item> 
-            <title>UK | CITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2239.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CITV</link> 
-        </item> 
-          <item> 
-            <title>UK | CNN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNN HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/2720.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
             <title>UK | Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Dave</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/668.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Dave</link> 
         </item> 
           <item> 
-            <title>UK | Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2244.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney XD</link> 
+            <title>UK | Dave HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/757.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Dave HD</link> 
         </item> 
           <item> 
-            <title>UK | DisneyChnl</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2245.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyChnl</link> 
+            <title>UK | Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Central</link> 
         </item> 
           <item> 
-            <title>UK | DisneyJunior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2246.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyJunior</link> 
+            <title>UK | GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | GOLD</link> 
         </item> 
           <item> 
-            <title>UK | 3e</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 3e</link> 
+            <title>UK | SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/488.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SYFY</link> 
         </item> 
           <item> 
-            <title>UK | 4Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2203.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 4Music</link> 
+            <title>UK | BBC Three HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Three HD</link> 
         </item> 
           <item> 
-            <title>UK | 5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2204.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 5 USA</link> 
+            <title>UK | BBC Four</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/736.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Four</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC FOUR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/906.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC FOUR HD</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/601.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 2</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/609.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 3</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17198.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 4</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/606.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Encore</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV Encore HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/604.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Encore HD</link> 
+        </item> 
+          <item> 
+            <title>UK | ITVBe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/595.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITVBe</link> 
+        </item> 
+          <item> 
+            <title>UK | ITVbe HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/907.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITVbe HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Challenge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/3730.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Challenge</link> 
+        </item> 
+          <item> 
+            <title>UK | FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/574.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18773.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV SD*</link> 
+        </item> 
+          <item> 
+            <title>UK | Comedy Central Xtra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Central Xtra</link> 
         </item> 
           <item> 
             <title>UK | Alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Alibi</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Alibi</link> 
         </item> 
           <item> 
-            <title>UK | At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | At The Races</link> 
+            <title>UK | Good Food SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Good Food SD*</link> 
         </item> 
           <item> 
-            <title>UK | Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Baby TV</link> 
+            <title>UK | E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | E4</link> 
         </item> 
           <item> 
-            <title>UK | British Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport</link> 
+            <title>UK | 4seven</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/749.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 4seven</link> 
         </item> 
           <item> 
-            <title>UK | British Eurosport2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport2</link> 
+            <title>UK | CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Reality</link> 
         </item> 
           <item> 
-            <title>UK | Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Bloomberg</link> 
+            <title>UK | CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Action</link> 
         </item> 
           <item> 
-            <title>UK | Sky Movies Drama &amp; Romance</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2894.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Movies Drama &amp; Romance</link> 
+            <title>UK | CBS Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Drama</link> 
         </item> 
           <item> 
-            <title>UK | TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2895.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | TLC</link> 
+            <title>UK | E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/652.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | E!</link> 
         </item> 
           <item> 
-            <title>UK | Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Boomerang</link> 
+            <title>UK | Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Drama</link> 
         </item> 
           <item> 
-            <title>UK | Box Nation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Box Nation</link> 
+            <title>UK | Spike</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Spike</link> 
         </item> 
           <item> 
-            <title>UK | Cartoon Network UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoon Network UK</link> 
+            <title>UK | DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DMAX</link> 
         </item> 
           <item> 
-            <title>UK |  MTV Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK |  MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK |  MTV Hits HD</link> 
+            <title>UK | 5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 5 USA</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Home &amp; Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/620.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Home &amp; Health</link> 
+        </item> 
+          <item> 
+            <title>UK | Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Food Network</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Premiere</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Premiere SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18770.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Premiere SD*</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Premiere HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Premiere HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Premiere FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Premiere FHD*</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Premiere [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16321.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Premiere [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1023.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Disney</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Disney HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Disney HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Disney [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Disney [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Family</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Family HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Family [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16317.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Family [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Action</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Action HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Comedy</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Comedy HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Comedy FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Comedy FHD*</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Comedy [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16318.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Comedy [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Crime &amp; Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/776.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Crime &amp; Thriller</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Crime &amp; Thriller HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/2673.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Crime &amp; Thriller HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Crime &amp; Thriller [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16324.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Crime &amp; Thriller [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Drama &amp; Romance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/915.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Drama &amp; Romance</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Drama &amp; Romance HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/775.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Drama &amp; Romance HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Drama &amp; Romance [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Drama &amp; Romance [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Sci-Fi &amp; Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1138.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Sci-Fi &amp; Horror</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Sci-Fi &amp; Horror HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/773.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Sci-Fi &amp; Horror HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Sci-Fi &amp; Horror [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16320.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Sci-Fi &amp; Horror [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Modern Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Cinema Modern Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Modern Greats</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/21608.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK | Spike UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2311.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Spike UK</link> 
+            <title>UK | Sky Cinema Modern Greats [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Cinema Modern Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Modern Greats [backup]</link> 
         </item> 
           <item> 
-            <title>UK | Real Lives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Real Lives</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/21609.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK | TV3 IE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | TV3 IE</link> 
+            <title>UK | Sky Cinema Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Select</link> 
         </item> 
           <item> 
-            <title>UK | UTV IE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | UTV IE</link> 
+            <title>UK | Sky Cinema Select HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/777.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Select HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Select [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16319.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Select [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Box Office 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/21604.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Box Office 1</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Box Office 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/21605.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Box Office 2</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Box Office 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/21606.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Box Office 3</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Cinema Box Office 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/21607.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Cinema Box Office 4</link> 
+        </item> 
+          <item> 
+            <title>UK | FILM 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9892.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FILM 4</link> 
+        </item> 
+          <item> 
+            <title>UK | TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9890.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | TCM</link> 
+        </item> 
+          <item> 
+            <title>UK | True Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9891.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | True Movies</link> 
+        </item> 
+          <item> 
+            <title>UK | Movies 4 Men</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/575.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Movies 4 Men</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Music</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV BASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/572.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV BASE</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/569.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV HITS</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV DANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV DANCE</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV ROCKS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV ROCKS</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV CLASSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV CLASSIC</link> 
+        </item> 
+          <item> 
+            <title>UK | Heart TV UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1144.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Heart TV UK</link> 
+        </item> 
+          <item> 
+            <title>UK | 4MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9880.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 4MUSIC</link> 
+        </item> 
+          <item> 
+            <title>UK | CHART SHOW TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9882.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CHART SHOW TV</link> 
         </item> 
           <item> 
             <title>UK | VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | VH1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9883.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | VH1</link> 
         </item> 
           <item> 
-            <title>UK | VH1 Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | VH1 Classic</link> 
+            <title>UK | VIVA THE HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9887.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | VIVA THE HITS</link> 
         </item> 
           <item> 
-            <title>UK | Viasat Golf</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Viasat Golf</link> 
-        </item> 
-          <item> 
-            <title>UK | Vintage UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Vintage UK</link> 
-        </item> 
-          <item> 
-            <title>UK | VIVA the Hits!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | VIVA the Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK | VIVA the Hits!</link> 
+            <title>UK | Sky Sports News HQ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports News HQ</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/499.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports News HQ SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports News HQ SD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18768.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports News HQ HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports News HQ HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/783.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports News HQ HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports News HQ HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1218.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Mix HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Mix HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Mix HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Mix HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17505.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Mix FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Mix FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18275.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Main Event</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Main Event</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Main Event SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Main Event SD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18769.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Main Event HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Main Event HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/916.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Main Event HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Main Event HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1213.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Main Event FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Main Event FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17638.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Arena HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Arena HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16849.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Arena HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Arena HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17291.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Arena FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Arena FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18269.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Football HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Football HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17290.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Football HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Football HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16850.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Football FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Football FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17637.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sport Cricket</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sport Cricket</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Cricket HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Cricket HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/785.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Cricket HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Cricket HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1214.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sports 1 FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | BT Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sports 1 FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17636.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Action</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Action HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Action HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Action HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1215.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Action FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Action FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18268.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Golf</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Golf HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Golf HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/787.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Golf HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Golf HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1216.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Premier League</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Premier League</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Premier League HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Premier League HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/788.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Premier League HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Premier League HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1217.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports Premier League FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports Premier League FHD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/19279.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports F1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports F1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports F1 HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/789.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports F1 HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports F1 HD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/3746.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Sports F1 FHD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Sports F1 FHD*</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17639.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/718.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 1</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/790.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 1 HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 1 HD*</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/717.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 2</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/791.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 2 HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 2 HD*</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/716.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 3</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/792.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport 3 HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/1222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 3 HD*</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport ESPN</link> 
+        </item> 
+          <item> 
+            <title>UK | BT Sport ESPN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport ESPN HD</link> 
+        </item> 
+          <item> 
+            <title>UK | British Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/642.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport 1</link> 
+        </item> 
+          <item> 
+            <title>UK | British Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/795.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | British Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>UK | British Eurosport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BoxNation HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/8041.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BoxNation HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Setanta Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Setanta Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Setanta Sports HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/7586.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MUTV</link> 
+        </item> 
+          <item> 
+            <title>UK | Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>IRE | eir Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/646.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | eir Sport 1</link> 
+        </item> 
+          <item> 
+            <title>IRE | eir Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/645.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | eir Sport 2</link> 
+        </item> 
+          <item> 
+            <title>UK | LFCTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/589.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | LFCTV</link> 
+        </item> 
+          <item> 
+            <title>SPFL | Celtic TV [LIVE DURING SPL]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9372.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPFL | Celtic TV [LIVE DURING SPL]</link> 
+        </item> 
+          <item> 
+            <title>SPFL | Rangers TV  [LIVE DURING SPL]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9373.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPFL | Rangers TV  [LIVE DURING SPL]</link> 
+        </item> 
+          <item> 
+            <title>UK | At The Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | At The Races</link> 
+        </item> 
+          <item> 
+            <title>UK | Racing UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/540.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Racing UK</link> 
+        </item> 
+          <item> 
+            <title>UK | BoxNation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/954.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BoxNation</link> 
+        </item> 
+          <item> 
+            <title>UK | MOTORS TV UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/578.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MOTORS TV UK</link> 
+        </item> 
+          <item> 
+            <title>UK | Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Premier Sports</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Premier Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Premier Sports HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky News</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9888.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky News HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News</link> 
+        </item> 
+          <item> 
+            <title>UK | CNN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNN HD</link> 
+        </item> 
+          <item> 
+            <title>UK | EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/643.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>UK | FOX News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX News</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/664.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>UK | Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>UK | Animal Planet HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/8004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Animal Planet HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Shed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/661.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Shed</link> 
+        </item> 
+          <item> 
+            <title>UK | National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | National Geographic</link> 
+        </item> 
+          <item> 
+            <title>UK | National Geographic Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | National Geographic Wild</link> 
+        </item> 
+          <item> 
+            <title>UK | History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/623.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | History</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery History</link> 
+        </item> 
+          <item> 
+            <title>UK | H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | H2</link> 
+        </item> 
+          <item> 
+            <title>UK | W</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/13754.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | W</link> 
+        </item> 
+          <item> 
+            <title>UK | YESTERDAY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | YESTERDAY</link> 
+        </item> 
+          <item> 
+            <title>UK | Crime &amp; Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Crime &amp; Investigation</link> 
+        </item> 
+          <item> 
+            <title>IRE | 3e</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | 3e</link> 
+        </item> 
+          <item> 
+            <title>UK | ID (Investigation Discovery)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/13755.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ID (Investigation Discovery)</link> 
+        </item> 
+          <item> 
+            <title>UK | Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/723.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Boomerang</link> 
+        </item> 
+          <item> 
+            <title>UK | Cartoon Netwrk</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoon Netwrk</link> 
+        </item> 
+          <item> 
+            <title>UK | Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>UK | Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney XD</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney Channel SD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18774.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney Channel SD*</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>UK | CBBC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBBC HD</link> 
+        </item> 
+          <item> 
+            <title>UK | CBeebies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBeebies</link> 
+        </item> 
+          <item> 
+            <title>UK | Nick Jr.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Jr.</link> 
+        </item> 
+          <item> 
+            <title>UK | Tiny Pop</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Tiny Pop</link> 
         </item> 
           <item> 
             <title>UK | Cartoonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoonito</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/705.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoonito</link> 
         </item> 
           <item> 
-            <title>UK | Watch</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Watch</link> 
+            <title>UK | Nick Jr Too</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Jr Too</link> 
         </item> 
           <item> 
-            <title>UK | Yesterday  1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Yesterday  1</link> 
+            <title>UK | CITV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CITV</link> 
         </item> 
           <item> 
-            <title>UK | NickToons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://abc.myplay.live:8000/live/ABC12345/ABC12345/2276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | NickToons</link> 
+            <title>UK | Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Baby TV</link> 
+        </item> 
+          <item> 
+            <title>UK | Baby TV [2]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9611.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Baby TV [2]</link> 
+        </item> 
+          <item> 
+            <title>UK | Eden</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/2690.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eden</link> 
+        </item> 
+          <item> 
+            <title>IRE | RTE One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/3743.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | RTE One</link> 
+        </item> 
+          <item> 
+            <title>IRE | RTE Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/3744.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | RTE Two HD</link> 
+        </item> 
+          <item> 
+            <title>IRE | RTEjr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9341.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | RTEjr</link> 
+        </item> 
+          <item> 
+            <title>IRE | RTE News NOW</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/3745.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | RTE News NOW</link> 
+        </item> 
+          <item> 
+            <title>IRE | TG4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/7647.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | TG4</link> 
+        </item> 
+          <item> 
+            <title>IRE | TV3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/7646.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | TV3</link> 
+        </item> 
+          <item> 
+            <title>IRE | UTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/7645.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | UTV</link> 
+        </item> 
+          <item> 
+            <title>IRE | UTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/7644.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | UTV HD</link> 
+        </item> 
+          <item> 
+            <title>IRE | UTV IE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/7643.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | UTV IE</link> 
+        </item> 
+          <item> 
+            <title>IRE | RTE One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16471.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | RTE One HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Sky Living HD [backup]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/16463.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sky Living HD [backup]</link> 
+        </item> 
+          <item> 
+            <title>UK | MUTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/17642.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MUTV HD</link> 
+        </item> 
+          <item> 
+            <title>UK | Universal</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/15812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Universal</link> 
+        </item> 
+          <item> 
+            <title>UK | Nollywood</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/18458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nollywood</link> 
+        </item> 
+          <item> 
+            <title>IRE | RTE Two SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ghosttechuk.ddns.net:25461/live/leigh/leigh/9342.ts&amp;streamtype=TSDOWNLOADER&amp;name=IRE | RTE Two SD</link> 
         </item> 
   
