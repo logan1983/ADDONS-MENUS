@@ -2,6 +2,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<item>
+<title>[I][B][COLOR gold]AMERIKANO TUGA[/COLOR][/I][/B]</title>
+<link>rs</link>
+<thumbnail>https://i.imgur.com/sydBwiL.png</thumbnail>
+<jsonrpc>plugin://plugin.video.AmerikanoTuga</jsonrpc>
+<fanart>https://i.imgur.com/3NS8BkO.png</fanart>
+<info> Os Links são adquiridos através de uma busca livre pela Internet</info>
+</item>
+
+<item>
+<title>[COLOR white][B] SECRET TV VIP TEAM[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/ERlnbPh.png</thumbnail>
+<link>ST</link>
+<jsonrpc>plugin://plugin.video.vipsecret</jsonrpc>
+<fanart>https://i.imgur.com/3NS8BkO.png</fanart>
+<info> Os Links são adquiridos através de uma busca livre pela Internet</info>
+</item>
+
+
+<item>
+<title>[COLOR blue]RS[/COLOR][COLOR white]IPTV[/COLOR]</title>
+<thumbnail>https://i.imgur.com/b3AC6aX.png</thumbnail>
+<link>rs</link>
+<jsonrpc>plugin://plugin.video.rsiptv</jsonrpc>
+<fanart>https://i.imgur.com/3NS8BkO.png</fanart>
+<info> Os Links são adquiridos através de uma busca livre pela Internet</info>
+</item>
+
 
 </item>
 <channel>
