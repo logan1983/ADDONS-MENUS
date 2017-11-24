@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
 
 <item>       
 <title>  [COLOR lime] •S1 UPDATE 28-11-2017[/COLOR] </title>
@@ -23,510 +23,158 @@
 
 
 
+#EXTM3U
  
  
-          <item> 
-            <title>[PT] RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP 2 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP 3</link> 
-        </item> 
-          <item> 
-            <title>[PT] RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP Memoria</link> 
-        </item> 
-          <item> 
-            <title>[PT] RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP Madeira</link> 
-        </item> 
-          <item> 
-            <title>[PT] RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP AFRICA</link> 
-        </item> 
-          <item> 
-            <title>[PT] RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] RTP Acores</link> 
-        </item> 
-          <item> 
-            <title>[PT] SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1686.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SIC HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SIC RADICAL</link> 
-        </item> 
-          <item> 
-            <title>[PT] SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SIC Noticias</link> 
-        </item> 
-          <item> 
-            <title>[PT] SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1689.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SIC MULHER</link> 
-        </item> 
-          <item> 
-            <title>[PT] SIC Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SIC Kids</link> 
-        </item> 
-          <item> 
-            <title>[PT] Sic Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Sic Caras</link> 
-        </item> 
-          <item> 
-            <title>[PT] TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TVI HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] TVI Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TVI Ficcao</link> 
-        </item> 
-          <item> 
-            <title>[PT] TVI24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1683.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TVI24</link> 
-        </item> 
-          <item> 
-            <title>[PT] TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1685.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TVI REALITY</link> 
-        </item> 
-          <item> 
-            <title>[PT] TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1716.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TV RECORD</link> 
-        </item> 
-          <item> 
-            <title>[PT] GLOBO PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] GLOBO PREMIUM</link> 
-        </item> 
-          <item> 
-            <title>[PT] Globo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Globo</link> 
-        </item> 
-          <item> 
-            <title>[PT] TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1719.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TV CINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] TV CINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1720.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TV CINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] TV CINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1721.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TV CINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] TV CINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1722.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TV CINE 4 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] TV Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1711.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TV Series</link> 
-        </item> 
-          <item> 
-            <title>[PT] Travel Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1698.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Travel Channel</link> 
-        </item> 
-          <item> 
-            <title>[PT] Touros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Touros TV</link> 
-        </item> 
-          <item> 
-            <title>[PT] TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1699.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] TLC</link> 
-        </item> 
-          <item> 
-            <title>[PT] SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1707.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] SYFY HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Real Madrid</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1742.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Real Madrid</link> 
-        </item> 
-          <item> 
-            <title>[PT] Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1692.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Porto Canal</link> 
-        </item> 
-          <item> 
-            <title>[PT] PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1696.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] PFC</link> 
-        </item> 
-          <item> 
-            <title>[PT] Panda Bigss</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Panda Bigss</link> 
-        </item> 
-          <item> 
-            <title>[PT] Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Odisseia</link> 
-        </item> 
-          <item> 
-            <title>[PT] Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>[PT] National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] National Geographic HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Nat Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1724.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Nat Geo Wild</link> 
-        </item> 
-          <item> 
-            <title>[PT] MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1764.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] MTV PORTUGAL</link> 
-        </item> 
-          <item> 
-            <title>[PT] mov HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1708.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] mov HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Motorvision HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Motorvision HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] MOTOR TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1735.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] MOTOR TV</link> 
-        </item> 
-          <item> 
-            <title>[PT] MCM TOP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1767.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] MCM TOP</link> 
-        </item> 
-          <item> 
-            <title>[PT] MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1766.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] MCM POP</link> 
-        </item> 
-          <item> 
-            <title>[PT] KOMBAT SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1739.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] KOMBAT SPORT</link> 
-        </item> 
-          <item> 
-            <title>[PT] JimJam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] JimJam</link> 
-        </item> 
-          <item> 
-            <title>[PT] HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1709.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] HOLLYWOOD HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1727.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>[PT] Fuel TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Fuel TV</link> 
-        </item> 
-          <item> 
-            <title>[PT] Fox Life HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1703.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Fox Life HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Fox Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1705.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Fox Movies</link> 
-        </item> 
-          <item> 
-            <title>[PT] Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1702.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Fox HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Fox Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1704.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Fox Crime HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1706.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] FOX COMEDY</link> 
-        </item> 
-          <item> 
-            <title>[PT] FOOD NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1717.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] FOOD NETWORK</link> 
-        </item> 
-          <item> 
-            <title>[PT] Fight Box</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1738.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Fight Box</link> 
-        </item> 
-          <item> 
-            <title>[PT] Eurosport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Eurosport News</link> 
-        </item> 
-          <item> 
-            <title>[PT] Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Eurosport 2</link> 
-        </item> 
-          <item> 
-            <title>[PT] Eurosport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Eurosport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1700.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>[PT] Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1757.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>[PT] Discovery Showcase HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1726.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Discovery Showcase HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1725.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>[PT] CMTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1715.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] CMTV HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] CINEMUNDO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1701.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] CINEMUNDO HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1718.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] CBS REALITY</link> 
-        </item> 
-          <item> 
-            <title>[PT] Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>[PT] Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1758.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>[PT] CaÃƒÂ§aVision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] CaÃƒÂ§aVision</link> 
-        </item> 
-          <item> 
-            <title>[PT] CaÃƒÂ§a e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1729.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] CaÃƒÂ§a e Pesca</link> 
-        </item> 
-          <item> 
-            <title>[PT] BABY TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1762.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] BABY TV</link> 
-        </item> 
-          <item> 
-            <title>[PT] BABY  FIRST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1763.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] BABY  FIRST</link> 
-        </item> 
-          <item> 
-            <title>[PT] Axn White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1713.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Axn White HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1712.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] AXN HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] Axn Black HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1714.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Axn Black HD</link> 
-        </item> 
-          <item> 
-            <title>[PT] AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1710.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] AMC</link> 
-        </item> 
-          <item> 
-            <title>[PT] Afro Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1765.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] Afro Music</link> 
-        </item> 
-          <item> 
-            <title>[PT] A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1731.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>[PT] A BOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1697.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] A BOLA TV</link> 
-        </item> 
-          <item> 
-            <title>[PT] 24 KITCHEN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/1755.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] 24 KITCHEN HD</link> 
-        </item> 
-          <item> 
-            <title>[PT]  MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/10078.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT]  MCS EXTREME</link> 
-        </item> 
-          <item> 
-            <title>[PT] MCS Lifestyle</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://bigiptv.ovh:8000/live/test3/test3/10079.ts&amp;streamtype=TSDOWNLOADER&amp;name=[PT] MCS Lifestyle</link> 
-        </item> 
-  
-  
- 
- 
-  <item>       
-<title>                         [COLOR lime] BY LOGAN TV LISTA:2 [/COLOR]     </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>https://i.imgsafe.org/fe957d1165.png</thumbnail>
-<fanart>http://i.imgur.com/QBbZPwG.jpg</fanart>
-<item>
-
-  
- 
- 
- 
-          <item> 
-            <title> tvg-name="RTP"PORTUGS"RTP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/714.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RTP"PORTUGS"RTP</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="RTP2"PORTUGS"RTP2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/715.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="RTP2"PORTUGS"RTP2</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: RTP 3"PORTUGS"PT: RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/730.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: RTP 3"PORTUGS"PT: RTP 3</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: RTP Memória"PORTUGS"PT: RTP Memória</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/728.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: RTP Memória"PORTUGS"PT: RTP Memória</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: RTP África"PORTUGS"PT: RTP África</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/729.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: RTP África"PORTUGS"PT: RTP África</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: SIC"PORTUGS"PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/727.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: SIC"PORTUGS"PT: SIC</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: SIC Radical"PORTUGS"PT: SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/724.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: SIC Radical"PORTUGS"PT: SIC Radical</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: SIC Noticias"PORTUGS"PT: SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/725.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: SIC Noticias"PORTUGS"PT: SIC Noticias</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: SIC K"PORTUGS"PT: SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/726.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: SIC K"PORTUGS"PT: SIC K</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: TVI"PORTUGS"PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/720.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: TVI"PORTUGS"PT: TVI</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="TVI"PORTUGS"TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/439.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TVI"PORTUGS"TVI</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="TVI Fico"PORTUGS"TVI Fico</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/442.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TVI Fico"PORTUGS"TVI Fico</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: TVI Reality (A Quinta)"PORTUGS"PT: TVI Reality (A Quinta)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/717.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: TVI Reality (A Quinta)"PORTUGS"PT: TVI Reality (A Quinta)</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: TVI Ficção"PORTUGS"PT: TVI Ficção</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/718.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: TVI Ficção"PORTUGS"PT: TVI Ficção</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: TVI 24"PORTUGS"PT: TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/719.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: TVI 24"PORTUGS"PT: TVI 24</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Travel Channel HD"PORTUGS"PT: Travel Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/721.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Travel Channel HD"PORTUGS"PT: Travel Channel HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Syfy"PORTUGS"PT: Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/722.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Syfy"PORTUGS"PT: Syfy</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Porto Canal"PORTUGS"PT: Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/731.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Porto Canal"PORTUGS"PT: Porto Canal</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Odisseia"PORTUGS"PT: Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/732.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Odisseia"PORTUGS"PT: Odisseia</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Nickelodeon"PORTUGS"PT: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/733.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Nickelodeon"PORTUGS"PT: Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Nat. Geo Wild"PORTUGS"PT: Nat. Geo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/734.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Nat. Geo Wild"PORTUGS"PT: Nat. Geo Wild</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: HOLLYWOOD"PORTUGS"PT: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/735.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: HOLLYWOOD"PORTUGS"PT: HOLLYWOOD</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: FOX Movies"PORTUGS"PT: FOX Movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/736.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: FOX Movies"PORTUGS"PT: FOX Movies</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: FOX"PORTUGS"PT: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/737.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: FOX"PORTUGS"PT: FOX</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Food Network"PORTUGS"PT: Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/738.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Food Network"PORTUGS"PT: Food Network</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: EUROSPORT NEWS"PORTUGS"PT: EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/739.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: EUROSPORT NEWS"PORTUGS"PT: EUROSPORT NEWS</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: E! Entertainment"PORTUGS"PT: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/740.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: E! Entertainment"PORTUGS"PT: E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Discovery Showcase HD"PORTUGS"PT: Discovery Showcase HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/741.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Discovery Showcase HD"PORTUGS"PT: Discovery Showcase HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Discovery Channel"PORTUGS"PT: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/742.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Discovery Channel"PORTUGS"PT: Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: CM TV"PORTUGS"PT: CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/743.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: CM TV"PORTUGS"PT: CM TV</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Cinemundo"PORTUGS"PT: Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/744.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Cinemundo"PORTUGS"PT: Cinemundo</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Canal Panda"PORTUGS"PT: Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/745.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Canal Panda"PORTUGS"PT: Canal Panda</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Canal Historia"PORTUGS"PT: Canal Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/746.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Canal Historia"PORTUGS"PT: Canal Historia</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: Baby Tv"PORTUGS"PT: Baby Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/748.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: Baby Tv"PORTUGS"PT: Baby Tv</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: AXN"PORTUGS"PT: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/749.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: AXN"PORTUGS"PT: AXN</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: AMC"PORTUGS"PT: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/750.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: AMC"PORTUGS"PT: AMC</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="TV Galicia"PORTUGS"TV Galicia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/432.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TV Galicia"PORTUGS"TV Galicia</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="TV CINE 1 HD"PORTUGS"TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/430.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TV CINE 1 HD"PORTUGS"TV CINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/431.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="TVSeries HD"PORTUGS"TVSeries HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/444.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="TVSeries HD"PORTUGS"TVSeries HD</link> 
-        </item> 
-          <item> 
-            <title> tvg-name="PT: VH1"PORTUGS"PT: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://list9.isonline.me:8000/live/8d8r1874iFvH73/99n18TL48931Y9/716.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-name="PT: VH1"PORTUGS"PT: VH1</link> 
-        </item> 
-  
+ #EXTINF:-1,|PT| RTP 1 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/7496.m3u8
+#EXTINF:-1,|PT| RTP 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2231.m3u8
+#EXTINF:-1,|PT| RTP 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3111.m3u8
+#EXTINF:-1,|PT| RTP 3
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3110.m3u8
+#EXTINF:-1,|PT| RTP MADEIRA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2229.m3u8
+#EXTINF:-1,|PT| RTP MEMÓRIA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2230.m3u8
+#EXTINF:-1,|PT| RTP AFRICA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3109.m3u8
+#EXTINF:-1,|PT| RTP ACORES
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3108.m3u8
+ #EXTINF:-1,|PT| SIC
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2268.m3u8
+ #EXTINF:-1,|PT| SIC RADICAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2264.m3u8
+#EXTINF:-1,|PT| SIC NOTÍCIAS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2265.m3u8
+#EXTINF:-1,|PT| SIC KIDS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2266.m3u8
+#EXTINF:-1,|PT| SIC CARAS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2267.m3u8
+ #EXTINF:-1,|PT| SIC MULHER
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3107.m3u8
+ #EXTINF:-1,|PT| TVI
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2272.m3u8
+#EXTINF:-1,|PT| TVI REALITY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3091.m3u8
+#EXTINF:-1,|PT| TVI 24
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2271.m3u8
+#EXTINF:-1,|PT| TVI FICÇÃO
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2270.m3u8
+#EXTINF:-1,|PT| TV RECORD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2269.m3u8
+#EXTINF:-1,|PT| TV GLOBO
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3103.m3u8
+#EXTINF:-1,|PT| CANAL Q
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3124.m3u8
+#EXTINF:-1,|PT| CANAL PANDA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3125.m3u8
+#EXTINF:-1,|PT| AMC HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3128.m3u8
+#EXTINF:-1,|PT| A & E
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3130.m3u8
+#EXTINF:-1,|PT| MOV HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2232.m3u8
+#EXTINF:-1,|PT| FOX MOVIES
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2233.m3u8
+#EXTINF:-1,|PT| FOX LIFE HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2663.m3u8
+#EXTINF:-1,|PT| FOX TV HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2664.m3u8
+#EXTINF:-1,|PT| FOX CRIME
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2665.m3u8
+#EXTINF:-1,|PT| FOX COMEDY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2666.m3u8
+#EXTINF:-1,|PT| EUROSPORT 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2234.m3u8
+#EXTINF:-1,|PT| EUROSPORT 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3990.m3u8
+#EXTINF:-1,|PT| EUROSPORT NEWS
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/7495.m3u8
+#EXTINF:-1,|PT| PORTO CANAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3988.m3u8
+#EXTINF:-1,|PT| TV SERIES
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3102.m3u8
+#EXTINF:-1,|PT| TVCINE 1 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4151.m3u8
+#EXTINF:-1,|PT| TVCINE 1
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2224.m3u8
+#EXTINF:-1,|PT| TVCINE 2 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4152.m3u8
+#EXTINF:-1,|PT| TVCINE 2
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2225.m3u8
+#EXTINF:-1,|PT| TVCINE 3 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4154.m3u8
+#EXTINF:-1,|PT| TVCINE 3
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2226.m3u8
+#EXTINF:-1,|PT| TVCINE 4 HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4155.m3u8
+#EXTINF:-1,|PT| TVCINE 4
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2227.m3u8
+#EXTINF:-1,|PT| AXN WHITE HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2237.m3u8
+#EXTINF:-1,|PT| AXN HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2238.m3u8
+#EXTINF:-1,|PT| AXN BLACK HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2239.m3u8
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/2662.m3u8
+#EXTINF:-1,|PT| TOROS TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3104.m3u8
+#EXTINF:-1,|PT| MOTORVISION
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4553.m3u8
+#EXTINF:-1,|PT| TLC
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3105.m3u8
+#EXTINF:-1,|PT| SYFY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3106.m3u8
+#EXTINF:-1,|PT| ODISSEIA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3112.m3u8
+#EXTINF:-1,|PT| NICKELODEON
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3113.m3u8
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3261.m3u8
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3114.m3u8
+#EXTINF:-1,|PT| NAT GEO WILD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3256.m3u8
+#EXTINF:-1,|PT| HISTORIA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3126.m3u8
+#EXTINF:-1,|PT| FUEL TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3115.m3u8
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3116.m3u8
+#EXTINF:-1,|PT| JIM JAM
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3991.m3u8
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3117.m3u8
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3118.m3u8
+#EXTINF:-1,|PT| BABY FIRST
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4552.m3u8
+#EXTINF:-1,|PT| BABY TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4551.m3u8
+#EXTINF:-1,|PT| DISCOVERY HD SHOWCASE
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3119.m3u8
+#EXTINF:-1,|PT| DISCOVERY CHANNEL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3120.m3u8
+#EXTINF:-1,|PT| CACAVISION
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/7494.m3u8
+#EXTINF:-1,|PT| CM TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3121.m3u8
+#EXTINF:-1,|PT| CINEMUNDO
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3122.m3u8
+#EXTINF:-1,|PT| CBS REALITY
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3123.m3u8
+#EXTINF:-1,|PT| TRAVEL CHANNEL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4538.m3u8
+#EXTINF:-1,|PT| CAZA Y PESCA
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3127.m3u8
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3262.m3u8
+#EXTINF:-1,|PT| ABOLA TV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/3989.m3u8
+#EXTINF:-1,|PT| ARTV
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4549.m3u8
+#EXTINF:-1,|PT| MTV PORTUGAL
+http://biloiptv.eu.com:8000/live/cccam-full.com/skypeexch/4550.m3u8  
