@@ -28,454 +28,773 @@
   
  
    
- 
- 
+  
           <item> 
-            <title>IT-Rai1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai1</link> 
+            <title>Rai 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 HD</link> 
         </item> 
           <item> 
-            <title>IT-Rai2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1069.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai2</link> 
+            <title>Rai 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16492.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 1 SD</link> 
         </item> 
           <item> 
-            <title>IT-Rai3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1070.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai3</link> 
+            <title>Rai 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 HD</link> 
         </item> 
           <item> 
-            <title>IT-Rai4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1495.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai4</link> 
+            <title>Rai 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16493.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 2 SD</link> 
         </item> 
           <item> 
-            <title>IT-Rai5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai5</link> 
+            <title>Rai 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 HD</link> 
         </item> 
           <item> 
-            <title>IT:Rai_Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1728.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Premium</link> 
+            <title>Rai 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16494.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 3 SD</link> 
         </item> 
           <item> 
-            <title>IT:Rai_Gulp</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1862.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Gulp</link> 
+            <title>Rete 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rete 4 SD</link> 
         </item> 
           <item> 
-            <title>IT-RAI_YOYO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-RAI_YOYO</link> 
+            <title>Canale 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 HD</link> 
         </item> 
           <item> 
-            <title>IT-Rai_New</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai_New</link> 
+            <title>Canale 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canale 5 SD</link> 
         </item> 
           <item> 
-            <title>IT-Mediaset_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1494.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Mediaset_1</link> 
+            <title>Italia 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 HD</link> 
         </item> 
           <item> 
-            <title>IT-tele_italia_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-tele_italia_2</link> 
+            <title>Italia 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 1 SD</link> 
         </item> 
           <item> 
-            <title>ITi-Mediaset Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Mediaset Extra</link> 
+            <title>RSI La 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La 1 HD</link> 
         </item> 
           <item> 
-            <title>IT-Mediaset_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1493.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Mediaset_5</link> 
+            <title>RSI La 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27531.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La 1 SD</link> 
         </item> 
           <item> 
-            <title>IT-La.1.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1723.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-La.1.HD</link> 
+            <title>RSI La 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La 2 HD</link> 
         </item> 
           <item> 
-            <title>IT-Rete4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rete4</link> 
+            <title>RSI La 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27532.ts&amp;streamtype=TSDOWNLOADER&amp;name=RSI La 2 SD</link> 
         </item> 
           <item> 
-            <title>IT-LA5(mediaset)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1741.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-LA5(mediaset)</link> 
+            <title>Teleticino HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teleticino HD</link> 
         </item> 
           <item> 
-            <title>IT-La7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-La7</link> 
+            <title>--------- SKY CINEMA ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6023.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- SKY CINEMA ---------</link> 
         </item> 
           <item> 
-            <title>IT-Giallo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Giallo</link> 
+            <title>Sky Cinema 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 HD</link> 
         </item> 
           <item> 
-            <title>IT-TOP_CRIME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-TOP_CRIME</link> 
+            <title>Sky Cinema 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27321.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema 1 SD</link> 
         </item> 
           <item> 
-            <title>IT-Sky_TG24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_TG24</link> 
+            <title>Sky Cinema +1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/5203.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +1 HD</link> 
         </item> 
           <item> 
-            <title>IT-Cartonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3138.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Cartonito</link> 
+            <title>Sky Cinema +1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27441.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +1 SD</link> 
         </item> 
           <item> 
-            <title>IT:Pre_Disney_Xd</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1801.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Disney_Xd</link> 
+            <title>Sky Cinema +24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/5197.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 HD</link> 
         </item> 
           <item> 
-            <title>IT-IRIS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-IRIS</link> 
+            <title>Sky Cinema +24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27329.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema +24 SD</link> 
         </item> 
           <item> 
-            <title>IT:Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1863.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Boing</link> 
+            <title>Sky Cinema Classic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/178.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic HD</link> 
         </item> 
           <item> 
-            <title>ITi-Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1756.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Disney Channel</link> 
+            <title>Sky Cinema Classic SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27322.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Classic SD</link> 
         </item> 
           <item> 
-            <title>IT-MAN-GA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3126.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-MAN-GA</link> 
+            <title>Sky Cinema Comedy HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy HD</link> 
         </item> 
           <item> 
-            <title>IT-Sky_Fox_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_Fox_HD</link> 
+            <title>Sky Cinema Comedy SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27323.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Comedy SD</link> 
         </item> 
           <item> 
-            <title>IT:FOX_Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1740.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:FOX_Crime</link> 
+            <title>Sky Cinema Cult HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult HD</link> 
         </item> 
           <item> 
-            <title>IT-Fox_Life_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Fox_Life_HD</link> 
+            <title>Sky Cinema Cult SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27324.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Cult SD</link> 
         </item> 
           <item> 
-            <title>IT-Fox Animation HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1845.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Fox Animation HD</link> 
+            <title>Sky Cinema Family HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family HD</link> 
         </item> 
           <item> 
-            <title>IT-Cartoonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Cartoonito</link> 
+            <title>Sky Cinema Family SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27325.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family SD</link> 
         </item> 
           <item> 
-            <title>IT:Sky_Uno_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Uno_HD</link> 
+            <title>Sky Cinema Family +1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6621.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family +1 HD</link> 
         </item> 
           <item> 
-            <title>IT-SKY_Cinema 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-SKY_Cinema 1</link> 
+            <title>Sky Cinema Family +1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27442.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Family +1 SD</link> 
         </item> 
           <item> 
-            <title>IT-Sky_Cine_Passion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1732.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_Cine_Passion</link> 
-        </item> 
-          <item> 
-            <title>IT-sky_Cinema_Cult</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1733.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-sky_Cinema_Cult</link> 
-        </item> 
-          <item> 
-            <title>IT-sky-Cinema-Comdy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-sky-Cinema-Comdy</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky Cinema max hd</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Cinema max hd</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky_CINEMA 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_CINEMA 24</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky Cinema Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3095.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Cinema Family HD</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky Cine Classics_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3094.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Cine Classics_HD</link> 
-        </item> 
-          <item> 
-            <title>IT-sky_Cine_Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1730.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-sky_Cine_Max</link> 
-        </item> 
-          <item> 
-            <title>IT-History_LAB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1731.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-History_LAB</link> 
-        </item> 
-          <item> 
-            <title>IT-Premium Crime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3093.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Crime HD</link> 
-        </item> 
-          <item> 
-            <title>ITi-Pre-Cinema24 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Pre-Cinema24 HD</link> 
-        </item> 
-          <item> 
-            <title>ITi-Premium Cinema2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Premium Cinema2 HD</link> 
-        </item> 
-          <item> 
-            <title>ITi-Premium Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Premium Action HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Pre_Cinema_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1805.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Cinema_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Pre_Cine_Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1806.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Cine_Comedy</link> 
-        </item> 
-          <item> 
-            <title>ITi-Pre_Cinema_Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1800.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITi-Pre_Cinema_Emotion</link> 
-        </item> 
-          <item> 
-            <title>IT:Pre_Stories</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1810.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre_Stories</link> 
-        </item> 
-          <item> 
-            <title>IT:Pre-Studio_Uni</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Pre-Studio_Uni</link> 
-        </item> 
-          <item> 
-            <title>IT:Premium_Energy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Premium_Energy</link> 
-        </item> 
-          <item> 
-            <title>IT-PRE_JOY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-PRE_JOY</link> 
-        </item> 
-          <item> 
-            <title>IT-ATLANTIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-ATLANTIC</link> 
-        </item> 
-          <item> 
-            <title>IT-Dmax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Dmax</link> 
-        </item> 
-          <item> 
-            <title>IT-Rai_movies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3119.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Rai_movies</link> 
-        </item> 
-          <item> 
-            <title>IT-History_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1774.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-History_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Discovery_Trave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Discovery_Trave</link> 
-        </item> 
-          <item> 
-            <title>IT:Nat_Geo_wild_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1743.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Nat_Geo_wild_HD</link> 
-        </item> 
-          <item> 
-            <title>IT-ANIMAL_PLANET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-ANIMAL_PLANET</link> 
-        </item> 
-          <item> 
-            <title>IT-Realtime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/2534.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Realtime HD</link> 
-        </item> 
-          <item> 
-            <title>IT-Alice</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1133.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Alice</link> 
-        </item> 
-          <item> 
-            <title>IT-Primafila1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Primafila1_HD</link> 
-        </item> 
-          <item> 
-            <title>IT-Primafila2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Primafila2_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila3_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila4_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila5_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila6_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila6_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila7_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila7_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila8_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila8_HD</link> 
-        </item> 
-          <item> 
-            <title>IT:Primafila9_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Primafila9_HD</link> 
-        </item> 
-          <item> 
-            <title>IT: Primafila10_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT: Primafila10_HD</link> 
-        </item> 
-          <item> 
-            <title>IT-TV2000</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-TV2000</link> 
-        </item> 
-          <item> 
-            <title>IT_VideoLINA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_VideoLINA</link> 
-        </item> 
-          <item> 
-            <title>IT_TRENTINO_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3310.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TRENTINO_TV</link> 
-        </item> 
-          <item> 
-            <title>IT_TV_Moda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_TV_Moda</link> 
-        </item> 
-          <item> 
-            <title>IT_Rete_55</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_Rete_55</link> 
-        </item> 
-          <item> 
-            <title>IT_OTTO_8_FM_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_OTTO_8_FM_TV</link> 
-        </item> 
-          <item> 
-            <title>IT_ORLER_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3296.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ORLER_CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>IT_E_TV_MARCHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3299.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_E_TV_MARCHE</link> 
-        </item> 
-          <item> 
-            <title>IT-TV LUNA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3289.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-TV LUNA</link> 
-        </item> 
-          <item> 
-            <title>IT_ALTO_ADIGE_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3330.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT_ALTO_ADIGE_TV</link> 
-        </item> 
-          <item> 
-            <title>IT:Rai_Sport1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1768.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Sport1</link> 
-        </item> 
-          <item> 
-            <title>IT:Rai_Sport2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1769.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Rai_Sport2</link> 
-        </item> 
-          <item> 
-            <title>IT-Sky_F1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_F1_HD</link> 
-        </item> 
-          <item> 
-            <title>IT-Fox Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,IT-Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=IT-Fox Sports HD</link> 
+            <title>Sky Cinema Hits HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3096.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>IT-SKY_SPORT1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-SKY_SPORT1_HD</link> 
+            <title>Sky Cinema Hits SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Cinema Hits&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Hits SD</link> 
         </item> 
           <item> 
-            <title>IT-SKY_SPORT2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-SKY_SPORT2_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27326.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>IT-Sky Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3117.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Sport 3 HD</link> 
+            <title>Sky Cinema Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max HD</link> 
         </item> 
           <item> 
-            <title>IT:Sky_Sport24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1770.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Sky_Sport24</link> 
+            <title>Sky Cinema Max SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27327.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max SD</link> 
         </item> 
           <item> 
-            <title>IT-Sport MotorGP_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1773.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sport MotorGP_HD</link> 
+            <title>Sky Cinema Max +1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6622.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max +1 HD</link> 
         </item> 
           <item> 
-            <title>IT:Super_tennis_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT:Super_tennis_HD</link> 
+            <title>Sky Cinema Max +1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27443.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Max +1 SD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Sport plus HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3118.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Sport plus HD</link> 
+            <title>Sky Cinema Passion HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion HD</link> 
         </item> 
           <item> 
-            <title>IT-Premium Sport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3108.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Sport HD</link> 
+            <title>Sky Cinema Passion SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27328.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Cinema Passion SD</link> 
         </item> 
           <item> 
-            <title>IT-Premium SPORT2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3107.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium SPORT2</link> 
+            <title>---- MEDIASET - RAI INTRATTENIMENTO ----</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16608.ts&amp;streamtype=TSDOWNLOADER&amp;name=---- MEDIASET - RAI INTRATTENIMENTO ----</link> 
         </item> 
           <item> 
-            <title>IT-Sky_Supercalcio_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3120.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky_Supercalcio_HD</link> 
+            <title>Grande Fratello Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17790.ts&amp;streamtype=TSDOWNLOADER&amp;name=Grande Fratello Live</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3099.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 1</link> 
+            <title>Paramount Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Paramount Channel</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3100.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 2</link> 
+            <title>Investigation Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6857.ts&amp;streamtype=TSDOWNLOADER&amp;name=Investigation Discovery</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3101.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 3</link> 
+            <title>TopCrime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=TopCrime</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3102.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 4</link> 
+            <title>Giallo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=Giallo</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3103.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 5</link> 
+            <title>Rai 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6053.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 4 HD</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3104.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 6</link> 
+            <title>Rai 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 4 SD</link> 
         </item> 
           <item> 
-            <title>IT-Premium Calcio 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3105.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Premium Calcio 7</link> 
+            <title>Rai 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6794.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 5 HD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3109.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 1 HD</link> 
+            <title>Rai 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai 5 SD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3110.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 2 HD</link> 
+            <title>Rai Movie HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6422.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Movie HD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3111.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 3 HD</link> 
+            <title>Rai Movie SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Movie SD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3112.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 4 HD</link> 
+            <title>Rai Premium HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6421.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium HD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 5 HD</link> 
+            <title>Rai Premium SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Premium SD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 6 HD</link> 
+            <title>Rai Scuola HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Scuola HD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 7 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3115.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 7 HD</link> 
+            <title>Rai Storia HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16236.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Storia HD</link> 
         </item> 
           <item> 
-            <title>IT-Sky Calcio 8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://configuration.tn:8000/live/T1278/T1278/3116.ts&amp;streamtype=TSDOWNLOADER&amp;name=IT-Sky Calcio 8 HD</link> 
+            <title>Rai Storia SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17392.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Storia SD</link> 
+        </item> 
+          <item> 
+            <title>Cielo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17614.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cielo HD</link> 
+        </item> 
+          <item> 
+            <title>Cielo SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cielo SD</link> 
+        </item> 
+          <item> 
+            <title>Italia 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italia 2</link> 
+        </item> 
+          <item> 
+            <title>Iris</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=Iris</link> 
+        </item> 
+          <item> 
+            <title>La 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 5</link> 
+        </item> 
+          <item> 
+            <title>La 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 7 HD</link> 
+        </item> 
+          <item> 
+            <title>La 7d HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6630.ts&amp;streamtype=TSDOWNLOADER&amp;name=La 7d HD</link> 
+        </item> 
+          <item> 
+            <title>LaEffe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17652.ts&amp;streamtype=TSDOWNLOADER&amp;name=LaEffe</link> 
+        </item> 
+          <item> 
+            <title>Laeffe SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27539.ts&amp;streamtype=TSDOWNLOADER&amp;name=Laeffe SD</link> 
+        </item> 
+          <item> 
+            <title>Mediaset Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mediaset Extra</link> 
+        </item> 
+          <item> 
+            <title>Dmax HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17649.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax HD</link> 
+        </item> 
+          <item> 
+            <title>Dmax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax</link> 
+        </item> 
+          <item> 
+            <title>Dmax +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6054.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dmax +1</link> 
+        </item> 
+          <item> 
+            <title>Fine Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine Living</link> 
+        </item> 
+          <item> 
+            <title>Focus</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=Focus</link> 
+        </item> 
+          <item> 
+            <title>Real Time HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17615.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time HD</link> 
+        </item> 
+          <item> 
+            <title>Real Time SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time SD</link> 
+        </item> 
+          <item> 
+            <title>Real Time SD +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/5868.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Time SD +1</link> 
+        </item> 
+          <item> 
+            <title>TV 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 8</link> 
+        </item> 
+          <item> 
+            <title>NOVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16669.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVE HD</link> 
+        </item> 
+          <item> 
+            <title>Nove SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27540.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nove SD</link> 
+        </item> 
+          <item> 
+            <title>Alice</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alice</link> 
+        </item> 
+          <item> 
+            <title>Marco Polo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=Marco Polo</link> 
+        </item> 
+          <item> 
+            <title>Nuvolari</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nuvolari</link> 
+        </item> 
+          <item> 
+            <title>TV 2000</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/162.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV 2000</link> 
+        </item> 
+          <item> 
+            <title>Sposa HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6347.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sposa HD</link> 
+        </item> 
+          <item> 
+            <title>Antenna 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6647.ts&amp;streamtype=TSDOWNLOADER&amp;name=Antenna 3</link> 
+        </item> 
+          <item> 
+            <title>Telelombardia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6646.ts&amp;streamtype=TSDOWNLOADER&amp;name=Telelombardia</link> 
+        </item> 
+          <item> 
+            <title>Padre Pio</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17201.ts&amp;streamtype=TSDOWNLOADER&amp;name=Padre Pio</link> 
+        </item> 
+          <item> 
+            <title>--------- SKY SPORT ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6025.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- SKY SPORT ---------</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 24 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6316.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27306.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27307.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 2 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27308.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport 3 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Plus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Plus SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27311.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Plus SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Mix HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16024.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Sport Mix SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27542.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Sport Mix SD</link> 
+        </item> 
+          <item> 
+            <title>Fox Sports HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sports HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Fox Sport SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27305.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fox Sport SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Formula 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Formula 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27309.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Formula 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Moto GP HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Moto GP SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27310.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Moto GP SD</link> 
+        </item> 
+          <item> 
+            <title>--------- PREMIUM SPORT ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16605.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- PREMIUM SPORT ---------</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6325.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport HD (Audio Tifoso)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17814.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport HD (Audio Tifoso)</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6094.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6326.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6095.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Sport 2</link> 
+        </item> 
+          <item> 
+            <title>--------- SKY CALCIO ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6026.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- SKY CALCIO ---------</link> 
+        </item> 
+          <item> 
+            <title>Mosaico Calcio</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17789.ts&amp;streamtype=TSDOWNLOADER&amp;name=Mosaico Calcio</link> 
+        </item> 
+          <item> 
+            <title>Sky Supercalcio HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Supercalcio SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27312.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Supercalcio SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6468.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27298.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 1 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6469.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27299.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 2 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6470.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27300.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 3 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6471.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27301.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 4 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6472.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27302.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 5 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 6 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6625.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 6 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27303.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 6 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 7 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6626.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 7 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 7 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 8 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6627.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 8 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27304.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 8 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 9 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17734.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 9 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 10 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17735.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 10 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 11 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17736.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 11 SD</link> 
+        </item> 
+          <item> 
+            <title>Sky Calcio 12 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17737.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Calcio 12 SD</link> 
+        </item> 
+          <item> 
+            <title>Lazio Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17295.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lazio Channel</link> 
+        </item> 
+          <item> 
+            <title>Inter Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6717.ts&amp;streamtype=TSDOWNLOADER&amp;name=Inter Channel</link> 
+        </item> 
+          <item> 
+            <title>Milan TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6716.ts&amp;streamtype=TSDOWNLOADER&amp;name=Milan TV</link> 
+        </item> 
+          <item> 
+            <title>Juventus TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6714.ts&amp;streamtype=TSDOWNLOADER&amp;name=Juventus TV</link> 
+        </item> 
+          <item> 
+            <title>Roma TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6715.ts&amp;streamtype=TSDOWNLOADER&amp;name=Roma TV</link> 
+        </item> 
+          <item> 
+            <title>--------- PREMIUM CALCIO ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16606.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- PREMIUM CALCIO ---------</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 1</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17757.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2 HD</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 2</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 3</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 4</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 5</link> 
+        </item> 
+          <item> 
+            <title>Premium Calcio 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Calcio 6</link> 
+        </item> 
+          <item> 
+            <title>--------- VARI SPORT ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16609.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- VARI SPORT ---------</link> 
+        </item> 
+          <item> 
+            <title>Bike Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/5881.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channel HD</link> 
+        </item> 
+          <item> 
+            <title>Bike Channel SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Bike Channel SD</link> 
+        </item> 
+          <item> 
+            <title>Class Horse TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6052.ts&amp;streamtype=TSDOWNLOADER&amp;name=Class Horse TV</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6628.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/185.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>Rai Sport + HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6163.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Sport + HD</link> 
+        </item> 
+          <item> 
+            <title>Super Tennis HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super Tennis HD</link> 
+        </item> 
+          <item> 
+            <title>Sport Italia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sport Italia</link> 
+        </item> 
+          <item> 
+            <title>Caccia e Pesca</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caccia e Pesca</link> 
+        </item> 
+          <item> 
+            <title>Caccia e Pesca SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27335.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caccia e Pesca SD</link> 
+        </item> 
+          <item> 
+            <title>Pescare Cacciare TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16238.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pescare Cacciare TV</link> 
+        </item> 
+          <item> 
+            <title>Italian Fishing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/5879.ts&amp;streamtype=TSDOWNLOADER&amp;name=Italian Fishing</link> 
+        </item> 
+          <item> 
+            <title>--------- BAMBINI ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/5722.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- BAMBINI ---------</link> 
+        </item> 
+          <item> 
+            <title>Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17151.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV</link> 
+        </item> 
+          <item> 
+            <title>Baby TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/27331.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV SD</link> 
+        </item> 
+          <item> 
+            <title>Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boing</link> 
+        </item> 
+          <item> 
+            <title>Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/21192.ts&amp;streamtype=TSDOWNLOADER&amp;name=Boomerang</link> 
+        </item> 
+          <item> 
+            <title>Carton Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=Carton Network</link> 
+        </item> 
+          <item> 
+            <title>Cartoonito</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoonito</link> 
+        </item> 
+          <item> 
+            <title>Dea Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17153.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dea Junior</link> 
+        </item> 
+          <item> 
+            <title>Dea Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17154.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dea Kids</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17155.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel HD</link> 
+        </item> 
+          <item> 
+            <title>Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17156.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney XD</link> 
+        </item> 
+          <item> 
+            <title>Frisbee</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=Frisbee</link> 
+        </item> 
+          <item> 
+            <title>K2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=K2</link> 
+        </item> 
+          <item> 
+            <title>Man-GA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Man-GA</link> 
+        </item> 
+          <item> 
+            <title>Nick Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17144.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nick Junior</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17292.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>Premium Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=Premium Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>Rai Gulp HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Gulp HD</link> 
+        </item> 
+          <item> 
+            <title>Rai Yoyo HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16233.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai Yoyo HD</link> 
+        </item> 
+          <item> 
+            <title>Super</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=Super</link> 
+        </item> 
+          <item> 
+            <title>Teen Nick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/17651.ts&amp;streamtype=TSDOWNLOADER&amp;name=Teen Nick</link> 
+        </item> 
+          <item> 
+            <title>--------- NOTIZIE ---------</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/6028.ts&amp;streamtype=TSDOWNLOADER&amp;name=--------- NOTIZIE ---------</link> 
+        </item> 
+          <item> 
+            <title>Rai News 24 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/16235.ts&amp;streamtype=TSDOWNLOADER&amp;name=Rai News 24 HD</link> 
+        </item> 
+          <item> 
+            <title>Sky Tg 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Tg 24</link> 
+        </item> 
+          <item> 
+            <title>TgCom 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://193.200.164.150:29500/live/0bWbwDcgVQ/PbES45jHPj/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=TgCom 24</link> 
         </item> 
   
