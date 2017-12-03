@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 
 
 <item>       
@@ -25,320 +25,242 @@
        
  
  
- 
+ #EXTINF:-1,[COLOR lime][I]10-12-2017 BY LOGAN TV [/I][/COLOR]
 
  
   
-          <item> 
-            <title>TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1428.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1</link> 
-        </item> 
-          <item> 
-            <title>FRANCE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 2</link> 
-        </item> 
-          <item> 
-            <title>FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 3</link> 
-        </item> 
-          <item> 
-            <title>FRANCE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4</link> 
-        </item> 
-          <item> 
-            <title>FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1433.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5</link> 
-        </item> 
-          <item> 
-            <title>FRANCE O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE O</link> 
-        </item> 
-          <item> 
-            <title>M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6</link> 
-        </item> 
-          <item> 
-            <title>ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1453.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACTION</link> 
-        </item> 
-          <item> 
-            <title>CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1435.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL</link> 
-        </item> 
-          <item> 
-            <title>CANAL CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1436.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL CINEMA</link> 
-        </item> 
-          <item> 
-            <title>CANAL FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1438.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL FAMILY</link> 
-        </item> 
-          <item> 
-            <title>CANAL DECALE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1437.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL DECALE</link> 
-        </item> 
-          <item> 
-            <title>CANAL SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SERIES</link> 
-        </item> 
-          <item> 
-            <title>CINE PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1440.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE PREMIER</link> 
-        </item> 
-          <item> 
-            <title>CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1446.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE POLAR</link> 
-        </item> 
-          <item> 
-            <title>CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1447.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FX</link> 
-        </item> 
-          <item> 
-            <title>CINE FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1441.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FRISSON</link> 
-        </item> 
-          <item> 
-            <title>CINE FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1445.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FAMIZ</link> 
-        </item> 
-          <item> 
-            <title>CINE EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1442.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE EMOTION</link> 
-        </item> 
-          <item> 
-            <title>CINE CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1444.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE CLUB</link> 
-        </item> 
-          <item> 
-            <title>CINE CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1443.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>OCS MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1451.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS MAX</link> 
-        </item> 
-          <item> 
-            <title>OCS GEANT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1449.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GEANT</link> 
-        </item> 
-          <item> 
-            <title>OCS CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1450.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS CITY</link> 
-        </item> 
-          <item> 
-            <title>OCS CHOC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1448.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS CHOC</link> 
-        </item> 
-          <item> 
-            <title>COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1452.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIE</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1390.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 1</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 2</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 3</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 4</link> 
-        </item> 
-          <item> 
-            <title>CANAL PLAY 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1394.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PLAY 5</link> 
-        </item> 
-          <item> 
-            <title>ALACARTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1395.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE 1</link> 
-        </item> 
-          <item> 
-            <title>ALACARTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1396.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE 2</link> 
-        </item> 
-          <item> 
-            <title>ALACARTE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1397.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE 3</link> 
-        </item> 
-          <item> 
-            <title>ALACARTE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1398.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE 4</link> 
-        </item> 
-          <item> 
-            <title>ALACARTE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1399.ts&amp;streamtype=TSDOWNLOADER&amp;name=ALACARTE 5</link> 
-        </item> 
-          <item> 
-            <title>ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1424.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX</link> 
-        </item> 
-          <item> 
-            <title>DISCOVRY-SCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1423.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVRY-SCI</link> 
-        </item> 
-          <item> 
-            <title>DISCOVRY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1422.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVRY</link> 
-        </item> 
-          <item> 
-            <title>USHUAIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1425.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA TV</link> 
-        </item> 
-          <item> 
-            <title>SEASON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEASON</link> 
-        </item> 
-          <item> 
-            <title>NATIONAL-GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1420.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL-GEO</link> 
-        </item> 
-          <item> 
-            <title>NAT-GEO-WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1421.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT-GEO-WILD</link> 
-        </item> 
-          <item> 
-            <title>CHASSE PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHASSE PECHE</link> 
-        </item> 
-          <item> 
-            <title>France 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1329.ts&amp;streamtype=TSDOWNLOADER&amp;name=France 24</link> 
-        </item> 
-          <item> 
-            <title>Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1330.ts&amp;streamtype=TSDOWNLOADER&amp;name=Euronews</link> 
-        </item> 
-          <item> 
-            <title>LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1401.ts&amp;streamtype=TSDOWNLOADER&amp;name=LCI</link> 
-        </item> 
-          <item> 
-            <title>ITELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1400.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITELE</link> 
-        </item> 
-          <item> 
-            <title>SFR Sport 1HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1464.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 1HD Fr</link> 
-        </item> 
-          <item> 
-            <title>SFR Sport 2HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1465.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 2HD Fr</link> 
-        </item> 
-          <item> 
-            <title>SFR Sport 3HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1466.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR Sport 3HD Fr</link> 
-        </item> 
-          <item> 
-            <title>CANAL SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1417.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL SPORT</link> 
-        </item> 
-          <item> 
-            <title>INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1419.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT</link> 
-        </item> 
-          <item> 
-            <title>FOOT 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1418.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOT 24</link> 
-        </item> 
-          <item> 
-            <title>PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI</link> 
-        </item> 
-          <item> 
-            <title>CARTON NET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1405.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTON NET</link> 
-        </item> 
-          <item> 
-            <title>BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1404.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG</link> 
-        </item> 
-          <item> 
-            <title>TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1403.ts&amp;streamtype=TSDOWNLOADER&amp;name=TIJI</link> 
-        </item> 
-          <item> 
-            <title>GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1406.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI</link> 
-        </item> 
-          <item> 
-            <title>TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1410.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELETOON</link> 
-        </item> 
-          <item> 
-            <title>CANAL J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1408.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL J</link> 
-        </item> 
-          <item> 
-            <title>NICKELODEON JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1412.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>MANGAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1407.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS</link> 
-        </item> 
-          <item> 
-            <title>DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1416.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
-        </item> 
-          <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1413.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1415.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CINEMA</link> 
-        </item> 
-          <item> 
-            <title>DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1414.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>BeINSPORTS 1HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1454.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINSPORTS 1HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINSPORTS 2HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1455.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINSPORTS 2HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINSPORTS 3HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1456.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINSPORTS 3HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 04HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 04HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 05HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 05HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 06HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1459.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 06HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 07HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1460.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 07HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 08HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1461.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 08HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 09HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1462.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 09HD Fr</link> 
-        </item> 
-          <item> 
-            <title>BeINMAX 10HD Fr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1463.ts&amp;streamtype=TSDOWNLOADER&amp;name=BeINMAX 10HD Fr</link> 
-        </item> 
-  
+#EXTM3U
+
+#EXTINF:-1,TF1
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1428.ts
+
+#EXTINF:-1,FRANCE 2
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1430.ts
+
+#EXTINF:-1,FRANCE 3
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1431.ts
+
+#EXTINF:-1,FRANCE 4
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1432.ts
+
+#EXTINF:-1,FRANCE 5
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1433.ts
+
+#EXTINF:-1,FRANCE O
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1434.ts
+
+#EXTINF:-1,M6
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1429.ts
+
+#EXTINF:-1,ACTION
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1453.ts
+
+#EXTINF:-1,CANAL
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1435.ts
+
+#EXTINF:-1,CANAL CINEMA
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1436.ts
+
+#EXTINF:-1,CANAL FAMILY
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1438.ts
+
+#EXTINF:-1,CANAL DECALE
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1437.ts
+
+#EXTINF:-1,CANAL SERIES
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1439.ts
+
+#EXTINF:-1,CINE PREMIER
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1440.ts
+
+#EXTINF:-1,CINE POLAR
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1446.ts
+
+#EXTINF:-1,CINE FX
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1447.ts
+
+#EXTINF:-1,CINE FRISSON
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1441.ts
+
+#EXTINF:-1,CINE FAMIZ
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1445.ts
+
+#EXTINF:-1,CINE EMOTION
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1442.ts
+
+#EXTINF:-1,CINE CLUB
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1444.ts
+
+#EXTINF:-1,CINE CLASSIC
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1443.ts
+
+#EXTINF:-1,OCS MAX
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1451.ts
+
+#EXTINF:-1,OCS GEANT
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1449.ts
+
+#EXTINF:-1,OCS CITY
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1450.ts
+
+#EXTINF:-1,OCS CHOC
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1448.ts
+
+#EXTINF:-1,COMEDIE
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1452.ts
+
+#EXTINF:-1,CANAL PLAY 1
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1390.ts
+
+#EXTINF:-1,CANAL PLAY 2
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1391.ts
+
+#EXTINF:-1,CANAL PLAY 3
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1392.ts
+
+#EXTINF:-1,CANAL PLAY 4
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1393.ts
+
+#EXTINF:-1,CANAL PLAY 5
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1394.ts
+
+#EXTINF:-1,ALACARTE 1
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1395.ts
+
+#EXTINF:-1,ALACARTE 2
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1396.ts
+
+#EXTINF:-1,ALACARTE 3
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1397.ts
+
+#EXTINF:-1,ALACARTE 4
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1398.ts
+
+#EXTINF:-1,ALACARTE 5
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1399.ts
+
+#EXTINF:-1,ANIMAUX
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1424.ts
+
+#EXTINF:-1,DISCOVRY-SCI
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1423.ts
+
+#EXTINF:-1,DISCOVRY
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1422.ts
+
+#EXTINF:-1,USHUAIA TV
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1425.ts
+
+#EXTINF:-1,SEASON
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1427.ts
+
+#EXTINF:-1,NATIONAL-GEO
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1420.ts
+
+#EXTINF:-1,NAT-GEO-WILD
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1421.ts
+
+#EXTINF:-1,CHASSE PECHE
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1426.ts
+
+#EXTINF:-1,France 24
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1329.ts
+
+#EXTINF:-1,Euronews
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1330.ts
+
+#EXTINF:-1,LCI
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1401.ts
+
+#EXTINF:-1,ITELE
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1400.ts
+
+#EXTINF:-1,SFR Sport 1HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1464.ts
+
+#EXTINF:-1,SFR Sport 2HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1465.ts
+
+#EXTINF:-1,SFR Sport 3HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1466.ts
+
+#EXTINF:-1,CANAL SPORT
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1417.ts
+
+#EXTINF:-1,INFOSPORT
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1419.ts
+
+#EXTINF:-1,FOOT 24
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1418.ts
+
+#EXTINF:-1,PIWI
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1402.ts
+
+#EXTINF:-1,CARTON NET
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1405.ts
+
+#EXTINF:-1,BOOMERANG
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1404.ts
+
+#EXTINF:-1,TIJI
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1403.ts
+
+#EXTINF:-1,GULLI
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1406.ts
+
+#EXTINF:-1,TELETOON
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1410.ts
+
+#EXTINF:-1,CANAL J
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1408.ts
+
+#EXTINF:-1,NICKELODEON JUNIOR
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1412.ts
+
+#EXTINF:-1,NICKELODEON
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1411.ts
+
+#EXTINF:-1,MANGAS
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1407.ts
+
+#EXTINF:-1,DISNEY XD
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1416.ts
+
+#EXTINF:-1,DISNEY JUNIOR
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1413.ts
+
+#EXTINF:-1,DISNEY CINEMA
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1415.ts
+
+#EXTINF:-1,DISNEY CHANNEL
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1414.ts
+
+#EXTINF:-1,BeINSPORTS 1HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1454.ts
+
+#EXTINF:-1,BeINSPORTS 2HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1455.ts
+
+#EXTINF:-1,BeINSPORTS 3HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1456.ts
+
+#EXTINF:-1,BeINMAX 04HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1457.ts
+
+#EXTINF:-1,BeINMAX 05HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1458.ts
+
+#EXTINF:-1,BeINMAX 06HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1459.ts
+
+#EXTINF:-1,BeINMAX 07HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1460.ts
+
+#EXTINF:-1,BeINMAX 08HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1461.ts
+
+#EXTINF:-1,BeINMAX 09HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1462.ts
+
+#EXTINF:-1,BeINMAX 10HD Fr
+http://rmd.primatv.club:8899/live/BestTV.FB/OAfllsYAJy/1463.ts
