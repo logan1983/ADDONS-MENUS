@@ -48,7 +48,7 @@
  
 <item>
 <title>[COLOR white][B][I]SIC[/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR]</title>
-<link>http://portal2.digiportal.xyz:8080/live/Dii-DiiPacheco-4/D98145/1567.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8</link>
 <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
 <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/1567.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -SIC HD LOGAN</link>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
@@ -59,7 +59,7 @@
 <item>
 <title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
-<link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/3591.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
+<linkplugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/3591.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT -TVI HD LOGAN</link>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
 </item>
@@ -67,7 +67,7 @@
 
 <item>
 <title>[COLOR white][B][I] TVI  [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
-<link>http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-3/livestream.m3u8</link>
+<link>http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8</link>
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8</link>
 <thumbnail>http://cdn.iol.pt/img/logostvi/branco/tvi.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
