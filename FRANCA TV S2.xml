@@ -28,432 +28,185 @@
  
  
  
+  
           <item> 
-            <title>FR:TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2041.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1 HD</link> 
+            <title>FR: TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7102.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
         </item> 
           <item> 
-            <title>FR:M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2046.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6 HD</link> 
+            <title>FR: M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7096.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
         </item> 
           <item> 
-            <title>FR:Teva</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2018.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Teva</link> 
+            <title>FR: TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TEVA</link> 
         </item> 
           <item> 
-            <title>FR:W9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9 HD</link> 
+            <title>FR: W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7093.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
         </item> 
           <item> 
-            <title>FR:6ter HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2037.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:6ter HD</link> 
+            <title>FR: TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7091.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
         </item> 
           <item> 
-            <title>FR:AB1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2017.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:AB1 HD</link> 
+            <title>FR: RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7063.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL9</link> 
         </item> 
           <item> 
-            <title>FR:France 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2050.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 2 HD</link> 
+            <title>FR: 6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7088.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
         </item> 
           <item> 
-            <title>FR:France 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2029.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 24</link> 
+            <title>FR: AB MOTEURS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7038.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB MOTEURS</link> 
         </item> 
           <item> 
-            <title>FR:France 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2049.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 3 HD</link> 
+            <title>FR: AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
         </item> 
           <item> 
-            <title>FR:France 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2048.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 4 HD</link> 
+            <title>FR: FRANCE 0</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7097.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 0</link> 
         </item> 
           <item> 
-            <title>FR:France 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2047.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France 5 HD</link> 
+            <title>FR: FRANCE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7101.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2</link> 
         </item> 
           <item> 
-            <title>FR:France Info</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1946.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France Info</link> 
+            <title>FR: FRANCE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7100.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 3</link> 
         </item> 
           <item> 
-            <title>FR:France O HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2051.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France O HD</link> 
+            <title>FR: FRANCE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7099.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 4</link> 
         </item> 
           <item> 
-            <title>FR:13eme RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1993.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13eme RUE</link> 
+            <title>FR: FRANCE 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7098.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 5</link> 
         </item> 
           <item> 
-            <title>FR:Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2025.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Action HD</link> 
+            <title>FR: ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ACTION</link> 
         </item> 
           <item> 
-            <title>FR:Animaux HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2019.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Animaux HD</link> 
+            <title>FR: ARTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7095.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE</link> 
         </item> 
           <item> 
-            <title>FR:BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2035.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BFM TV</link> 
+            <title>FR: BFM BUSINESS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM BUSINESS</link> 
         </item> 
           <item> 
-            <title>FR:BeIN Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeIN Sport 1 HD</link> 
+            <title>FR: BFM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7081.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
         </item> 
           <item> 
-            <title>FR:BeIN Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeIN Sport 2 HD</link> 
+            <title>FR: EQUIDIA LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIFE</link> 
         </item> 
           <item> 
-            <title>FR:BeIN Sport 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2010.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BeIN Sport 3 HD</link> 
+            <title>FR: EQUIDIA LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE</link> 
         </item> 
           <item> 
-            <title>FR:Boing HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1976.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Boing HD</link> 
+            <title>FR: EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EURONEWS</link> 
         </item> 
           <item> 
-            <title>FR:Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1985.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Boomerang</link> 
+            <title>FR: EUROSPORT 1 FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1 FR</link> 
         </item> 
           <item> 
-            <title>FR:C News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2032.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C News HD</link> 
+            <title>FR: HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
         </item> 
           <item> 
-            <title>FR:C Star HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2031.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C Star HD</link> 
+            <title>FR: INFOSPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INFOSPORT</link> 
         </item> 
           <item> 
-            <title>FR:C8 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2044.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C8 HD</link> 
+            <title>FR: ITELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ITELE</link> 
         </item> 
           <item> 
-            <title>FR:CANAL  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2038.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL  HD</link> 
+            <title>FR: LA CHAINE NORMANDIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LA CHAINE NORMANDIE</link> 
         </item> 
           <item> 
-            <title>FR:CCTV French</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2021.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CCTV French</link> 
+            <title>FR: NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
         </item> 
           <item> 
-            <title>FR:Canal J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1978.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal J</link> 
+            <title>FR: NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7092.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
         </item> 
           <item> 
-            <title>FR:Canal Plus Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2008.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal Plus Cinema</link> 
+            <title>FR: NUMERO 23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7087.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23</link> 
         </item> 
           <item> 
-            <title>FR:Canal Plus Decale</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2006.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal Plus Decale</link> 
+            <title>FR: PARIS PREMIERE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE</link> 
         </item> 
           <item> 
-            <title>FR:Canal Plus Family</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal Plus Family</link> 
+            <title>FR: SYFY FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SYFY FR</link> 
         </item> 
           <item> 
-            <title>FR:Canal Plus HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2005.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal Plus HD</link> 
+            <title>FR: BEIN SPORTS 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 1</link> 
         </item> 
           <item> 
-            <title>FR:Canal Plus Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2007.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal Plus Series</link> 
+            <title>FR: BEIN SPORTS 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 2</link> 
         </item> 
           <item> 
-            <title>FR:Canal Plus Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2009.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Canal Plus Sport</link> 
+            <title>FR: BEIN SPORTS 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 3</link> 
         </item> 
           <item> 
-            <title>FR:Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1983.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cartoon Network</link> 
+            <title>FR: BEINSPORT MAX 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 10</link> 
         </item> 
           <item> 
-            <title>FR:Cherie 25 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2028.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cherie 25 HD</link> 
+            <title>FR: BEINSPORT MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 4</link> 
         </item> 
           <item> 
-            <title>FR:Cine Fx</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Fx</link> 
+            <title>FR: BEINSPORT MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 5</link> 
         </item> 
           <item> 
-            <title>FR:Cine Plus Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2002.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Plus Classic</link> 
+            <title>FR: BEINSPORT MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 6</link> 
         </item> 
           <item> 
-            <title>FR:Cine Plus Club</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Plus Club</link> 
+            <title>FR: BEINSPORT MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 7</link> 
         </item> 
           <item> 
-            <title>FR:Cine Plus Emotion</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2003.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Plus Emotion</link> 
+            <title>FR: BEINSPORT MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 8</link> 
         </item> 
           <item> 
-            <title>FR:Cine Plus Frisson</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2000.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Plus Frisson</link> 
+            <title>FR: BEINSPORT MAX 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 9</link> 
         </item> 
           <item> 
-            <title>FR:Cine Plus Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Plus Premiere</link> 
+            <title>FR: SFR SPORTS 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 1</link> 
         </item> 
           <item> 
-            <title>FR:Cine Polar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Cine Polar</link> 
+            <title>FR: SFR SPORTS 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8980.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 2</link> 
         </item> 
           <item> 
-            <title>FR:Comedie Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1994.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Comedie Plus</link> 
+            <title>FR: SFR SPORTS 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8981.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 3</link> 
         </item> 
           <item> 
-            <title>FR:Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1973.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Discovery</link> 
-        </item> 
-          <item> 
-            <title>FR:Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1972.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Discovery Science</link> 
-        </item> 
-          <item> 
-            <title>FR:Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1982.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>FR:Disney Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1980.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney Cinema</link> 
-        </item> 
-          <item> 
-            <title>FR:Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>FR:Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1981.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Disney XD</link> 
-        </item> 
-          <item> 
-            <title>FR:Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Entertainment</link> 
-        </item> 
-          <item> 
-            <title>FR:Equidia Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1960.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Equidia Life</link> 
-        </item> 
-          <item> 
-            <title>FR:Equidia Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1961.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Equidia Live</link> 
-        </item> 
-          <item> 
-            <title>FR:Euro Sport 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1969.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Euro Sport 1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Euro Sport 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1968.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Euro Sport 2 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Extreme Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR:Extreme Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR:Extreme Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1965.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR:Game One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Game One</link> 
-        </item> 
-          <item> 
-            <title>FR:Golf Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2016.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Golf Channel</link> 
-        </item> 
-          <item> 
-            <title>FR:Golf Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1964.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Golf Plus</link> 
-        </item> 
-          <item> 
-            <title>FR:Gulli HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2015.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Gulli HD</link> 
-        </item> 
-          <item> 
-            <title>FR:HD1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2042.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:HD1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Historie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1970.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Historie</link> 
-        </item> 
-          <item> 
-            <title>FR:Info Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1963.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Info Sport</link> 
-        </item> 
-          <item> 
-            <title>FR:LCI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2033.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCI HD</link> 
-        </item> 
-          <item> 
-            <title>FR:LCP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2039.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:LCP HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Lequipe 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1962.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Lequipe 21</link> 
-        </item> 
-          <item> 
-            <title>FR:Lequipe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2027.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Lequipe HD</link> 
-        </item> 
-          <item> 
-            <title>FR:MCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MCM</link> 
-        </item> 
-          <item> 
-            <title>FR:MCM Top</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MCM Top</link> 
-        </item> 
-          <item> 
-            <title>FR:MTV France</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:MTV France</link> 
-        </item> 
-          <item> 
-            <title>FR:Mangas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2014.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Mangas</link> 
-        </item> 
-          <item> 
-            <title>FR:Mezzo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Mezzo</link> 
-        </item> 
-          <item> 
-            <title>FR:Mezzo Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Mezzo Live</link> 
-        </item> 
-          <item> 
-            <title>FR:NRJ 12 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2040.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NRJ 12 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:NT1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2045.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1975.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:National Geographic</link> 
-        </item> 
-          <item> 
-            <title>FR:National Geographic Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1974.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:National Geographic Wild</link> 
-        </item> 
-          <item> 
-            <title>FR:Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1984.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>FR:Nickelodeon Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1947.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Nickelodeon Junior</link> 
-        </item> 
-          <item> 
-            <title>FR:Numero 23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2030.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Numero 23 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Paramount Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2024.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Paramount Channel</link> 
-        </item> 
-          <item> 
-            <title>FR:Piwi Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Piwi Plus</link> 
-        </item> 
-          <item> 
-            <title>FR:Planete A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1990.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planete A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>FR:Planete CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1989.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planete CI</link> 
-        </item> 
-          <item> 
-            <title>FR:Planete Plus</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1991.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Planete Plus</link> 
-        </item> 
-          <item> 
-            <title>FR:RFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RFM TV</link> 
-        </item> 
-          <item> 
-            <title>FR:RMC Decouverte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2026.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RMC Decouverte HD</link> 
-        </item> 
-          <item> 
-            <title>FR:RTL9 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2034.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9 HD</link> 
-        </item> 
-          <item> 
-            <title>FR:RTS Deux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1987.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTS Deux</link> 
-        </item> 
-          <item> 
-            <title>FR:RTS UN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1988.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTS UN</link> 
-        </item> 
-          <item> 
-            <title>FR:SFR Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1967.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR Sport 1</link> 
-        </item> 
-          <item> 
-            <title>FR:SFR Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1966.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR Sport 2</link> 
-        </item> 
-          <item> 
-            <title>FR:Science et Vie HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Science et Vie HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Season</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Season</link> 
-        </item> 
-          <item> 
-            <title>FR:Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Syfy</link> 
-        </item> 
-          <item> 
-            <title>FR:TCM Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TCM Cinema</link> 
-        </item> 
-          <item> 
-            <title>FR:TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2036.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TMC HD</link> 
-        </item> 
-          <item> 
-            <title>FR:TV Breizh</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV Breizh</link> 
-        </item> 
-          <item> 
-            <title>FR:TV5 Monde Europa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2023.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5 Monde Europa</link> 
-        </item> 
-          <item> 
-            <title>FR:TV5 Monde Maghreb Orient HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2022.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TV5 Monde Maghreb Orient HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Teletoon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1977.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Teletoon</link> 
-        </item> 
-          <item> 
-            <title>FR:Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1948.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Tiji</link> 
-        </item> 
-          <item> 
-            <title>FR:Trace Urban</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Trace Urban</link> 
-        </item> 
-          <item> 
-            <title>FR:Trek HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/2020.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Trek HD</link> 
-        </item> 
-          <item> 
-            <title>FR:Ushuaia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1971.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Ushuaia</link> 
-        </item> 
-          <item> 
-            <title>FR:Voyage</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Voyage</link> 
+            <title>FR: SFR SPORTS 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8982.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 5</link> 
         </item> 
   
