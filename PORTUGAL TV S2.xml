@@ -26,188 +26,301 @@
  
  
   
+ 
           <item> 
-            <title>PO:RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3836.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:RTP 1</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PO:RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3835.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:RTP 2</link> 
+            <title>PT: RTP 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD</link> 
         </item> 
           <item> 
-            <title>PO:RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3834.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:RTP 3</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>PO:RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3829.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:RTP Acores</link> 
+            <title>PT: RTP 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD</link> 
         </item> 
           <item> 
-            <title>PO:Rtp Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3792.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Rtp Africa</link> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
-            <title>PO:RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3832.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:RTP Madeira</link> 
+            <title>PT: RTP A?ORES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP A?ORES</link> 
         </item> 
           <item> 
-            <title>PO:SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:SIC</link> 
+            <title>PT: RTP AFRICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP AFRICA</link> 
         </item> 
           <item> 
-            <title>PO:SIC Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:SIC Kids</link> 
+            <title>PT: RTP MADEIRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MADEIRA</link> 
         </item> 
           <item> 
-            <title>PO:SIC Muler</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3787.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:SIC Muler</link> 
+            <title>PT: RTP MEM?RIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEM?RIA</link> 
         </item> 
           <item> 
-            <title>PO:SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:SIC Noticias</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>PO:SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:SIC Radical</link> 
+            <title>PT: SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PO:TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3813.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TVI</link> 
+            <title>PT: SIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC HD</link> 
         </item> 
           <item> 
-            <title>PO:TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TVI 24</link> 
+            <title>PT: SIC KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS</link> 
         </item> 
           <item> 
-            <title>PO:TVI Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3812.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TVI Ficcao</link> 
+            <title>PT: SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PO:Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3831.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Globo Premium</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PO:TV Cine 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3827.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TV Cine 1</link> 
+            <title>PT: SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
         </item> 
           <item> 
-            <title>PO:TV Cine 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3826.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TV Cine 2</link> 
+            <title>PT: TVI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI HD</link> 
         </item> 
           <item> 
-            <title>PO:TV Cine 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3825.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TV Cine 3</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>PO:TV Cine 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3824.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TV Cine 4</link> 
+            <title>PT: TVI FIC??O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FIC??O</link> 
         </item> 
           <item> 
-            <title>PO:TV Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TV Record</link> 
+            <title>PT: TV GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO</link> 
         </item> 
           <item> 
-            <title>PO:TV Serie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3823.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TV Serie</link> 
+            <title>PT: TV GLOBO PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2489.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PREMIUM</link> 
         </item> 
           <item> 
-            <title>PO:A Bola TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3796.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:A Bola TV</link> 
+            <title>PT: TV RECORD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD HD</link> 
         </item> 
           <item> 
-            <title>PO:AMC Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3820.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:AMC Portugal</link> 
+            <title>PT: TVCINE 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1</link> 
         </item> 
           <item> 
-            <title>PO:ARTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3822.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:ARTV</link> 
+            <title>PT: TVCINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2479.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 1 HD</link> 
         </item> 
           <item> 
-            <title>PO:Baby First</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3797.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Baby First</link> 
+            <title>PT: TVCINE 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2</link> 
         </item> 
           <item> 
-            <title>PO:Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3795.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Biggs</link> 
+            <title>PT: TVCINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2478.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 2 HD</link> 
         </item> 
           <item> 
-            <title>PO:Canal Cine Mundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3830.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Canal Cine Mundo</link> 
+            <title>PT: TVCINE 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2482.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3</link> 
         </item> 
           <item> 
-            <title>PO:Canal Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3828.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Canal Hollywood</link> 
+            <title>PT: TVCINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2477.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 3 HD</link> 
         </item> 
           <item> 
-            <title>PO:Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3802.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Canal Panda</link> 
+            <title>PT: TVCINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2481.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4</link> 
         </item> 
           <item> 
-            <title>PO:Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Canal Q</link> 
+            <title>PT: TVCINE 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2476.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVCINE 4 HD</link> 
         </item> 
           <item> 
-            <title>PO:Cancao Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Cancao Nova</link> 
+            <title>PT: TVS?RIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2475.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVS?RIES HD</link> 
         </item> 
           <item> 
-            <title>PO:Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3799.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Cartoon Network</link> 
+            <title>PT: TV S?RIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2480.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV S?RIES</link> 
         </item> 
           <item> 
-            <title>PO:Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Discovery Channel</link> 
+            <title>PT: A BOLA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV</link> 
         </item> 
           <item> 
-            <title>PO:Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3800.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Disney Channel</link> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2460.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
         </item> 
           <item> 
-            <title>PO:Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3794.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Disney Junior</link> 
+            <title>PT: ARTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ARTV</link> 
         </item> 
           <item> 
-            <title>PO:E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:E! Entertainment</link> 
+            <title>PT: AXN BLACK HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK HD PT</link> 
         </item> 
           <item> 
-            <title>PO:Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3833.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Eurosport 1</link> 
+            <title>PT: AXN HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD PT</link> 
         </item> 
           <item> 
-            <title>PO:Motors TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3819.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Motors TV</link> 
+            <title>PT: AXN WHITE HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2472.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN WHITE HD PT</link> 
         </item> 
           <item> 
-            <title>PO:MTV Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3818.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:MTV Portugal</link> 
+            <title>PT: BABY TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: BABY TV PT</link> 
         </item> 
           <item> 
-            <title>PO:Nick Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3798.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Nick Jr</link> 
+            <title>PT: C-MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2445.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: C-MUSIC</link> 
         </item> 
           <item> 
-            <title>PO:Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3801.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Nickelodeon</link> 
+            <title>PT: CANAL CINEMUNDO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL CINEMUNDO</link> 
         </item> 
           <item> 
-            <title>PO:Odesseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Odesseia</link> 
+            <title>PT: CANAL DE HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL DE HISTORIA</link> 
         </item> 
           <item> 
-            <title>PO:PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3793.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:PFC</link> 
+            <title>PT: CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
         </item> 
           <item> 
-            <title>PO:Record News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Record News</link> 
+            <title>PT: CMTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV HD</link> 
         </item> 
           <item> 
-            <title>PO:Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3821.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:Syfy</link> 
+            <title>PT: DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2451.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
         </item> 
           <item> 
-            <title>PO:TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://emeeme.info:2086/live/active/active/3786.ts&amp;streamtype=TSDOWNLOADER&amp;name=PO:TLC</link> 
+            <title>PT: DISNEY CHANNEL PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY CHANNEL PT</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR PT</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2440.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT 1</link> 
+        </item> 
+          <item> 
+            <title>PT: EUROSPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2439.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EUROSPORT HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FIGHT NETWORK HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FIGHT NETWORK HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX COMEDY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX COMEDY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2470.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX COMEDY HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX CRIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2469.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX CRIME HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2468.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2467.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE HD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2466.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2465.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES HD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX NEWS</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2449.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2448.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV HD</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD HD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: JIMJAM EMEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIMJAM EMEA</link> 
+        </item> 
+          <item> 
+            <title>PT: KOMBAT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2428.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: KOMBAT SPORT</link> 
+        </item> 
+          <item> 
+            <title>PT: MOTORS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2437.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORS TV</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2446.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>PT: NATIONAL GEOGRAPHIC HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2450.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NATIONAL GEOGRAPHIC HD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: NICKELODEON PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON PT</link> 
+        </item> 
+          <item> 
+            <title>PT: ODISSEIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: ODISSEIA</link> 
+        </item> 
+          <item> 
+            <title>PT: RECORD NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2427.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RECORD NEWS</link> 
+        </item> 
+          <item> 
+            <title>PT: RECORD NEWS D</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RECORD NEWS D</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD PT</link> 
+        </item> 
+          <item> 
+            <title>PT: SYFY PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>PT: TRACE URBAN PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/2447.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TRACE URBAN PT</link> 
         </item> 
   
