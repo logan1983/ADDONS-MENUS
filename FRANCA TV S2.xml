@@ -28,185 +28,272 @@
  
  
  
-  
           <item> 
-            <title>FR: TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7102.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
+            <title>FR: TF1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/735.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: Teva HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/748.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Teva HD</link> 
+        </item> 
+          <item> 
+            <title>FR: M6  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/739.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6  HD</link> 
         </item> 
           <item> 
             <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7096.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
         </item> 
           <item> 
-            <title>FR: TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7057.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TEVA</link> 
+            <title>FR: France Ô</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/745.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France Ô</link> 
         </item> 
           <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7093.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
+            <title>FR: France 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/740.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 HD</link> 
         </item> 
           <item> 
-            <title>FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7091.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
+            <title>FR: France 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: France 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/742.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: France 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1165.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 24</link> 
+        </item> 
+          <item> 
+            <title>FR: France 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/744.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: Wéo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2371.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Wéo</link> 
+        </item> 
+          <item> 
+            <title>FR: W9 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2655.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9 HD</link> 
+        </item> 
+          <item> 
+            <title>FR: Voyage</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2130.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Voyage</link> 
+        </item> 
+          <item> 
+            <title>FR: VIRGIN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1545.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: VIRGIN</link> 
+        </item> 
+          <item> 
+            <title>FR: Ushuaia TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/737.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia TV</link> 
+        </item> 
+          <item> 
+            <title>FR: TV5 MONDE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5 MONDE</link> 
+        </item> 
+          <item> 
+            <title>FR: TV BREIZH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV BREIZH</link> 
+        </item> 
+          <item> 
+            <title>FR: TOUTE l'HISTOIRE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2200.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TOUTE l'HISTOIRE</link> 
+        </item> 
+          <item> 
+            <title>FR: TMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC HD</link> 
+        </item> 
+          <item> 
+            <title>FR: Tiji HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2746.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji HD</link> 
+        </item> 
+          <item> 
+            <title>FR: TCM cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TCM cinema</link> 
+        </item> 
+          <item> 
+            <title>FR: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/834.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SyFy</link> 
+        </item> 
+          <item> 
+            <title>FR: Serie Club HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1134.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Serie Club HD</link> 
+        </item> 
+          <item> 
+            <title>FR: Sciences &amp; Vie TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1429.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Sciences &amp; Vie TV</link> 
         </item> 
           <item> 
             <title>FR: RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7063.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL9</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL9</link> 
         </item> 
           <item> 
-            <title>FR: 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7088.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
+            <title>FR: RMC Decouverte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2388.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC Decouverte</link> 
         </item> 
           <item> 
-            <title>FR: AB MOTEURS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7038.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB MOTEURS</link> 
+            <title>FR: Paris Premiere HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1624.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Premiere HD</link> 
         </item> 
           <item> 
-            <title>FR: AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7059.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
+            <title>FR: Paramount Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/721.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paramount Channel HD</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 0</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7097.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 0</link> 
+            <title>FR: OLTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OLTV</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7101.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2</link> 
+            <title>FR: OCS Max HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Max HD</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7100.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 3</link> 
+            <title>FR: OCS Geants HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: OCS Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Geants HD</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7099.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 4</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7098.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 5</link> 
+            <title>FR: OCS City HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/734.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City HD</link> 
         </item> 
           <item> 
-            <title>FR: ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7060.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ACTION</link> 
+            <title>FR: OCS Choc HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2373.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Choc HD</link> 
         </item> 
           <item> 
-            <title>FR: ARTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7095.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ARTE</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM BUSINESS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7082.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM BUSINESS</link> 
-        </item> 
-          <item> 
-            <title>FR: BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7081.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
-        </item> 
-          <item> 
-            <title>FR: EQUIDIA LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7042.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIFE</link> 
-        </item> 
-          <item> 
-            <title>FR: EQUIDIA LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7041.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE</link> 
-        </item> 
-          <item> 
-            <title>FR: EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7079.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EURONEWS</link> 
-        </item> 
-          <item> 
-            <title>FR: EUROSPORT 1 FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7044.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1 FR</link> 
-        </item> 
-          <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7089.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
-        </item> 
-          <item> 
-            <title>FR: INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7043.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: INFOSPORT</link> 
-        </item> 
-          <item> 
-            <title>FR: ITELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7080.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ITELE</link> 
-        </item> 
-          <item> 
-            <title>FR: LA CHAINE NORMANDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7085.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LA CHAINE NORMANDIE</link> 
-        </item> 
-          <item> 
-            <title>FR: NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7090.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
+            <title>FR: Numero 23 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2741.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Numero 23 HD</link> 
         </item> 
           <item> 
             <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7092.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1571.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
         </item> 
           <item> 
-            <title>FR: NUMERO 23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7087.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23</link> 
+            <title>FR: NRJ 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/966.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12</link> 
         </item> 
           <item> 
-            <title>FR: PARIS PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7058.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: PARIS PREMIERE</link> 
+            <title>FR: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NATIONAL GEOGRAPHIC HD</link> 
         </item> 
           <item> 
-            <title>FR: SYFY FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7061.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SYFY FR</link> 
+            <title>FR: NAT Geo WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT Geo WILD HD</link> 
         </item> 
           <item> 
-            <title>FR: BEIN SPORTS 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7055.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 1</link> 
+            <title>FR: MANGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: MANGA</link> 
         </item> 
           <item> 
-            <title>FR: BEIN SPORTS 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7054.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 2</link> 
+            <title>FR: DISCOVERY INVESTIGATION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/738.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: DISCOVERY INVESTIGATION HD</link> 
         </item> 
           <item> 
-            <title>FR: BEIN SPORTS 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7053.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEIN SPORTS 3</link> 
+            <title>FR: M6 Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1063.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 Music</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7046.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 10</link> 
+            <title>FR: TREK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1623.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TREK</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7052.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 4</link> 
+            <title>FR: L'EQUIPE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1995.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'EQUIPE</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7051.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 5</link> 
+            <title>FR: KOMBAT SPORT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1893.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: KOMBAT SPORT HD</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7050.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 6</link> 
+            <title>FR: C NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: C NEWS</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7049.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 7</link> 
+            <title>FR: Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1064.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Histoire</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7048.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 8</link> 
+            <title>FR: HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
         </item> 
           <item> 
-            <title>FR: BEINSPORT MAX 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/7047.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT MAX 9</link> 
+            <title>FR: GULLI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/837.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GULLI</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORTS 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8979.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 1</link> 
+            <title>FR: GONG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GONG</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORTS 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8980.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 2</link> 
+            <title>FR: EUROSPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2 HD</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORTS 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8981.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 3</link> 
+            <title>FR: EUROSPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/836.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1 HD</link> 
         </item> 
           <item> 
-            <title>FR: SFR SPORTS 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://54.36.51.53:8000/live/ampadu/ampadu/8982.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORTS 5</link> 
+            <title>FR: EURONEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/965.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EURONEWS</link> 
+        </item> 
+          <item> 
+            <title>FR: EQUIDIA LIVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/835.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EQUIDIA LIVE HD</link> 
+        </item> 
+          <item> 
+            <title>FR: IL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: IL TV</link> 
+        </item> 
+          <item> 
+            <title>FR: E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/2423.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>FR: Disney Jr.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1634.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Jr.</link> 
+        </item> 
+          <item> 
+            <title>FR: Disney Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Cinema</link> 
+        </item> 
+          <item> 
+            <title>FR: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1121.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>FR: Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1122.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science HD</link> 
+        </item> 
+          <item> 
+            <title>FR: BOOMERANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BOOMERANG</link> 
+        </item> 
+          <item> 
+            <title>FR: Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/986.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boing</link> 
+        </item> 
+          <item> 
+            <title>FR: BFM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
+        </item> 
+          <item> 
+            <title>FR: Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/885.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
+        </item> 
+          <item> 
+            <title>FR: Animaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1143.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux</link> 
+        </item> 
+          <item> 
+            <title>FR: Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action</link> 
+        </item> 
+          <item> 
+            <title>FR: AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://globiptv.com:8000/live/workfine/skype/833.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
         </item> 
   
