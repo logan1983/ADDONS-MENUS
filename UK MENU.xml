@@ -16,145 +16,445 @@
  
  
   
-  
+   
           <item> 
-            <title>UK: ITV 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16527.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 1</link> 
+            <title>[UK] BBC Alba</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5850.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Alba</link> 
         </item> 
           <item> 
-            <title>UK: ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16526.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 2</link> 
+            <title>[UK] BBC Four HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5982.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Four HD</link> 
         </item> 
           <item> 
-            <title>UK: ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3</link> 
+            <title>[UK] BBC Four UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5846.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Four UK</link> 
         </item> 
           <item> 
-            <title>UK: ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16524.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 4</link> 
+            <title>[UK] BBC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5872.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC News</link> 
         </item> 
           <item> 
-            <title>UK: BBC 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 1</link> 
+            <title>[UK] BBC News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5984.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC News HD</link> 
         </item> 
           <item> 
-            <title>UK: BBC 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 2</link> 
+            <title>[UK] BBC One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5979.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One HD</link> 
         </item> 
           <item> 
-            <title>UK: BBC 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 3</link> 
+            <title>[UK] BBC One London</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5840.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One London</link> 
         </item> 
           <item> 
-            <title>UK: BBC 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC 4</link> 
+            <title>[UK] BBC One Northern Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5843.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One Northern Ireland</link> 
         </item> 
           <item> 
-            <title>UK: London Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/8223.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: London Live</link> 
+            <title>[UK] BBC One Scotland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5841.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One Scotland</link> 
         </item> 
           <item> 
-            <title>UK: BT SPORT 1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORT 1HD</link> 
+            <title>[UK] BBC One Wales</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5842.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC One Wales</link> 
         </item> 
           <item> 
-            <title>UK: BT SPORT 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16518.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BT SPORT 2HD</link> 
+            <title>[UK] BBC Parliament</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5849.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Parliament</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 1 HD</link> 
+            <title>[UK] BBC Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5980.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Two HD</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 2 HD</link> 
+            <title>[UK] BBC Two Scotland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5845.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Two Scotland</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16515.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 3 HD</link> 
+            <title>[UK] BBC Two UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5844.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC Two UK</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16514.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 4 HD</link> 
+            <title>[UK] BBC World News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5883.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] BBC World News</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16513.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS 5 HD</link> 
+            <title>[UK] ITV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5854.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV</link> 
         </item> 
           <item> 
-            <title>UK: SKY SPORTS F1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16512.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY SPORTS F1 HD</link> 
+            <title>[UK] ITV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5855.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV 2</link> 
         </item> 
           <item> 
-            <title>UK: BOXNATION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16509.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOXNATION</link> 
+            <title>[UK] ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5856.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV 3</link> 
         </item> 
           <item> 
-            <title>UK: EUROSPORTS 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16511.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EUROSPORTS 1 HD</link> 
+            <title>[UK] ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5857.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV 4</link> 
         </item> 
           <item> 
-            <title>UK: EUROSPORTS 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16510.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EUROSPORTS 2 HD</link> 
+            <title>[UK] ITV Be</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5858.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV Be</link> 
         </item> 
           <item> 
-            <title>UK: LIVERPOOL FC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIVERPOOL FC HD</link> 
+            <title>[UK] ITV Choice</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5860.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV Choice</link> 
         </item> 
           <item> 
-            <title>UK: Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/15481.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: Chelsea TV</link> 
+            <title>[UK] ITV Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5859.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV Encore</link> 
         </item> 
           <item> 
-            <title>UK: BOX OFFICE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX OFFICE 1 HD</link> 
+            <title>[UK] ITV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5853.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ITV HD</link> 
         </item> 
           <item> 
-            <title>UK: BOX OFFICE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX OFFICE 2 HD</link> 
+            <title>[UK] 3e</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5866.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] 3e</link> 
         </item> 
           <item> 
-            <title>UK: BOX OFFICE 3 D</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX OFFICE 3 D</link> 
+            <title>[UK] 5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5922.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] 5 USA</link> 
         </item> 
           <item> 
-            <title>UK: BOX OFFICE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BOX OFFICE 4 HD</link> 
+            <title>[UK] ABC News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5886.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ABC News</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES ACTION</link> 
+            <title>[UK] Al Jazeera News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5880.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Al Jazeera News HD</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES COMEDY</link> 
+            <title>[UK] Alibi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5914.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Alibi</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES DISNEY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES DISNEY</link> 
+            <title>[UK] Animal Planet HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5936.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Animal Planet HD</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES DRAMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES DRAMA</link> 
+            <title>[UK] At The Races</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5832.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] At The Races</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16499.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES FAMILY</link> 
+            <title>[UK] Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5950.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Baby TV</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES MODERN GREATS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES MODERN GREATS</link> 
+            <title>[UK] Bloomberg</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5876.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Bloomberg</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES PREMIERE</link> 
+            <title>[UK] Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5952.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Boomerang</link> 
         </item> 
           <item> 
-            <title>UK: MOVIES SCI-FY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/16498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MOVIES SCI-FY</link> 
+            <title>[UK] Box Nation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5835.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Box Nation</link> 
         </item> 
           <item> 
-            <title>UK: MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://portal2.digiportal.xyz:8080/live/dino/dino/8194.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MUTV</link> 
+            <title>[UK] British Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5828.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] British Eurosport</link> 
+        </item> 
+          <item> 
+            <title>[UK] British Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5829.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] British Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>[UK] Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5956.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>[UK] Cartoonito</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5957.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Cartoonito</link> 
+        </item> 
+          <item> 
+            <title>[UK] CBBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5848.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBBC</link> 
+        </item> 
+          <item> 
+            <title>[UK] CBBC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5981.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBBC HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] CBeebies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5847.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBeebies</link> 
+        </item> 
+          <item> 
+            <title>[UK] CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5932.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS Action</link> 
+        </item> 
+          <item> 
+            <title>[UK] CBS Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5931.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS Drama</link> 
+        </item> 
+          <item> 
+            <title>[UK] CBS Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5930.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CBS Reality</link> 
+        </item> 
+          <item> 
+            <title>[UK] CCTV News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5885.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CCTV News</link> 
+        </item> 
+          <item> 
+            <title>[UK] Challenge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5923.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Challenge</link> 
+        </item> 
+          <item> 
+            <title>[UK] Channel 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5868.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 4</link> 
+        </item> 
+          <item> 
+            <title>[UK] Channel 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6007.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 4 HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] Channel 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5867.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 5</link> 
+        </item> 
+          <item> 
+            <title>[UK] Channel 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5983.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Channel 5 HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] CITV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5861.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CITV</link> 
+        </item> 
+          <item> 
+            <title>[UK] CNBC Europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5884.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CNBC Europe</link> 
+        </item> 
+          <item> 
+            <title>[UK] CNN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/6008.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] CNN HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5926.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Comedy Central HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] Comedy Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5925.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Comedy Extra</link> 
+        </item> 
+          <item> 
+            <title>[UK] Crime Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5948.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Crime Investigation</link> 
+        </item> 
+          <item> 
+            <title>[UK] Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5910.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Dave</link> 
+        </item> 
+          <item> 
+            <title>[UK] Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5938.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery</link> 
+        </item> 
+          <item> 
+            <title>[UK] Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5940.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery History</link> 
+        </item> 
+          <item> 
+            <title>[UK] Discovery Home&amp;Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5941.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Home&amp;Health</link> 
+        </item> 
+          <item> 
+            <title>[UK] Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5939.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>[UK] Discovery Shed</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5943.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Shed</link> 
+        </item> 
+          <item> 
+            <title>[UK] Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5942.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>[UK] Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5955.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>[UK] Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5953.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Disney XD</link> 
+        </item> 
+          <item> 
+            <title>[UK] DisneyJunior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5954.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] DisneyJunior</link> 
+        </item> 
+          <item> 
+            <title>[UK] DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5937.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] DMAX</link> 
+        </item> 
+          <item> 
+            <title>[UK] Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5916.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Drama</link> 
+        </item> 
+          <item> 
+            <title>[UK] E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5913.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] E! Entertainment</link> 
+        </item> 
+          <item> 
+            <title>[UK] E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5870.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] E4</link> 
+        </item> 
+          <item> 
+            <title>[UK] Euronews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5882.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Euronews</link> 
+        </item> 
+          <item> 
+            <title>[UK] Film 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5869.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Film 4</link> 
+        </item> 
+          <item> 
+            <title>[UK] Fine Living Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5924.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Fine Living Network</link> 
+        </item> 
+          <item> 
+            <title>[UK] Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5928.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Food Network</link> 
+        </item> 
+          <item> 
+            <title>[UK] FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5919.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] FOX HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] Fox News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5875.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Fox News</link> 
+        </item> 
+          <item> 
+            <title>[UK] France 24 English</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5881.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] France 24 English</link> 
+        </item> 
+          <item> 
+            <title>[UK] Gold</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5918.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Gold</link> 
+        </item> 
+          <item> 
+            <title>[UK] H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5935.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] H2</link> 
+        </item> 
+          <item> 
+            <title>[UK] Heart TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5962.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Heart TV</link> 
+        </item> 
+          <item> 
+            <title>[UK] History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5934.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] History</link> 
+        </item> 
+          <item> 
+            <title>[UK] Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5917.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Home</link> 
+        </item> 
+          <item> 
+            <title>[UK] Horror Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5901.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Horror Channel</link> 
+        </item> 
+          <item> 
+            <title>[UK] ID</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5947.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] ID</link> 
+        </item> 
+          <item> 
+            <title>[UK] LFC TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5836.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] LFC TV HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] London Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5933.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] London Live</link> 
+        </item> 
+          <item> 
+            <title>[UK] More 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5871.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] More 4</link> 
+        </item> 
+          <item> 
+            <title>[UK] Motors</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5834.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Motors</link> 
+        </item> 
+          <item> 
+            <title>[UK] mov4men</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5929.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] mov4men</link> 
+        </item> 
+          <item> 
+            <title>[UK] MUTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5837.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MUTV</link> 
+        </item> 
+          <item> 
+            <title>[UK] MUTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5978.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] MUTV HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] Nat Geo Wild HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5945.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nat Geo Wild HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] National Geographic HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5944.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] National Geographic HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] NHK News HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5879.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] NHK News HD</link> 
+        </item> 
+          <item> 
+            <title>[UK] Nick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5958.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick</link> 
+        </item> 
+          <item> 
+            <title>[UK] Nick Jr Too</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5960.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick Jr Too</link> 
+        </item> 
+          <item> 
+            <title>[UK] Nick Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5959.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Nick Junior</link> 
+        </item> 
+          <item> 
+            <title>[UK] NickToons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5961.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] NickToons</link> 
+        </item> 
+          <item> 
+            <title>[UK] Pick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5921.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Pick</link> 
+        </item> 
+          <item> 
+            <title>[UK] Yesterday  1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5912.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Yesterday  1</link> 
+        </item> 
+          <item> 
+            <title>[UK] Quest</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5911.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Quest</link> 
+        </item> 
+          <item> 
+            <title>[UK] QVC Beauty</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5966.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC Beauty</link> 
+        </item> 
+          <item> 
+            <title>[UK] QVC Christmas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5965.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC Christmas</link> 
+        </item> 
+          <item> 
+            <title>[UK] QVC Style</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5967.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC Style</link> 
+        </item> 
+          <item> 
+            <title>[UK] QVC U.K.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5964.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] QVC U.K.</link> 
+        </item> 
+          <item> 
+            <title>[UK] Racing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5833.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Racing</link> 
+        </item> 
+          <item> 
+            <title>[UK] Real Lives</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5927.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] Real Lives</link> 
+        </item> 
+          <item> 
+            <title>[UK] RTE News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5878.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE News</link> 
+        </item> 
+          <item> 
+            <title>[UK] RTE One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5851.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE One</link> 
+        </item> 
+          <item> 
+            <title>[UK] RTE Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://skynet-iptv.dyndns.tv:8000/live/polly780/papamio/5852.ts&amp;streamtype=TSDOWNLOADER&amp;name=[UK] RTE Two</link> 
         </item> 
   
