@@ -27,573 +27,349 @@
  
  
   
-  
+ 
           <item> 
-            <title>PT RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7496.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 1</link> 
+            <title>RTP 1 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3208.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 1 PT</link> 
         </item> 
           <item> 
-            <title>PT RTP 1 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7459.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 1 FHD</link> 
+            <title>RTP 2 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3209.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 2 PT</link> 
         </item> 
           <item> 
-            <title>PT RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7495.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 2</link> 
+            <title>RTP 3 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3213.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP 3 PT</link> 
         </item> 
           <item> 
-            <title>PT RTP 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7458.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 2 FHD</link> 
+            <title>RTP Memória PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3212.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Memória PT</link> 
         </item> 
           <item> 
-            <title>PT RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7494.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP 3</link> 
+            <title>RTP África PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5539.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP África PT</link> 
         </item> 
           <item> 
-            <title>PT SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7484.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Noticias</link> 
+            <title>RTP Madeira PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3211.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Madeira PT</link> 
         </item> 
           <item> 
-            <title>PT TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7463.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI 24</link> 
+            <title>RTP Açores PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3210.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTP Açores PT</link> 
         </item> 
           <item> 
-            <title>PT TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI</link> 
+            <title>SIC PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3227.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC PT</link> 
         </item> 
           <item> 
-            <title>PT TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7455.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI HD</link> 
+            <title>SIC Mulher PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9467.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Mulher PT</link> 
         </item> 
           <item> 
-            <title>PT TVI FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7464.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI FHD</link> 
+            <title>SIC Caras PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9466.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Caras PT</link> 
         </item> 
           <item> 
-            <title>PT CM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7524.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CM TV</link> 
+            <title>SIC Radical PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9468.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Radical PT</link> 
         </item> 
           <item> 
-            <title>PT Globo TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8794.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Globo TV</link> 
+            <title>SIC Notícias PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3229.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC Notícias PT</link> 
         </item> 
           <item> 
-            <title>PT SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7485.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Mulher</link> 
+            <title>SIC K PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3228.ts&amp;streamtype=TSDOWNLOADER&amp;name=SIC K PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7462.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality</link> 
+            <title>TVI HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5537.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI HD PT</link> 
+        </item> 
+        <item> 
+            <title>TVI PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3214.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI PT</link> 
+        </item> 
+		<item> 
+            <title>TVI 24 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5536.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI 24 PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Reality Camara Exclusiva 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality Camara Exclusiva 1</link> 
+            <title>TVI Ficção PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5542.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Ficção PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Reality Camara Exclusiva 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality Camara Exclusiva 2</link> 
+            <title>TVI Reality PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9464.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVI Reality PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Reality Camara Exclusiva 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality Camara Exclusiva 3</link> 
+            <title>TV Globo PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9471.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Globo PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Reality Camara Exclusiva 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality Camara Exclusiva 4</link> 
+            <title>TV Globo Premium PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3217.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Globo Premium PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Reality Mosaico</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12534.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Reality Mosaico</link> 
+            <title>Record Europa PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3249.ts&amp;streamtype=TSDOWNLOADER&amp;name=Record Europa PT</link> 
         </item> 
           <item> 
-            <title>PT TVI Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7461.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVI Ficcao</link> 
+            <title>TVCine 1 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/15796.ts&amp;streamtype=TSDOWNLOADER&amp;name=TVCine 1 PT</link> 
         </item> 
           <item> 
-            <title>PT Rede TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8797.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Rede TV</link> 
+            <title>TV Cine 1 HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5545.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 1 HD PT</link> 
         </item> 
           <item> 
-            <title>PT Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7498.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Record</link> 
+            <title>TV Cine 2 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/15797.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 2 PT</link> 
         </item> 
           <item> 
-            <title>PT Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Globo Premium</link> 
+            <title>TV Cine 2 HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5546.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 2 HD PT</link> 
+        </item> 
+          <item> 
+            <title>TV Cine 3 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/15798.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 3 PT</link> 
+        </item> 
+          <item> 
+            <title>TV Cine 3 HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5547.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 3 HD PT</link> 
+        </item> 
+          <item> 
+            <title>TV Cine 4 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/15799.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 4 PT</link> 
+        </item> 
+          <item> 
+            <title>TV Cine 4 HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5548.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Cine 4 HD PT</link> 
+        </item> 
+          <item> 
+            <title>TV Séries HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3304.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Séries HD PT</link> 
+        </item> 
+          <item> 
+            <title>Canal Q PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9465.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Q PT</link> 
+        </item> 
+          <item> 
+            <title>AMC HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9487.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD PT</link> 
+        </item> 
+          <item> 
+            <title>AXN HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3255.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN HD PT</link> 
+        </item> 
+          <item> 
+            <title>AXN Black HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5551.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN Black HD PT</link> 
+        </item> 
+          <item> 
+            <title>AXN White HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3242.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN White HD PT</link> 
+        </item> 
+          <item> 
+            <title>FOX HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3232.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD PT</link> 
+        </item> 
+          <item> 
+            <title>FOX Crime HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5549.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Crime HD PT</link> 
+        </item> 
+          <item> 
+            <title>FOX Life HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3233.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Life HD PT</link> 
+        </item> 
+          <item> 
+            <title>Syfy PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3226.ts&amp;streamtype=TSDOWNLOADER&amp;name=Syfy PT</link> 
+        </item> 
+          <item> 
+            <title>FOX Comedy PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9489.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Comedy PT</link> 
+        </item> 
+          <item> 
+            <title>Canal Hollywood HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3307.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Hollywood HD PT</link> 
+        </item> 
+          <item> 
+            <title>FOX Movies FHD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5550.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX Movies FHD PT</link> 
+        </item> 
+          <item> 
+            <title>Cine Mundo PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5544.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cine Mundo PT</link> 
+        </item> 
+          <item> 
+            <title>E! PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3257.ts&amp;streamtype=TSDOWNLOADER&amp;name=E! PT</link> 
+        </item> 
+          <item> 
+            <title>BBC Entertainment PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9488.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Entertainment PT</link> 
+        </item> 
+          <item> 
+            <title>CBS Reality PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3215.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality PT</link> 
+        </item> 
+          <item> 
+            <title>Caça e Pesca PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5543.ts&amp;streamtype=TSDOWNLOADER&amp;name=Caça e Pesca PT</link> 
+        </item> 
+          <item> 
+            <title>National Geographic HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3306.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic HD PT</link> 
+        </item> 
+          <item> 
+            <title>National Geographic Wild PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5556.ts&amp;streamtype=TSDOWNLOADER&amp;name=National Geographic Wild PT</link> 
+        </item> 
+          <item> 
+            <title>Discovery Channel PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3247.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Channel PT</link> 
+        </item> 
+          <item> 
+            <title>Discovery Showcase HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3253.ts&amp;streamtype=TSDOWNLOADER&amp;name=Discovery Showcase HD PT</link> 
+        </item> 
+          <item> 
+            <title>TLC PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9496.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC PT</link> 
+        </item> 
+          <item> 
+            <title>Odisseia PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3230.ts&amp;streamtype=TSDOWNLOADER&amp;name=Odisseia PT</link> 
+        </item> 
+          <item> 
+            <title>MTV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9478.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV PT</link> 
+        </item> 
+          <item> 
+            <title>Travel Channel HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9497.ts&amp;streamtype=TSDOWNLOADER&amp;name=Travel Channel HD PT</link> 
+        </item> 
+          <item> 
+            <title>Nickelodeon PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3240.ts&amp;streamtype=TSDOWNLOADER&amp;name=Nickelodeon PT</link> 
+        </item> 
+          <item> 
+            <title>História HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3238.ts&amp;streamtype=TSDOWNLOADER&amp;name=História HD PT</link> 
+        </item> 
+          <item> 
+            <title>24 Kitchen HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3243.ts&amp;streamtype=TSDOWNLOADER&amp;name=24 Kitchen HD PT</link> 
+        </item> 
+          <item> 
+            <title>Fashion TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9495.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fashion TV PT</link> 
+        </item> 
+          <item> 
+            <title>MCS LifeStyle PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3220.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS LifeStyle PT</link> 
+        </item> 
+          <item> 
+            <title>Trace Urban PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3219.ts&amp;streamtype=TSDOWNLOADER&amp;name=Trace Urban PT</link> 
+        </item> 
+          <item> 
+            <title>BabyFirst TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/7855.ts&amp;streamtype=TSDOWNLOADER&amp;name=BabyFirst TV PT</link> 
+        </item> 
+          <item> 
+            <title>Baby TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9490.ts&amp;streamtype=TSDOWNLOADER&amp;name=Baby TV PT</link> 
+        </item> 
+          <item> 
+            <title>Disney Channel PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3310.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Channel PT</link> 
+        </item> 
+          <item> 
+            <title>Disney Junior PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3258.ts&amp;streamtype=TSDOWNLOADER&amp;name=Disney Junior PT</link> 
+        </item> 
+          <item> 
+            <title>JimJam PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9491.ts&amp;streamtype=TSDOWNLOADER&amp;name=JimJam PT</link> 
+        </item> 
+          <item> 
+            <title>Cartoon Network PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5554.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cartoon Network PT</link> 
+        </item> 
+          <item> 
+            <title>Panda Biggs PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5553.ts&amp;streamtype=TSDOWNLOADER&amp;name=Panda Biggs PT</link> 
+        </item> 
+          <item> 
+            <title>Canal Panda PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3239.ts&amp;streamtype=TSDOWNLOADER&amp;name=Canal Panda PT</link> 
+        </item> 
+          <item> 
+            <title>Porto Canal PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5538.ts&amp;streamtype=TSDOWNLOADER&amp;name=Porto Canal PT</link> 
+        </item> 
+          <item> 
+            <title>Afro Music Channel PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3250.ts&amp;streamtype=TSDOWNLOADER&amp;name=Afro Music Channel PT</link> 
+        </item> 
+          <item> 
+            <title>C Music TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3259.ts&amp;streamtype=TSDOWNLOADER&amp;name=C Music TV PT</link> 
+        </item> 
+          <item> 
+            <title>VH1 Classic PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9475.ts&amp;streamtype=TSDOWNLOADER&amp;name=VH1 Classic PT</link> 
+        </item> 
+          <item> 
+            <title>TV Canção Nova PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3237.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV Canção Nova PT</link> 
+        </item> 
+          <item> 
+            <title>CM TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3236.ts&amp;streamtype=TSDOWNLOADER&amp;name=CM TV PT</link> 
+        </item> 
+          <item> 
+            <title>FOX News PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9476.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX News PT</link> 
+        </item> 
+          <item> 
+            <title>Eurosport News PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9483.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport News PT</link> 
+        </item> 
+          <item> 
+            <title>Toros TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5555.ts&amp;streamtype=TSDOWNLOADER&amp;name=Toros TV PT</link> 
+        </item> 
+          <item> 
+            <title>A Bola TV PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/5540.ts&amp;streamtype=TSDOWNLOADER&amp;name=A Bola TV PT</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/7851.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 PT</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 1 HD PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3234.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 1 HD PT</link> 
+        </item> 
+          <item> 
+            <title>Eurosport 2 PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9482.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eurosport 2 PT</link> 
+        </item> 
+          <item> 
+            <title>Motorvision PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9485.ts&amp;streamtype=TSDOWNLOADER&amp;name=Motorvision PT</link> 
+        </item> 
+          <item> 
+            <title>PFC PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3248.ts&amp;streamtype=TSDOWNLOADER&amp;name=PFC PT</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8972.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/9470.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>PT TV Globo Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7471.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Globo Portugal</link> 
-        </item> 
-          <item> 
-            <title>PT TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7470.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Globo Premium</link> 
-        </item> 
-          <item> 
-            <title>PT TV Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8811.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Record</link> 
-        </item> 
-          <item> 
-            <title>PT Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Porto Canal</link> 
-        </item> 
-          <item> 
-            <title>PT SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7487.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Caras</link> 
-        </item> 
-          <item> 
-            <title>PT SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7483.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC Radical</link> 
-        </item> 
-          <item> 
-            <title>PT RTP Memoria</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7489.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Memoria</link> 
-        </item> 
-          <item> 
-            <title>PT SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7488.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC HD</link> 
-        </item> 
-          <item> 
-            <title>PT CMTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12536.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CMTV HD</link> 
-        </item> 
-          <item> 
-            <title>PT AXN Black</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7537.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN Black</link> 
-        </item> 
-          <item> 
-            <title>PT AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7539.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AMC</link> 
-        </item> 
-          <item> 
-            <title>PT Fox Crime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8810.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox Crime</link> 
-        </item> 
-          <item> 
-            <title>PT Fox Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox Comedy</link> 
-        </item> 
-          <item> 
-            <title>PT Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal Q</link> 
-        </item> 
-          <item> 
-            <title>PT TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7474.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TLC</link> 
-        </item> 
-          <item> 
-            <title>PT Fox Life FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox Life FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Fox FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7456.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Fox HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox HD</link> 
-        </item> 
-          <item> 
-            <title>PT Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7454.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Syfy HD</link> 
-        </item> 
-          <item> 
-            <title>PT Fox Movies FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox Movies FHD</link> 
-        </item> 
-          <item> 
-            <title>PT AXN White FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7536.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN White FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Sundance FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sundance FHD</link> 
-        </item> 
-          <item> 
-            <title>PT 24 Kitchen FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7542.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT 24 Kitchen FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Food Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Food Network HD</link> 
-        </item> 
-          <item> 
-            <title>PT Fine Living Network FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fine Living Network FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Dog TV FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12528.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Dog TV FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Motors TV FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Motors TV FHD</link> 
-        </item> 
-          <item> 
-            <title>PT NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8799.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT NBA TV</link> 
-        </item> 
-          <item> 
-            <title>PT Kombat Sports</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT Kombat Sports&amp;streamtype=TSDOWNLOADER&amp;name=PT Kombat Sports</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8793.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>PT Real Madrid Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7497.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Real Madrid Channel</link> 
-        </item> 
-          <item> 
-            <title>PT Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7523.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Discovery Channel</link> 
-        </item> 
-          <item> 
-            <title>PT Nat Geo Wild FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7504.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Nat Geo Wild FHD</link> 
-        </item> 
-          <item> 
-            <title>PT National Geographic FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT National Geographic FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Discovery Showcase FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7522.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Discovery Showcase FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Travel Channel FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7472.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Travel Channel FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Odisseia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Odisseia</link> 
-        </item> 
-          <item> 
-            <title>PT Canal Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7530.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal Historia</link> 
-        </item> 
-          <item> 
-            <title>PT Historia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8789.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Historia</link> 
-        </item> 
-          <item> 
-            <title>PT Crime Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12516.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Crime Investigation</link> 
-        </item> 
-          <item> 
-            <title>PT A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7540.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>PT Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7521.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Disney Channel</link> 
-        </item> 
-          <item> 
-            <title>PT Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7502.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Nickelodeon</link> 
-        </item> 
-          <item> 
-            <title>PT Canal Panda</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal Panda</link> 
-        </item> 
-          <item> 
-            <title>PT Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7533.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Biggs</link> 
-        </item> 
-          <item> 
-            <title>PT Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>PT Baby First</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Baby First</link> 
-        </item> 
-          <item> 
-            <title>PT Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8804.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Cartoon Network</link> 
-        </item> 
-          <item> 
-            <title>PT Sic Kids</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8801.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sic Kids</link> 
-        </item> 
-          <item> 
-            <title>PT Disney JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8803.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Disney JR</link> 
-        </item> 
-          <item> 
-            <title>PT Jim Jam</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Jim Jam</link> 
-        </item> 
-          <item> 
-            <title>PT A Bola TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7541.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT A Bola TV</link> 
-        </item> 
-          <item> 
-            <title>PT Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Baby TV</link> 
-        </item> 
-          <item> 
-            <title>PT Panda Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8805.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Panda Biggs</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8809.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 1</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13104.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 1 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13105.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 1 FHD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8808.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 2</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13102.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13103.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 2 FHD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8807.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 3</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13100.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 3 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13101.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 3 FHD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8806.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 4</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 4 HD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Cine 4 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/13099.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Cine 4 FHD</link> 
-        </item> 
-          <item> 
-            <title>PT TV Series FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7469.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TV Series FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Canal Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7510.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Canal Hollywood</link> 
-        </item> 
-          <item> 
-            <title>PT BBC Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12508.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BBC Entertainment</link> 
-        </item> 
-          <item> 
-            <title>PT Eurosport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport 1</link> 
-        </item> 
-          <item> 
-            <title>PT Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport 2</link> 
-        </item> 
-          <item> 
-            <title>PT Eurosport News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Eurosport News</link> 
-        </item> 
-          <item> 
-            <title>PT Fuel TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fuel TV</link> 
-        </item> 
-          <item> 
-            <title>PT Toros TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7473.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Toros TV</link> 
-        </item> 
-          <item> 
-            <title>PT Caca e Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8791.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Caca e Pesca</link> 
-        </item> 
-          <item> 
-            <title>PT Motorvision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7507.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Motorvision</link> 
-        </item> 
-          <item> 
-            <title>PT Outdoor Channel FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12518.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Outdoor Channel FHD</link> 
-        </item> 
-          <item> 
-            <title>PT Fight Network FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12519.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fight Network FHD</link> 
-        </item> 
-          <item> 
-            <title>PT PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7500.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT PFC</link> 
-        </item> 
-          <item> 
-            <title>PT MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MTV</link> 
-        </item> 
-          <item> 
-            <title>PT VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8785.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT VH1</link> 
-        </item> 
-          <item> 
-            <title>PT MCM Pop</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7509.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MCM Pop</link> 
-        </item> 
-          <item> 
-            <title>PT Afro Music Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12501.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Afro Music Channel</link> 
-        </item> 
-          <item> 
-            <title>PT Trace Urban</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12505.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Trace Urban</link> 
-        </item> 
-          <item> 
-            <title>PT Trace Urban HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12503.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Trace Urban HD</link> 
-        </item> 
-          <item> 
-            <title>PT RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7493.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Acores</link> 
-        </item> 
-          <item> 
-            <title>PT RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7492.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Africa</link> 
-        </item> 
-          <item> 
-            <title>PT RTP Internacional</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7491.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Internacional</link> 
-        </item> 
-          <item> 
-            <title>PT RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7490.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT RTP Madeira</link> 
-        </item> 
-          <item> 
-            <title>PT Localvisao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12529.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Localvisao</link> 
-        </item> 
-          <item> 
-            <title>PT Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8788.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Euronews</link> 
-        </item> 
-          <item> 
-            <title>PT BBC World News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT BBC World News</link> 
-        </item> 
-          <item> 
-            <title>PT Fox News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12513.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fox News</link> 
-        </item> 
-          <item> 
-            <title>PT CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12515.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CNN</link> 
-        </item> 
-          <item> 
-            <title>PT Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12514.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Sky News</link> 
-        </item> 
-          <item> 
-            <title>PT Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12525.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>PT TVE 24H</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12512.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVE 24H</link> 
-        </item> 
-          <item> 
-            <title>PT Cine Mundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7525.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Cine Mundo</link> 
-        </item> 
-          <item> 
-            <title>PT Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7475.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Syfy</link> 
-        </item> 
-          <item> 
-            <title>PT SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7486.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT SIC K</link> 
-        </item> 
-          <item> 
-            <title>PT MOV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MOV</link> 
-        </item> 
-          <item> 
-            <title>PT MOV FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7453.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MOV FHD</link> 
-        </item> 
-          <item> 
-            <title>PT CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7526.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CBS Reality</link> 
-        </item> 
-          <item> 
-            <title>PT Cacavision</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7531.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Cacavision</link> 
-        </item> 
-          <item> 
-            <title>PT Cancao Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7527.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Cancao Nova</link> 
-        </item> 
-          <item> 
-            <title>PT Caza &amp; Pesca</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7532.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Caza &amp; Pesca</link> 
-        </item> 
-          <item> 
-            <title>PT E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8790.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT E! Entertainment</link> 
-        </item> 
-          <item> 
-            <title>PT LIfestyle TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8798.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT LIfestyle TV</link> 
-        </item> 
-          <item> 
-            <title>PT CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12535.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT CMTV</link> 
-        </item> 
-          <item> 
-            <title>PT Fashion TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12526.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT Fashion TV</link> 
-        </item> 
-          <item> 
-            <title>PT iConcerts HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,PT iConcerts&amp;streamtype=TSDOWNLOADER&amp;name=PT iConcerts HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12502.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>PT MCS LifeStyle</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12499.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MCS LifeStyle</link> 
-        </item> 
-          <item> 
-            <title>PT TVEi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12511.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT TVEi</link> 
-        </item> 
-          <item> 
-            <title>PT MCS Extreme</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/8800.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT MCS Extreme</link> 
-        </item> 
-          <item> 
-            <title>PT AXN White HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7452.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN White HD</link> 
-        </item> 
-          <item> 
-            <title>PT AXN FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/7538.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT AXN FHD</link> 
-        </item> 
-          <item> 
-            <title>PT VH1 Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://tvsatmedia.mooo.com:8080/live/max586/zxiVEeEu4w/12506.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT VH1 Classic</link> 
+            <title>MCS Extrême PT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportal.link:8080/live/neri/neri123/3231.ts&amp;streamtype=TSDOWNLOADER&amp;name=MCS Extrême PT</link> 
         </item> 
   
