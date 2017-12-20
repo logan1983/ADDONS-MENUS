@@ -29,236 +29,221 @@
   
  
  
+ 
           <item> 
-            <title>(PT) RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9111.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 1</link> 
+            <title>PT_RTP_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_1_HD</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 1 (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9103.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 1 (LBR)</link> 
+            <title>PT_RTP_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_2_HD</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 1 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9107.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 1 FHD</link> 
+            <title>PT_RTP3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP3</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9110.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 2</link> 
+            <title>PT_SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 2 (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9102.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 2 (LBR)</link> 
+            <title>PT_SIC_NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_NOTICIAS</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 2 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9106.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 2 FHD</link> 
+            <title>PT_SIC_MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9098.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 3</link> 
+            <title>PT_SIC_CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS</link> 
         </item> 
           <item> 
-            <title>(PT) RTP Memória</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9091.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Memória</link> 
+            <title>PT_TVI_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_HD</link> 
         </item> 
           <item> 
-            <title>(PT) RTP Açores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9079.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Açores</link> 
+            <title>PT_TVI_FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_FICCAO</link> 
         </item> 
           <item> 
-            <title>(PT) RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9078.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Africa</link> 
+            <title>PT_TVI_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24</link> 
         </item> 
           <item> 
-            <title>(PT) RTP Madeira</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9080.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP Madeira</link> 
+            <title>PT_TVI_REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_REALITY</link> 
         </item> 
           <item> 
-            <title>(PT) SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9109.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC</link> 
+            <title>PT_TV_GLOBO_PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUM</link> 
         </item> 
           <item> 
-            <title>(PT) SIC (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9101.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC (LBR)</link> 
+            <title>PT_TV_GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO</link> 
         </item> 
           <item> 
-            <title>(PT) SIC FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9105.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC FHD</link> 
+            <title>PT_TV_ CINE_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_1</link> 
         </item> 
           <item> 
-            <title>(PT) SIC Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9099.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Noticias</link> 
+            <title>PT_TV_ CINE_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_2</link> 
         </item> 
           <item> 
-            <title>(PT) SIC Radical</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9094.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Radical</link> 
+            <title>PT_TV_ CINE_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_3</link> 
         </item> 
           <item> 
-            <title>(PT) SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9084.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Caras</link> 
+            <title>PT_TV_ CINE_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_4</link> 
         </item> 
           <item> 
-            <title>(PT) SIC Mulher</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9093.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC Mulher</link> 
+            <title>PT_TV _SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV _SERIES</link> 
         </item> 
           <item> 
-            <title>(PT) TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9108.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI</link> 
+            <title>PT_Touros_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Touros_TV</link> 
         </item> 
           <item> 
-            <title>(PT) TVI (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9100.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI (LBR)</link> 
+            <title>PT_TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC</link> 
         </item> 
           <item> 
-            <title>(PT) TVI FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9104.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI FHD</link> 
+            <title>PT_SYFY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9097.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI 24</link> 
+            <title>PT_PORTO_CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PORTO_CANAL</link> 
         </item> 
           <item> 
-            <title>(PT) TVI Ficção</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9092.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI Ficção</link> 
+            <title>PT_PANDA_BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PANDA_BIGGS</link> 
         </item> 
           <item> 
-            <title>(PT) TVI Reality Mosaico</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9089.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI Reality Mosaico</link> 
+            <title>PT_Odisseia_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Globo Portugal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8965.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Globo Portugal</link> 
+            <title>PT_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Nickelodeon</link> 
         </item> 
           <item> 
-            <title>(PT) Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8964.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Globo Premium</link> 
+            <title>PT_NATIONAL_GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NATIONAL_GEOGRAPHIC</link> 
         </item> 
           <item> 
-            <title>(PT) TV Record</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8963.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TV Record</link> 
+            <title>PT_MOTORVISION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOTORVISION_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TV Record HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8962.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TV Record HD</link> 
+            <title>PT_Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Motors_TV</link> 
         </item> 
           <item> 
-            <title>(PT) CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9095.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CMTV</link> 
+            <title>PT_JIMJAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JIMJAM</link> 
         </item> 
           <item> 
-            <title>(PT) CMTV HD  (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9096.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CMTV HD  (PT)</link> 
+            <title>PT_HOLLYWOOD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HOLLYWOOD_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Localvisao HD (PT)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9083.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Localvisao HD (PT)</link> 
+            <title>PT_HISTORIA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HISTORIA_HD</link> 
         </item> 
           <item> 
-            <title>(PT) BBC World News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9075.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) BBC World News</link> 
+            <title>PT_FOX_MOVIES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_MOVIES_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9071.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Bloomberg</link> 
+            <title>PT_FOX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_HD</link> 
         </item> 
           <item> 
-            <title>(PT) CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8979.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CNN</link> 
+            <title>PT_FOX_COMEDY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_COMEDY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Sky News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9070.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Sky News</link> 
+            <title>PT_FOX-CRIME_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX-CRIME_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVE 24 Horas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8978.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVE 24 Horas</link> 
+            <title>PT_Fox _Life_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox _Life_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Porto Canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9077.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Porto Canal</link> 
+            <title>PT_EUROSPORT2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT2_HD</link> 
         </item> 
           <item> 
-            <title>(PT) BBC Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8969.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) BBC Entertainment</link> 
+            <title>PT_EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT1</link> 
         </item> 
           <item> 
-            <title>(PT) Canal Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9081.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Canal Q</link> 
+            <title>PT_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney_Channel</link> 
         </item> 
           <item> 
-            <title>(PT) CBS Reality</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9073.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CBS Reality</link> 
+            <title>PT_DISNEY-JUNIOR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY-JUNIOR_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9011.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 1 HD</link> 
+            <title>PT_Discovery_Showcase_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Discovery_Showcase_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 1 HD (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9010.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 1 HD (LBR)</link> 
+            <title>PT_DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9009.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 2 HD</link> 
+            <title>PT_CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CMTV</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 2 HD (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9008.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 2 HD (LBR)</link> 
+            <title>PT_CINEMUNDO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 3 FHD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9005.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 3 FHD</link> 
+            <title>PT_CBS_REALITY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CBS_REALITY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9007.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 3 HD</link> 
+            <title>PT_CAPELA_DE_FATIMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CAPELA_DE_FATIMA</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 3 HD (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9006.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 3 HD (LBR)</link> 
+            <title>PT_CANAL-PANDA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL-PANDA_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9004.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 4 HD</link> 
+            <title>PT_CACAE_PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CACAE_PESCA</link> 
         </item> 
           <item> 
-            <title>(PT) TVCine 4 HD (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9003.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCine 4 HD (LBR)</link> 
+            <title>PT_BABY_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BABY_TV</link> 
         </item> 
           <item> 
-            <title>(PT) TVSeries HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9002.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVSeries HD</link> 
+            <title>PT_AXN_WHITE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVSeries HD (LBR)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9001.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVSeries HD (LBR)</link> 
+            <title>PT_AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Hollywood</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/9000.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Hollywood</link> 
+            <title>PT_AXN_BLACK_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Hollywood HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8999.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Hollywood HD</link> 
+            <title>PT_AMC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC_HD</link> 
         </item> 
           <item> 
-            <title>(PT) Cinemundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8998.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) Cinemundo</link> 
-        </item> 
-          <item> 
-            <title>(PT) AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8981.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AMC</link> 
-        </item> 
-          <item> 
-            <title>(PT) AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8982.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AMC HD</link> 
-        </item> 
-          <item> 
-            <title>(PT) SyFy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8984.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SyFy</link> 
-        </item> 
-          <item> 
-            <title>(PT) SyFy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://worldiptv.us:25461/live/bano/MuVj1AdkN1/8983.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SyFy HD</link> 
+            <title>PT_A&amp;E_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/2018/2018/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_A&amp;E_HD</link> 
         </item> 
   
