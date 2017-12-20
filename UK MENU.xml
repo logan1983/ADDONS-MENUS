@@ -16,9 +16,288 @@
  
  
   
-   
- 
+
           <item> 
+            <title>BBC One HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11526.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD*</link> 
+        </item> 
+          <item> 
+            <title>BBC One SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One SD</link> 
+        </item> 
+          <item> 
+            <title>BBC Two HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11570.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD*</link> 
+        </item> 
+          <item> 
+            <title>BBC Two SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two SD</link> 
+        </item> 
+          <item> 
+            <title>BBC 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/15132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 3 HD</link> 
+        </item> 
+          <item> 
+            <title>BBC 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 4 HD</link> 
+        </item> 
+          <item> 
+            <title>ITV HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11377.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD*</link> 
+        </item> 
+          <item> 
+            <title>ITV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV SD</link> 
+        </item> 
+          <item> 
+            <title>ITV2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11569.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 HD</link> 
+        </item> 
+          <item> 
+            <title>ITV 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 2 SD</link> 
+        </item> 
+          <item> 
+            <title>ITV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV3 HD</link> 
+        </item> 
+          <item> 
+            <title>ITV4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 HD</link> 
+        </item> 
+          <item> 
+            <title>ITVBe HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITVBe HD</link> 
+        </item> 
+          <item> 
+            <title>ITV Encore HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12399.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore HD</link> 
+        </item> 
+          <item> 
+            <title>ITV Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore</link> 
+        </item> 
+          <item> 
+            <title>Channel 4 HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD*</link> 
+        </item> 
+          <item> 
+            <title>Channel 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 SD</link> 
+        </item> 
+          <item> 
+            <title>Channel 4+1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/20645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4+1</link> 
+        </item> 
+          <item> 
+            <title>E4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4 HD</link> 
+        </item> 
+          <item> 
+            <title>More4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4 HD</link> 
+        </item> 
+          <item> 
+            <title>4seven HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5564.ts&amp;streamtype=TSDOWNLOADER&amp;name=4seven HD</link> 
+        </item> 
+          <item> 
+            <title>Channel 5 HD*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 HD*</link> 
+        </item> 
+          <item> 
+            <title>Channel 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 SD</link> 
+        </item> 
+          <item> 
+            <title>5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA</link> 
+        </item> 
+          <item> 
+            <title>5 USA +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/44091.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA +1</link> 
+        </item> 
+          <item> 
+            <title>5 STAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5461.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 STAR</link> 
+        </item> 
+          <item> 
+            <title>5 Star +1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/44092.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 Star +1</link> 
+        </item> 
+          <item> 
+            <title>My5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/20652.ts&amp;streamtype=TSDOWNLOADER&amp;name=My5</link> 
+        </item> 
+          <item> 
+            <title>3e Ireland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/27237.ts&amp;streamtype=TSDOWNLOADER&amp;name=3e Ireland</link> 
+        </item> 
+          <item> 
+            <title>GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLD</link> 
+        </item> 
+          <item> 
+            <title>Pick</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
+        </item> 
+          <item> 
+            <title>Dave HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11000.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave HD</link> 
+        </item> 
+          <item> 
+            <title>Dave</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave</link> 
+        </item> 
+          <item> 
+            <title>CBS Drama HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama HD</link> 
+        </item> 
+          <item> 
+            <title>CBS Action HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action HD</link> 
+        </item> 
+          <item> 
+            <title>CBS Reality HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality HD</link> 
+        </item> 
+          <item> 
+            <title>UTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV HD</link> 
+        </item> 
+          <item> 
+            <title>Comedy Central HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11001.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD</link> 
+        </item> 
+          <item> 
+            <title>Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>Comedy Central Extra</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central Extra</link> 
+        </item> 
+          <item> 
+            <title>Challenge</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge</link> 
+        </item> 
+          <item> 
+            <title>Home &amp; Health+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/13338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home &amp; Health+</link> 
+        </item> 
+          <item> 
+            <title>Sky Arts HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>Alibi.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alibi.</link> 
+        </item> 
+          <item> 
+            <title>Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama</link> 
+        </item> 
+          <item> 
+            <title>YESTERDAY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5563.ts&amp;streamtype=TSDOWNLOADER&amp;name=YESTERDAY</link> 
+        </item> 
+          <item> 
+            <title>QUEST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST</link> 
+        </item> 
+          <item> 
+            <title>Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Network</link> 
+        </item> 
+          <item> 
+            <title>Viceland</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/29332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viceland</link> 
+        </item> 
+          <item> 
+            <title>Universal Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal Channel</link> 
+        </item> 
+          <item> 
+            <title>TLC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC HD</link> 
+        </item> 
+          <item> 
+            <title>TLC.</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/9948.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC.</link> 
+        </item> 
+          <item> 
+            <title>E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/7996.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
+        </item> 
+          <item> 
+            <title>Eden</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/13098.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden</link> 
+        </item> 
+          <item> 
+            <title>Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/6907.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home</link> 
+        </item> 
+          <item> 
+            <title>Lifetime HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/6610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime HD</link> 
+        </item> 
+          <item> 
+            <title>Real Lives</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Lives</link> 
+        </item> 
+          <item> 
+            <title>RTÉ One HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/19261.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One HD</link> 
+        </item> 
+          <item> 
+            <title>RTÉ One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One</link> 
+        </item> 
+          <item> 
+            <title>RTÉ Two HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/19262.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two HD</link> 
+        </item> 
+          <item> 
+            <title>RTÉ Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two</link> 
+        </item> 
+          <item> 
+            <title>RTÉ Jr</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/27240.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Jr</link> 
+        </item> 
+          <item> 
+            <title>TV3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 HD</link> 
+        </item> 
+          <item> 
+            <title>TG4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/8675.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4 HD</link> 
+        </item> 
+          <item> 
+            <title>RTE News Now</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12321.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE News Now</link> 
+        </item> 
+          <item> 
+            <title>Fine Living Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine Living Network</link> 
+        </item> 
+          <item> 
+            <title>Spike</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/14237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike</link> 
+        </item> 
+            <item> 
             <title>UK | 3e</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 3e</link> 
         </item> 
@@ -482,284 +761,3 @@
             <title>UK | RTEjr</title> 
             <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTEjr</link> 
         </item> 
-          <item> 
-            <title>BBC One HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11526.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD*</link> 
-        </item> 
-          <item> 
-            <title>BBC One SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One SD</link> 
-        </item> 
-          <item> 
-            <title>BBC Two HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11570.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD*</link> 
-        </item> 
-          <item> 
-            <title>BBC Two SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two SD</link> 
-        </item> 
-          <item> 
-            <title>BBC 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/15132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 3 HD</link> 
-        </item> 
-          <item> 
-            <title>BBC 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 4 HD</link> 
-        </item> 
-          <item> 
-            <title>ITV HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11377.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD*</link> 
-        </item> 
-          <item> 
-            <title>ITV SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV SD</link> 
-        </item> 
-          <item> 
-            <title>ITV2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11569.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 HD</link> 
-        </item> 
-          <item> 
-            <title>ITV 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 2 SD</link> 
-        </item> 
-          <item> 
-            <title>ITV3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV3 HD</link> 
-        </item> 
-          <item> 
-            <title>ITV4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 HD</link> 
-        </item> 
-          <item> 
-            <title>ITVBe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITVBe HD</link> 
-        </item> 
-          <item> 
-            <title>ITV Encore HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12399.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore HD</link> 
-        </item> 
-          <item> 
-            <title>ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore</link> 
-        </item> 
-          <item> 
-            <title>Channel 4 HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD*</link> 
-        </item> 
-          <item> 
-            <title>Channel 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 SD</link> 
-        </item> 
-          <item> 
-            <title>Channel 4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/20645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4+1</link> 
-        </item> 
-          <item> 
-            <title>E4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4 HD</link> 
-        </item> 
-          <item> 
-            <title>More4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4 HD</link> 
-        </item> 
-          <item> 
-            <title>4seven HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5564.ts&amp;streamtype=TSDOWNLOADER&amp;name=4seven HD</link> 
-        </item> 
-          <item> 
-            <title>Channel 5 HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 HD*</link> 
-        </item> 
-          <item> 
-            <title>Channel 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 SD</link> 
-        </item> 
-          <item> 
-            <title>5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA</link> 
-        </item> 
-          <item> 
-            <title>5 USA +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/44091.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA +1</link> 
-        </item> 
-          <item> 
-            <title>5 STAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5461.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 STAR</link> 
-        </item> 
-          <item> 
-            <title>5 Star +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/44092.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 Star +1</link> 
-        </item> 
-          <item> 
-            <title>My5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/20652.ts&amp;streamtype=TSDOWNLOADER&amp;name=My5</link> 
-        </item> 
-          <item> 
-            <title>3e Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/27237.ts&amp;streamtype=TSDOWNLOADER&amp;name=3e Ireland</link> 
-        </item> 
-          <item> 
-            <title>GOLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLD</link> 
-        </item> 
-          <item> 
-            <title>Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick</link> 
-        </item> 
-          <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
-        </item> 
-          <item> 
-            <title>DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
-        </item> 
-          <item> 
-            <title>Dave HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11000.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave HD</link> 
-        </item> 
-          <item> 
-            <title>Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave</link> 
-        </item> 
-          <item> 
-            <title>CBS Drama HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama HD</link> 
-        </item> 
-          <item> 
-            <title>CBS Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action HD</link> 
-        </item> 
-          <item> 
-            <title>CBS Reality HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality HD</link> 
-        </item> 
-          <item> 
-            <title>UTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV HD</link> 
-        </item> 
-          <item> 
-            <title>Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11001.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD</link> 
-        </item> 
-          <item> 
-            <title>Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
-        </item> 
-          <item> 
-            <title>Comedy Central Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central Extra</link> 
-        </item> 
-          <item> 
-            <title>Challenge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge</link> 
-        </item> 
-          <item> 
-            <title>Home &amp; Health+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/13338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home &amp; Health+</link> 
-        </item> 
-          <item> 
-            <title>Sky Arts HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>Alibi.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alibi.</link> 
-        </item> 
-          <item> 
-            <title>Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama</link> 
-        </item> 
-          <item> 
-            <title>YESTERDAY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5563.ts&amp;streamtype=TSDOWNLOADER&amp;name=YESTERDAY</link> 
-        </item> 
-          <item> 
-            <title>QUEST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST</link> 
-        </item> 
-          <item> 
-            <title>Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Network</link> 
-        </item> 
-          <item> 
-            <title>Viceland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/29332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viceland</link> 
-        </item> 
-          <item> 
-            <title>Universal Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal Channel</link> 
-        </item> 
-          <item> 
-            <title>TLC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC HD</link> 
-        </item> 
-          <item> 
-            <title>TLC.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/9948.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC.</link> 
-        </item> 
-          <item> 
-            <title>E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/7996.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
-        </item> 
-          <item> 
-            <title>Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/13098.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden</link> 
-        </item> 
-          <item> 
-            <title>Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/6907.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home</link> 
-        </item> 
-          <item> 
-            <title>Lifetime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/6610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime HD</link> 
-        </item> 
-          <item> 
-            <title>Real Lives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Lives</link> 
-        </item> 
-          <item> 
-            <title>RTÉ One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/19261.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One HD</link> 
-        </item> 
-          <item> 
-            <title>RTÉ One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One</link> 
-        </item> 
-          <item> 
-            <title>RTÉ Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/19262.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two HD</link> 
-        </item> 
-          <item> 
-            <title>RTÉ Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two</link> 
-        </item> 
-          <item> 
-            <title>RTÉ Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/27240.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Jr</link> 
-        </item> 
-          <item> 
-            <title>TV3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 HD</link> 
-        </item> 
-          <item> 
-            <title>TG4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/8675.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4 HD</link> 
-        </item> 
-          <item> 
-            <title>RTE News Now</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12321.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE News Now</link> 
-        </item> 
-          <item> 
-            <title>Fine Living Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine Living Network</link> 
-        </item> 
-          <item> 
-            <title>Spike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/14237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike</link> 
-        </item> 
-  
