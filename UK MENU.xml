@@ -16,748 +16,637 @@
  
  
   
-
+ 
           <item> 
-            <title>BBC One HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11526.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One HD*</link> 
+            <title>UK: BBC ONE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ONE HD</link> 
         </item> 
           <item> 
-            <title>BBC One SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11983.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC One SD</link> 
+            <title>UK: BBC ONE CI (VPN OR UK ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1457.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ONE CI (VPN OR UK ONLY)</link> 
         </item> 
           <item> 
-            <title>BBC Two HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11570.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two HD*</link> 
+            <title>UK: BBC RED BUTTON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/5025.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC RED BUTTON</link> 
         </item> 
           <item> 
-            <title>BBC Two SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC Two SD</link> 
+            <title>UK: BBC ONE NI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ONE NI</link> 
         </item> 
           <item> 
-            <title>BBC 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/15132.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 3 HD</link> 
+            <title>UK: BBC ONE SCOTLAND</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/3896.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ONE SCOTLAND</link> 
         </item> 
           <item> 
-            <title>BBC 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/660.ts&amp;streamtype=TSDOWNLOADER&amp;name=BBC 4 HD</link> 
+            <title>UK: BBC ONE WALES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4700.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ONE WALES</link> 
         </item> 
           <item> 
-            <title>ITV HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11377.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV HD*</link> 
+            <title>UK: BBC ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ONE</link> 
         </item> 
           <item> 
-            <title>ITV SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV SD</link> 
+            <title>UK: BBC TWO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC TWO HD</link> 
         </item> 
           <item> 
-            <title>ITV2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11569.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2 HD</link> 
+            <title>UK: BBC TWO NI (VPN OR UK ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC TWO NI (VPN OR UK ONLY)</link> 
         </item> 
           <item> 
-            <title>ITV 2 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/659.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV 2 SD</link> 
+            <title>UK: BBC TWO WALES (VPN OR UK ONLY)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4456.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC TWO WALES (VPN OR UK ONLY)</link> 
         </item> 
           <item> 
-            <title>ITV3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/658.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV3 HD</link> 
+            <title>UK: BBC TWO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC TWO</link> 
         </item> 
           <item> 
-            <title>ITV4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/657.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4 HD</link> 
+            <title>UK: ITV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 1 HD</link> 
         </item> 
           <item> 
-            <title>ITVBe HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/656.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITVBe HD</link> 
+            <title>UK: ITV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/383.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 1</link> 
         </item> 
           <item> 
-            <title>ITV Encore HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12399.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore HD</link> 
+            <title>UK: CHANNEL 4 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7909.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 4 FHD</link> 
         </item> 
           <item> 
-            <title>ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5243.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV Encore</link> 
+            <title>UK: CHANNEL 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 4 HD</link> 
         </item> 
           <item> 
-            <title>Channel 4 HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12394.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 HD*</link> 
+            <title>UK: CHANNEL 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/543.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 4</link> 
         </item> 
           <item> 
-            <title>Channel 4 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4668.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4 SD</link> 
+            <title>UK: CHANNEL 5 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7910.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 5 FHD</link> 
         </item> 
           <item> 
-            <title>Channel 4+1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/20645.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 4+1</link> 
+            <title>UK: CHANNEL 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/396.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 5 HD</link> 
         </item> 
           <item> 
-            <title>E4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/653.ts&amp;streamtype=TSDOWNLOADER&amp;name=E4 HD</link> 
+            <title>UK: CHANNEL 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/544.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHANNEL 5</link> 
         </item> 
           <item> 
-            <title>More4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/651.ts&amp;streamtype=TSDOWNLOADER&amp;name=More4 HD</link> 
+            <title>UK: SKY ONE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7931.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ONE FHD</link> 
         </item> 
           <item> 
-            <title>4seven HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5564.ts&amp;streamtype=TSDOWNLOADER&amp;name=4seven HD</link> 
+            <title>UK: SKY ONE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/373.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ONE HD</link> 
         </item> 
           <item> 
-            <title>Channel 5 HD*</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12395.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 HD*</link> 
+            <title>UK: SKY ONE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/545.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ONE</link> 
         </item> 
           <item> 
-            <title>Channel 5 SD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/671.ts&amp;streamtype=TSDOWNLOADER&amp;name=Channel 5 SD</link> 
+            <title>UK: SKY LIVING FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7930.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING FHD</link> 
         </item> 
           <item> 
-            <title>5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/655.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA</link> 
+            <title>UK: SKY LIVING HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING HD</link> 
         </item> 
           <item> 
-            <title>5 USA +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/44091.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 USA +1</link> 
+            <title>UK: SKY LIVING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY LIVING</link> 
         </item> 
           <item> 
-            <title>5 STAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5461.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 STAR</link> 
+            <title>UK: SKY ATLANTIC (BKUP)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/542.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ATLANTIC (BKUP)</link> 
         </item> 
           <item> 
-            <title>5 Star +1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/44092.ts&amp;streamtype=TSDOWNLOADER&amp;name=5 Star +1</link> 
+            <title>UK: SKY ATLANTIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/3794.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ATLANTIC</link> 
         </item> 
           <item> 
-            <title>My5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/20652.ts&amp;streamtype=TSDOWNLOADER&amp;name=My5</link> 
+            <title>UK: W FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7935.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W FHD</link> 
         </item> 
           <item> 
-            <title>3e Ireland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/27237.ts&amp;streamtype=TSDOWNLOADER&amp;name=3e Ireland</link> 
+            <title>UK: W (WATCH)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: W (WATCH)</link> 
         </item> 
           <item> 
-            <title>GOLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/662.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLD</link> 
+            <title>UK: GOLD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOLD</link> 
         </item> 
           <item> 
-            <title>Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4960.ts&amp;streamtype=TSDOWNLOADER&amp;name=Pick</link> 
+            <title>UK: SHOWCASE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4601.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SHOWCASE TV</link> 
         </item> 
           <item> 
-            <title>FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/4959.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+            <title>UK: DAVE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7912.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE FHD</link> 
         </item> 
           <item> 
-            <title>DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/366.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
+            <title>UK: DAVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE HD</link> 
         </item> 
           <item> 
-            <title>Dave HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11000.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave HD</link> 
+            <title>UK: DAVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DAVE</link> 
         </item> 
           <item> 
-            <title>Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/663.ts&amp;streamtype=TSDOWNLOADER&amp;name=Dave</link> 
+            <title>UK: COMEDY CENTRAL FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7911.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL FHD</link> 
         </item> 
           <item> 
-            <title>CBS Drama HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/627.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Drama HD</link> 
+            <title>UK: COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/549.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL HD</link> 
         </item> 
           <item> 
-            <title>CBS Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/628.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Action HD</link> 
+            <title>UK: COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL</link> 
         </item> 
           <item> 
-            <title>CBS Reality HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/626.ts&amp;streamtype=TSDOWNLOADER&amp;name=CBS Reality HD</link> 
+            <title>UK: COMEDY CENTRAL EXTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/167.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: COMEDY CENTRAL EXTRA</link> 
         </item> 
           <item> 
-            <title>UTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12397.ts&amp;streamtype=TSDOWNLOADER&amp;name=UTV HD</link> 
+            <title>UK: UNIVERSAL CHANNEL FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7934.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UNIVERSAL CHANNEL FHD</link> 
         </item> 
           <item> 
-            <title>Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/11001.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central HD</link> 
+            <title>UK: UNIVERSAL CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/371.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UNIVERSAL CHANNEL HD</link> 
         </item> 
           <item> 
-            <title>Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5453.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central</link> 
+            <title>UK: UNIVERSAL CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1814.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: UNIVERSAL CHANNEL</link> 
         </item> 
           <item> 
-            <title>Comedy Central Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5452.ts&amp;streamtype=TSDOWNLOADER&amp;name=Comedy Central Extra</link> 
+            <title>UK: SYFY FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7932.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SYFY FHD</link> 
         </item> 
           <item> 
-            <title>Challenge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5460.ts&amp;streamtype=TSDOWNLOADER&amp;name=Challenge</link> 
+            <title>UK: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SYFY HD</link> 
         </item> 
           <item> 
-            <title>Home &amp; Health+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/13338.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home &amp; Health+</link> 
+            <title>UK: SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SYFY</link> 
         </item> 
           <item> 
-            <title>Sky Arts HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,Sky Arts&amp;streamtype=TSDOWNLOADER&amp;name=Sky Arts HD</link> 
+            <title>UK: BBC ALBA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/2926.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC ALBA</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/631.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK: S4C</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4462.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: S4C</link> 
         </item> 
           <item> 
-            <title>Alibi.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/632.ts&amp;streamtype=TSDOWNLOADER&amp;name=Alibi.</link> 
+            <title>UK: BBC FOUR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC FOUR</link> 
         </item> 
           <item> 
-            <title>Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/629.ts&amp;streamtype=TSDOWNLOADER&amp;name=Drama</link> 
+            <title>UK: LONDON LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1373.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LONDON LIVE</link> 
         </item> 
           <item> 
-            <title>YESTERDAY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5563.ts&amp;streamtype=TSDOWNLOADER&amp;name=YESTERDAY</link> 
+            <title>UK: ITV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/634.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 2 HD</link> 
         </item> 
           <item> 
-            <title>QUEST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/641.ts&amp;streamtype=TSDOWNLOADER&amp;name=QUEST</link> 
+            <title>UK: ITV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 2</link> 
         </item> 
           <item> 
-            <title>Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/650.ts&amp;streamtype=TSDOWNLOADER&amp;name=Food Network</link> 
+            <title>UK: ITV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3 HD</link> 
         </item> 
           <item> 
-            <title>Viceland</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/29332.ts&amp;streamtype=TSDOWNLOADER&amp;name=Viceland</link> 
+            <title>UK: ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/381.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 3</link> 
         </item> 
           <item> 
-            <title>Universal Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/624.ts&amp;streamtype=TSDOWNLOADER&amp;name=Universal Channel</link> 
+            <title>UK: ITV 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 4 HD</link> 
         </item> 
           <item> 
-            <title>TLC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/644.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC HD</link> 
+            <title>UK: ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/380.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV 4</link> 
         </item> 
           <item> 
-            <title>TLC.</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/9948.ts&amp;streamtype=TSDOWNLOADER&amp;name=TLC.</link> 
+            <title>UK: ITV ENCORE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/378.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV ENCORE HD</link> 
         </item> 
           <item> 
-            <title>E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/7996.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
+            <title>UK: SKY ARTS FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7929.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS FHD</link> 
         </item> 
           <item> 
-            <title>Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/13098.ts&amp;streamtype=TSDOWNLOADER&amp;name=Eden</link> 
+            <title>UK: SKY ARTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS HD</link> 
         </item> 
           <item> 
-            <title>Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/6907.ts&amp;streamtype=TSDOWNLOADER&amp;name=Home</link> 
+            <title>UK: SKY ARTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY ARTS</link> 
         </item> 
           <item> 
-            <title>Lifetime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/6610.ts&amp;streamtype=TSDOWNLOADER&amp;name=Lifetime HD</link> 
+            <title>UK: FOOD NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1837.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOOD NETWORK</link> 
         </item> 
           <item> 
-            <title>Real Lives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/5560.ts&amp;streamtype=TSDOWNLOADER&amp;name=Real Lives</link> 
+            <title>UK: FOX FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7917.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX FHD</link> 
         </item> 
           <item> 
-            <title>RTÉ One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/19261.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One HD</link> 
+            <title>UK: FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/385.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX HD</link> 
         </item> 
           <item> 
-            <title>RTÉ One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/639.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ One</link> 
+            <title>UK: FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FOX</link> 
         </item> 
           <item> 
-            <title>RTÉ Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/19262.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two HD</link> 
+            <title>UK: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/176.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TLC</link> 
         </item> 
           <item> 
-            <title>RTÉ Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/638.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Two</link> 
+            <title>UK: SKY TWO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/372.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SKY TWO</link> 
         </item> 
           <item> 
-            <title>RTÉ Jr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/27240.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTÉ Jr</link> 
+            <title>UK: ALIBI HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI HD</link> 
         </item> 
           <item> 
-            <title>TV3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV3 HD</link> 
+            <title>UK: ALIBI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ALIBI</link> 
         </item> 
           <item> 
-            <title>TG4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/8675.ts&amp;streamtype=TSDOWNLOADER&amp;name=TG4 HD</link> 
+            <title>UK: E4 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7914.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 FHD</link> 
         </item> 
           <item> 
-            <title>RTE News Now</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12321.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTE News Now</link> 
+            <title>UK: E4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/551.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4 HD</link> 
         </item> 
           <item> 
-            <title>Fine Living Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/12134.ts&amp;streamtype=TSDOWNLOADER&amp;name=Fine Living Network</link> 
+            <title>UK: E4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E4</link> 
         </item> 
           <item> 
-            <title>Spike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://xc1.asmhosting.solutions:80/live/555555555/555555555/14237.ts&amp;streamtype=TSDOWNLOADER&amp;name=Spike</link> 
+            <title>UK: MORE4 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7925.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4 FHD</link> 
         </item> 
-            <item> 
-            <title>UK | 3e</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 3e</link> 
-        </item> 
-          <item> 
-            <title>UK | 4Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 4Music</link> 
-        </item> 
-          <item> 
-            <title>UK | 5 USA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | 5 USA</link> 
-        </item> 
-          <item> 
-            <title>UK | ABC News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ABC News</link> 
-        </item> 
-          <item> 
-            <title>UK | Al Jazeera News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Al Jazeera News HD</link> 
-        </item> 
-          <item> 
-            <title>UK | Alibi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Alibi</link> 
-        </item> 
-          <item> 
-            <title>UK | Animal Planet UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Animal Planet UK</link> 
-        </item> 
-          <item> 
-            <title>UK | At The Races</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | At The Races</link> 
-        </item> 
-          <item> 
-            <title>UK | Baby TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Baby TV</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Alba</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/295.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Alba</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Four HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/294.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Four HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Four UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/293.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Four UK</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC News HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/292.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC News UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/291.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC News UK</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/290.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC One London</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/289.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC One London</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Parliament</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/288.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Parliament</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Two HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/287.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Two HD</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC Two UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/286.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC Two UK</link> 
-        </item> 
-          <item> 
-            <title>UK | BBC World News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC World News</link> 
-        </item> 
-          <item> 
-            <title>UK | Bloomberg</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Bloomberg</link> 
-        </item> 
-          <item> 
-            <title>UK | Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Boomerang</link> 
-        </item> 
-          <item> 
-            <title>UK | Box Nation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Box Nation</link> 
-        </item> 
-          <item> 
-            <title>UK | British Eurosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/281.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport</link> 
-        </item> 
-          <item> 
-            <title>UK | British Eurosport2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | British Eurosport2</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/278.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 2</link> 
-        </item> 
-          <item> 
-            <title>UK | BT Sport 3 (Ex Europe)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/277.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport 3 (Ex Europe)</link> 
-        </item> 
           <item> 
-            <title>UK | BT Sport ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BT Sport ESPN</link> 
+            <title>UK: MORE4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4 HD</link> 
         </item> 
           <item> 
-            <title>UK | Cartoon Network UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/275.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoon Network UK</link> 
+            <title>UK: MORE4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/377.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MORE4</link> 
         </item> 
           <item> 
-            <title>UK | Cartoonito</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/274.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoonito</link> 
+            <title>UK: 4SEVEN FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7888.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4SEVEN FHD</link> 
         </item> 
           <item> 
-            <title>UK | CBBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/273.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBBC</link> 
+            <title>UK: 4SEVEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/546.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 4SEVEN</link> 
         </item> 
           <item> 
-            <title>UK | CBBC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/272.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBBC HD</link> 
+            <title>UK: QUEST</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: QUEST</link> 
         </item> 
           <item> 
-            <title>UK | CBeebies</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBeebies</link> 
+            <title>UK: CHALLENGE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CHALLENGE</link> 
         </item> 
           <item> 
-            <title>UK | CBS Action</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/270.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Action</link> 
+            <title>UK: CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/399.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS REALITY</link> 
         </item> 
           <item> 
-            <title>UK | CBS Drama</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/269.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Drama</link> 
+            <title>UK: CBS ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS ACTION</link> 
         </item> 
           <item> 
-            <title>UK | CBS Reality UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/268.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Reality UK</link> 
+            <title>UK: CBS DRAMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/400.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CBS DRAMA</link> 
         </item> 
           <item> 
-            <title>UK | Challenge</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/267.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Challenge</link> 
+            <title>UK: E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: E!</link> 
         </item> 
           <item> 
-            <title>UK | Channel 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/266.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 4 HD</link> 
+            <title>UK: PICK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: PICK</link> 
         </item> 
           <item> 
-            <title>UK | Channel 4 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 4 UK</link> 
+            <title>UK: REALLY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: REALLY</link> 
         </item> 
           <item> 
-            <title>UK | Channel 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5 HD</link> 
+            <title>UK: LIFETIME FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7924.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIFETIME FHD</link> 
         </item> 
           <item> 
-            <title>UK | Channel 5 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Channel 5 UK</link> 
+            <title>UK: LIFETIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIFETIME HD</link> 
         </item> 
           <item> 
-            <title>UK | Chelsea TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/262.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Chelsea TV</link> 
+            <title>UK: LIFETIME</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1819.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: LIFETIME</link> 
         </item> 
           <item> 
-            <title>UK | CITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/261.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CITV</link> 
+            <title>UK: SONY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/552.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SONY CHANNEL</link> 
         </item> 
           <item> 
-            <title>UK | CNN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/260.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CNN HD</link> 
+            <title>UK: DRAMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DRAMA</link> 
         </item> 
           <item> 
-            <title>UK | Comedy Central</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/259.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Central</link> 
+            <title>UK: 5SPIKE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1271.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5SPIKE</link> 
         </item> 
           <item> 
-            <title>UK | Comedy Extra</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/258.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Extra</link> 
+            <title>UK: 5 USA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 USA</link> 
         </item> 
           <item> 
-            <title>UK | Crime Investigation</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/257.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Crime Investigation</link> 
+            <title>UK: 5 STAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/547.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: 5 STAR</link> 
         </item> 
           <item> 
-            <title>UK | Dave</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/256.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Dave</link> 
+            <title>UK: ITV BE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7923.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV BE FHD</link> 
         </item> 
           <item> 
-            <title>UK | Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/255.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery</link> 
+            <title>UK: ITV BE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ITV BE</link> 
         </item> 
           <item> 
-            <title>UK | Discovery History</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery History</link> 
+            <title>UK: TRUE ENTERTAINMENT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/171.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRUE ENTERTAINMENT</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Home&amp;Health</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/253.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Home&amp;Health</link> 
+            <title>UK: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/548.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: AMC</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Science</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/252.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Science</link> 
+            <title>UK: DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DMAX</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Shed UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/251.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Shed UK</link> 
+            <title>UK: GOOD FOOD FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7918.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOOD FOOD FHD</link> 
         </item> 
           <item> 
-            <title>UK | Discovery Turbo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/250.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Turbo</link> 
+            <title>UK: GOOD FOOD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOOD FOOD HD</link> 
         </item> 
           <item> 
-            <title>UK | Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/249.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney XD</link> 
+            <title>UK: GOOD FOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1818.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: GOOD FOOD</link> 
         </item> 
           <item> 
-            <title>UK | DisneyChnl</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyChnl</link> 
+            <title>UK: FORCES TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/600.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: FORCES TV</link> 
         </item> 
           <item> 
-            <title>UK | DisneyJunior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DisneyJunior</link> 
+            <title>UK: YESTERDAY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/172.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: YESTERDAY</link> 
         </item> 
           <item> 
-            <title>UK | DMAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/246.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | DMAX</link> 
+            <title>UK: STV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: STV HD</link> 
         </item> 
           <item> 
-            <title>UK | Drama UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/245.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Drama UK</link> 
+            <title>UK: VICELAND</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VICELAND</link> 
         </item> 
           <item> 
-            <title>UK | E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/244.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | E! Entertainment</link> 
+            <title>UK: BLAZE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/6166.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BLAZE</link> 
         </item> 
           <item> 
-            <title>UK | E4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/243.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | E4</link> 
+            <title>UK: ANIMAL PLANET FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7907.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ANIMAL PLANET FHD</link> 
         </item> 
           <item> 
-            <title>UK | Eden</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/242.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eden</link> 
+            <title>UK: ANIMAL PLANET HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/635.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ANIMAL PLANET HD</link> 
         </item> 
           <item> 
-            <title>UK | eir Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | eir Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | eir Sports 1</link> 
+            <title>UK: ANIMAL PLANET</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: ANIMAL PLANET</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/241.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK: CRIME AND INVESTIGATION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1820.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CRIME AND INVESTIGATION HD</link> 
         </item> 
           <item> 
-            <title>UK | eir Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | eir Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | eir Sports 2 HD</link> 
+            <title>UK: CRIME AND INVESTIGATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/500.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CRIME AND INVESTIGATION</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/240.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK: DISCOVERY FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7913.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY FHD</link> 
         </item> 
           <item> 
-            <title>UK | Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/239.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Euronews</link> 
+            <title>UK: DISCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/633.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY HD</link> 
         </item> 
           <item> 
-            <title>UK | Film 4 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/238.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Film 4 UK</link> 
+            <title>UK: DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/498.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY</link> 
         </item> 
           <item> 
-            <title>UK | Food Network UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/237.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Food Network UK</link> 
+            <title>UK: INVESTIGATION DISCOVERY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/486.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: INVESTIGATION DISCOVERY</link> 
         </item> 
           <item> 
-            <title>UK | FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/236.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX</link> 
+            <title>UK: DISCOVERY HOME &amp; HEALTH</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/496.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY HOME &amp; HEALTH</link> 
         </item> 
           <item> 
-            <title>UK | Fox News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/235.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Fox News</link> 
+            <title>UK: HISTORY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/276.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HISTORY HD</link> 
         </item> 
           <item> 
-            <title>UK | Gold</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/234.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Gold</link> 
+            <title>UK: HISTORY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4024.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HISTORY</link> 
         </item> 
           <item> 
-            <title>UK | H2 UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/233.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | H2 UK</link> 
+            <title>UK: H2 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7921.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2 FHD</link> 
         </item> 
           <item> 
-            <title>UK | Heart TV UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/232.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Heart TV UK</link> 
+            <title>UK: H2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1027.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2 HD</link> 
         </item> 
           <item> 
-            <title>UK | History UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/231.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | History UK</link> 
+            <title>UK: H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/489.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: H2</link> 
         </item> 
           <item> 
-            <title>UK | Home</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Home</link> 
+            <title>UK: NATIONAL GEOGRAPHIC FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4884.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATIONAL GEOGRAPHIC FHD</link> 
         </item> 
           <item> 
-            <title>UK | Horror Channel UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/229.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Horror Channel UK</link> 
+            <title>UK: NATIONAL GEOGRAPHIC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1025.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATIONAL GEOGRAPHIC HD</link> 
         </item> 
           <item> 
-            <title>UK | ID UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/228.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ID UK</link> 
+            <title>UK: NATIONAL GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1024.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NATIONAL GEOGRAPHIC</link> 
         </item> 
           <item> 
-            <title>UK | ITV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/227.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV</link> 
+            <title>UK: NAT GEO WILD FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/4885.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NAT GEO WILD FHD</link> 
         </item> 
           <item> 
-            <title>UK | ITV 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/226.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 2</link> 
+            <title>UK: NAT GEO WILD HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1034.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NAT GEO WILD HD</link> 
         </item> 
           <item> 
-            <title>UK | ITV 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 3</link> 
+            <title>UK: NAT GEO WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1821.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: NAT GEO WILD</link> 
         </item> 
           <item> 
-            <title>UK | ITV 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 4</link> 
+            <title>UK: DISCOVERY TURBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/492.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY TURBO</link> 
         </item> 
           <item> 
-            <title>UK | ITV Be</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Be</link> 
+            <title>UK: DISCOVERY SHED</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/493.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY SHED</link> 
         </item> 
           <item> 
-            <title>UK | ITV Encore</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/222.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Encore</link> 
+            <title>UK: DISCOVERY SCIENCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/494.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY SCIENCE</link> 
         </item> 
           <item> 
-            <title>UK | ITV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/221.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV HD</link> 
+            <title>UK: DISCOVERY HISTORY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/497.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: DISCOVERY HISTORY</link> 
         </item> 
           <item> 
-            <title>UK | LFC TV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/220.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | LFC TV HD</link> 
+            <title>UK: EDEN FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7915.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EDEN FHD</link> 
         </item> 
           <item> 
-            <title>UK | Lifetime</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/219.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Lifetime</link> 
+            <title>UK: EDEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EDEN HD</link> 
         </item> 
           <item> 
-            <title>UK | More 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/218.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | More 4</link> 
+            <title>UK: EDEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1026.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: EDEN</link> 
         </item> 
           <item> 
-            <title>UK | Motors UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/217.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Motors UK</link> 
+            <title>UK: TRAVEL CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/480.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRAVEL CHANNEL</link> 
         </item> 
           <item> 
-            <title>UK | mov4men</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | mov4men</link> 
+            <title>UK: RT DOCUMENTARY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: RT DOCUMENTARY</link> 
         </item> 
           <item> 
-            <title>UK | MTV Base HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Base HD</link> 
+            <title>UK: INSIGHT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1028.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: INSIGHT HD</link> 
         </item> 
           <item> 
-            <title>UK | MTV Classic UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Classic UK</link> 
+            <title>UK: BBC EARTH HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1458.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC EARTH HD</link> 
         </item> 
           <item> 
-            <title>UK | MTV Dance HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Dance HD</link> 
+            <title>UK: BBC EARTH (ALTERNATIVE)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7825.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: BBC EARTH (ALTERNATIVE)</link> 
         </item> 
           <item> 
-            <title>UK | MTV Hits HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Hits HD</link> 
+            <title>UK: CAPITAL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CAPITAL TV</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>UK: CLUBLAND</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/3215.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: CLUBLAND</link> 
         </item> 
           <item> 
-            <title>UK | MTV Live HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/211.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Live HD</link> 
+            <title>UK: HEART TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: HEART TV</link> 
         </item> 
           <item> 
-            <title>UK | MTV Music UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/210.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Music UK</link> 
+            <title>UK: KEEP IT COUNTRY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/5092.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: KEEP IT COUNTRY</link> 
         </item> 
           <item> 
-            <title>UK | MTV Rocks HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/209.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV Rocks HD</link> 
+            <title>UK: KERRANG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1037.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: KERRANG</link> 
         </item> 
           <item> 
-            <title>UK | MTV UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/208.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV UK</link> 
+            <title>UK: KISS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/2888.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: KISS</link> 
         </item> 
           <item> 
-            <title>UK | MUTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/207.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MUTV</link> 
+            <title>UK: MTV FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7926.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV FHD</link> 
         </item> 
           <item> 
-            <title>UK | MUTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MUTV HD</link> 
+            <title>UK: MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/508.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV</link> 
         </item> 
           <item> 
-            <title>UK | Nat Geo Wild UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nat Geo Wild UK</link> 
+            <title>UK: MTV BASE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/507.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV BASE</link> 
         </item> 
           <item> 
-            <title>UK | National Geographic UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | National Geographic UK</link> 
+            <title>UK: MTV CLASSICS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/506.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV CLASSICS</link> 
         </item> 
           <item> 
-            <title>UK | Nick Jr Too</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/203.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Jr Too</link> 
+            <title>UK: MTV DANCE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/505.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV DANCE</link> 
         </item> 
           <item> 
-            <title>UK | Nick Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/202.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Junior</link> 
+            <title>UK: MTV HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/504.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV HITS</link> 
         </item> 
           <item> 
-            <title>UK | Nick UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/201.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick UK</link> 
+            <title>UK: MTV LIVE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/7927.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV LIVE FHD</link> 
         </item> 
           <item> 
-            <title>UK | NickToons</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/200.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | NickToons</link> 
+            <title>UK: MTV LIVE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV LIVE HD</link> 
         </item> 
           <item> 
-            <title>UK | Pick</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/199.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Pick</link> 
+            <title>UK: MTV MUSIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV MUSIC</link> 
         </item> 
           <item> 
-            <title>UK | Quest</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/198.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Quest</link> 
+            <title>UK: MTV ROCKS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/503.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: MTV ROCKS</link> 
         </item> 
           <item> 
-            <title>UK | Racing UK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/197.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Racing UK</link> 
+            <title>UK: SCUZZ</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/5030.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: SCUZZ</link> 
         </item> 
           <item> 
-            <title>UK | Real Lives</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/196.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Real Lives</link> 
+            <title>UK: TRACE URBAN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/1230.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: TRACE URBAN</link> 
         </item> 
           <item> 
-            <title>UK | RTE One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/195.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE One</link> 
+            <title>UK: VINTAGE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/3132.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VINTAGE TV</link> 
         </item> 
           <item> 
-            <title>UK | RTE Two</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/194.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE Two</link> 
+            <title>UK: VIRGIN RADIO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIRGIN RADIO TV</link> 
         </item> 
           <item> 
-            <title>UK | RTE News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/2968.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTE News</link> 
+            <title>UK: VIVA THE HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/501.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VIVA THE HITS</link> 
         </item> 
           <item> 
-            <title>UK | RTEjr</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/193.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | RTEjr</link> 
+            <title>UK: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://ace-tv.xyz:8080/live/Berry/Berry123/502.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK: VH1</link> 
         </item> 
+  
