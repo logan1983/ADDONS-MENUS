@@ -25,296 +25,501 @@
  
  
  
+ 
           <item> 
-            <title>ES: LA 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1</link> 
+            <title>LA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/401.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 1 HD</link> 
         </item> 
           <item> 
-            <title>ES: LA 1 HD op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/3578.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 1 HD op2</link> 
+            <title>LA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/402.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA 2</link> 
         </item> 
           <item> 
-            <title>ES: LA 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/336.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA 2</link> 
+            <title>ANTENA 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/403.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 HD</link> 
         </item> 
           <item> 
-            <title>ES: #O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: #O</link> 
+            <title>CUATRO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/404.ts&amp;streamtype=TSDOWNLOADER&amp;name=CUATRO HD</link> 
         </item> 
           <item> 
-            <title>ES: A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/316.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: A&amp;E</link> 
+            <title>TELECINCO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/405.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELECINCO HD</link> 
         </item> 
           <item> 
-            <title>ES: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AMC</link> 
+            <title>LA SEXTA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/406.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA SEXTA HD</link> 
         </item> 
           <item> 
-            <title>ES: Antena 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/187.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Antena 3</link> 
+            <title>ANTENA 3 SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1426.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANTENA 3 SERIES HD</link> 
         </item> 
           <item> 
-            <title>ES: ANTENA 3 HD op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/3579.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ANTENA 3 HD op2</link> 
+            <title>ANDALUCIA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1439.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANDALUCIA TV</link> 
         </item> 
           <item> 
-            <title>ES: AXN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN</link> 
+            <title>BEMAD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1303.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEMAD</link> 
         </item> 
           <item> 
-            <title>ES: AXN WHITE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/346.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: AXN WHITE</link> 
+            <title>DKISS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1273.ts&amp;streamtype=TSDOWNLOADER&amp;name=DKISS</link> 
         </item> 
           <item> 
-            <title>ES: BARCA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/882.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BARCA TV</link> 
+            <title>DMAX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2129.ts&amp;streamtype=TSDOWNLOADER&amp;name=DMAX</link> 
         </item> 
           <item> 
-            <title>ES: B31N La Liga HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/264.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: B31N La Liga HD</link> 
+            <title>ENERGY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2124.ts&amp;streamtype=TSDOWNLOADER&amp;name=ENERGY</link> 
         </item> 
           <item> 
-            <title>ES: B31N Sp0rts SPAIN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,ES: B31N Sp0rts&amp;streamtype=TSDOWNLOADER&amp;name=ES: B31N Sp0rts SPAIN HD</link> 
+            <title>FDF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/568.ts&amp;streamtype=TSDOWNLOADER&amp;name=FDF</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>MEGA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/407.ts&amp;streamtype=TSDOWNLOADER&amp;name=MEGA</link> 
         </item> 
           <item> 
-            <title>ES: BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: BOING</link> 
+            <title>NEOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/417.ts&amp;streamtype=TSDOWNLOADER&amp;name=NEOX</link> 
         </item> 
           <item> 
-            <title>ES: CALLE 13</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/344.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CALLE 13</link> 
+            <title>NOVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/416.ts&amp;streamtype=TSDOWNLOADER&amp;name=NOVA</link> 
         </item> 
           <item> 
-            <title>ES: COCINA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COCINA</link> 
+            <title>PARAMOUNT CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
         </item> 
           <item> 
-            <title>ES: COMEDY CENTRAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COMEDY CENTRAL</link> 
+            <title>TEN TELEVISION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2058.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEN TELEVISION</link> 
         </item> 
           <item> 
-            <title>ES: COSMO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/341.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: COSMO</link> 
+            <title>TRECE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=TRECE</link> 
         </item> 
           <item> 
-            <title>ES: CRIMEN INVESTIGACION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/313.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CRIMEN INVESTIGACION</link> 
+            <title>TV GALICIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV GALICIA</link> 
         </item> 
           <item> 
-            <title>ES: CUATRO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/340.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: CUATRO</link> 
+            <title>### MOVISTAR+ DEPORTES ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=### MOVISTAR+ DEPORTES ###</link> 
         </item> 
           <item> 
-            <title>ES: DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISCOVERY CHANNEL</link> 
+            <title>BARÇA TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2151.ts&amp;streamtype=TSDOWNLOADER&amp;name=BARÇA TV</link> 
         </item> 
           <item> 
-            <title>ES: DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/312.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY CHANNEL</link> 
+            <title>BEIN LA LIGA FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/573.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA FULL HD</link> 
         </item> 
           <item> 
-            <title>ES: DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/311.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY JUNIOR</link> 
+            <title>BEIN LA LIGA HD RESERVA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/703.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA HD RESERVA 1</link> 
         </item> 
           <item> 
-            <title>ES: DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/310.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DISNEY XD</link> 
+            <title>BEIN LA LIGA HD RESERVA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/770.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LA LIGA HD RESERVA 2</link> 
         </item> 
           <item> 
-            <title>ES: DIVINITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/309.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: DIVINITY</link> 
+            <title>BEIN LIGA 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA 1 HD</link> 
         </item> 
           <item> 
-            <title>ES: ENERGY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/308.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ENERGY</link> 
+            <title>BEIN LIGA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/772.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN LIGA 2</link> 
         </item> 
           <item> 
-            <title>ES: FDF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FDF</link> 
+            <title>BEIN SPORTS FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/374.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS FULL HD</link> 
         </item> 
           <item> 
-            <title>ES: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/306.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX</link> 
+            <title>BEIN SPORTS HD RESERVA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD RESERVA 1</link> 
         </item> 
           <item> 
-            <title>ES: FOX LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: FOX LIFE</link> 
+            <title>BEIN SPORTS HD RESERVA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/769.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS HD RESERVA 2</link> 
         </item> 
           <item> 
-            <title>ES: GOL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/265.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: GOL</link> 
+            <title>BEIN MAX 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 1 HD</link> 
         </item> 
           <item> 
-            <title>ES: HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/305.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HISTORIA</link> 
+            <title>BEIN MAX 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/768.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 2</link> 
         </item> 
           <item> 
-            <title>ES: HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/338.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: HOLLYWOOD</link> 
+            <title>BEIN MAX 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2156.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 3</link> 
         </item> 
           <item> 
-            <title>ES: La Sexta</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/188.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: La Sexta</link> 
+            <title>BEIN MAX 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2157.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 4</link> 
         </item> 
           <item> 
-            <title>ES: LA SEXTA HD op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/3581.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LA SEXTA HD op2</link> 
+            <title>BEIN MAX 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2158.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 5</link> 
         </item> 
           <item> 
-            <title>ES: LaLigaTV BAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: LaLigaTV BAR</link> 
+            <title>BEIN MAX 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2159.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 6</link> 
         </item> 
           <item> 
-            <title>ES: M20</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/304.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M20</link> 
+            <title>BEIN MAX 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2160.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 7</link> 
         </item> 
           <item> 
-            <title>ES: M6 MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: M6 MUSIC</link> 
+            <title>BEIN MAX 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2161.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN MAX 8</link> 
         </item> 
           <item> 
-            <title>ES: Mega</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/263.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Mega</link> 
+            <title>EUROSPORT1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/457.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT1 HD</link> 
         </item> 
           <item> 
-            <title>ES: MEGA HD op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/3582.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MEGA HD op2</link> 
+            <title>GOL TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/981.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV HD</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR  DEPORTES 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR  DEPORTES 1</link> 
+            <title>GOL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/455.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOL TV</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR ACCION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ACCION</link> 
+            <title>M+ DEPORTES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/365.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ DEPORTES</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR COMEDIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/335.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR COMEDIA</link> 
+            <title>M+  DEPORTES 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/367.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+  DEPORTES 2</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR DCINE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DCINE</link> 
+            <title>M+  GOLF</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/361.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+  GOLF</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR DEPORTES 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/333.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR DEPORTES 2</link> 
+            <title>M+ F1 FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ F1 FULL HD</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR ESTRENOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR ESTRENOS</link> 
+            <title>M+ F1 HD RESERVA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/706.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ F1 HD RESERVA 1</link> 
         </item> 
           <item> 
-            <title>ES: Movistar F1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Movistar F1</link> 
+            <title>M+ FUTBOL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/362.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ FUTBOL HD</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR FUTBOL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR FUTBOL HD</link> 
+            <title>M+ FUTBOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/363.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ FUTBOL</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR GOLF</link> 
+            <title>M+ MOTO GP FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ MOTO GP FULL HD</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR MOTO GP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR MOTO GP</link> 
+            <title>M+ MOTO GP HD RESERVA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/695.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ MOTO GP HD RESERVA 1</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR PARTIDAZO HD (Solo Eventos)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/302.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR PARTIDAZO HD (Solo Eventos)</link> 
+            <title>M+ PARTIDAZO FULL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/713.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ PARTIDAZO FULL HD</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/301.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)</link> 
+            <title>M+ PARTIDAZO HD RESERVA 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/694.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ PARTIDAZO HD RESERVA 1</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES</link> 
+            <title>M+ PARTIDAZO HD RESERVA 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/771.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ PARTIDAZO HD RESERVA 2</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR SERIES XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR SERIES XTRA</link> 
+            <title>LALIGATV BAR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1411.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGATV BAR</link> 
         </item> 
           <item> 
-            <title>ES: MOVISTAR XTRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: MOVISTAR XTRA</link> 
+            <title>LALIGA 1|2|3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=LALIGA 1|2|3</link> 
         </item> 
           <item> 
-            <title>ES: NAT GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO</link> 
+            <title>M+ TOROS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/415.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ TOROS</link> 
         </item> 
           <item> 
-            <title>ES: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NAT GEO WILD</link> 
+            <title>REAL MADRID TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=REAL MADRID TV HD</link> 
         </item> 
           <item> 
-            <title>ES: NEOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/300.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NEOX</link> 
+            <title>TELEDEPORTE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1427.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEDEPORTE HD</link> 
         </item> 
           <item> 
-            <title>ES: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/325.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NICKELODEON</link> 
+            <title>### BEIN SPORTS FRANCIA ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2238.ts&amp;streamtype=TSDOWNLOADER&amp;name=### BEIN SPORTS FRANCIA ###</link> 
         </item> 
           <item> 
-            <title>ES: NON STOP PEOPLE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/299.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NON STOP PEOPLE</link> 
+            <title>BEIN SPORTS 1 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1391.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 1 HD FR</link> 
         </item> 
           <item> 
-            <title>ES: NOVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/324.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: NOVA</link> 
+            <title>BEIN SPORTS 2 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1392.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 2 HD FR</link> 
         </item> 
           <item> 
-            <title>ES: ODISEA HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/298.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: ODISEA HD</link> 
+            <title>BEIN SPORTS 3 HD FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1393.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS 3 HD FR</link> 
         </item> 
           <item> 
-            <title>ES: PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/297.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PANDA</link> 
+            <title>### SPORT TV PORTUGAL  ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2239.ts&amp;streamtype=TSDOWNLOADER&amp;name=### SPORT TV PORTUGAL  ###</link> 
         </item> 
           <item> 
-            <title>ES: PARAMOUNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/296.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: PARAMOUNT</link> 
+            <title>PT - SPORTV 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/206.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SPORTV 1 HD</link> 
         </item> 
           <item> 
-            <title>ES: Real Madrid TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/183.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: Real Madrid TV</link> 
+            <title>PT - SPORTV 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/205.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SPORTV 2 HD</link> 
         </item> 
           <item> 
-            <title>ES: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/323.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: SYFY</link> 
+            <title>PT - SPORTV 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/204.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SPORTV 3 HD</link> 
         </item> 
           <item> 
-            <title>ES: TCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/322.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TCM</link> 
+            <title>PT - SPORTV 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SPORTV 4 SD</link> 
         </item> 
           <item> 
-            <title>ES: TELECINCO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/321.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO</link> 
+            <title>PT - SPORTV 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1111.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SPORTV 5 SD</link> 
         </item> 
           <item> 
-            <title>ES: TELECINCO HD op2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/3580.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELECINCO HD op2</link> 
+            <title>PT - SPORT TV +</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2155.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT - SPORT TV +</link> 
         </item> 
           <item> 
-            <title>ES: TELEDEPORTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/320.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TELEDEPORTE</link> 
+            <title>### MOVISTAR+ CINE-SERIES ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/386.ts&amp;streamtype=TSDOWNLOADER&amp;name=### MOVISTAR+ CINE-SERIES ###</link> 
         </item> 
           <item> 
-            <title>ES: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/319.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TNT</link> 
+            <title>#0 (CANAL+ HD)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/348.ts&amp;streamtype=TSDOWNLOADER&amp;name=#0 (CANAL+ HD)</link> 
         </item> 
           <item> 
-            <title>ES: TOROSTV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/155.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: TOROSTV HD</link> 
+            <title>A and E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/382.ts&amp;streamtype=TSDOWNLOADER&amp;name=A and E</link> 
         </item> 
           <item> 
-            <title>ES: VIAJAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://fullpremiumvip.com:8000/live/elvia1/elvia1/318.ts&amp;streamtype=TSDOWNLOADER&amp;name=ES: VIAJAR</link> 
+            <title>AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2134.ts&amp;streamtype=TSDOWNLOADER&amp;name=AMC HD</link> 
+        </item> 
+          <item> 
+            <title>AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/379.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN</link> 
+        </item> 
+          <item> 
+            <title>AXN WHITE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2154.ts&amp;streamtype=TSDOWNLOADER&amp;name=AXN WHITE</link> 
+        </item> 
+          <item> 
+            <title>CALLE 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/350.ts&amp;streamtype=TSDOWNLOADER&amp;name=CALLE 13</link> 
+        </item> 
+          <item> 
+            <title>COMEDY CENTRAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/343.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDY CENTRAL</link> 
+        </item> 
+          <item> 
+            <title>COSMO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/342.ts&amp;streamtype=TSDOWNLOADER&amp;name=COSMO</link> 
+        </item> 
+          <item> 
+            <title>CRIMEN INVESTIGACION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2165.ts&amp;streamtype=TSDOWNLOADER&amp;name=CRIMEN INVESTIGACION</link> 
+        </item> 
+          <item> 
+            <title>DCINE ESPANOL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/339.ts&amp;streamtype=TSDOWNLOADER&amp;name=DCINE ESPANOL</link> 
+        </item> 
+          <item> 
+            <title>FOX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX HD</link> 
+        </item> 
+          <item> 
+            <title>FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX</link> 
+        </item> 
+          <item> 
+            <title>FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/326.ts&amp;streamtype=TSDOWNLOADER&amp;name=HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>M+ ACCION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/733.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ ACCION HD</link> 
+        </item> 
+          <item> 
+            <title>M+ ACCION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ ACCION</link> 
+        </item> 
+          <item> 
+            <title>M+ COMEDIA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/370.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ COMEDIA HD</link> 
+        </item> 
+          <item> 
+            <title>M+ ESTRENOS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/746.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ ESTRENOS HD</link> 
+        </item> 
+          <item> 
+            <title>M+ ESTRENOS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/364.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ ESTRENOS</link> 
+        </item> 
+          <item> 
+            <title>M+ DCINE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/368.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ DCINE HD</link> 
+        </item> 
+          <item> 
+            <title>M+ DCINE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/369.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ DCINE</link> 
+        </item> 
+          <item> 
+            <title>M+ SERIES HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/357.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ SERIES HD</link> 
+        </item> 
+          <item> 
+            <title>M+ SERIES XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/356.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ SERIES XTRA</link> 
+        </item> 
+          <item> 
+            <title>M+ XTRA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/355.ts&amp;streamtype=TSDOWNLOADER&amp;name=M+ XTRA</link> 
+        </item> 
+          <item> 
+            <title>SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2152.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>TNT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/303.ts&amp;streamtype=TSDOWNLOADER&amp;name=TNT</link> 
+        </item> 
+          <item> 
+            <title>TCM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/307.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM</link> 
+        </item> 
+          <item> 
+            <title>### MUSICA ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/999.ts&amp;streamtype=TSDOWNLOADER&amp;name=### MUSICA ###</link> 
+        </item> 
+          <item> 
+            <title>ESKA BEST MUSIC TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1875.ts&amp;streamtype=TSDOWNLOADER&amp;name=ESKA BEST MUSIC TV</link> 
+        </item> 
+          <item> 
+            <title>HIT TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2138.ts&amp;streamtype=TSDOWNLOADER&amp;name=HIT TV</link> 
+        </item> 
+          <item> 
+            <title>MTV ESPAÑA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/418.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV ESPAÑA</link> 
+        </item> 
+          <item> 
+            <title>MUSIC TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2137.ts&amp;streamtype=TSDOWNLOADER&amp;name=MUSIC TOP</link> 
+        </item> 
+          <item> 
+            <title>ONE RUS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/1877.ts&amp;streamtype=TSDOWNLOADER&amp;name=ONE RUS HD</link> 
+        </item> 
+          <item> 
+            <title>NRJ HITS TV LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2139.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ HITS TV LIVE</link> 
+        </item> 
+          <item> 
+            <title>TELEMUSICA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2136.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELEMUSICA</link> 
+        </item> 
+          <item> 
+            <title>VIRGIN TV LIVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2140.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIRGIN TV LIVE</link> 
+        </item> 
+          <item> 
+            <title>### MOVISTAR+ INFANTILES ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/384.ts&amp;streamtype=TSDOWNLOADER&amp;name=### MOVISTAR+ INFANTILES ###</link> 
+        </item> 
+          <item> 
+            <title>BABY TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/376.ts&amp;streamtype=TSDOWNLOADER&amp;name=BABY TV</link> 
+        </item> 
+          <item> 
+            <title>BOING</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+        </item> 
+          <item> 
+            <title>CANAL PANDA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/347.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL PANDA</link> 
+        </item> 
+          <item> 
+            <title>CLAN TVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/709.ts&amp;streamtype=TSDOWNLOADER&amp;name=CLAN TVE</link> 
+        </item> 
+          <item> 
+            <title>DISNEY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/337.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2150.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>DISNEY XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/334.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+        </item> 
+          <item> 
+            <title>NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/708.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>NICK JR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICK JR</link> 
+        </item> 
+          <item> 
+            <title>### MOVISTAR+ DOCUMENTALES ###</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=### MOVISTAR+ DOCUMENTALES ###</link> 
+        </item> 
+          <item> 
+            <title>CANAL COCINA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/349.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL COCINA</link> 
+        </item> 
+          <item> 
+            <title>CAZA Y PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=CAZA Y PESCA</link> 
+        </item> 
+          <item> 
+            <title>DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2166.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>HISTORIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/327.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTORIA</link> 
+        </item> 
+          <item> 
+            <title>NAT GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/314.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEOGRAPHIC</link> 
+        </item> 
+          <item> 
+            <title>NATIONAL GEOGRAPHIC WILD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/707.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC WILD</link> 
+        </item> 
+          <item> 
+            <title>VIAJAR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://merlin.magikdata.biz:8000/live/test123/test123/2153.ts&amp;streamtype=TSDOWNLOADER&amp;name=VIAJAR HD</link> 
         </item> 
   
