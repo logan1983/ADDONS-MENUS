@@ -25,392 +25,221 @@
 
 
  
+ 
           <item> 
-            <title>(PT) RTP1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14387.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP1 HD</link> 
+            <title>PT_RTP_1_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_1_HD</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12363.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 1</link> 
+            <title>PT_RTP_2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_2_HD</link> 
         </item> 
           <item> 
-            <title>(PT) RTP2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14386.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP2 HD</link> 
+            <title>PT_RTP3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP3</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12362.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 2</link> 
+            <title>PT_SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC</link> 
         </item> 
           <item> 
-            <title>(PT) RTP 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12361.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP 3</link> 
+            <title>PT_SIC_NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_NOTICIAS</link> 
         </item> 
           <item> 
-            <title>(PT) SIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14385.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC HD</link> 
+            <title>PT_SIC_MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER</link> 
         </item> 
           <item> 
-            <title>(PT) SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12356.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC</link> 
+            <title>PT_SIC_CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS</link> 
         </item> 
           <item> 
-            <title>(PT) TVI HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14384.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI HD</link> 
+            <title>PT_TVI_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12346.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI</link> 
+            <title>PT_TVI_REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_REALITY</link> 
         </item> 
           <item> 
-            <title>(PT) SIC NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12351.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC NOTICIAS</link> 
+            <title>PT_TVI_FICCAO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_FICCAO</link> 
         </item> 
           <item> 
-            <title>(PT) TVI 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12350.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI 24</link> 
+            <title>PT_TVI_24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24</link> 
         </item> 
           <item> 
-            <title>(PT) SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12352.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC MULHER</link> 
+            <title>PT_TV_GLOBO_PREMIUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUM</link> 
         </item> 
           <item> 
-            <title>(PT) SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12353.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC RADICAL</link> 
+            <title>PT_TV_GLOBO</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO</link> 
         </item> 
           <item> 
-            <title>(PT) CANAL Q</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12321.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CANAL Q</link> 
+            <title>PT_TV_ CINE_1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_1</link> 
         </item> 
           <item> 
-            <title>(PT) PORTO CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12385.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) PORTO CANAL</link> 
+            <title>PT_TV_ CINE_2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_2</link> 
         </item> 
           <item> 
-            <title>(PT) RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12359.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP MEMORIA</link> 
+            <title>PT_TV_ CINE_3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_3</link> 
         </item> 
           <item> 
-            <title>(PT) RTP AFRICA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12358.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP AFRICA</link> 
+            <title>PT_TV_ CINE_4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_4</link> 
         </item> 
           <item> 
-            <title>(PT) RTP MADEIRA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12360.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP MADEIRA</link> 
+            <title>PT_TV _SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV _SERIES</link> 
         </item> 
           <item> 
-            <title>(PT) RTP ACORES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12357.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) RTP ACORES</link> 
+            <title>PT_Touros_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Touros_TV</link> 
         </item> 
           <item> 
-            <title>----- (PT) FILMES -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12398.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) FILMES -----</link> 
+            <title>PT_TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC</link> 
         </item> 
           <item> 
-            <title>(PT) TVCINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12379.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCINE 1 HD</link> 
+            <title>PT_SYFY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVCINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12378.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCINE 2 HD</link> 
+            <title>PT_PORTO_CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PORTO_CANAL</link> 
         </item> 
           <item> 
-            <title>(PT) TVCINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12377.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCINE 3 HD</link> 
+            <title>PT_PANDA_BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PANDA_BIGGS</link> 
         </item> 
           <item> 
-            <title>(PT) TVCINE 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12376.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVCINE 4 HD</link> 
+            <title>PT_Odisseia_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia_HD</link> 
         </item> 
           <item> 
-            <title>(PT) AMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14389.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AMC HD</link> 
+            <title>PT_Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Nickelodeon</link> 
         </item> 
           <item> 
-            <title>(PT) AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12339.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AMC</link> 
+            <title>PT_NATIONAL_GEOGRAPHIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NATIONAL_GEOGRAPHIC</link> 
         </item> 
           <item> 
-            <title>(PT) HOLLYWOOD HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14391.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) HOLLYWOOD HD</link> 
+            <title>PT_MOTORVISION_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOTORVISION_HD</link> 
         </item> 
           <item> 
-            <title>(PT) HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12375.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) HOLLYWOOD</link> 
+            <title>PT_Motors_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Motors_TV</link> 
         </item> 
           <item> 
-            <title>(PT) FOX MOVIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12372.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX MOVIES</link> 
+            <title>PT_JIMJAM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JIMJAM</link> 
         </item> 
           <item> 
-            <title>(PT) CINEMUNDO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12374.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CINEMUNDO</link> 
+            <title>PT_HOLLYWOOD_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HOLLYWOOD_HD</link> 
         </item> 
           <item> 
-            <title>----- (PT) SERIES -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12399.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) SERIES -----</link> 
+            <title>PT_HISTORIA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HISTORIA_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12314.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TV SERIES</link> 
+            <title>PT_FOX_MOVIES_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_MOVIES_HD</link> 
         </item> 
           <item> 
-            <title>(PT) AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12370.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN HD</link> 
+            <title>PT_FOX_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_HD</link> 
         </item> 
           <item> 
-            <title>(PT) AXN BLACK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12371.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN BLACK HD</link> 
+            <title>PT_FOX_COMEDY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_COMEDY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) AXN WHITE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12369.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AXN WHITE HD</link> 
+            <title>PT_FOX-CRIME_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX-CRIME_HD</link> 
         </item> 
           <item> 
-            <title>(PT) FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14390.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX HD</link> 
+            <title>PT_Fox _Life_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox _Life_HD</link> 
         </item> 
           <item> 
-            <title>(PT) FOX LIFE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12302.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX LIFE HD</link> 
+            <title>PT_EUROSPORT2_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT2_HD</link> 
         </item> 
           <item> 
-            <title>(PT) FOX CRIME HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12303.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX CRIME HD</link> 
+            <title>PT_EUROSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT1</link> 
         </item> 
           <item> 
-            <title>(PT) FOX COMEDY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12365.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX COMEDY</link> 
+            <title>PT_Disney_Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney_Channel</link> 
         </item> 
           <item> 
-            <title>(PT) SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12340.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SYFY</link> 
+            <title>PT_DISNEY-JUNIOR_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY-JUNIOR_HD</link> 
         </item> 
           <item> 
-            <title>(PT) MOV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12373.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MOV</link> 
+            <title>PT_Discovery_Showcase_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Discovery_Showcase_HD</link> 
         </item> 
           <item> 
-            <title>(PT) E!  ENTERTAINMENT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12337.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) E!  ENTERTAINMENT</link> 
+            <title>PT_DISCOVERY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12338.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CBS REALITY</link> 
+            <title>PT_CMTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CMTV</link> 
         </item> 
           <item> 
-            <title>(PT) SIC CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12355.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC CARAS</link> 
+            <title>PT_CINEMUNDO_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO_HD</link> 
         </item> 
           <item> 
-            <title>(PT) FUEL TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12335.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FUEL TV</link> 
+            <title>PT_CBS_REALITY_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CBS_REALITY_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVI FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12345.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI FICCAO</link> 
+            <title>PT_CAPELA_DE_FATIMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CAPELA_DE_FATIMA</link> 
         </item> 
           <item> 
-            <title>(PT) FTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12336.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FTV</link> 
+            <title>PT_CANAL-PANDA_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL-PANDA_HD</link> 
         </item> 
           <item> 
-            <title>(PT) TVI REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12344.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVI REALITY</link> 
+            <title>PT_CACAE_PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CACAE_PESCA</link> 
         </item> 
           <item> 
-            <title>(PT) CANAL NOS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12323.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CANAL NOS</link> 
+            <title>PT_BABY_TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BABY_TV</link> 
         </item> 
           <item> 
-            <title>(PT) CANCAO Nova</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12334.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CANCAO Nova</link> 
+            <title>PT_AXN_WHITE_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD</link> 
         </item> 
           <item> 
-            <title>----- (PT) DESPORTO -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12400.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) DESPORTO -----</link> 
+            <title>PT_AXN_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD</link> 
         </item> 
           <item> 
-            <title>(PT) PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12386.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) PFC</link> 
+            <title>PT_AXN_BLACK_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD</link> 
         </item> 
           <item> 
-            <title>(PT) REAL MADRID TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12383.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) REAL MADRID TV</link> 
+            <title>PT_AMC_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC_HD</link> 
         </item> 
           <item> 
-            <title>(PT) EUROSPORT 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12390.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) EUROSPORT 1 HD</link> 
-        </item> 
-          <item> 
-            <title>(PT) EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/13045.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) EUROSPORT 2</link> 
-        </item> 
-          <item> 
-            <title>(PT) EUROSPORT NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12389.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) EUROSPORT NEWS</link> 
-        </item> 
-          <item> 
-            <title>(PT) MCS EXTREME</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12331.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MCS EXTREME</link> 
-        </item> 
-          <item> 
-            <title>(PT) MOTORVISION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12388.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MOTORVISION</link> 
-        </item> 
-          <item> 
-            <title>(PT) MOTORSPORT TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12387.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MOTORSPORT TV</link> 
-        </item> 
-          <item> 
-            <title>(PT) NBA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12381.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) NBA TV</link> 
-        </item> 
-          <item> 
-            <title>(PT) CAZA E PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12380.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CAZA E PESCA</link> 
-        </item> 
-          <item> 
-            <title>(PT) TOROS TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12382.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TOROS TV</link> 
-        </item> 
-          <item> 
-            <title>----- (PT) CULTURA -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12401.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) CULTURA -----</link> 
-        </item> 
-          <item> 
-            <title>(PT) NATIONAL GEOGRAPHIC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12329.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) NATIONAL GEOGRAPHIC HD</link> 
-        </item> 
-          <item> 
-            <title>(PT) NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12330.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) NAT GEO WILD</link> 
-        </item> 
-          <item> 
-            <title>(PT) DISCOVERY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12304.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) DISCOVERY HD</link> 
-        </item> 
-          <item> 
-            <title>(PT) DISCOVERY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12326.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) DISCOVERY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>(PT) TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12343.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TLC</link> 
-        </item> 
-          <item> 
-            <title>(PT) ODISSEIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12333.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) ODISSEIA</link> 
-        </item> 
-          <item> 
-            <title>(PT) HISTORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12328.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) HISTORIA</link> 
-        </item> 
-          <item> 
-            <title>(PT) A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12342.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>(PT) 24 KITCHEN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12367.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) 24 KITCHEN HD</link> 
-        </item> 
-          <item> 
-            <title>(PT) TRAVEL CHANNEL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/14388.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TRAVEL CHANNEL HD</link> 
-        </item> 
-          <item> 
-            <title>(PT) TRAVEL CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12301.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TRAVEL CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>----- (PT) MUSICA -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12402.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) MUSICA -----</link> 
-        </item> 
-          <item> 
-            <title>(PT) MTV PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12309.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MTV PORTUGAL</link> 
-        </item> 
-          <item> 
-            <title>(PT) VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12308.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) VH1</link> 
-        </item> 
-          <item> 
-            <title>(PT) VH1 CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12307.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) VH1 CLASSIC</link> 
-        </item> 
-          <item> 
-            <title>(PT) MCM POP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12311.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MCM POP</link> 
-        </item> 
-          <item> 
-            <title>(PT) TRACE TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12332.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TRACE TV</link> 
-        </item> 
-          <item> 
-            <title>(PT) AFRO MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12312.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) AFRO MUSIC</link> 
-        </item> 
-          <item> 
-            <title>(PT) MEZZO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12310.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) MEZZO</link> 
-        </item> 
-          <item> 
-            <title>----- (PT) INFANTIL -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12403.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) INFANTIL -----</link> 
-        </item> 
-          <item> 
-            <title>(PT) DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12320.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) DISNEY CHANNEL</link> 
-        </item> 
-          <item> 
-            <title>(PT) DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12319.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) DISNEY JUNIOR</link> 
-        </item> 
-          <item> 
-            <title>(PT) CARTOON NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12327.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CARTOON NETWORK</link> 
-        </item> 
-          <item> 
-            <title>(PT) NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12317.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) NICKELODEON</link> 
-        </item> 
-          <item> 
-            <title>(PT) CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12322.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CANAL PANDA</link> 
-        </item> 
-          <item> 
-            <title>(PT) BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12324.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) BIGGS</link> 
-        </item> 
-          <item> 
-            <title>(PT) JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12318.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) JIM JAM</link> 
-        </item> 
-          <item> 
-            <title>(PT) SIC K</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12354.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) SIC K</link> 
-        </item> 
-          <item> 
-            <title>(PT) BABY FIRST</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12325.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) BABY FIRST</link> 
-        </item> 
-          <item> 
-            <title>----- (PT) INFORMACAO -----</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12404.ts&amp;streamtype=TSDOWNLOADER&amp;name=----- (PT) INFORMACAO -----</link> 
-        </item> 
-          <item> 
-            <title>(PT) CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12364.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) CMTV</link> 
-        </item> 
-          <item> 
-            <title>(PT) TVE 24H</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12348.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) TVE 24H</link> 
-        </item> 
-          <item> 
-            <title>(PT) EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12316.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) EURONEWS</link> 
-        </item> 
-          <item> 
-            <title>(PT) FOX NEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://nlgteam.camdvr.org:16050/live/luigi1/luigi1/12315.ts&amp;streamtype=TSDOWNLOADER&amp;name=(PT) FOX NEWS</link> 
+            <title>PT_A&amp;E_HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_A&amp;E_HD</link> 
         </item> 
   
