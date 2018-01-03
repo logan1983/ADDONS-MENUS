@@ -33,195 +33,79 @@
  
           <item> 
             <title>FR: TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8373.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
-        </item> 
-          <item> 
-            <title>FR: TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8374.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: France O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O</link> 
-        </item> 
-          <item> 
-            <title>FR: France O HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1</link> 
         </item> 
           <item> 
             <title>FR: France 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
-        </item> 
-          <item> 
-            <title>FR: France 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 2</link> 
         </item> 
           <item> 
             <title>FR: France 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3</link> 
-        </item> 
-          <item> 
-            <title>FR: France 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 3</link> 
         </item> 
           <item> 
             <title>FR: France 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
-        </item> 
-          <item> 
-            <title>FR: France 4 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 4</link> 
         </item> 
           <item> 
             <title>FR: France 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5</link> 
         </item> 
           <item> 
-            <title>FR: France 5 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 5 HD</link> 
+            <title>FR: France O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France O</link> 
         </item> 
           <item> 
-            <title>FR: Rts Deux HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Rts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Rts Deux HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8357.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: Rts Un HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Rts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Rts Un HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8358.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8281.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal +</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal + HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8285.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal + HD</link> 
-        </item> 
-          <item> 
-            <title>FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
-        </item> 
-          <item> 
-            <title>FR: NT1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1 HD</link> 
-        </item> 
-          <item> 
-            <title>FR: AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8261.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
-        </item> 
-          <item> 
-            <title>FR: Cstar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8305.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cstar</link> 
-        </item> 
-          <item> 
-            <title>FR: C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8280.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: C8</link> 
-        </item> 
-          <item> 
-            <title>FR: Rtl 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8356.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Rtl 9</link> 
-        </item> 
-          <item> 
-            <title>FR: W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8381.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
+            <title>FR: Arte</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte</link> 
         </item> 
           <item> 
             <title>FR: M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8335.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6</link> 
         </item> 
           <item> 
-            <title>FR: M6 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8336.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 HD</link> 
+            <title>FR: Canal+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+</link> 
         </item> 
           <item> 
-            <title>FR: M6 Music</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 Music</link> 
+            <title>FR: Canal+ Decale</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Decale</link> 
         </item> 
           <item> 
-            <title>FR: NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
+            <title>FR: Canal+ Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Family</link> 
         </item> 
           <item> 
-            <title>FR: 6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8258.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
+            <title>FR: Canal+ Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Cinema</link> 
         </item> 
           <item> 
-            <title>FR: 6TER  HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8259.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER  HD</link> 
+            <title>FR: Canal+ Series</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/224.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Series</link> 
         </item> 
           <item> 
-            <title>FR: WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8382.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: WEO</link> 
+            <title>FR: Canal+ Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Sport</link> 
         </item> 
           <item> 
-            <title>-------------FR: Cine&amp;Serie-------------------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8383.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------------FR: Cine&amp;Serie-------------------</link> 
+            <title>FR: Cine + Premier</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine + Premier</link> 
         </item> 
           <item> 
-            <title>FR: Canal Cinema HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8282.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Cinema HD</link> 
+            <title>FR: Cine + FRISSON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine + FRISSON</link> 
         </item> 
           <item> 
-            <title>FR: Canal Decale HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8283.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Decale HD</link> 
+            <title>FR: Cine + Emotion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine + Emotion</link> 
         </item> 
           <item> 
-            <title>FR: Canal Family HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8284.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Family HD</link> 
+            <title>FR: Cine + Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine + Classic</link> 
         </item> 
           <item> 
-            <title>FR: Canal J HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8286.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal J HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Premier</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8303.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Premier</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Classic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8296.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Classic</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Classic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8297.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Classic HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Emotion HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8298.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Emotion HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Famiz HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8299.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Famiz HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Frisson HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8300.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Frisson HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Comedie</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8304.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Comedie</link> 
-        </item> 
-          <item> 
-            <title>FR: HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8301.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine FX</link> 
-        </item> 
-          <item> 
-            <title>FR: Cine Polar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8302.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cine Polar</link> 
-        </item> 
-          <item> 
-            <title>FR: Ocs Choc HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs Choc HD</link> 
+            <title>FR: Ocs Max</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/248.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs Max</link> 
         </item> 
           <item> 
             <title>FR: Ocs Geants</title> 
@@ -229,406 +113,470 @@
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8347.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/345.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Ocs Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ocs Max</link> 
+            <title>FR: OCS Choc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/732.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS Choc</link> 
         </item> 
           <item> 
-            <title>FR: Syfy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8368.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Syfy HD</link> 
+            <title>FR: OCS City</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/848.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: OCS City</link> 
         </item> 
           <item> 
-            <title>FR: TCM Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8369.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TCM Cinema</link> 
+            <title>FR: Paris Première</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Première</link> 
         </item> 
           <item> 
-            <title>FR: Action HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8262.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action HD</link> 
+            <title>FR: 13 eme Rue</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13 eme Rue</link> 
         </item> 
           <item> 
-            <title>FR: Paramount Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paramount Channel</link> 
+            <title>FR: Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/216.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Action</link> 
         </item> 
           <item> 
-            <title>FR: 13Eme Rue HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8257.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 13Eme Rue HD</link> 
+            <title>FR: Ciné FX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/247.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné FX</link> 
         </item> 
           <item> 
-            <title>FR: Serie Club HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Serie Club HD</link> 
+            <title>FR: Ciné Polar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ciné Polar</link> 
         </item> 
           <item> 
-            <title>FR: Season HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Season HD</link> 
+            <title>FR: SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SyFy</link> 
         </item> 
           <item> 
-            <title>-------------FR: Cultur-------------------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8384.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------------FR: Cultur-------------------</link> 
+            <title>FR: 6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER</link> 
         </item> 
           <item> 
-            <title>FR: Arte HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8264.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Arte HD</link> 
+            <title>FR: HD1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: HD1</link> 
         </item> 
           <item> 
-            <title>FR: Discovery</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8306.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery</link> 
+            <title>FR: C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: C8</link> 
         </item> 
           <item> 
-            <title>FR: Discovery SC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8307.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery SC</link> 
+            <title>FR: W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: W9</link> 
         </item> 
           <item> 
-            <title>FR: National Geographic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8339.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: National Geographic</link> 
+            <title>FR: Cstar</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cstar</link> 
         </item> 
           <item> 
-            <title>FR: Planete C.I HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete C.I HD</link> 
+            <title>FR: SERIE CLUB</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SERIE CLUB</link> 
         </item> 
           <item> 
-            <title>FR: Nationalgeo Wild HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8340.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nationalgeo Wild HD</link> 
+            <title>FR: Tv Breizh</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/967.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tv Breizh</link> 
         </item> 
           <item> 
-            <title>FR: Planete AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete AE</link> 
+            <title>FR: RTL 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RTL 9</link> 
         </item> 
           <item> 
-            <title>FR: Planete   HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete   HD</link> 
+            <title>FR: COMEDIE+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/966.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: COMEDIE+</link> 
         </item> 
           <item> 
-            <title>FR: Science et vie HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Science et vie HD</link> 
+            <title>FR: Téva</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Téva</link> 
         </item> 
           <item> 
-            <title>FR: toute l'histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8377.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: toute l'histoire</link> 
+            <title>FR: TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
         </item> 
           <item> 
-            <title>FR: Voyage HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8380.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Voyage HD</link> 
+            <title>FR: NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/173.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
         </item> 
           <item> 
-            <title>FR: RMC Couverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC Couverte</link> 
+            <title>FR: NUMERO 23</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23</link> 
         </item> 
           <item> 
-            <title>-------------FR: Entretainment-------------------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8386.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------------FR: Entretainment-------------------</link> 
+            <title>FR: NRJ 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ 12</link> 
         </item> 
           <item> 
-            <title>FR: Histoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Histoire</link> 
+            <title>FR: NRJ HITS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ HITS</link> 
+        </item> 
+          <item> 
+            <title>FR: E!</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/805.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E!</link> 
         </item> 
           <item> 
             <title>FR: Cherie 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8295.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cherie 25</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cherie 25</link> 
         </item> 
           <item> 
-            <title>FR: Teva HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Teva HD</link> 
+            <title>FR: AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB1</link> 
         </item> 
           <item> 
-            <title>FR: TMC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8376.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC HD</link> 
+            <title>FR: AB3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/700.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB3</link> 
         </item> 
           <item> 
-            <title>FR: TV Breizh HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8378.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV Breizh HD</link> 
+            <title>FR: A la carte 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/672.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 1</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/673.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 2</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/674.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 3</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/675.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 4</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/676.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 5</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/677.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 6</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/678.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 7</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/679.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 8</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/680.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 9</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 10</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/681.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 10</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/682.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 11</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/683.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 12</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 13</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/684.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 13</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 14</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/685.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 14</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 15</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/686.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 15</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 16</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/687.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 16</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 17</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 18</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/689.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 18</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 19</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 19</link> 
+        </item> 
+          <item> 
+            <title>FR: A la carte 20</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A la carte 20</link> 
+        </item> 
+          <item> 
+            <title>FR: NAT GEO FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/223.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NAT GEO FR</link> 
+        </item> 
+          <item> 
+            <title>FR: Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/182.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery</link> 
+        </item> 
+          <item> 
+            <title>FR: Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>FR: Discovery Investigation</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Discovery Investigation</link> 
+        </item> 
+          <item> 
+            <title>FR: RMC DECOUVERTE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: RMC DECOUVERTE</link> 
+        </item> 
+          <item> 
+            <title>FR: VOYAGE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/817.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: VOYAGE</link> 
+        </item> 
+          <item> 
+            <title>FR: Science et Vie</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Science et Vie</link> 
+        </item> 
+          <item> 
+            <title>FR: Trek</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/591.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Trek</link> 
+        </item> 
+          <item> 
+            <title>FR: Nat Geo Wild FR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/215.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nat Geo Wild FR</link> 
+        </item> 
+          <item> 
+            <title>FR: Chasse et Peche</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chasse et Peche</link> 
+        </item> 
+          <item> 
+            <title>FR: Animaux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/225.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux</link> 
+        </item> 
+          <item> 
+            <title>FR: SEASON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/839.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SEASON</link> 
         </item> 
           <item> 
             <title>FR: Ushuaia</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8379.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Ushuaia</link> 
         </item> 
           <item> 
-            <title>FR: E! Entertainment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8312.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! Entertainment</link> 
+            <title>FR: Planet +</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/214.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planet +</link> 
         </item> 
           <item> 
-            <title>FR: Paris Premiere</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Paris Premiere</link> 
+            <title>FR: Planete-ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Planete-ci</link> 
         </item> 
           <item> 
-            <title>FR: Tcm France</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8370.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tcm France</link> 
+            <title>FR: Crime District</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/698.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Crime District</link> 
         </item> 
           <item> 
-            <title>FR: Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Euronews</link> 
+            <title>FR: Toute l'Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Toute l'Histoire</link> 
         </item> 
           <item> 
-            <title>FR: France24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France24</link> 
+            <title>FR: AB Moteurs</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/593.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB Moteurs</link> 
         </item> 
           <item> 
-            <title>FR: NumÃ©ro 23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NumÃ©ro 23</link> 
+            <title>FR: TV5 monde</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TV5 monde</link> 
         </item> 
           <item> 
-            <title>-------------FR: Sport-------------------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8388.ts&amp;streamtype=TSDOWNLOADER&amp;name=-------------FR: Sport-------------------</link> 
+            <title>CH: RTS un</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/180.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RTS un</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports 1</link> 
+            <title>CH: RTS deux</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/181.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: RTS deux</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8265.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: France Info</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/592.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France Info</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports 1 HD</link> 
+            <title>FR: France 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: France 24</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8266.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: BFM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM TV</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports 2</link> 
+            <title>FR: BFM Paris</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/699.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM Paris</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8267.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: EuroNews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EuroNews</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports 2 HD</link> 
+            <title>FR: Cnews</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cnews</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8268.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: V TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: V TV</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports 3</link> 
+            <title>BE: Télé Sambre</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE: Télé Sambre</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8269.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>CH: Rouge tv</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=CH: Rouge tv</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports 3 HD</link> 
+            <title>FR: Enorme TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Enorme TV</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8270.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: Weo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Weo</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 4</link> 
+            <title>FR: GRAND LILLE TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: GRAND LILLE TV</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8272.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: Golf Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/701.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Golf Channel</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 5</link> 
+            <title>FR: Lucky Jack TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/702.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Lucky Jack TV</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8273.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/726.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Histoire</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 6</link> 
+            <title>FR: Francophonie 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/704.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Francophonie 24</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8274.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: Antenne Reunion</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/710.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Antenne Reunion</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 7</link> 
+            <title>FR: A+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/820.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: A+</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8275.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>****SPORT****</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/0.ts&amp;streamtype=TSDOWNLOADER&amp;name=****SPORT****</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 8</link> 
+            <title>FR: Infosport+</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Infosport+</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8276.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: L'Équipe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'Équipe</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 9</link> 
+            <title>FR: BFM Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BFM Sport</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8277.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR: Canal+ Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal+ Sport</link> 
         </item> 
           <item> 
-            <title>FR: BeIN Sports Max 10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: BeIN Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: BeIN Sports Max 10</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8271.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: SFR Sports 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sports 1</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8362.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: SFR Sports 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sports 1 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8363.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: SFR Sports 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sports 2</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8364.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: SFR Sports 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sports 2 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8365.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: SFR Sports 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sports 3</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8366.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: SFR Sports 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: SFR Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR Sports 3 HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8367.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: Chasse &amp; Peche HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8294.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Chasse &amp; Peche HD</link> 
-        </item> 
-          <item> 
-            <title>FR: Canal Sports HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Canal Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Canal Sports HD</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8292.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR: AB Moteur</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8260.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: AB Moteur</link> 
-        </item> 
-          <item> 
-            <title>FR: Equidia Live</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Equidia Live</link> 
+            <title>FR: Eurosport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/212.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport 1</link> 
         </item> 
           <item> 
             <title>FR: Eurosport 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport 2</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/213.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport 2</link> 
         </item> 
           <item> 
-            <title>FR: Eurosport HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Eurosport HD</link> 
+            <title>FR: Foot +24/24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Foot +24/24</link> 
         </item> 
           <item> 
-            <title>FR: Infosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Infosport</link> 
+            <title>FR: SFR SPORT 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 1 HD</link> 
         </item> 
           <item> 
-            <title>FR: Bfm</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8278.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bfm</link> 
+            <title>FR: SFR SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 2 HD</link> 
         </item> 
           <item> 
-            <title>FR: Golf HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Golf HD</link> 
+            <title>FR: SFR SPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 3 HD</link> 
         </item> 
           <item> 
-            <title>FR: L'Equipe21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8334.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: L'Equipe21</link> 
+            <title>FR: SFR SPORT 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SFR SPORT 5 HD</link> 
         </item> 
           <item> 
-            <title>-------------FR: Enfants-------------------</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,-------------FR: Enfants&amp;streamtype=TSDOWNLOADER&amp;name=-------------FR: Enfants-------------------</link> 
+            <title>FR: Bein Sports 1 hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 1 hd</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8385.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Animaux HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8263.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Animaux HD</link> 
+            <title>FR: Bein Sports 2 hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 2 hd</link> 
         </item> 
           <item> 
-            <title>FR: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8293.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Cartoon Network</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Boomerang HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8279.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Boomerang HD</link> 
+            <title>FR: Bein Sports 3 hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports 3 hd</link> 
         </item> 
           <item> 
-            <title>FR: Gulli</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Gulli</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Piwi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Piwi</link> 
+            <title>FR: Bein Sports Max4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports Max4</link> 
         </item> 
           <item> 
-            <title>FR: Disney Chanel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8308.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Chanel</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Disney Cinemagic F</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Cinemagic F</link> 
+            <title>FR: Bein Sports Max5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports Max5</link> 
         </item> 
           <item> 
-            <title>FR: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney Junior</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/329.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8311.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Disney XD</link> 
+            <title>FR: Bein Sports Max6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports Max6</link> 
         </item> 
           <item> 
-            <title>FR: Tiji</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Tiji</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Mangas</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8338.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Mangas</link> 
+            <title>FR: Bein Sports Max7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports Max7</link> 
         </item> 
           <item> 
-            <title>FR: Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Nickelodeon</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR: Teletoon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8371.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Teletoon</link> 
+            <title>FR: Bein Sports Max8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports Max8</link> 
         </item> 
           <item> 
-            <title>FR: Game One</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://black.myvnc.com:8000/live/Orolando/Orolando/8328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: Game One</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/332.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>FR: Bein Sports Max9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=FR: Bein Sports Max9</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://iptv.magsat.tv:80/live/MagSat/WoodyAllen/280.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
   
