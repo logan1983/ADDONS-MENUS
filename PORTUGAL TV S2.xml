@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>       
-<title>  [COLOR lime] •S2 UPDATE 05-01-2018[/COLOR] </title>
+<title>  [COLOR lime] •S2 UPDATE 15-01-2018[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -27,218 +27,224 @@
  
   
  
- 
- 
           <item> 
             <title>PT: RTP 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3253.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: RTP 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3255.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3253.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1 HD</link> 
         </item> 
           <item> 
             <title>PT: RTP 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3254.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3254.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3255.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3122.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
         </item> 
           <item> 
             <title>PT: RTP Africa</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3124.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3124.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
         </item> 
           <item> 
             <title>PT: RTP Acores</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3125.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3125.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
         </item> 
           <item> 
             <title>PT: RTP MEMORIA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3144.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP MEMORIA</link> 
         </item> 
           <item> 
             <title>PT: SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3256.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
-        </item> 
-          <item> 
-            <title>PT: SIC KIDS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3256.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
             <title>PT: SIC MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3262.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3262.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
+        </item> 
+          <item> 
+            <title>PT: SIC KIDS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3278.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC KIDS</link> 
         </item> 
           <item> 
             <title>PT: Sic Noticias</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3119.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Noticias</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3119.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Sic Noticias</link> 
         </item> 
           <item> 
             <title>PT: SIC Caras</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3120.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3120.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Caras</link> 
         </item> 
           <item> 
             <title>PT: SIC RADICAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3121.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3121.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
         </item> 
           <item> 
             <title>PT: TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3258.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
-        </item> 
-          <item> 
-            <title>PT: Tvi 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3127.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3258.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
             <title>PT: TVI Ficcao</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3257.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3257.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Ficcao</link> 
+        </item> 
+          <item> 
+            <title>PT: TVI Reality</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3142.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI Reality</link> 
+        </item> 
+          <item> 
+            <title>PT: Tvi 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3127.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Tvi 24</link> 
         </item> 
           <item> 
             <title>PT: TV Globo Premium</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3128.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
-        </item> 
-          <item> 
-            <title>PT: TV CINE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4</link> 
-        </item> 
-          <item> 
-            <title>PT: TV SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3266.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3114.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
         </item> 
           <item> 
             <title>PT: TV RECORD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3260.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3260.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
         </item> 
           <item> 
             <title>PT: TV GLOBO PORTUGAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3259.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PORTUGAL</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3259.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV GLOBO PORTUGAL</link> 
         </item> 
           <item> 
-            <title>PT: PFC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3265.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+            <title>PT: TV CINE 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3128.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3263.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3264.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
+        </item> 
+          <item> 
+            <title>PT: TV CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3113.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4</link> 
+        </item> 
+          <item> 
+            <title>PT: TV SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3266.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV SERIES</link> 
         </item> 
           <item> 
             <title>PT: NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3273.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NAT GEO WILD</link> 
         </item> 
           <item> 
             <title>PT: MOV HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3271.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3271.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
         </item> 
           <item> 
             <title>PT: JIM JAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3277.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JIM JAM</link> 
         </item> 
           <item> 
             <title>PT: FOX Life</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Life</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3268.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Life</link> 
         </item> 
           <item> 
             <title>PT: FOX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3267.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3267.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX HD</link> 
         </item> 
           <item> 
             <title>PT: VH1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3269.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3269.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
         </item> 
           <item> 
             <title>PT: Toros Tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3270.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros Tv</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3270.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Toros Tv</link> 
         </item> 
           <item> 
             <title>PT: CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3261.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CMTV</link> 
         </item> 
           <item> 
             <title>PT: CBS REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
         </item> 
           <item> 
             <title>PT: CANAL PORTO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PORTO</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3284.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PORTO</link> 
         </item> 
           <item> 
             <title>PT: CANAL PANDA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL PANDA</link> 
         </item> 
           <item> 
             <title>PT: CANAL HOLLYWOOD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HOLLYWOOD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3272.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL HOLLYWOOD</link> 
         </item> 
           <item> 
             <title>PT: Panda Biggs</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda Biggs</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Panda Biggs</link> 
         </item> 
           <item> 
             <title>PT: SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3141.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3141.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY</link> 
         </item> 
           <item> 
             <title>PT: Cine Mundo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3123.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3123.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cine Mundo</link> 
         </item> 
           <item> 
             <title>PT: NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3133.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3133.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
         </item> 
           <item> 
             <title>PT: Porto canal</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3143.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto canal</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3143.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Porto canal</link> 
         </item> 
           <item> 
             <title>PT: National Geographic HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: National Geographic HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: National Geographic HD</link> 
         </item> 
           <item> 
             <title>PT: FOX Movies HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3130.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX Movies HD</link> 
         </item> 
           <item> 
             <title>PT: RT GLOBAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3132.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RT GLOBAL</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3132.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RT GLOBAL</link> 
         </item> 
           <item> 
             <title>PT: A BOLA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A BOLA TV</link> 
         </item> 
           <item> 
             <title>PT: Euronews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3145.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Euronews</link> 
         </item> 
           <item> 
             <title>PT: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3134.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3134.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Junior</link> 
         </item> 
           <item> 
             <title>PT: Disney Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3136.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3136.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
         </item> 
           <item> 
             <title>PT: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3137.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery Channel</link> 
         </item> 
           <item> 
             <title>PT: Cartoon Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon Network</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3135.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Cartoon Network</link> 
         </item> 
           <item> 
             <title>PT: AXN White</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3139.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3139.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN White</link> 
         </item> 
           <item> 
             <title>PT: AXN HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3140.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3140.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
         </item> 
           <item> 
             <title>PT: AXN BLACK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3138.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3138.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN BLACK</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://163.172.62.63:8000/live/Bhakjd/515533/3265.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
         </item> 
   
