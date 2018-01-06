@@ -2,7 +2,7 @@
 
 
 <item>       
-<title>  [COLOR lime] •S1 UPDATE 05-01-2018[/COLOR] </title>
+<title>  [COLOR lime] •S1 UPDATE 15-01-2018[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -26,220 +26,333 @@
 
  
  
+ 
           <item> 
-            <title>PT_RTP_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2611.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_1_HD</link> 
+            <title>PT: RTP 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1747.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 1</link> 
         </item> 
           <item> 
-            <title>PT_RTP_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2613.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP_2_HD</link> 
+            <title>PT: RTP 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1748.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 2</link> 
         </item> 
           <item> 
-            <title>PT_RTP3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2622.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_RTP3</link> 
+            <title>PT: RTP 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6429.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP 3</link> 
         </item> 
           <item> 
-            <title>PT_SIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC</link> 
+            <title>PT: RTP Memoria</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1754.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Memoria</link> 
         </item> 
           <item> 
-            <title>PT_SIC_NOTICIAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2619.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_NOTICIAS</link> 
+            <title>PT: RTP Madeira</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1753.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Madeira</link> 
         </item> 
           <item> 
-            <title>PT_SIC_MULHER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2628.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_MULHER</link> 
+            <title>PT: RTP Africa</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1750.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Africa</link> 
         </item> 
           <item> 
-            <title>PT_SIC_CARAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2627.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SIC_CARAS</link> 
+            <title>PT: RTP Acores</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1749.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP Acores</link> 
         </item> 
           <item> 
-            <title>PT_TVI_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2618.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_HD</link> 
+            <title>PT: SIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3937.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC</link> 
         </item> 
           <item> 
-            <title>PT_TVI_REALITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2626.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_REALITY</link> 
+            <title>PT: SIC RADICAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3934.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC RADICAL</link> 
         </item> 
           <item> 
-            <title>PT_TVI_FICCAO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2625.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_FICCAO</link> 
+            <title>PT: SIC NOTICIAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3935.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC NOTICIAS</link> 
         </item> 
           <item> 
-            <title>PT_TVI_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2620.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TVI_24</link> 
+            <title>PT: SIC Kids</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3936.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC Kids</link> 
         </item> 
           <item> 
-            <title>PT_TV_GLOBO_PREMIUM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2629.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO_PREMIUM</link> 
+            <title>PT: SIC MULHER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4332.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC MULHER</link> 
         </item> 
           <item> 
-            <title>PT_TV_GLOBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2630.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_GLOBO</link> 
+            <title>PT: SIC CARAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4333.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SIC CARAS</link> 
         </item> 
           <item> 
-            <title>PT_TV_ CINE_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2649.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_1</link> 
+            <title>PT: TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3932.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI</link> 
         </item> 
           <item> 
-            <title>PT_TV_ CINE_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2650.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_2</link> 
+            <title>PT: TVI 24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3933.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI 24</link> 
         </item> 
           <item> 
-            <title>PT_TV_ CINE_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2651.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_3</link> 
+            <title>PT: TVI REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4330.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI REALITY</link> 
         </item> 
           <item> 
-            <title>PT_TV_ CINE_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2652.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV_ CINE_4</link> 
+            <title>PT: TVI FicÃ§Ã£o</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6430.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVI FicÃ§Ã£o</link> 
         </item> 
           <item> 
-            <title>PT_TV _SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2672.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TV _SERIES</link> 
+            <title>PT: TV Globo Premium</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4110.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV Globo Premium</link> 
         </item> 
           <item> 
-            <title>PT_Touros_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2646.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Touros_TV</link> 
+            <title>PT: GLOBO TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4098.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: GLOBO TV</link> 
         </item> 
           <item> 
-            <title>PT_TLC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2683.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_TLC</link> 
+            <title>PT: TV RECORD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6400.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV RECORD</link> 
         </item> 
           <item> 
-            <title>PT_SYFY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2674.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_SYFY_HD</link> 
+            <title>PT: TV CINE 1  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6403.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 1  HD</link> 
         </item> 
           <item> 
-            <title>PT_PORTO_CANAL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2624.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PORTO_CANAL</link> 
+            <title>PT: TV CINE 2  HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6404.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 2  HD</link> 
         </item> 
           <item> 
-            <title>PT_PANDA_BIGGS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2635.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_PANDA_BIGGS</link> 
+            <title>PT: TV CINE 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6405.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 3 HD</link> 
         </item> 
           <item> 
-            <title>PT_Odisseia_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2675.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Odisseia_HD</link> 
+            <title>PT: TV CINE 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6406.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TV CINE 4</link> 
         </item> 
           <item> 
-            <title>PT_Nickelodeon</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2636.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Nickelodeon</link> 
+            <title>PT: TVC SERIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6517.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC SERIES</link> 
         </item> 
           <item> 
-            <title>PT_NATIONAL_GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2677.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_NATIONAL_GEOGRAPHIC</link> 
+            <title>PT: TVC 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1734.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 1</link> 
         </item> 
           <item> 
-            <title>PT_MOTORVISION_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2644.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_MOTORVISION_HD</link> 
+            <title>PT: TVC 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1275.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 2</link> 
         </item> 
           <item> 
-            <title>PT_Motors_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2645.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Motors_TV</link> 
+            <title>PT: TVC 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1736.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 3</link> 
         </item> 
           <item> 
-            <title>PT_JIMJAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2637.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_JIMJAM</link> 
+            <title>PT: TVC 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1737.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TVC 4</link> 
         </item> 
           <item> 
-            <title>PT_HOLLYWOOD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2658.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HOLLYWOOD_HD</link> 
+            <title>PT: Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3691.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Motors TV</link> 
         </item> 
           <item> 
-            <title>PT_HISTORIA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2681.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_HISTORIA_HD</link> 
+            <title>PT: Eurosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3694.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Eurosport</link> 
         </item> 
           <item> 
-            <title>PT_FOX_MOVIES_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2660.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_MOVIES_HD</link> 
+            <title>PT: E! Entertainment</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: E! Entertainment</link> 
         </item> 
           <item> 
-            <title>PT_FOX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2667.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_HD</link> 
+            <title>PT: SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: SYFY HD</link> 
         </item> 
           <item> 
-            <title>PT_FOX_COMEDY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2670.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX_COMEDY_HD</link> 
+            <title>PT: MOV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/886.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOV HD</link> 
         </item> 
           <item> 
-            <title>PT_FOX-CRIME_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2668.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_FOX-CRIME_HD</link> 
+            <title>PT: Fox Crime</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4331.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Crime</link> 
         </item> 
           <item> 
-            <title>PT_Fox _Life_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2671.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Fox _Life_HD</link> 
+            <title>PT: FOX MOVE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/888.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVE</link> 
         </item> 
           <item> 
-            <title>PT_EUROSPORT2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2643.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT2_HD</link> 
+            <title>PT: AXN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1129.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN HD</link> 
         </item> 
           <item> 
-            <title>PT_EUROSPORT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2642.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_EUROSPORT1</link> 
+            <title>PT: AXN Black HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1131.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN Black HD</link> 
         </item> 
           <item> 
-            <title>PT_Disney_Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2632.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Disney_Channel</link> 
+            <title>PT: VH1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/1744.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: VH1</link> 
         </item> 
           <item> 
-            <title>PT_DISNEY-JUNIOR_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2633.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISNEY-JUNIOR_HD</link> 
+            <title>PT: PANDA BIGGS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4335.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA BIGGS</link> 
         </item> 
           <item> 
-            <title>PT_Discovery_Showcase_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2680.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_Discovery_Showcase_HD</link> 
+            <title>PT: Odisseia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4336.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Odisseia</link> 
         </item> 
           <item> 
-            <title>PT_DISCOVERY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2679.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_DISCOVERY_HD</link> 
+            <title>PT: Nat Geo Wild</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4334.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geo Wild</link> 
         </item> 
           <item> 
-            <title>PT_CMTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2621.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CMTV</link> 
+            <title>PT: DISCOVERY CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4337.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISCOVERY CHANNEL</link> 
         </item> 
           <item> 
-            <title>PT_CINEMUNDO_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2659.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CINEMUNDO_HD</link> 
+            <title>PT: CM TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/4329.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CM TV</link> 
         </item> 
           <item> 
-            <title>PT_CBS_REALITY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2682.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CBS_REALITY_HD</link> 
+            <title>PT: Fox L</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3693.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox L</link> 
         </item> 
           <item> 
-            <title>PT_CAPELA_DE_FATIMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2623.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CAPELA_DE_FATIMA</link> 
+            <title>PT: EconÃ³mico TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3695.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: EconÃ³mico TV</link> 
         </item> 
           <item> 
-            <title>PT_CANAL-PANDA_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2634.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CANAL-PANDA_HD</link> 
+            <title>PT: 24 KITCHEN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6383.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: 24 KITCHEN</link> 
         </item> 
           <item> 
-            <title>PT_CACAE_PESCA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2647.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_CACAE_PESCA</link> 
+            <title>PT: A &amp; E</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6386.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A &amp; E</link> 
         </item> 
           <item> 
-            <title>PT_BABY_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2638.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_BABY_TV</link> 
+            <title>PT: AXN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6384.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AXN</link> 
         </item> 
           <item> 
-            <title>PT_AXN_WHITE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2664.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_WHITE_HD</link> 
+            <title>PT: CAÃ‡A &amp; PESCA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6387.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CAÃ‡A &amp; PESCA</link> 
         </item> 
           <item> 
-            <title>PT_AXN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2663.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_HD</link> 
+            <title>PT: CANAL Q</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6388.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CANAL Q</link> 
         </item> 
           <item> 
-            <title>PT_AXN_BLACK_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2665.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AXN_BLACK_HD</link> 
+            <title>PT: CARTOON  NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6399.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTOON  NETWORK</link> 
         </item> 
           <item> 
-            <title>PT_AMC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2661.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_AMC_HD</link> 
+            <title>PT: CBS REALITY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6398.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CBS REALITY</link> 
         </item> 
           <item> 
-            <title>PT_A&amp;E_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2676.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT_A&amp;E_HD</link> 
+            <title>PT: Discovery HD Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6389.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Discovery HD Showcase</link> 
+        </item> 
+          <item> 
+            <title>PT: DISNEY JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6390.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: DISNEY JUNIOR</link> 
+        </item> 
+          <item> 
+            <title>PT: Fox Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6391.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Fox Comedy</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX LIFE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6392.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX LIFE</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6393.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX TV</link> 
+        </item> 
+          <item> 
+            <title>PT: FUEL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6397.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FUEL TV</link> 
+        </item> 
+          <item> 
+            <title>PT: HOLLYWOOD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6394.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: HOLLYWOOD</link> 
+        </item> 
+          <item> 
+            <title>PT: MOTORVISION TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6385.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MOTORVISION TV</link> 
+        </item> 
+          <item> 
+            <title>PT: PFC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6395.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PFC</link> 
+        </item> 
+          <item> 
+            <title>PT: PORTO CANAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6396.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PORTO CANAL</link> 
+        </item> 
+          <item> 
+            <title>PT: TLC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6402.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TLC</link> 
+        </item> 
+          <item> 
+            <title>PT: TOUROS TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6401.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: TOUROS TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Afro Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6407.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Afro Music</link> 
+        </item> 
+          <item> 
+            <title>PT: MCM TOP</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6408.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MCM TOP</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV Dance</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6410.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV Dance</link> 
+        </item> 
+          <item> 
+            <title>PT: Chelsea TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3698.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Chelsea TV</link> 
+        </item> 
+          <item> 
+            <title>PT: Canal de Historia</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3700.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Canal de Historia</link> 
+        </item> 
+          <item> 
+            <title>PT: NICKELODEON</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6071.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: NICKELODEON</link> 
+        </item> 
+          <item> 
+            <title>PT: PANDA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6068.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: PANDA HD</link> 
+        </item> 
+          <item> 
+            <title>PT: Nat Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6411.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Nat Geographic</link> 
+        </item> 
+          <item> 
+            <title>PT: CARTON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6070.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CARTON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>PT: CINE MUNDO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6072.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: CINE MUNDO HD</link> 
+        </item> 
+          <item> 
+            <title>PT: FOX MOVIES</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6520.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: FOX MOVIES</link> 
+        </item> 
+          <item> 
+            <title>PT: MTV PORTUGAL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/6069.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: MTV PORTUGAL</link> 
+        </item> 
+          <item> 
+            <title>PT: A Bola TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3705.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: A Bola TV</link> 
+        </item> 
+          <item> 
+            <title>PT: AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3704.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: AMC</link> 
+        </item> 
+          <item> 
+            <title>PT: Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3702.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Baby TV</link> 
+        </item> 
+          <item> 
+            <title>PT: JimJam EMEA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3692.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: JimJam EMEA</link> 
+        </item> 
+          <item> 
+            <title>PT: Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://clientportalpro.com:2500/live/gina/gina/3696.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: Disney Channel</link> 
         </item> 
   
