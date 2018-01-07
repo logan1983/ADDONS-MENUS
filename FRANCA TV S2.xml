@@ -3,7 +3,7 @@
 
 
 <item>       
-<title>       [COLOR blue] •S2 UPDATE 05-01-2018 [/COLOR]     </title>
+<title>       [COLOR blue] •S2 UPDATE 15-01-2018 [/COLOR]     </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -28,616 +28,287 @@
  
  
  
+ 
           <item> 
-            <title>FR_TF1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TF1_HD</link> 
+            <title>FR-TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7367.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TF1</link> 
         </item> 
           <item> 
-            <title>FR_M6_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_M6_HD</link> 
+            <title>FR-TF1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7313.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TF1-HD</link> 
         </item> 
           <item> 
-            <title>FR.FRANCE2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.FRANCE2</link> 
+            <title>FR-M6HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7353.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-M6HD</link> 
         </item> 
           <item> 
-            <title>FR.FRANCE3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/388.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.FRANCE3</link> 
+            <title>FR-TEVA-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7380.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TEVA-HD</link> 
         </item> 
           <item> 
-            <title>FR_FRANCE_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_4_HD</link> 
+            <title>FR-RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-RTL9</link> 
         </item> 
           <item> 
-            <title>FR_FRANCE_5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_FRANCE_5_HD</link> 
+            <title>FR-W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-W9</link> 
         </item> 
           <item> 
-            <title>FR_France-O-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1827.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_France-O-HD</link> 
+            <title>FR-FRANCE-2HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7345.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-2HD</link> 
         </item> 
           <item> 
-            <title>FR.W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.W9</link> 
+            <title>FR-FRANCE-3-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7344.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-3-HD</link> 
         </item> 
           <item> 
-            <title>FR.C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.C8</link> 
+            <title>FR-FRANCE-4-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7343.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-4-HD</link> 
         </item> 
           <item> 
-            <title>FR.M6_MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1906.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.M6_MUSIC</link> 
+            <title>FR-FRANCE-5-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7342.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-5-HD</link> 
         </item> 
           <item> 
-            <title>FR.E!Entairtenment</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.E!Entairtenment</link> 
+            <title>FR-FRANCE-O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7346.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-FRANCE-O</link> 
         </item> 
           <item> 
-            <title>****_Cinema_Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Cinema_Fr_****</link> 
+            <title>FR-France24</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7351.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-France24</link> 
         </item> 
           <item> 
-            <title>FR.Canal+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Canal+</link> 
+            <title>FR-13eme-Rue-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7337.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-13eme-Rue-HD</link> 
         </item> 
           <item> 
-            <title>FR.Canal+.Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Canal+.Cinema</link> 
+            <title>FR-6TER-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-6TER-HD</link> 
         </item> 
           <item> 
-            <title>FR_Canal+_Decale_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+_Decale_HD</link> 
+            <title>FR-AB1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7372.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-AB1-HD</link> 
         </item> 
           <item> 
-            <title>FR_Canal+-Family_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+-Family_HD</link> 
+            <title>FR-ACTION-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7382.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-ACTION-HD</link> 
         </item> 
           <item> 
-            <title>FR.Canal+.Series</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Canal+.Series</link> 
+            <title>FR-ANIMAUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7365.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-ANIMAUX</link> 
         </item> 
           <item> 
-            <title>FR_Cine+-Classic_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine+-Classic_HD</link> 
+            <title>FR-ARTE-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7379.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-ARTE-HD</link> 
         </item> 
           <item> 
-            <title>FR_Cine+-emotion_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine+-emotion_HD</link> 
+            <title>FR-BEINSPORT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7363.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT1</link> 
         </item> 
           <item> 
-            <title>FR_Cine+-Famiz_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine+-Famiz_HD</link> 
+            <title>FR-BEINSPORT2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7362.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT2</link> 
         </item> 
           <item> 
-            <title>FR_Cine+-Frission_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cine+-Frission_HD</link> 
+            <title>FR-BEINSPORT3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7361.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT3</link> 
         </item> 
           <item> 
-            <title>FR.Cine+.Primer</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine+.Primer</link> 
+            <title>FR-BEINSPORT4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7360.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT4</link> 
         </item> 
           <item> 
-            <title>FR.Cine.Fx</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine.Fx</link> 
+            <title>FR-BEINSPORT5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7359.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT5</link> 
         </item> 
           <item> 
-            <title>FR.Cine.Polar</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Cine.Polar</link> 
+            <title>FR-BEINSPORT6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7358.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT6</link> 
         </item> 
           <item> 
-            <title>FR_Action_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Action_HD</link> 
+            <title>FR-BEINSPORT7</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7357.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BEINSPORT7</link> 
         </item> 
           <item> 
-            <title>FR.Ocs.Choc</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/553.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Ocs.Choc</link> 
+            <title>FR-BFM-TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7374.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BFM-TV</link> 
         </item> 
           <item> 
-            <title>FR_Ocs_City_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/554.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ocs_City_HD</link> 
+            <title>FR-Boing</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Boing</link> 
         </item> 
           <item> 
-            <title>FR_Ocs-Geants_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR_Ocs-Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ocs-Geants_HD</link> 
+            <title>FR-BOOMERANG-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7386.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-BOOMERANG-HD</link> 
         </item> 
           <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/555.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <title>FR-D17</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7355.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D17</link> 
         </item> 
           <item> 
-            <title>FR.Ocs.Max</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/556.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Ocs.Max</link> 
+            <title>FR-D8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7378.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-D8</link> 
         </item> 
           <item> 
-            <title>FR.13EME.Rue</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.13EME.Rue</link> 
+            <title>FR-Discovery-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Discovery-HD</link> 
         </item> 
           <item> 
-            <title>FR.HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.HD1</link> 
+            <title>FR-DISNEY-CINEMA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7341.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-DISNEY-CINEMA</link> 
         </item> 
           <item> 
-            <title>FR.Syfy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/796.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Syfy</link> 
+            <title>FR-DISNEY-CINEMA-hd</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7307.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-DISNEY-CINEMA-hd</link> 
         </item> 
           <item> 
-            <title>FR.PARISPREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/390.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.PARISPREMIERE</link> 
+            <title>FR-Disney-Cinemagic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney-Cinemagic</link> 
         </item> 
           <item> 
-            <title>****_Alacarte-Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1665.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Alacarte-Fr_****</link> 
+            <title>FR-Disney-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7308.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Disney-HD</link> 
         </item> 
           <item> 
-            <title>FR_ALA-CARTE_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1563.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ALA-CARTE_1_HD</link> 
+            <title>FR-DisneyJunior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7309.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-DisneyJunior</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1564.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_2_HD</link> 
+            <title>FR-Equidia-Live</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7387.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Equidia-Live</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1565.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_3_HD</link> 
+            <title>FR-EUROSPORT-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7352.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-EUROSPORT-1-HD</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1566.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_4_HD</link> 
+            <title>FR-GONG</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-GONG</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_5_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1567.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_5_HD</link> 
+            <title>FR-Gulli-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7373.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Gulli-HD</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_6_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1568.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_6_HD</link> 
+            <title>FR-Infosport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Infosport</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_7_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1569.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_7_HD</link> 
+            <title>FR-ITELE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7375.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-ITELE</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_8_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1570.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_8_HD</link> 
+            <title>FR-Kombat-Sport</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7321.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Kombat-Sport</link> 
         </item> 
           <item> 
-            <title>FR_Ala-Carte_9_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1571.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ala-Carte_9_HD</link> 
+            <title>FR-M6-Music</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7354.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-M6-Music</link> 
         </item> 
           <item> 
-            <title>FR_AlaCarte_10HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1572.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AlaCarte_10HD</link> 
+            <title>FR-Manga</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Manga</link> 
         </item> 
           <item> 
-            <title>****_Info_Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1667.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Info_Fr_****</link> 
+            <title>FR-Mangas</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7381.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Mangas</link> 
         </item> 
           <item> 
-            <title>FR.TV5_monde</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2012.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.TV5_monde</link> 
+            <title>FR-NATIONALGEO-WILD-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7347.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NATIONALGEO-WILD-HD</link> 
         </item> 
           <item> 
-            <title>FR.LCP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2013.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.LCP</link> 
+            <title>FR-Nickelodeon-JUNIOR</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7310.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Nickelodeon-JUNIOR</link> 
         </item> 
           <item> 
-            <title>FR.EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2011.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.EURONEWS</link> 
+            <title>FR-NRJ12</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7348.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NRJ12</link> 
         </item> 
           <item> 
-            <title>FR.FRANCE24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/567.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.FRANCE24</link> 
+            <title>FR-NRJ12-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7376.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-NRJ12-HD</link> 
         </item> 
           <item> 
-            <title>FR.LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1905.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.LCI</link> 
+            <title>FR-OCS-Choc</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-Choc</link> 
         </item> 
           <item> 
-            <title>FR.Tele</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/566.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Tele</link> 
+            <title>FR-OCS-City-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-City-HD</link> 
         </item> 
           <item> 
-            <title>FR.BFM_tv</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.BFM_tv</link> 
-        </item> 
-          <item> 
-            <title>****_Sports_Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,****_Sports&amp;streamtype=TSDOWNLOADER&amp;name=****_Sports_Fr_****</link> 
+            <title>FR-OCS-Geants-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR-OCS-Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-Geants-HD</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1666.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7318.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>FR_Info-Sport+_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/559.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Info-Sport+_HD</link> 
+            <title>FR-OCS-Max-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS-Max-HD</link> 
         </item> 
           <item> 
-            <title>FR.LEQUIPE21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1562.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.LEQUIPE21</link> 
+            <title>FR-Paramount-Channel-HD-France</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7316.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paramount-Channel-HD-France</link> 
         </item> 
           <item> 
-            <title>FR_BFM_SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_BFM_SPORT</link> 
+            <title>FR-Paris-Premiere-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7315.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Paris-Premiere-HD</link> 
         </item> 
           <item> 
-            <title>FR_Sfr-Sport_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1559.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Sfr-Sport_1_HD</link> 
+            <title>FR-Piwi</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7388.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Piwi</link> 
         </item> 
           <item> 
-            <title>FR_Sfr-Sport_ 2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Sfr-Sport_ 2_HD</link> 
+            <title>FR-PlanÃ¨te-ci</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7349.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-PlanÃ¨te-ci</link> 
         </item> 
           <item> 
-            <title>FR_SFR_SPORT3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1812.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SFR_SPORT3</link> 
+            <title>FR-SFR-SPORT-1-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7392.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT-1-HD</link> 
         </item> 
           <item> 
-            <title>FR.Foot.24/24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1560.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Foot.24/24</link> 
+            <title>FR-SFR-SPORT-2-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT-2-HD</link> 
         </item> 
           <item> 
-            <title>FR_Canal+_Sport_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/389.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal+_Sport_HD</link> 
+            <title>FR-SFR-SPORT-3-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7390.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SFR-SPORT-3-HD</link> 
         </item> 
           <item> 
-            <title>FR.EUROSPORT_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.EUROSPORT_1</link> 
+            <title>FR-SYFY-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7314.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-SYFY-HD</link> 
         </item> 
           <item> 
-            <title>FR_EUROSPORT_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1760.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_EUROSPORT_2_HD</link> 
+            <title>FR-Teletoon-HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7389.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Teletoon-HD</link> 
         </item> 
           <item> 
-            <title>FR.KOMBAT_SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1992.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.KOMBAT_SPORT</link> 
+            <title>FR-Tiji</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7312.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Tiji</link> 
         </item> 
           <item> 
-            <title>FR.Golf+.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1561.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Golf+.HD</link> 
+            <title>FR-TMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7377.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TMC</link> 
         </item> 
           <item> 
-            <title>FR.EQUIDIA.LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/571.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.EQUIDIA.LIVE</link> 
+            <title>FR-Teletoon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7383.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Teletoon</link> 
         </item> 
           <item> 
-            <title>FR.EQUIDIA.LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/570.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.EQUIDIA.LIFE</link> 
+            <title>FR-Tv5-Monde</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7350.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-Tv5-Monde</link> 
         </item> 
           <item> 
-            <title>FR.AB_MOTEUR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1914.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.AB_MOTEUR</link> 
+            <title>FR-TV5-Monde-europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7311.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-TV5-Monde-europe</link> 
         </item> 
           <item> 
-            <title>****_Culture_Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1662.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Culture_Fr_****</link> 
+            <title>FR-USHUAIA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://swar.fannan.se:8000/live/shako/shako/7366.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR-USHUAIA</link> 
         </item> 
-          <item> 
-            <title>FR_ANIMAUX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/815.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ANIMAUX_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Ushuaia_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/812.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Ushuaia_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.VOYAGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1500.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.VOYAGE</link> 
-        </item> 
-          <item> 
-            <title>FR_Planete+_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/813.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Planete+_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.PLANETE+CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/814.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.PLANETE+CI</link> 
-        </item> 
-          <item> 
-            <title>FR.Planete+AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1815.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Planete+AE</link> 
-        </item> 
-          <item> 
-            <title>FR.HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/808.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.HISTOIRE</link> 
-        </item> 
-          <item> 
-            <title>FR.Toute-lHistoire</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Toute-lHistoire</link> 
-        </item> 
-          <item> 
-            <title>FR.NATIONAL.GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1904.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.NATIONAL.GEOGRAPHIC</link> 
-        </item> 
-          <item> 
-            <title>FR.NATIONALGEO.WILLD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.NATIONALGEO.WILLD</link> 
-        </item> 
-          <item> 
-            <title>FR_Discovery_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Discovery_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.DISCOVERY.SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1551.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.DISCOVERY.SCIENCE</link> 
-        </item> 
-          <item> 
-            <title>FR_SCIENCEVIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/800.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_SCIENCEVIE</link> 
-        </item> 
-          <item> 
-            <title>FR.Chasse_et_Peche</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Chasse_et_Peche</link> 
-        </item> 
-          <item> 
-            <title>FR.SEASON.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.SEASON.HD</link> 
-        </item> 
-          <item> 
-            <title>FR.TREK.HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1817.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.TREK.HD</link> 
-        </item> 
-          <item> 
-            <title>FR.RMC.Decoverte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/565.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.RMC.Decoverte</link> 
-        </item> 
-          <item> 
-            <title>****_Devertisse_Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1664.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Devertisse_Fr_****</link> 
-        </item> 
-          <item> 
-            <title>FR_6-Ter_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1333.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_6-Ter_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_AB_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/560.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_AB_1_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_cherie25_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/809.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_cherie25_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.TVBREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1949.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.TVBREIZH</link> 
-        </item> 
-          <item> 
-            <title>FR.Arte</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/561.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Arte</link> 
-        </item> 
-          <item> 
-            <title>FR_RTL_9_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_RTL_9_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.Weo</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/816.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Weo</link> 
-        </item> 
-          <item> 
-            <title>FR.TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/564.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.TMC</link> 
-        </item> 
-          <item> 
-            <title>FR_Teva_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/563.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Teva_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Numero-23-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Numero-23-HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Serie-Club_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/558.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Serie-Club_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_NT1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1647.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_NT1_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.Nrj12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/562.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Nrj12</link> 
-        </item> 
-          <item> 
-            <title>FR_Cstar_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/557.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Cstar_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.Comedie+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/391.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Comedie+</link> 
-        </item> 
-          <item> 
-            <title>****_Enfants_Fr_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,****_Enfants&amp;streamtype=TSDOWNLOADER&amp;name=****_Enfants_Fr_****</link> 
-        </item> 
-          <item> 
-            <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1663.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-            <title>FR_Piwi+_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/798.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Piwi+_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_TIJI_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/807.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TIJI_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_TELTOON+_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/806.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_TELTOON+_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Gulli-HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/804.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Gulli-HD</link> 
-        </item> 
-          <item> 
-            <title>FR.Boomerang</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1496.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Boomerang</link> 
-        </item> 
-          <item> 
-            <title>FR_Canal-j_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1497.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Canal-j_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_ZOUZOU_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_ZOUZOU_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.Boing</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/799.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.Boing</link> 
-        </item> 
-          <item> 
-            <title>FR.CartoonNetwork</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.CartoonNetwork</link> 
-        </item> 
-          <item> 
-            <title>FR_Nickelodeon_ HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1693.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Nickelodeon_ HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Disney_Chanell_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/801.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney_Chanell_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Diseney-XD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/802.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Diseney-XD_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Disney-Junior_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney-Junior_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Disney-Cinema_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1548.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Disney-Cinema_HD</link> 
-        </item> 
-          <item> 
-            <title>FR_Mangas_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/797.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR_Mangas_HD</link> 
-        </item> 
-          <item> 
-            <title>FR.J-ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1629.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.J-ONE</link> 
-        </item> 
-          <item> 
-            <title>FR.GAME.ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1901.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR.GAME.ONE</link> 
-        </item> 
-          <item> 
-            <title>JIMJAM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2293.ts&amp;streamtype=TSDOWNLOADER&amp;name=JIMJAM</link> 
-        </item> 
-          <item> 
-            <title>*******SUISE********</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2373.ts&amp;streamtype=TSDOWNLOADER&amp;name=*******SUISE********</link> 
-        </item> 
-          <item> 
-            <title>SUIS_RTS_UN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2374.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUIS_RTS_UN</link> 
-        </item> 
-          <item> 
-            <title>SUIS_RTS_DEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2376.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUIS_RTS_DEUX</link> 
-        </item> 
-          <item> 
-            <title>SUIS_SRF_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2377.ts&amp;streamtype=TSDOWNLOADER&amp;name=SUIS_SRF_1</link> 
-        </item> 
-          <item> 
-            <title>****_Belgique_****</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1682.ts&amp;streamtype=TSDOWNLOADER&amp;name=****_Belgique_****</link> 
-        </item> 
-          <item> 
-            <title>BE.LAUNE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1498.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE.LAUNE</link> 
-        </item> 
-          <item> 
-            <title>BE.LADEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1499.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE.LADEUX</link> 
-        </item> 
-          <item> 
-            <title>BE_LATROIS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1684.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_LATROIS_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_CINEMA_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2396.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CINEMA_1</link> 
-        </item> 
-          <item> 
-            <title>BE_CINEMA_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2397.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CINEMA_2</link> 
-        </item> 
-          <item> 
-            <title>BE_RTC_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2991.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_RTC_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_Vier_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2402.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Vier_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_VTM_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2393.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_VTM_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_EEN_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2398.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_EEN_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_FACE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2392.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_FACE_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_TVL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2394.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_TVL_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_CANVAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2395.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CANVAS</link> 
-        </item> 
-          <item> 
-            <title>BE_VITAYA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2399.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_VITAYA</link> 
-        </item> 
-          <item> 
-            <title>BE_RTL_TVI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1695.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_RTL_TVI</link> 
-        </item> 
-          <item> 
-            <title>BE_CLUB_RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1694.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_CLUB_RTL</link> 
-        </item> 
-          <item> 
-            <title>BE_Plug_RTL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_Plug_RTL_HD</link> 
-        </item> 
-          <item> 
-            <title>BE_tvpi</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/3001.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_tvpi</link> 
-        </item> 
-          <item> 
-            <title>BE_BX-1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2996.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_BX-1</link> 
-        </item> 
-          <item> 
-            <title>BE_NRJ-HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2999.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_NRJ-HITS</link> 
-        </item> 
-          <item> 
-            <title>BE_KADET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2997.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_KADET</link> 
-        </item> 
-          <item> 
-            <title>BE_K-JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2998.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_K-JR</link> 
-        </item> 
-          <item> 
-            <title>BE_ATV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/3002.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_ATV</link> 
-        </item> 
-          <item> 
-            <title>BE_2BE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2995.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_2BE</link> 
-        </item> 
-          <item> 
-            <title>BE_192.TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2994.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_192.TV</link> 
+  k>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2994.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE_192.TV</link> 
         </item> 
   
