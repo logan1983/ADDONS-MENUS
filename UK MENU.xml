@@ -3,7 +3,7 @@
 
 
 <item>       
-<title>     [COLOR blue] UPDATE 05-01-2018[/COLOR] </title>
+<title>     [COLOR blue] UPDATE 15-01-2018[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
@@ -16,175 +16,415 @@
   
  
           <item> 
-            <title>UK_SKY_SPORT_news</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1999.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SPORT_news</link> 
+            <title>UK | AMC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3879.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | AMC</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Sports_1HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky-Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Sports_1HD</link> 
+            <title>UK | Animal Planet</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3878.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Animal Planet</link> 
+        </item> 
+          <item> 
+            <title>UK | B0xn4t1on</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3874.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | B0xn4t1on</link> 
+        </item> 
+          <item> 
+            <title>UK | Baby TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3877.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Baby TV</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3876.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC 1</link> 
+        </item> 
+          <item> 
+            <title>UK | BBC 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3875.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BBC 2</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3873.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt 1 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3872.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt 2 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3871.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt 3 HD</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3870.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt ESPN</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt Europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3869.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt Europe</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt Extra 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3868.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt Extra 1</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt Extra 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3866.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt Extra 3</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt Extra 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3865.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt Extra 4</link> 
+        </item> 
+          <item> 
+            <title>UK | BeTe Sp0rt Extra 5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3864.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | BeTe Sp0rt Extra 5</link> 
+        </item> 
+          <item> 
+            <title>UK | Cartoon Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3863.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cartoon Network</link> 
+        </item> 
+          <item> 
+            <title>UK | Cbeebies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3862.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Cbeebies</link> 
+        </item> 
+          <item> 
+            <title>UK | CBS Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3861.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | CBS Action</link> 
+        </item> 
+          <item> 
+            <title>UK | Chelsea FC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3860.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Chelsea FC</link> 
+        </item> 
+          <item> 
+            <title>UK | Comedy Central</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3859.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Comedy Central</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3858.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Channel</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery History</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3857.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery History</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Science</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3856.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Science</link> 
+        </item> 
+          <item> 
+            <title>UK | Discovery Turbo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3855.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Discovery Turbo</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3854.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney Channel</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3853.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney Junior</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3851.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney Movies</link> 
+        </item> 
+          <item> 
+            <title>UK | Disney XD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3852.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Disney XD</link> 
+        </item> 
+          <item> 
+            <title>UK | Eir Sport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3850.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eir Sport 1</link> 
+        </item> 
+          <item> 
+            <title>UK | Eir Sport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3849.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eir Sport 2</link> 
+        </item> 
+          <item> 
+            <title>UK | ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3848.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ESPN</link> 
+        </item> 
+          <item> 
+            <title>UK | Eur0zport 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3847.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eur0zport 1</link> 
+        </item> 
+          <item> 
+            <title>UK | Eurosport 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3846.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Eurosport 2</link> 
+        </item> 
+          <item> 
+            <title>UK | Food Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3842.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Food Network</link> 
+        </item> 
+          <item> 
+            <title>UK | FOX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3845.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX</link> 
+        </item> 
+          <item> 
+            <title>UK | FOX News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3843.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | FOX News</link> 
+        </item> 
+          <item> 
+            <title>UK | H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3840.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | H2</link> 
+        </item> 
+          <item> 
+            <title>UK | History Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3841.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | History Channel</link> 
+        </item> 
+          <item> 
+            <title>UK | Home</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3839.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Home</link> 
+        </item> 
+          <item> 
+            <title>UK | Home and Health</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3838.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Home and Health</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3837.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 1</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3836.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 2</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3835.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 3</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3834.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV 4</link> 
+        </item> 
+          <item> 
+            <title>UK | ITV Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3833.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ITV Encore</link> 
+        </item> 
+          <item> 
+            <title>UK | Liverpool FC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3832.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Liverpool FC</link> 
+        </item> 
+          <item> 
+            <title>UK | Manchester United FC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3831.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Manchester United FC</link> 
+        </item> 
+          <item> 
+            <title>UK | Motors TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3830.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Motors TV</link> 
+        </item> 
+          <item> 
+            <title>UK | MTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3829.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | MTV</link> 
+        </item> 
+          <item> 
+            <title>UK | National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3828.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | National Geographic</link> 
+        </item> 
+          <item> 
+            <title>UK | Nick Junior</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3826.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nick Junior</link> 
+        </item> 
+          <item> 
+            <title>UK | Nickelodeon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3827.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nickelodeon</link> 
+        </item> 
+          <item> 
+            <title>UK | Nicktoons</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3825.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Nicktoons</link> 
+        </item> 
+          <item> 
+            <title>UK | Premier League</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3788.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Premier League</link> 
+        </item> 
+          <item> 
+            <title>UK | Premier Sports</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | Premier Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK | Premier Sports</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1587.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3824.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Sport_2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1610.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Sport_2HD</link> 
+            <title>UK | Racing UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3823.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Racing UK</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Sport_3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1611.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Sport_3HD</link> 
+            <title>UK | Sony Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3787.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | Sony Movies</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Sport_4HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1612.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Sport_4HD</link> 
+            <title>UK | SyFy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3786.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | SyFy</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Sport_5HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1613.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Sport_5HD</link> 
-        </item> 
-          <item> 
-            <title>UK_BT_Sport_1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2518.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_1_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_BT_Sport_2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2519.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_2_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_BT_Sport_3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2520.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_BT_Sport_3_HD</link> 
-        </item> 
-          <item> 
-            <title>UK_Sky Sports_GOLF_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK_Sky Sports&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky Sports_GOLF_HD</link> 
+            <title>UK | ZKY Arts 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Arts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Arts 1</link> 
         </item> 
           <item> 
             <title></title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2515.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3822.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Eurosport1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1994.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Eurosport1</link> 
+            <title>UK | ZKY Atlantic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3821.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Atlantic</link> 
         </item> 
           <item> 
-            <title>UK_EUROSPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2516.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_EUROSPORT_2</link> 
+            <title>UK | ZKY Cinema Box Office 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3820.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Cinema Box Office 1</link> 
         </item> 
           <item> 
-            <title>UK_ ESPN 1 HD_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2523.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ ESPN 1 HD_HD</link> 
+            <title>UK | ZKY Cinema Box Office 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3819.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Cinema Box Office 2</link> 
         </item> 
           <item> 
-            <title>UK_SKY_SELECT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1998.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SELECT</link> 
+            <title>UK | ZKY Cinema Box Office 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3818.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Cinema Box Office 3</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Comedy_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1601.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Comedy_HD</link> 
+            <title>UK | ZKY Cinema Box Office 4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3817.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Cinema Box Office 4</link> 
         </item> 
           <item> 
-            <title>UK_Sky_Movies_Action_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1596.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_Movies_Action_HD</link> 
+            <title>UK | ZKY Cinema Disney</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3816.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Cinema Disney</link> 
         </item> 
           <item> 
-            <title>UK_SKY_modern-GREAT_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1996.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_modern-GREAT_HD</link> 
+            <title>UK | ZKY Living UK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3815.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Living UK</link> 
         </item> 
           <item> 
-            <title>UK_SKY_Horror_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_Horror_HD</link> 
+            <title>UK | ZKY Movies Action</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3814.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Action</link> 
         </item> 
           <item> 
-            <title>UK_SKY_Cartoon_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1597.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_Cartoon_HD</link> 
+            <title>UK | ZKY Movies Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3813.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Comedy</link> 
         </item> 
           <item> 
-            <title>UK_SKY_Living</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2004.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_Living</link> 
+            <title>UK | ZKY Movies Drama</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3812.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Drama</link> 
         </item> 
           <item> 
-            <title>UK_ CBS_Action_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2522.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_ CBS_Action_HD</link> 
+            <title>UK | ZKY Movies Family</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3811.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Family</link> 
         </item> 
           <item> 
-            <title>ITV1_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2526.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV1_HD</link> 
+            <title>UK | ZKY Movies Modern Greats</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Movies Modern Greats&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Modern Greats</link> 
         </item> 
           <item> 
-            <title>ITV2_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2527.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV2_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3810.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>ITV3_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2528.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV3_HD</link> 
+            <title>UK | ZKY Movies Premiere</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3809.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Premiere</link> 
         </item> 
           <item> 
-            <title>ITV4_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2529.ts&amp;streamtype=TSDOWNLOADER&amp;name=ITV4_HD</link> 
+            <title>UK | ZKY Movies Scifi Horror</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3808.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Scifi Horror</link> 
         </item> 
           <item> 
-            <title>TCM_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2530.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM_HD</link> 
+            <title>UK | ZKY Movies Select</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3807.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Select</link> 
         </item> 
           <item> 
-            <title>UK_Fox_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2525.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Fox_HD</link> 
+            <title>UK | ZKY Movies Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3806.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Showcase</link> 
         </item> 
           <item> 
-            <title>E!_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2531.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!_HD</link> 
+            <title>UK | ZKY Movies Thriller</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3805.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Movies Thriller</link> 
         </item> 
           <item> 
-            <title>UK_SKY_SYFY_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2521.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_SKY_SYFY_HD</link> 
+            <title>UK | ZKY News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3804.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY News</link> 
         </item> 
           <item> 
-            <title>UK_Sky-Disney_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1603.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky-Disney_HD</link> 
+            <title>UK | ZKY One</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3803.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY One</link> 
         </item> 
           <item> 
-            <title>UK_Disney_Jr_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1602.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Disney_Jr_HD</link> 
+            <title>UK | ZKY Two</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3802.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Two</link> 
         </item> 
           <item> 
-            <title>UK_Sky_News_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2534.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Sky_News_HD</link> 
+            <title>UK | ZKY Zp0rts 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts 1 HD</link> 
         </item> 
           <item> 
-            <title>UK_Animal-planet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2001.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Animal-planet</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3801.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Discovery-Turbo_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1607.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery-Turbo_HD</link> 
+            <title>UK | ZKY Zp0rts 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts 2 HD</link> 
         </item> 
           <item> 
-            <title>UK_Discovery-Science_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1606.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery-Science_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3800.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Discovery-History_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1605.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery-History_HD</link> 
+            <title>UK | ZKY Zp0rts 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts 3 HD</link> 
         </item> 
           <item> 
-            <title>UK_Discovery_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1604.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Discovery_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3799.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_Dicover-Science_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/1595.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Dicover-Science_HD</link> 
+            <title>UK | ZKY Zp0rts 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts 4 HD</link> 
         </item> 
           <item> 
-            <title>UK_Nat_Geo_Wild_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2532.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Nat_Geo_Wild_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3798.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>UK_History_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2533.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_History_HD</link> 
+            <title>UK | ZKY Zp0rts 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts 5 HD</link> 
         </item> 
           <item> 
-            <title>UK_Boxnation_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv2017.ddns.net:8100/live/TEST/TEST/2517.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK_Boxnation_HD</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3797.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | ZKY Action Movies</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3793.ts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Action Movies</link> 
+        </item> 
+          <item> 
+            <title>UK | ZKY Zp0rts Cricket</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts Cricket</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3791.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | ZKY Zp0rts F1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts F1</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3796.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | ZKY Zp0rts Main Event</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts Main Event</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3790.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | ZKY Zp0rts News</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts News</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3794.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>UK | ZKY Zp0rts The Open</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,UK | ZKY Zp0rts&amp;streamtype=TSDOWNLOADER&amp;name=UK | ZKY Zp0rts The Open</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://veoplay.org:8000/live/lider1/lider1/3789.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
   
