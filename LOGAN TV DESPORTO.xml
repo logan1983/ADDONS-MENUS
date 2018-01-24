@@ -143,14 +143,14 @@
 
 
 <item>
-<title>[B][COLOR green] SPORT TV 1[/B][/COLOR]</title>
+<title>[B][COLOR white] SPORT TV 1[/B][/COLOR]</title>
 <link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/live1-rbi6c</page><referer>http://sharecast.eu/embed/live1-rbi6c</referer></regex></link>
 <thumbnail>https://cld.pt/dl/download/7fd39c10-99cc-4f26-81fe-b9bd655117af/Sport-tv-1.jpg</thumbnail>
 </item>
  
  
 <item>
-<title>[B][COLOR green] SPORT TV 2[/B][/COLOR]</title>
+<title>[B][COLOR white] SPORT TV 2[/B][/COLOR]</title>
 <link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/live2-bipmr</page><referer>http://sharecast.eu/embed/live2-bipmr</referer></regex></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png</thumbnail>
 </item>
@@ -158,7 +158,7 @@
  
  
 <item>
-<title>[B][COLOR green] SPORT TV 3[/B][/COLOR]</title>
+<title>[B][COLOR white] SPORT TV 3[/B][/COLOR]</title>
 <link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/live3-qszlx</page><referer>http://sharecast.eu/embed/live3-qszlx</referer></regex></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
 </item>
@@ -170,14 +170,14 @@
  
  
 <item>
-<title>[B][COLOR green] SPORT TV 4[/B][/COLOR]</title>
+<title>[B][COLOR white] SPORT TV 4[/B][/COLOR]</title>
 <link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/btv-md504</page><referer>http://sharecast.eu/embed/btv-md504</referer></regex></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/wywyss1436887367.png</thumbnail>
 </item>
  
  
 <item>
-<title>[B][COLOR green] SPORT TV 5[/B][/COLOR]</title>
+<title>[B][COLOR white] SPORT TV 5[/B][/COLOR]</title>
 <link><link>$doregex[file]|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36$$lsname=SPORT TV 5 (RTMP) by Teamblue</link><regex><name>file</name><expres>file: "(.*?)"</expres><page>http://sharecast.eu/embed/live4-w04by</page><referer>http://sharecast.eu/embed/live4-w04by</referer></regex></link>
 <thumbnail>https://raw.githubusercontent.com/marcojoao/IPTV_Logos/master/sportv5.png</thumbnail>
 </item>
