@@ -27,508 +27,621 @@
  
  
  
+  
           <item> 
-            <title>TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1</link> 
+            <title> tvg-id="TF1.fr" tvg-name="L-FR: TF1 SD" tvg-logo="https://s17.postimg.org/r5h546eyn/125050_Loc_TF1.png" group-title="FRANÇAIS"L-FR: TF1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4061.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TF1.fr" tvg-name="L-FR: TF1 SD" tvg-logo="https://s17.postimg.org/r5h546eyn/125050_Loc_TF1.png" group-title="FRANCAIS"L-FR: TF1 SD</link> 
         </item> 
           <item> 
-            <title>M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=M6</link> 
+            <title> tvg-id="France2.fr" tvg-name="L-FR: FRANCE 2 SD" tvg-logo="https://s17.postimg.org/7owfhec27/524383_Loc_FR2.png" group-title="FRANCAIS"L-FR: FRANCE 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4773.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="France2.fr" tvg-name="L-FR: FRANCE 2 SD" tvg-logo="https://s17.postimg.org/7owfhec27/524383_Loc_FR2.png" group-title="FRANCAIS"L-FR: FRANCE 2 SD</link> 
         </item> 
           <item> 
-            <title>W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=W9</link> 
+            <title> tvg-id="France3.fr" tvg-name="L-FR: FRANCE 3 SD" tvg-logo="http://img4.hostingpics.net/pics/561699LocFR3.png" group-title="FRANCAIS"L-FR: FRANCE 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4059.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="France3.fr" tvg-name="L-FR: FRANCE 3 SD" tvg-logo="http://img4.hostingpics.net/pics/561699LocFR3.png" group-title="FRANCAIS"L-FR: FRANCE 3 SD</link> 
         </item> 
           <item> 
-            <title>TF1 SÉRIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=TF1 SÉRIES</link> 
+            <title> tvg-id="ARTE.fr" tvg-name="L-FR: ARTE SD" tvg-logo="http://img4.hostingpics.net/pics/845574LocARTE.png" group-title="FRANCAIS"L-FR: ARTE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4040.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="ARTE.fr" tvg-name="L-FR: ARTE SD" tvg-logo="http://img4.hostingpics.net/pics/845574LocARTE.png" group-title="FRANCAIS"L-FR: ARTE SD</link> 
         </item> 
           <item> 
-            <title>C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=C8</link> 
+            <title> tvg-id="M6.fr" tvg-name="L-FR: M6 SD" tvg-logo="https://s17.postimg.org/kt1zu9bvj/498502_Loc_M6.png" group-title="FRANCAIS"L-FR: M6 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4450.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="M6.fr" tvg-name="L-FR: M6 SD" tvg-logo="https://s17.postimg.org/kt1zu9bvj/498502_Loc_M6.png" group-title="FRANCAIS"L-FR: M6 SD</link> 
         </item> 
           <item> 
-            <title>C STAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=C STAR</link> 
+            <title> tvg-id="France5.fr" tvg-name="L-FR: FRANCE 5 SD" tvg-logo="http://img4.hostingpics.net/pics/458417LocFR5.png" group-title="FRANCAIS"L-FR: FRANCE 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4056.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="France5.fr" tvg-name="L-FR: FRANCE 5 SD" tvg-logo="http://img4.hostingpics.net/pics/458417LocFR5.png" group-title="FRANCAIS"L-FR: FRANCE 5 SD</link> 
         </item> 
           <item> 
-            <title>CANAL+</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+</link> 
+            <title> tvg-id="C8.fr" tvg-name="L-FR: C8 SD" tvg-logo="http://img4.hostingpics.net/pics/717396LocC8.png" group-title="FRANCAIS"L-FR: C8 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4047.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="C8.fr" tvg-name="L-FR: C8 SD" tvg-logo="http://img4.hostingpics.net/pics/717396LocC8.png" group-title="FRANCAIS"L-FR: C8 SD</link> 
         </item> 
           <item> 
-            <title>CANAL+  DECALE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+  DECALE</link> 
+            <title> tvg-id="W9.fr" tvg-name="L-FR: W9 SD" tvg-logo="http://img4.hostingpics.net/pics/871466LocW9.png" group-title="FRANCAIS"L-FR: W9 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4052.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="W9.fr" tvg-name="L-FR: W9 SD" tvg-logo="http://img4.hostingpics.net/pics/871466LocW9.png" group-title="FRANCAIS"L-FR: W9 SD</link> 
         </item> 
           <item> 
-            <title>CANAL+ CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+ CINEMA</link> 
+            <title> tvg-id="TMC.fr" tvg-name="L-FR: TMC SD" tvg-logo="http://img4.hostingpics.net/pics/384238LocTMC.png" group-title="FRANCAIS"L-FR: TMC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4051.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TMC.fr" tvg-name="L-FR: TMC SD" tvg-logo="http://img4.hostingpics.net/pics/384238LocTMC.png" group-title="FRANCAIS"L-FR: TMC SD</link> 
         </item> 
           <item> 
-            <title>CANAL+  SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+  SPORT</link> 
+            <title> tvg-id="NT1.fr" tvg-name="L-FR: TFX SD" tvg-logo="https://s17.postimg.org/rkntjethr/Loc_T_F_X.png" group-title="FRANCAIS"L-FR: TFX SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4049.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NT1.fr" tvg-name="L-FR: TFX SD" tvg-logo="https://s17.postimg.org/rkntjethr/Loc_T_F_X.png" group-title="FRANCAIS"L-FR: TFX SD</link> 
         </item> 
           <item> 
-            <title>CANAL+  FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+  FAMILY</link> 
+            <title> tvg-id="NRJ12.fr" tvg-name="L-FR: NRJ 12 SD" tvg-logo="http://img4.hostingpics.net/pics/168567LocNRJ12.png" group-title="FRANCAIS"L-FR: NRJ 12 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4048.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NRJ12.fr" tvg-name="L-FR: NRJ 12 SD" tvg-logo="http://img4.hostingpics.net/pics/168567LocNRJ12.png" group-title="FRANCAIS"L-FR: NRJ 12 SD</link> 
         </item> 
           <item> 
-            <title>CANAL+  SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL+  SERIES</link> 
+            <title> tvg-id="France4.fr" tvg-name="L-FR: FRANCE 4 SD" tvg-logo="http://img4.hostingpics.net/pics/816686LocFR4.png" group-title="FRANCAIS"L-FR: FRANCE 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4057.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="France4.fr" tvg-name="L-FR: FRANCE 4 SD" tvg-logo="http://img4.hostingpics.net/pics/816686LocFR4.png" group-title="FRANCAIS"L-FR: FRANCE 4 SD</link> 
         </item> 
           <item> 
-            <title>CINE+  PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+  PREMIER</link> 
+            <title> tvg-id="BFMTV.fr" tvg-name="L-FR: BFM TV SD" tvg-logo="https://img4.hostingpics.net/pics/358904LocBFM.png" group-title="FRANCAIS"L-FR: BFM TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4810.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BFMTV.fr" tvg-name="L-FR: BFM TV SD" tvg-logo="https://img4.hostingpics.net/pics/358904LocBFM.png" group-title="FRANCAIS"L-FR: BFM TV SD</link> 
         </item> 
           <item> 
-            <title>CINE+  FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/42.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+  FRISSON</link> 
+            <title> tvg-id="BFMBusiness.fr" tvg-name="L-FR: BFM BUSINESS SD" tvg-logo="https://img4.hostingpics.net/pics/713558LocBFMBus.png" group-title="FRANCAIS"L-FR: BFM BUSINESS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5170.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BFMBusiness.fr" tvg-name="L-FR: BFM BUSINESS SD" tvg-logo="https://img4.hostingpics.net/pics/713558LocBFMBus.png" group-title="FRANCAIS"L-FR: BFM BUSINESS SD</link> 
         </item> 
           <item> 
-            <title>CINE+  EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+  EMOTION</link> 
+            <title> tvg-id="" tvg-name="L-FR: BFM PARIS SD" tvg-logo="https://img4.hostingpics.net/pics/831472LocBFMParis.png" group-title="FRANCAIS"L-FR: BFM PARIS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6943.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: BFM PARIS SD" tvg-logo="https://img4.hostingpics.net/pics/831472LocBFMParis.png" group-title="FRANCAIS"L-FR: BFM PARIS SD</link> 
         </item> 
           <item> 
-            <title>CINE+  FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+  FAMIZ</link> 
+            <title> tvg-id="CStar.fr" tvg-name="L-FR: CSTAR SD" tvg-logo="http://img4.hostingpics.net/pics/455668LocCSTAR.png" group-title="FRANCAIS"L-FR: CSTAR SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4046.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CStar.fr" tvg-name="L-FR: CSTAR SD" tvg-logo="http://img4.hostingpics.net/pics/455668LocCSTAR.png" group-title="FRANCAIS"L-FR: CSTAR SD</link> 
         </item> 
           <item> 
-            <title>OCS CHOC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS CHOC</link> 
+            <title> tvg-id="Gulli.fr" tvg-name="L-FR: GULLI SD" tvg-logo="https://img4.hostingpics.net/pics/768293LocFRGULLI.png" group-title="FRANCAIS"L-FR: GULLI SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4774.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Gulli.fr" tvg-name="L-FR: GULLI SD" tvg-logo="https://img4.hostingpics.net/pics/768293LocFRGULLI.png" group-title="FRANCAIS"L-FR: GULLI SD</link> 
         </item> 
           <item> 
-            <title>OCS CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS CITY</link> 
+            <title> tvg-id="FranceO.fr" tvg-name="L-FR: FRANCE O SD" tvg-logo="http://img4.hostingpics.net/pics/458383LocFRO.png" group-title="FRANCAIS"L-FR: FRANCE O SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4055.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="FranceO.fr" tvg-name="L-FR: FRANCE O SD" tvg-logo="http://img4.hostingpics.net/pics/458383LocFRO.png" group-title="FRANCAIS"L-FR: FRANCE O SD</link> 
         </item> 
           <item> 
-            <title>OCS GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS GEANTS</link> 
+            <title> tvg-id="HD1.fr" tvg-name="L-FR: TF1 Séries Films SD" tvg-logo="https://s17.postimg.org/5lhew0a0v/Loc_TF1_Serie.png" group-title="FRANCAIS"L-FR: TF1 Séries Films SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4043.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="HD1.fr" tvg-name="L-FR: TF1 Séries Films SD" tvg-logo="https://s17.postimg.org/5lhew0a0v/Loc_TF1_Serie.png" group-title="FRANCAIS"L-FR: TF1 Séries Films SD</link> 
         </item> 
           <item> 
-            <title>OCS MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=OCS MAX</link> 
+            <title> tvg-id="EquipeTV.fr" tvg-name="L-FR: L'EQUIPE 21 SD" tvg-logo="https://img4.hostingpics.net/pics/281554LocFRLEquipe21.png" group-title="FRANCAIS"L-FR: L'EQUIPE 21 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4775.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EquipeTV.fr" tvg-name="L-FR: L'EQUIPE 21 SD" tvg-logo="https://img4.hostingpics.net/pics/281554LocFRLEquipe21.png" group-title="FRANCAIS"L-FR: L'EQUIPE 21 SD</link> 
         </item> 
           <item> 
-            <title>PARAMOUNT CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARAMOUNT CHANNEL</link> 
+            <title> tvg-id="6ter.fr" tvg-name="L-FR: 6TER SD" tvg-logo="http://img4.hostingpics.net/pics/147527Loc6TER.png" group-title="FRANCAIS"L-FR: 6TER SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4044.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="6ter.fr" tvg-name="L-FR: 6TER SD" tvg-logo="http://img4.hostingpics.net/pics/147527Loc6TER.png" group-title="FRANCAIS"L-FR: 6TER SD</link> 
         </item> 
           <item> 
-            <title>FRANCE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 2</link> 
+            <title> tvg-id="Numero23.fr" tvg-name="L-FR: NUMERO 23 SD" tvg-logo="http://img4.hostingpics.net/pics/762585LocNUMERO23.png" group-title="FRANCAIS"L-FR: NUMERO 23 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4050.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Numero23.fr" tvg-name="L-FR: NUMERO 23 SD" tvg-logo="http://img4.hostingpics.net/pics/762585LocNUMERO23.png" group-title="FRANCAIS"L-FR: NUMERO 23 SD</link> 
         </item> 
           <item> 
-            <title>FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 3</link> 
+            <title> tvg-id="RMCdecouverte.fr" tvg-name="L-FR: RMC DECOUVERTE SD" tvg-logo="http://img4.hostingpics.net/pics/416636LocRMCDECOUVERTE.png" group-title="FRANCAIS"L-FR: RMC DECOUVERTE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4037.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="RMCdecouverte.fr" tvg-name="L-FR: RMC DECOUVERTE SD" tvg-logo="http://img4.hostingpics.net/pics/416636LocRMCDECOUVERTE.png" group-title="FRANCAIS"L-FR: RMC DECOUVERTE SD</link> 
         </item> 
           <item> 
-            <title>FRANCE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 4</link> 
+            <title> tvg-id="Cherie25.fr" tvg-name="L-FR: CHERIE 25 SD" tvg-logo="http://img4.hostingpics.net/pics/173339LocCHERIE25.png" group-title="FRANCAIS"L-FR: CHERIE 25 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4045.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Cherie25.fr" tvg-name="L-FR: CHERIE 25 SD" tvg-logo="http://img4.hostingpics.net/pics/173339LocCHERIE25.png" group-title="FRANCAIS"L-FR: CHERIE 25 SD</link> 
         </item> 
           <item> 
-            <title>FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 5</link> 
+            <title> tvg-id="ParisPremiere.fr" tvg-name="L-FR: PARIS PREMIERE SD" tvg-logo="http://img4.hostingpics.net/pics/625812LocPARISPREMIER.png" group-title="FRANCAIS"L-FR: PARIS PREMIERE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4041.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="ParisPremiere.fr" tvg-name="L-FR: PARIS PREMIERE SD" tvg-logo="http://img4.hostingpics.net/pics/625812LocPARISPREMIER.png" group-title="FRANCAIS"L-FR: PARIS PREMIERE SD</link> 
         </item> 
           <item> 
-            <title>CHERIE 25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHERIE 25</link> 
+            <title> tvg-id="Teva.fr" tvg-name="L-FR: TEVA SD" tvg-logo="https://img15.hostingpics.net/pics/380916LocTEVA.png" group-title="FRANCAIS"L-FR: TEVA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4828.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Teva.fr" tvg-name="L-FR: TEVA SD" tvg-logo="https://img15.hostingpics.net/pics/380916LocTEVA.png" group-title="FRANCAIS"L-FR: TEVA SD</link> 
         </item> 
           <item> 
-            <title>FRANCE O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE O</link> 
+            <title> tvg-id="LCI.fr" tvg-name="L-FR: LCI SD" tvg-logo="https://img4.hostingpics.net/pics/217547LocLCI.png" group-title="FRANCAIS"L-FR: LCI SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5140.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="LCI.fr" tvg-name="L-FR: LCI SD" tvg-logo="https://img4.hostingpics.net/pics/217547LocLCI.png" group-title="FRANCAIS"L-FR: LCI SD</link> 
         </item> 
           <item> 
-            <title>PARIS PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=PARIS PREMIERE</link> 
+            <title> tvg-id="LCP.fr" tvg-name="L-FR: LCP SD" tvg-logo="https://img4.hostingpics.net/pics/716044LocLCP.png" group-title="FRANCAIS"L-FR: LCP SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5152.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="LCP.fr" tvg-name="L-FR: LCP SD" tvg-logo="https://img4.hostingpics.net/pics/716044LocLCP.png" group-title="FRANCAIS"L-FR: LCP SD</link> 
         </item> 
           <item> 
-            <title>13EME RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=13EME RUE</link> 
+            <title> tvg-id="" tvg-name="L-FR: FRANCE 24 SD" tvg-logo="https://img4.hostingpics.net/pics/404348LocFance24.png" group-title="FRANCAIS"L-FR: FRANCE 24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5169.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: FRANCE 24 SD" tvg-logo="https://img4.hostingpics.net/pics/404348LocFance24.png" group-title="FRANCAIS"L-FR: FRANCE 24 SD</link> 
         </item> 
           <item> 
-            <title>ARTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=ARTE</link> 
+            <title> tvg-id="CNews.fr" tvg-name="L-FR: CNEWS SD" tvg-logo="https://img4.hostingpics.net/pics/263032LocCnews.png" group-title="FRANCAIS"L-FR: CNEWS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5153.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CNews.fr" tvg-name="L-FR: CNEWS SD" tvg-logo="https://img4.hostingpics.net/pics/263032LocCnews.png" group-title="FRANCAIS"L-FR: CNEWS SD</link> 
         </item> 
           <item> 
-            <title>COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=COMEDIE</link> 
+            <title> tvg-id="" tvg-name="L-FR: WEO FHD" tvg-logo="https://img4.hostingpics.net/pics/160950LocWeo.png" group-title="FRANCAIS"L-FR: WEO FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6729.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: WEO FHD" tvg-logo="https://img4.hostingpics.net/pics/160950LocWeo.png" group-title="FRANCAIS"L-FR: WEO FHD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 1</link> 
+            <title> tvg-id="KTO.fr" tvg-name="L-FR: KTO TV SD" tvg-logo="https://img4.hostingpics.net/pics/498040LocKtO.png" group-title="FRANCAIS"L-FR: KTO TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6938.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="KTO.fr" tvg-name="L-FR: KTO TV SD" tvg-logo="https://img4.hostingpics.net/pics/498040LocKtO.png" group-title="FRANCAIS"L-FR: KTO TV SD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 2</link> 
+            <title> tvg-id="RTSDeux.ch" tvg-name="L-FR: RTS 1 HD" tvg-logo="https://img11.hostingpics.net/pics/213551LocRTS1.png" group-title="FRANCAIS"L-FR: RTS 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6522.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="RTSDeux.ch" tvg-name="L-FR: RTS 1 HD" tvg-logo="https://img11.hostingpics.net/pics/213551LocRTS1.png" group-title="FRANCAIS"L-FR: RTS 1 HD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 3</link> 
+            <title> tvg-id="RTSDeux.ch" tvg-name="L-FR: RTS 2 HD" tvg-logo="https://s17.postimg.org/ntx4myfmn/487217_Loc_RTS2.png" group-title="FRANCAIS"L-FR: RTS 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6523.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="RTSDeux.ch" tvg-name="L-FR: RTS 2 HD" tvg-logo="https://s17.postimg.org/ntx4myfmn/487217_Loc_RTS2.png" group-title="FRANCAIS"L-FR: RTS 2 HD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 4</link> 
+            <title> tvg-id="OrangeCinechoc.fr" tvg-name="L-FR: OCS CHOC FHD" tvg-logo="https://img4.hostingpics.net/pics/691746LocOCSCHOCFHd.png" group-title="FRANCAIS"L-FR: OCS CHOC FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6677.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="OrangeCinechoc.fr" tvg-name="L-FR: OCS CHOC FHD" tvg-logo="https://img4.hostingpics.net/pics/691746LocOCSCHOCFHd.png" group-title="FRANCAIS"L-FR: OCS CHOC FHD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/119.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 5</link> 
+            <title> tvg-id="" tvg-name="L-FR: OCS CITY FHD" tvg-logo="https://s17.postimg.org/m6tmp4vkv/Loc_OCS_CITY_FHd.png" group-title="FRANCAIS"L-FR: OCS CITY FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7720.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: OCS CITY FHD" tvg-logo="https://s17.postimg.org/m6tmp4vkv/Loc_OCS_CITY_FHd.png" group-title="FRANCAIS"L-FR: OCS CITY FHD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 6</link> 
+            <title> tvg-id="" tvg-name="L-FR: OCS CITY HD" tvg-logo="https://s17.postimg.org/fgd5fqy5b/Loc_OCS_CITY_Hd.png" group-title="FRANCAIS"L-FR: OCS CITY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6678.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: OCS CITY HD" tvg-logo="https://s17.postimg.org/fgd5fqy5b/Loc_OCS_CITY_Hd.png" group-title="FRANCAIS"L-FR: OCS CITY HD</link> 
         </item> 
           <item> 
-            <title>A LA CARTE 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=A LA CARTE 7</link> 
+            <title> tvg-id="OrangeCineGeants.fr" tvg-name="L-FR: OCS GEANTS FHD" tvg-logo="https://s17.postimg.org/g65mqv1un/834654_Disney_XD.png" group-title="FRANCAIS"L-FR: OCS GEANTS FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="OrangeCineGeants&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="OrangeCineGeants.fr" tvg-name="L-FR: OCS GEANTS FHD" tvg-logo="https://s17.postimg.org/g65mqv1un/834654_Disney_XD.png" group-title="FRANCAIS"L-FR: OCS GEANTS FHD</link> 
         </item> 
           <item> 
-            <title>TCM CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=TCM CINEMA</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7228.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>CINE+  CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+  CLASSIC</link> 
+            <title> tvg-id="OrangeCineGeants.fr" tvg-name="L-FR: OCS GEANTS HD" tvg-logo="https://s17.postimg.org/78kwthejj/893091_Loc_OCSGeants_Hd.png" group-title="FRANCAIS"L-FR: OCS GEANTS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="L-FR: OCS GEANTS HD" tvg-logo="https://s17.postimg.org/78kwthejj/893091_Loc_OCSGeants&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="OrangeCineGeants.fr" tvg-name="L-FR: OCS GEANTS HD" tvg-logo="https://s17.postimg.org/78kwthejj/893091_Loc_OCSGeants_Hd.png" group-title="FRANCAIS"L-FR: OCS GEANTS HD</link> 
         </item> 
           <item> 
-            <title>CINE+  CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE+  CLUB</link> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6679.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>CINE FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE FX</link> 
+            <title> tvg-id="OrangeCinemax.fr" tvg-name="L-FR: OCS MAX FHD" tvg-logo="https://img15.hostingpics.net/pics/974646LocOCSMAXFHd.png" group-title="FRANCAIS"L-FR: OCS MAX FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7229.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="OrangeCinemax.fr" tvg-name="L-FR: OCS MAX FHD" tvg-logo="https://img15.hostingpics.net/pics/974646LocOCSMAXFHd.png" group-title="FRANCAIS"L-FR: OCS MAX FHD</link> 
         </item> 
           <item> 
-            <title>CINE POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=CINE POLAR</link> 
+            <title> tvg-id="OrangeCinemax.fr" tvg-name="L-FR: OCS MAX HD" tvg-logo="https://img15.hostingpics.net/pics/877619LocOCSMAXHd.png" group-title="FRANCAIS"L-FR: OCS MAX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6680.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="OrangeCinemax.fr" tvg-name="L-FR: OCS MAX HD" tvg-logo="https://img15.hostingpics.net/pics/877619LocOCSMAXHd.png" group-title="FRANCAIS"L-FR: OCS MAX HD</link> 
         </item> 
           <item> 
-            <title>ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=ACTION</link> 
+            <title> tvg-id="CANALplus.fr" tvg-name="L-FR: CANAL+ FHD" tvg-logo="https://img11.hostingpics.net/pics/481232LocCPLUS.png" group-title="FRANCAIS"L-FR: CANAL+ FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6511.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplus.fr" tvg-name="L-FR: CANAL+ FHD" tvg-logo="https://img11.hostingpics.net/pics/481232LocCPLUS.png" group-title="FRANCAIS"L-FR: CANAL+ FHD</link> 
         </item> 
           <item> 
-            <title>VOYAGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=VOYAGE</link> 
+            <title> tvg-id="CANALplus.fr" tvg-name="L-FR: CANAL+ SD" tvg-logo="https://img15.hostingpics.net/pics/347009CANAL.png" group-title="FRANCAIS"L-FR: CANAL+ SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6646.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplus.fr" tvg-name="L-FR: CANAL+ SD" tvg-logo="https://img15.hostingpics.net/pics/347009CANAL.png" group-title="FRANCAIS"L-FR: CANAL+ SD</link> 
         </item> 
           <item> 
-            <title>USHUAIA TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=USHUAIA TV</link> 
+            <title> tvg-id="CANALplusSPORT.fr" tvg-name="L-FR: CANAL+  SPORT FHD" tvg-logo="https://s17.postimg.org/xuxdigiqn/939035_Loc_CASP.png" group-title="FRANCAIS"L-FR: CANAL+  SPORT FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7238.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplusSPORT.fr" tvg-name="L-FR: CANAL+  SPORT FHD" tvg-logo="https://s17.postimg.org/xuxdigiqn/939035_Loc_CASP.png" group-title="FRANCAIS"L-FR: CANAL+  SPORT FHD</link> 
         </item> 
           <item> 
-            <title>NATIONAL GEOGRAPHIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=NATIONAL GEOGRAPHIC</link> 
+            <title> tvg-id="CANALplusSPORT.fr" tvg-name="L-FR: CANAL+ SPORT FHD" tvg-logo="https://s17.postimg.org/xuxdigiqn/939035_Loc_CASP.png" group-title="FRANCAIS"L-FR: CANAL+ SPORT FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4943.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplusSPORT.fr" tvg-name="L-FR: CANAL+ SPORT FHD" tvg-logo="https://s17.postimg.org/xuxdigiqn/939035_Loc_CASP.png" group-title="FRANCAIS"L-FR: CANAL+ SPORT FHD</link> 
         </item> 
           <item> 
-            <title>NAT GEO WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=NAT GEO WILD</link> 
+            <title> tvg-id="CANALplusCINEMA.fr" tvg-name="L-FR: CANAL+ CINEMA HD" tvg-logo="https://s17.postimg.org/hkxih42fj/784856_Loc_CACINEMA.png" group-title="FRANCAIS"L-FR: CANAL+ CINEMA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6514.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplusCINEMA.fr" tvg-name="L-FR: CANAL+ CINEMA HD" tvg-logo="https://s17.postimg.org/hkxih42fj/784856_Loc_CACINEMA.png" group-title="FRANCAIS"L-FR: CANAL+ CINEMA HD</link> 
         </item> 
           <item> 
-            <title>DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY</link> 
+            <title> tvg-id="" tvg-name="L-FR: CINE 12 HD" tvg-logo="https://img4.hostingpics.net/pics/228662LocCine12Fhd.png" group-title="FRANCAIS"L-FR: CINE 12 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6944.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: CINE 12 HD" tvg-logo="https://img4.hostingpics.net/pics/228662LocCine12Fhd.png" group-title="FRANCAIS"L-FR: CINE 12 HD</link> 
         </item> 
           <item> 
-            <title>DISCOVERY SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISCOVERY SCIENCE</link> 
+            <title> tvg-id="" tvg-name="L-FR: CANAL ALGERIE SD" tvg-logo="https://img11.hostingpics.net/pics/575873LocAlgerie.png" group-title="FRANCAIS"L-FR: CANAL ALGERIE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6531.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: CANAL ALGERIE SD" tvg-logo="https://img11.hostingpics.net/pics/575873LocAlgerie.png" group-title="FRANCAIS"L-FR: CANAL ALGERIE SD</link> 
         </item> 
           <item> 
-            <title>PLANETE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE</link> 
+            <title> tvg-id="13RUE.fr" tvg-name="L-FR: 13 EME RUE FHD" tvg-logo="https://s17.postimg.org/cmjp0xwj3/550339_Loc13rue_Fhd.png" group-title="FRANCAIS"L-FR: 13 EME RUE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7271.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="13RUE.fr" tvg-name="L-FR: 13 EME RUE FHD" tvg-logo="https://s17.postimg.org/cmjp0xwj3/550339_Loc13rue_Fhd.png" group-title="FRANCAIS"L-FR: 13 EME RUE FHD</link> 
         </item> 
           <item> 
-            <title>PLANETE+  CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+  CI</link> 
+            <title> tvg-id="Action.fr" tvg-name="L-FR: ACTION HD" tvg-logo="https://s18.postimg.org/ffgc9vp3t/ACTION_hd.png" group-title="FRANCAIS"L-FR: ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7571.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Action.fr" tvg-name="L-FR: ACTION HD" tvg-logo="https://s18.postimg.org/ffgc9vp3t/ACTION_hd.png" group-title="FRANCAIS"L-FR: ACTION HD</link> 
         </item> 
           <item> 
-            <title>PLANETE+ AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=PLANETE+ AE</link> 
+            <title> tvg-id="Syfy.fr" tvg-name="L-FR: SYFY FHD" tvg-logo="https://img15.hostingpics.net/pics/692353LocSYFYFHD.png" group-title="FRANCAIS"L-FR: SYFY FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7272.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Syfy.fr" tvg-name="L-FR: SYFY FHD" tvg-logo="https://img15.hostingpics.net/pics/692353LocSYFYFHD.png" group-title="FRANCAIS"L-FR: SYFY FHD</link> 
         </item> 
           <item> 
-            <title>ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=ANIMAUX</link> 
+            <title> tvg-id="Comedie.fr" tvg-name="L-FR: COMEDIE PLUS HD" tvg-logo="https://s18.postimg.org/zcm9ihkq1/Comedie_Hd.png" group-title="FRANCAIS"L-FR: COMEDIE PLUS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7572.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Comedie.fr" tvg-name="L-FR: COMEDIE PLUS HD" tvg-logo="https://s18.postimg.org/zcm9ihkq1/Comedie_Hd.png" group-title="FRANCAIS"L-FR: COMEDIE PLUS HD</link> 
         </item> 
           <item> 
-            <title>TOUTE l`HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=TOUTE l`HISTOIRE</link> 
+            <title> tvg-id="" tvg-name="L-FR: POLAR PLUS HD" tvg-logo="https://s18.postimg.org/b3rqkk58p/Polar.png" group-title="FRANCAIS"L-FR: POLAR PLUS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7573.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: POLAR PLUS HD" tvg-logo="https://s18.postimg.org/b3rqkk58p/Polar.png" group-title="FRANCAIS"L-FR: POLAR PLUS HD</link> 
         </item> 
           <item> 
-            <title>HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=HISTOIRE</link> 
+            <title> tvg-id="SerieClub.fr" tvg-name="L-FR: SERIE CLUB FHD" tvg-logo="https://img15.hostingpics.net/pics/720697LocSerieClubFHD.png" group-title="FRANCAIS"L-FR: SERIE CLUB FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7273.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SerieClub.fr" tvg-name="L-FR: SERIE CLUB FHD" tvg-logo="https://img15.hostingpics.net/pics/720697LocSerieClubFHD.png" group-title="FRANCAIS"L-FR: SERIE CLUB FHD</link> 
         </item> 
           <item> 
-            <title>SCIENCE ET VIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=SCIENCE ET VIE</link> 
+            <title> tvg-id="" tvg-name="L-FR: CANAL  FAMILY FHD" tvg-logo="https://img15.hostingpics.net/pics/885092LocCAFA.png" group-title="FRANCAIS"L-FR: CANAL  FAMILY FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7241.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: CANAL  FAMILY FHD" tvg-logo="https://img15.hostingpics.net/pics/885092LocCAFA.png" group-title="FRANCAIS"L-FR: CANAL  FAMILY FHD</link> 
         </item> 
           <item> 
-            <title>SEASONS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=SEASONS</link> 
+            <title> tvg-id="CANALplusFamily.fr" tvg-name="L-FR: CANAL+ FAMILY HD" tvg-logo="https://s17.postimg.org/ak9inyq9b/918505_Loc_CAFA.png" group-title="FRANCAIS"L-FR: CANAL+ FAMILY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6512.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplusFamily.fr" tvg-name="L-FR: CANAL+ FAMILY HD" tvg-logo="https://s17.postimg.org/ak9inyq9b/918505_Loc_CAFA.png" group-title="FRANCAIS"L-FR: CANAL+ FAMILY HD</link> 
         </item> 
           <item> 
-            <title>CHASSE PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=CHASSE PECHE</link> 
+            <title> tvg-id="" tvg-name="L-FR: CANAL  SERIES FHD" tvg-logo="https://img15.hostingpics.net/pics/319871LocCASE.png" group-title="FRANCAIS"L-FR: CANAL  SERIES FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7242.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: CANAL  SERIES FHD" tvg-logo="https://img15.hostingpics.net/pics/319871LocCASE.png" group-title="FRANCAIS"L-FR: CANAL  SERIES FHD</link> 
         </item> 
           <item> 
-            <title>TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=TMC</link> 
+            <title> tvg-id="CanalplusSeries.fr" tvg-name="L-FR: CANAL+ SERIE HD" tvg-logo="https://img11.hostingpics.net/pics/991057LocCASE.png" group-title="FRANCAIS"L-FR: CANAL+ SERIE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6515.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CanalplusSeries.fr" tvg-name="L-FR: CANAL+ SERIE HD" tvg-logo="https://img11.hostingpics.net/pics/991057LocCASE.png" group-title="FRANCAIS"L-FR: CANAL+ SERIE HD</link> 
         </item> 
           <item> 
-            <title>CANAL J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=CANAL J</link> 
+            <title> tvg-id="CANALplusDECALE.fr" tvg-name="L-FR: CANAL+ DECALE FHD" tvg-logo="https://img11.hostingpics.net/pics/605109LocCDECALE.png" group-title="FRANCAIS"L-FR: CANAL+ DECALE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6513.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CANALplusDECALE.fr" tvg-name="L-FR: CANAL+ DECALE FHD" tvg-logo="https://img11.hostingpics.net/pics/605109LocCDECALE.png" group-title="FRANCAIS"L-FR: CANAL+ DECALE FHD</link> 
         </item> 
           <item> 
-            <title>BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOING</link> 
+            <title> tvg-id="CinecinemaClassic.fr" tvg-name="L-FR: CINE+ CLASSIC FHD" tvg-logo="https://img11.hostingpics.net/pics/185440LocCAClassic.png" group-title="FRANCAIS"L-FR: CINE+ CLASSIC FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6521.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CinecinemaClassic.fr" tvg-name="L-FR: CINE+ CLASSIC FHD" tvg-logo="https://img11.hostingpics.net/pics/185440LocCAClassic.png" group-title="FRANCAIS"L-FR: CINE+ CLASSIC FHD</link> 
         </item> 
           <item> 
-            <title>BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=BOOMERANG</link> 
+            <title> tvg-id="CinecinemaFrisson.fr" tvg-name="L-FR: CINE+ FRISSON FHD" tvg-logo="https://img11.hostingpics.net/pics/489370LocCAFrisson.png" group-title="FRANCAIS"L-FR: CINE+ FRISSON FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6518.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CinecinemaFrisson.fr" tvg-name="L-FR: CINE+ FRISSON FHD" tvg-logo="https://img11.hostingpics.net/pics/489370LocCAFrisson.png" group-title="FRANCAIS"L-FR: CINE+ FRISSON FHD</link> 
         </item> 
           <item> 
-            <title>CARTOON NETWORK FR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=CARTOON NETWORK FR</link> 
+            <title> tvg-id="CinecinemaFamiz.fr" tvg-name="L-FR: CINE+ FAMIZ FHD" tvg-logo="https://img11.hostingpics.net/pics/188419LocCAFamiz.png" group-title="FRANCAIS"L-FR: CINE+ FAMIZ FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6516.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CinecinemaFamiz.fr" tvg-name="L-FR: CINE+ FAMIZ FHD" tvg-logo="https://img11.hostingpics.net/pics/188419LocCAFamiz.png" group-title="FRANCAIS"L-FR: CINE+ FAMIZ FHD</link> 
         </item> 
           <item> 
-            <title>DISNEY CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CHANNEL</link> 
+            <title> tvg-id="CinecinemaClub.fr" tvg-name="L-FR: CINE+ CLUB HD" tvg-logo="https://img11.hostingpics.net/pics/424743LocCAClub.png" group-title="FRANCAIS"L-FR: CINE+ CLUB HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6520.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CinecinemaClub.fr" tvg-name="L-FR: CINE+ CLUB HD" tvg-logo="https://img11.hostingpics.net/pics/424743LocCAClub.png" group-title="FRANCAIS"L-FR: CINE+ CLUB HD</link> 
         </item> 
           <item> 
-            <title>DISNEY CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY CINEMA</link> 
+            <title> tvg-id="CinecinemaEmotion.fr" tvg-name="L-FR: CINE+ EMOTION FHD" tvg-logo="https://s17.postimg.org/l8mylot5b/773716_Loc_CAEmotion.png" group-title="FRANCAIS"L-FR: CINE+ EMOTION FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6519.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CinecinemaEmotion.fr" tvg-name="L-FR: CINE+ EMOTION FHD" tvg-logo="https://s17.postimg.org/l8mylot5b/773716_Loc_CAEmotion.png" group-title="FRANCAIS"L-FR: CINE+ EMOTION FHD</link> 
         </item> 
           <item> 
-            <title>DISNEY JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY JUNIOR</link> 
+            <title> tvg-id="CinecinemaPremier.fr" tvg-name="L-FR: CINE+ PREMIER FHD" tvg-logo="https://img11.hostingpics.net/pics/231150LocCAPremier.png" group-title="FRANCAIS"L-FR: CINE+ PREMIER FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6517.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CinecinemaPremier.fr" tvg-name="L-FR: CINE+ PREMIER FHD" tvg-logo="https://img11.hostingpics.net/pics/231150LocCAPremier.png" group-title="FRANCAIS"L-FR: CINE+ PREMIER FHD</link> 
         </item> 
           <item> 
-            <title>DISNEY XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=DISNEY XD</link> 
+            <title> tvg-id="Warnertv.fr" tvg-name="L-FR: WARNER TV HD" tvg-logo="https://img4.hostingpics.net/pics/124844LocWarnerTvfhdTV.png" group-title="FRANCAIS"L-FR: WARNER TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7032.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Warnertv.fr" tvg-name="L-FR: WARNER TV HD" tvg-logo="https://img4.hostingpics.net/pics/124844LocWarnerTvfhdTV.png" group-title="FRANCAIS"L-FR: WARNER TV HD</link> 
         </item> 
           <item> 
-            <title>GAME ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=GAME ONE</link> 
+            <title> tvg-id="" tvg-name="L-FR: BEIN SPORTS 1 FHD (T)" tvg-logo="https://s17.postimg.org/lricwezgf/Loc_BEIN_SPORTS_1.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 1 FHD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7725.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: BEIN SPORTS 1 FHD (T)" tvg-logo="https://s17.postimg.org/lricwezgf/Loc_BEIN_SPORTS_1.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 1 FHD (T)</link> 
         </item> 
           <item> 
-            <title>MANGAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=MANGAS</link> 
+            <title> tvg-id="beINSport1.fr" tvg-name="L-FR: BEIN SPORTS 1 FHD" tvg-logo="https://s17.postimg.org/lricwezgf/Loc_BEIN_SPORTS_1.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 1 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6542.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="beINSport1.fr" tvg-name="L-FR: BEIN SPORTS 1 FHD" tvg-logo="https://s17.postimg.org/lricwezgf/Loc_BEIN_SPORTS_1.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 1 FHD</link> 
         </item> 
           <item> 
-            <title>GONG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=GONG</link> 
+            <title> tvg-id="beINSport1.fr" tvg-name="L-FR: BEIN SPORTS 1 SD" tvg-logo="https://s17.postimg.org/3opa4u0xb/BEIN_SPORTs_1.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6645.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="beINSport1.fr" tvg-name="L-FR: BEIN SPORTS 1 SD" tvg-logo="https://s17.postimg.org/3opa4u0xb/BEIN_SPORTs_1.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 1 SD</link> 
         </item> 
           <item> 
-            <title>GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=GULLI</link> 
+            <title> tvg-id="" tvg-name="L-FR: BEIN SPORTS 2 FHD (T)" tvg-logo="https://s17.postimg.org/u9rt0wb5r/Loc_BEIN_SPORTS_2.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 2 FHD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7724.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: BEIN SPORTS 2 FHD (T)" tvg-logo="https://s17.postimg.org/u9rt0wb5r/Loc_BEIN_SPORTS_2.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 2 FHD (T)</link> 
         </item> 
           <item> 
-            <title>PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=PIWI</link> 
+            <title> tvg-id="beINSport2.fr" tvg-name="L-FR: BEIN SPORTS 2 HD" tvg-logo="https://s17.postimg.org/u9rt0wb5r/Loc_BEIN_SPORTS_2.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6543.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="beINSport2.fr" tvg-name="L-FR: BEIN SPORTS 2 HD" tvg-logo="https://s17.postimg.org/u9rt0wb5r/Loc_BEIN_SPORTS_2.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 2 HD</link> 
         </item> 
           <item> 
-            <title>TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/99.ts&amp;streamtype=TSDOWNLOADER&amp;name=TIJI</link> 
+            <title> tvg-id="beINSport2.fr" tvg-name="L-FR: BEIN SPORTS 2 SD" tvg-logo="https://s17.postimg.org/votdp8u4v/BEIN_SPORTs_2.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 2 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6644.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="beINSport2.fr" tvg-name="L-FR: BEIN SPORTS 2 SD" tvg-logo="https://s17.postimg.org/votdp8u4v/BEIN_SPORTs_2.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 2 SD</link> 
         </item> 
           <item> 
-            <title>TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=TELETOON</link> 
+            <title> tvg-id="" tvg-name="L-FR: BEIN SPORTS 3 FHD (T)" tvg-logo="https://s17.postimg.org/rfonnie5b/Loc_BEIN_SPORTS_3.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 3 FHD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7723.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: BEIN SPORTS 3 FHD (T)" tvg-logo="https://s17.postimg.org/rfonnie5b/Loc_BEIN_SPORTS_3.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 3 FHD (T)</link> 
         </item> 
           <item> 
-            <title>ELLE GIRL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=ELLE GIRL</link> 
+            <title> tvg-id="beINSport3.fr" tvg-name="L-FR: BEIN SPORTS 3 HD" tvg-logo="https://img11.hostingpics.net/pics/935071LocBEINSPORT3HD.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6544.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="beINSport3.fr" tvg-name="L-FR: BEIN SPORTS 3 HD" tvg-logo="https://img11.hostingpics.net/pics/935071LocBEINSPORT3HD.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 3 HD</link> 
         </item> 
           <item> 
-            <title>KATO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=KATO</link> 
+            <title> tvg-id="beINSport3.fr" tvg-name="L-FR: BEIN SPORTS 3 SD" tvg-logo="https://s17.postimg.org/rfonnie5b/Loc_BEIN_SPORTS_3.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 3 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6643.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="beINSport3.fr" tvg-name="L-FR: BEIN SPORTS 3 SD" tvg-logo="https://s17.postimg.org/rfonnie5b/Loc_BEIN_SPORTS_3.png" group-title="FRANCAIS"L-FR: BEIN SPORTS 3 SD</link> 
         </item> 
           <item> 
-            <title>NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON</link> 
+            <title> tvg-id="BeInSportMax4.fr" tvg-name="L-FR: BEIN SPORTS MAX 4 SD" tvg-logo="https://img15.hostingpics.net/pics/439084BEINSPORTMAX4.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 4 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6642.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax4.fr" tvg-name="L-FR: BEIN SPORTS MAX 4 SD" tvg-logo="https://img15.hostingpics.net/pics/439084BEINSPORTMAX4.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 4 SD</link> 
         </item> 
           <item> 
-            <title>NICKELODEON JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=NICKELODEON JUNIOR</link> 
+            <title> tvg-id="BeInSportMax5.fr" tvg-name="L-FR: BEIN SPORTS MAX 5 SD" tvg-logo="https://img15.hostingpics.net/pics/927431BEINSPORTMAX5.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 5 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6641.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax5.fr" tvg-name="L-FR: BEIN SPORTS MAX 5 SD" tvg-logo="https://img15.hostingpics.net/pics/927431BEINSPORTMAX5.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 5 SD</link> 
         </item> 
           <item> 
-            <title>MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV</link> 
+            <title> tvg-id="BeInSportMax6.fr" tvg-name="L-FR: BEIN SPORTS MAX 6 SD" tvg-logo="https://img15.hostingpics.net/pics/524404BEINSPORTMAX6.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 6 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6640.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax6.fr" tvg-name="L-FR: BEIN SPORTS MAX 6 SD" tvg-logo="https://img15.hostingpics.net/pics/524404BEINSPORTMAX6.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 6 SD</link> 
         </item> 
           <item> 
-            <title>MTV DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV DANCE</link> 
+            <title> tvg-id="BeInSportMax7.fr" tvg-name="L-FR: BEIN SPORTS MAX 7 SD" tvg-logo="https://img15.hostingpics.net/pics/168774BEINSPORTMAX7.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 7 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6639.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax7.fr" tvg-name="L-FR: BEIN SPORTS MAX 7 SD" tvg-logo="https://img15.hostingpics.net/pics/168774BEINSPORTMAX7.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 7 SD</link> 
         </item> 
           <item> 
-            <title>MTV HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV HITS</link> 
+            <title> tvg-id="BeInSportMax8.fr" tvg-name="L-FR: BEIN SPORTS MAX 8 SD" tvg-logo="https://img15.hostingpics.net/pics/857155BEINSPORTMAX8.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 8 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6638.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax8.fr" tvg-name="L-FR: BEIN SPORTS MAX 8 SD" tvg-logo="https://img15.hostingpics.net/pics/857155BEINSPORTMAX8.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 8 SD</link> 
         </item> 
           <item> 
-            <title>MTV MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=MTV MUSIC</link> 
+            <title> tvg-id="BeInSportMax9.fr" tvg-name="L-FR: BEIN SPORTS MAX 9 SD" tvg-logo="https://img15.hostingpics.net/pics/551681BEINSPORTMAX9.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 9 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6637.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax9.fr" tvg-name="L-FR: BEIN SPORTS MAX 9 SD" tvg-logo="https://img15.hostingpics.net/pics/551681BEINSPORTMAX9.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 9 SD</link> 
         </item> 
           <item> 
-            <title>NRJ 12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=NRJ 12</link> 
+            <title> tvg-id="BeInSportMax10.fr" tvg-name="L-FR: BEIN SPORTS MAX 10 SD" tvg-logo="https://img15.hostingpics.net/pics/394088BEINSPORTMAX10.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 10 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6636.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="BeInSportMax10.fr" tvg-name="L-FR: BEIN SPORTS MAX 10 SD" tvg-logo="https://img15.hostingpics.net/pics/394088BEINSPORTMAX10.png" group-title="FRANCAIS"L-FR: BEIN SPORTS MAX 10 SD</link> 
         </item> 
           <item> 
-            <title>SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=SYFY</link> 
+            <title> tvg-id="SFRSport2.fr" tvg-name="L-FR: SFR SPORT 1 FHD" tvg-logo="https://img11.hostingpics.net/pics/325336LocSFRsport1Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 1 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6507.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SFRSport2.fr" tvg-name="L-FR: SFR SPORT 1 FHD" tvg-logo="https://img11.hostingpics.net/pics/325336LocSFRsport1Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 1 FHD</link> 
         </item> 
           <item> 
-            <title>TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=TEVA</link> 
+            <title> tvg-id="SFRSport2.fr" tvg-name="L-FR: SFR SPORT 2 FHD" tvg-logo="https://img15.hostingpics.net/pics/971235LocSFRsport2Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 2 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7249.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SFRSport2.fr" tvg-name="L-FR: SFR SPORT 2 FHD" tvg-logo="https://img15.hostingpics.net/pics/971235LocSFRsport2Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 2 FHD</link> 
         </item> 
           <item> 
-            <title>TREK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=TREK</link> 
+            <title> tvg-id="SFRSport2.fr" tvg-name="L-FR: SFR SPORT 2 HD" tvg-logo="https://img11.hostingpics.net/pics/201694LocSFRsport2Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6508.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SFRSport2.fr" tvg-name="L-FR: SFR SPORT 2 HD" tvg-logo="https://img11.hostingpics.net/pics/201694LocSFRsport2Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 2 HD</link> 
         </item> 
           <item> 
-            <title>NUMERO 23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=NUMERO 23</link> 
+            <title> tvg-id="SFRSport3.fr" tvg-name="L-FR: SFR SPORT 3 HD" tvg-logo="https://img11.hostingpics.net/pics/626980LocSFRsport3Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 3 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6509.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SFRSport3.fr" tvg-name="L-FR: SFR SPORT 3 HD" tvg-logo="https://img11.hostingpics.net/pics/626980LocSFRsport3Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 3 HD</link> 
         </item> 
           <item> 
-            <title>AB MOTEURS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB MOTEURS</link> 
+            <title> tvg-id="SFRSport5.fr" tvg-name="L-FR: SFR SPORT 5 HD" tvg-logo="https://img11.hostingpics.net/pics/819391LocSFRsport5Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 5 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6510.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="SFRSport5.fr" tvg-name="L-FR: SFR SPORT 5 HD" tvg-logo="https://img11.hostingpics.net/pics/819391LocSFRsport5Hd.png" group-title="FRANCAIS"L-FR: SFR SPORT 5 HD</link> 
         </item> 
           <item> 
-            <title>AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB3</link> 
+            <title> tvg-id="ABMoteurs.fr" tvg-name="L-FR: AB MOTEURS SD" tvg-logo="https://img11.hostingpics.net/pics/894434LocABMoteur.png" group-title="FRANCAIS"L-FR: AB MOTEURS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6524.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="ABMoteurs.fr" tvg-name="L-FR: AB MOTEURS SD" tvg-logo="https://img11.hostingpics.net/pics/894434LocABMoteur.png" group-title="FRANCAIS"L-FR: AB MOTEURS SD</link> 
         </item> 
           <item> 
-            <title>AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=AB1</link> 
+            <title> tvg-id="PLANETE.fr" tvg-name="L-FR: PLANETE+ FHD" tvg-logo="https://img15.hostingpics.net/pics/181656LocPlaneteHd.png" group-title="FRANCAIS"L-FR: PLANETE+ FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7261.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PLANETE.fr" tvg-name="L-FR: PLANETE+ FHD" tvg-logo="https://img15.hostingpics.net/pics/181656LocPlaneteHd.png" group-title="FRANCAIS"L-FR: PLANETE+ FHD</link> 
         </item> 
           <item> 
-            <title>6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=6TER</link> 
+            <title> tvg-id="PLANETE.fr" tvg-name="L-FR: PLANETE + HD (T)" tvg-logo="https://s17.postimg.org/z9knuxrcv/788608_Loc_Planete_Hd.png" group-title="FRANCAIS"L-FR: PLANETE + HD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6682.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PLANETE.fr" tvg-name="L-FR: PLANETE + HD (T)" tvg-logo="https://s17.postimg.org/z9knuxrcv/788608_Loc_Planete_Hd.png" group-title="FRANCAIS"L-FR: PLANETE + HD (T)</link> 
         </item> 
           <item> 
-            <title>E!</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=E!</link> 
+            <title> tvg-id="PLANETEJustice.fr" tvg-name="L-FR: PLANETE   CI FHD" tvg-logo="https://img15.hostingpics.net/pics/114295LocPlaneteCIFHD.png" group-title="FRANCAIS"L-FR: PLANETE   CI FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7260.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PLANETEJustice.fr" tvg-name="L-FR: PLANETE   CI FHD" tvg-logo="https://img15.hostingpics.net/pics/114295LocPlaneteCIFHD.png" group-title="FRANCAIS"L-FR: PLANETE   CI FHD</link> 
         </item> 
           <item> 
-            <title>SFR SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=SFR SPORT</link> 
+            <title> tvg-id="PLANETEJustice.fr" tvg-name="L-FR: PLANETE CI HD (T)" tvg-logo="https://s17.postimg.org/z9knuxrcv/788608_Loc_Planete_Hd.png" group-title="FRANCAIS"L-FR: PLANETE CI HD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6683.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PLANETEJustice.fr" tvg-name="L-FR: PLANETE CI HD (T)" tvg-logo="https://s17.postimg.org/z9knuxrcv/788608_Loc_Planete_Hd.png" group-title="FRANCAIS"L-FR: PLANETE CI HD (T)</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS FR 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS FR 1 HD</link> 
+            <title> tvg-id="PLANETEnoLIMIT.fr" tvg-name="L-FR: PLANETE   A&amp;E FHD" tvg-logo="https://s17.postimg.org/g50aayk73/322869_Loc_Planete_AE.png" group-title="FRANCAIS"L-FR: PLANETE   A&amp;E FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7259.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PLANETEnoLIMIT.fr" tvg-name="L-FR: PLANETE   A&amp;E FHD" tvg-logo="https://s17.postimg.org/g50aayk73/322869_Loc_Planete_AE.png" group-title="FRANCAIS"L-FR: PLANETE   A&amp;E FHD</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS FR 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS FR 2 HD</link> 
+            <title> tvg-id="PLANETEnoLIMIT.fr" tvg-name="L-FR: PLANETE A&amp;E HD (T)" tvg-logo="https://img4.hostingpics.net/pics/592508LocPlaneteAE.png" group-title="FRANCAIS"L-FR: PLANETE A&amp;E HD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6684.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="PLANETEnoLIMIT.fr" tvg-name="L-FR: PLANETE A&amp;E HD (T)" tvg-logo="https://img4.hostingpics.net/pics/592508LocPlaneteAE.png" group-title="FRANCAIS"L-FR: PLANETE A&amp;E HD (T)</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS FR 3 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS FR 3 HD</link> 
+            <title> tvg-id="NationalGeographic.fr" tvg-name="L-FR: NATIONAL GEOGRAPHIC HD (T)" tvg-logo="https://img4.hostingpics.net/pics/119604LocNatGeohd.png" group-title="FRANCAIS"L-FR: NATIONAL GEOGRAPHIC HD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6685.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NationalGeographic.fr" tvg-name="L-FR: NATIONAL GEOGRAPHIC HD (T)" tvg-logo="https://img4.hostingpics.net/pics/119604LocNatGeohd.png" group-title="FRANCAIS"L-FR: NATIONAL GEOGRAPHIC HD (T)</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS MAX 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS MAX 4</link> 
+            <title> tvg-id="NationalGeographic.fr" tvg-name="L-FR: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://img15.hostingpics.net/pics/505370LocNatGeohd.png" group-title="FRANCAIS"L-FR: NATIONAL GEOGRAPHIC FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NationalGeographic.fr" tvg-name="L-FR: NATIONAL GEOGRAPHIC FHD" tvg-logo="https://img15.hostingpics.net/pics/505370LocNatGeohd.png" group-title="FRANCAIS"L-FR: NATIONAL GEOGRAPHIC FHD</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS MAX 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS MAX 5</link> 
+            <title> tvg-id="NatGeoWildHD.fr" tvg-name="L-FR: NATIONAL GEO WILD  FHD" tvg-logo="https://img15.hostingpics.net/pics/411847LocNatWildhd.png" group-title="FRANCAIS"L-FR: NATIONAL GEO WILD  FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7255.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NatGeoWildHD.fr" tvg-name="L-FR: NATIONAL GEO WILD  FHD" tvg-logo="https://img15.hostingpics.net/pics/411847LocNatWildhd.png" group-title="FRANCAIS"L-FR: NATIONAL GEO WILD  FHD</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS MAX 6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS MAX 6</link> 
+            <title> tvg-id="Histoire.fr" tvg-name="L-FR: HISTOIRE FHD" tvg-logo="https://img15.hostingpics.net/pics/596834LocHisto.png" group-title="FRANCAIS"L-FR: HISTOIRE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7253.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Histoire.fr" tvg-name="L-FR: HISTOIRE FHD" tvg-logo="https://img15.hostingpics.net/pics/596834LocHisto.png" group-title="FRANCAIS"L-FR: HISTOIRE FHD</link> 
         </item> 
           <item> 
-            <title>BEIN SPORTS MAX 7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=BEIN SPORTS MAX 7</link> 
+            <title> tvg-id="Seasons.fr" tvg-name="L-FR: SEASONS FHD" tvg-logo="https://img15.hostingpics.net/pics/750873LocSEASONS.png" group-title="FRANCAIS"L-FR: SEASONS FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7254.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Seasons.fr" tvg-name="L-FR: SEASONS FHD" tvg-logo="https://img15.hostingpics.net/pics/750873LocSEASONS.png" group-title="FRANCAIS"L-FR: SEASONS FHD</link> 
         </item> 
           <item> 
-            <title>EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/58.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 1</link> 
+            <title> tvg-id="Voyage.fr" tvg-name="L-FR: VOYAGE FHD" tvg-logo="https://img15.hostingpics.net/pics/609835LocVoyageFHD.png" group-title="FRANCAIS"L-FR: VOYAGE FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7252.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Voyage.fr" tvg-name="L-FR: VOYAGE FHD" tvg-logo="https://img15.hostingpics.net/pics/609835LocVoyageFHD.png" group-title="FRANCAIS"L-FR: VOYAGE FHD</link> 
         </item> 
           <item> 
-            <title>EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/59.ts&amp;streamtype=TSDOWNLOADER&amp;name=EUROSPORT 2</link> 
+            <title> tvg-id="Discovery.fr" tvg-name="L-FR: DISCOVERY FHD" tvg-logo="https://img15.hostingpics.net/pics/785074Locdiscovryhd.png" group-title="FRANCAIS"L-FR: DISCOVERY FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7258.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Discovery.fr" tvg-name="L-FR: DISCOVERY FHD" tvg-logo="https://img15.hostingpics.net/pics/785074Locdiscovryhd.png" group-title="FRANCAIS"L-FR: DISCOVERY FHD</link> 
         </item> 
           <item> 
-            <title>FOOT +</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=FOOT +</link> 
+            <title> tvg-id="Discovery.fr" tvg-name="L-FR: DISCOVERY HD (T)" tvg-logo="https://img4.hostingpics.net/pics/257475Locdiscovryhd.png" group-title="FRANCAIS"L-FR: DISCOVERY HD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6730.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Discovery.fr" tvg-name="L-FR: DISCOVERY HD (T)" tvg-logo="https://img4.hostingpics.net/pics/257475Locdiscovryhd.png" group-title="FRANCAIS"L-FR: DISCOVERY HD (T)</link> 
         </item> 
           <item> 
-            <title>INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=INFOSPORT</link> 
+            <title> tvg-id="" tvg-name="L-FR: DISCOVERY FAMILY FHD (T)" tvg-logo="https://s17.postimg.org/n34egw2vz/515325_Loc_Disco_Family.png" group-title="FRANCAIS"L-FR: DISCOVERY FAMILY FHD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6824.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: DISCOVERY FAMILY FHD (T)" tvg-logo="https://s17.postimg.org/n34egw2vz/515325_Loc_Disco_Family.png" group-title="FRANCAIS"L-FR: DISCOVERY FAMILY FHD (T)</link> 
         </item> 
           <item> 
-            <title>BET</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=BET</link> 
+            <title> tvg-id="DiscoveryScience.fr" tvg-name="L-FR: DISCOVERY SCIENCE FHD (T)" tvg-logo="https://img4.hostingpics.net/pics/120411LocDiscoveryScienceHd.png" group-title="FRANCAIS"L-FR: DISCOVERY SCIENCE FHD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6731.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DiscoveryScience.fr" tvg-name="L-FR: DISCOVERY SCIENCE FHD (T)" tvg-logo="https://img4.hostingpics.net/pics/120411LocDiscoveryScienceHd.png" group-title="FRANCAIS"L-FR: DISCOVERY SCIENCE FHD (T)</link> 
         </item> 
           <item> 
-            <title>BFM SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM SPORT</link> 
+            <title> tvg-id="CrimeDistrict.fr" tvg-name="L-FR: CRIME DISTRICT HD" tvg-logo="https://img4.hostingpics.net/pics/391508LocCrimeDis.png" group-title="FRANCAIS"L-FR: CRIME DISTRICT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6916.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CrimeDistrict.fr" tvg-name="L-FR: CRIME DISTRICT HD" tvg-logo="https://img4.hostingpics.net/pics/391508LocCrimeDis.png" group-title="FRANCAIS"L-FR: CRIME DISTRICT HD</link> 
         </item> 
           <item> 
-            <title>BFM TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM TV</link> 
+            <title> tvg-id="MotorsportTV.fr" tvg-name="L-FR: MOTOR TV FHD (T)" tvg-logo="https://img11.hostingpics.net/pics/162457Locmotortv.png" group-title="FRANCAIS"L-FR: MOTOR TV FHD (T)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6527.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="MotorsportTV.fr" tvg-name="L-FR: MOTOR TV FHD (T)" tvg-logo="https://img11.hostingpics.net/pics/162457Locmotortv.png" group-title="FRANCAIS"L-FR: MOTOR TV FHD (T)</link> 
         </item> 
           <item> 
-            <title>BFM.Businesse</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=BFM.Businesse</link> 
+            <title> tvg-id="" tvg-name="L-FR: ALSACE 20 SD" tvg-logo="https://s17.postimg.org/yo0acdqrj/490868_Loc_Alsace20.png" group-title="FRANCAIS"L-FR: ALSACE 20 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5184.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: ALSACE 20 SD" tvg-logo="https://s17.postimg.org/yo0acdqrj/490868_Loc_Alsace20.png" group-title="FRANCAIS"L-FR: ALSACE 20 SD</link> 
         </item> 
           <item> 
-            <title>Cnews</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=Cnews</link> 
+            <title> tvg-id="Franceinfo.fr" tvg-name="L-FR: FRANCE INFO SD" tvg-logo="https://img4.hostingpics.net/pics/111940LocFranceInfo.png" group-title="FRANCAIS"L-FR: FRANCE INFO SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5154.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Franceinfo.fr" tvg-name="L-FR: FRANCE INFO SD" tvg-logo="https://img4.hostingpics.net/pics/111940LocFranceInfo.png" group-title="FRANCAIS"L-FR: FRANCE INFO SD</link> 
         </item> 
           <item> 
-            <title>FRANCE 24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=FRANCE 24</link> 
+            <title> tvg-id="VosgesTV.fr" tvg-name="L-FR: VOSGES TV SD" tvg-logo="https://img4.hostingpics.net/pics/345330LocVosgestv.png" group-title="FRANCAIS"L-FR: VOSGES TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5185.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="VosgesTV.fr" tvg-name="L-FR: VOSGES TV SD" tvg-logo="https://img4.hostingpics.net/pics/345330LocVosgestv.png" group-title="FRANCAIS"L-FR: VOSGES TV SD</link> 
         </item> 
           <item> 
-            <title>EQUIDIA LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/56.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIDIA LIVE</link> 
+            <title> tvg-id="" tvg-name="L-FR: AFRICA 24 SD" tvg-logo="https://img4.hostingpics.net/pics/746985LocAfrica24J.png" group-title="FRANCAIS"L-FR: AFRICA 24 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5171.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: AFRICA 24 SD" tvg-logo="https://img4.hostingpics.net/pics/746985LocAfrica24J.png" group-title="FRANCAIS"L-FR: AFRICA 24 SD</link> 
         </item> 
           <item> 
-            <title>EQUIPE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/1.ts&amp;streamtype=TSDOWNLOADER&amp;name=EQUIPE 21</link> 
+            <title> tvg-id="" tvg-name="L-FR: EURONEWS SD" tvg-logo="https://img4.hostingpics.net/pics/243079LocEuronews.png" group-title="FRANCAIS"L-FR: EURONEWS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5168.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: EURONEWS SD" tvg-logo="https://img4.hostingpics.net/pics/243079LocEuronews.png" group-title="FRANCAIS"L-FR: EURONEWS SD</link> 
         </item> 
           <item> 
-            <title>EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=EURONEWS</link> 
+            <title> tvg-id="" tvg-name="L-FR: TLM SD" tvg-logo="https://img4.hostingpics.net/pics/999084LocTLm.png" group-title="FRANCAIS"L-FR: TLM SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5186.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: TLM SD" tvg-logo="https://img4.hostingpics.net/pics/999084LocTLm.png" group-title="FRANCAIS"L-FR: TLM SD</link> 
         </item> 
           <item> 
-            <title>GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/62.ts&amp;streamtype=TSDOWNLOADER&amp;name=GOLF</link> 
+            <title> tvg-id="TVBreizh.fr" tvg-name="L-FR: TV BREIZH SD" tvg-logo="https://img4.hostingpics.net/pics/301017Loctvbreizh.png" group-title="FRANCAIS"L-FR: TV BREIZH SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5155.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TVBreizh.fr" tvg-name="L-FR: TV BREIZH SD" tvg-logo="https://img4.hostingpics.net/pics/301017Loctvbreizh.png" group-title="FRANCAIS"L-FR: TV BREIZH SD</link> 
         </item> 
           <item> 
-            <title>LEQUIPE 21</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=LEQUIPE 21</link> 
+            <title> tvg-id="" tvg-name="L-FR: RTL9 SD" tvg-logo="https://s17.postimg.org/kphvbyrbj/317332_Loc_FRRTL9.png" group-title="FRANCAIS"L-FR: RTL9 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4825.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: RTL9 SD" tvg-logo="https://s17.postimg.org/kphvbyrbj/317332_Loc_FRRTL9.png" group-title="FRANCAIS"L-FR: RTL9 SD</link> 
         </item> 
           <item> 
-            <title>LA TELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=LA TELE</link> 
+            <title> tvg-id="M6Boutique.fr" tvg-name="L-FR: M6 BOUTIQUE SD" tvg-logo="https://img4.hostingpics.net/pics/547486LocM6bout.png" group-title="FRANCAIS"L-FR: M6 BOUTIQUE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5181.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="M6Boutique.fr" tvg-name="L-FR: M6 BOUTIQUE SD" tvg-logo="https://img4.hostingpics.net/pics/547486LocM6bout.png" group-title="FRANCAIS"L-FR: M6 BOUTIQUE SD</link> 
         </item> 
           <item> 
-            <title>NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=NT1</link> 
+            <title> tvg-id="Fashion TV" tvg-name="L-FR: FASHION TV SD" tvg-logo="https://img4.hostingpics.net/pics/577789LocFashionTv.png" group-title="FRANCAIS"L-FR: FASHION TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5176.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Fashion TV" tvg-name="L-FR: FASHION TV SD" tvg-logo="https://img4.hostingpics.net/pics/577789LocFashionTv.png" group-title="FRANCAIS"L-FR: FASHION TV SD</link> 
         </item> 
           <item> 
-            <title>RMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=RMC</link> 
+            <title> tvg-id="EquidiaLife.fr" tvg-name="L-FR: EQUIDIA LIFE SD" tvg-logo="https://img4.hostingpics.net/pics/523153LocEquidiaLIFE.png" group-title="FRANCAIS"L-FR: EQUIDIA LIFE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5159.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EquidiaLife.fr" tvg-name="L-FR: EQUIDIA LIFE SD" tvg-logo="https://img4.hostingpics.net/pics/523153LocEquidiaLIFE.png" group-title="FRANCAIS"L-FR: EQUIDIA LIFE SD</link> 
         </item> 
           <item> 
-            <title>RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTL9</link> 
+            <title> tvg-id="EquidiaLive.fr" tvg-name="L-FR: EQUIDIA LIVE SD" tvg-logo="https://img4.hostingpics.net/pics/477810locEquidialive.png" group-title="FRANCAIS"L-FR: EQUIDIA LIVE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5158.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="EquidiaLive.fr" tvg-name="L-FR: EQUIDIA LIVE SD" tvg-logo="https://img4.hostingpics.net/pics/477810locEquidialive.png" group-title="FRANCAIS"L-FR: EQUIDIA LIVE SD</link> 
         </item> 
           <item> 
-            <title>RTSDeux</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTSDeux</link> 
+            <title> tvg-id="" tvg-name="L-FR: LUCKY JACK TV SD" tvg-logo="https://img4.hostingpics.net/pics/602419LocLuckyJtv.png" group-title="FRANCAIS"L-FR: LUCKY JACK TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5183.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: LUCKY JACK TV SD" tvg-logo="https://img4.hostingpics.net/pics/602419LocLuckyJtv.png" group-title="FRANCAIS"L-FR: LUCKY JACK TV SD</link> 
         </item> 
           <item> 
-            <title>RTSUn</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=RTSUn</link> 
+            <title> tvg-id="" tvg-name="L-FR: MEN'S UP TV SD" tvg-logo="https://img15.hostingpics.net/pics/866500LocFrMensUP.png" group-title="FRANCAIS"L-FR: MEN'S UP TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4820.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: MEN'S UP TV SD" tvg-logo="https://img15.hostingpics.net/pics/866500LocFrMensUP.png" group-title="FRANCAIS"L-FR: MEN'S UP TV SD</link> 
         </item> 
           <item> 
-            <title>SERIECLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=SERIECLUB</link> 
+            <title> tvg-id="Histoire.fr" tvg-name="L-FR: HISTOIRE SD" tvg-logo="https://s17.postimg.org/9s7cw4xmn/792578_Loc_Histo.png" group-title="FRANCAIS"L-FR: HISTOIRE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5179.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Histoire.fr" tvg-name="L-FR: HISTOIRE SD" tvg-logo="https://s17.postimg.org/9s7cw4xmn/792578_Loc_Histo.png" group-title="FRANCAIS"L-FR: HISTOIRE SD</link> 
         </item> 
           <item> 
-            <title>TV5 MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV5 MONDE</link> 
+            <title> tvg-id="TV5MONDE" tvg-name="L-FR: TV5 MONDE SD" tvg-logo="https://img15.hostingpics.net/pics/304320LocFRTV5Monde.png" group-title="FRANCAIS"L-FR: TV5 MONDE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4801.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TV5MONDE" tvg-name="L-FR: TV5 MONDE SD" tvg-logo="https://img15.hostingpics.net/pics/304320LocFRTV5Monde.png" group-title="FRANCAIS"L-FR: TV5 MONDE SD</link> 
         </item> 
           <item> 
-            <title>TV BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=TV BREIZH</link> 
+            <title> tvg-id="UshuaiaTV.fr" tvg-name="L-FR: USHUAIA TV SD" tvg-logo="https://s17.postimg.org/isgjtwqrz/261552_Locushu.png" group-title="FRANCAIS"L-FR: USHUAIA TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5178.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="UshuaiaTV.fr" tvg-name="L-FR: USHUAIA TV SD" tvg-logo="https://s17.postimg.org/isgjtwqrz/261552_Locushu.png" group-title="FRANCAIS"L-FR: USHUAIA TV SD</link> 
         </item> 
           <item> 
-            <title>WEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://iptv.oneiptv.tv:8080/live/226424484069767/226424484069767/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=WEO</link> 
+            <title> tvg-id="" tvg-name="L-FR: LUXE TV SD" tvg-logo="https://s17.postimg.org/6yde9xxan/832666_Luxetvhd.png" group-title="FRANCAIS"L-FR: LUXE TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5177.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: LUXE TV SD" tvg-logo="https://s17.postimg.org/6yde9xxan/832666_Luxetvhd.png" group-title="FRANCAIS"L-FR: LUXE TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="QVC.fr" tvg-name="L-FR: QVC SD" tvg-logo="https://s17.postimg.org/6vy40qo4v/906667_QVC.png" group-title="FRANCAIS"L-FR: QVC SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5180.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="QVC.fr" tvg-name="L-FR: QVC SD" tvg-logo="https://s17.postimg.org/6vy40qo4v/906667_QVC.png" group-title="FRANCAIS"L-FR: QVC SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: TELE SUD SD" tvg-logo="https://s17.postimg.org/j1nbb6skv/641984_Loc_Telesud.png" group-title="FRANCAIS"L-FR: TELE SUD SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5190.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: TELE SUD SD" tvg-logo="https://s17.postimg.org/j1nbb6skv/641984_Loc_Telesud.png" group-title="FRANCAIS"L-FR: TELE SUD SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="DisneyChannel.fr" tvg-name="L-FR: DISNEY CHANNEL SD" tvg-logo="https://img4.hostingpics.net/pics/849294LocDisneyChannel.png" group-title="FRANCAIS"L-FR: DISNEY CHANNEL SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5164.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DisneyChannel.fr" tvg-name="L-FR: DISNEY CHANNEL SD" tvg-logo="https://img4.hostingpics.net/pics/849294LocDisneyChannel.png" group-title="FRANCAIS"L-FR: DISNEY CHANNEL SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="DisneyChannelPlus1.fr" tvg-name="L-FR: DISNEY CHANNEL +1 SD" tvg-logo="https://img4.hostingpics.net/pics/981149LocDisneyChannel1.png" group-title="FRANCAIS"L-FR: DISNEY CHANNEL +1 SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5165.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DisneyChannelPlus1.fr" tvg-name="L-FR: DISNEY CHANNEL +1 SD" tvg-logo="https://img4.hostingpics.net/pics/981149LocDisneyChannel1.png" group-title="FRANCAIS"L-FR: DISNEY CHANNEL +1 SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="DisneyJunior.fr" tvg-name="L-FR: DISNEY JUNIOR HD" tvg-logo="https://img4.hostingpics.net/pics/322220LocDisneyJuniorhd1.png" group-title="FRANCAIS"L-FR: DISNEY JUNIOR HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6905.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="DisneyJunior.fr" tvg-name="L-FR: DISNEY JUNIOR HD" tvg-logo="https://img4.hostingpics.net/pics/322220LocDisneyJuniorhd1.png" group-title="FRANCAIS"L-FR: DISNEY JUNIOR HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="CanalJ.fr" tvg-name="L-FR: CANAL J FHD" tvg-logo="https://img15.hostingpics.net/pics/422484LocCanalJfhd.png" group-title="FRANCAIS"L-FR: CANAL J FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7227.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="CanalJ.fr" tvg-name="L-FR: CANAL J FHD" tvg-logo="https://img15.hostingpics.net/pics/422484LocCanalJfhd.png" group-title="FRANCAIS"L-FR: CANAL J FHD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: CLASH ROYALE 2017" tvg-logo="https://s17.postimg.org/8h8sf3jcf/483750_Loc_Clash_R.png" group-title="FRANCAIS"L-FR: CLASH ROYALE 2017</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/7194.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: CLASH ROYALE 2017" tvg-logo="https://s17.postimg.org/8h8sf3jcf/483750_Loc_Clash_R.png" group-title="FRANCAIS"L-FR: CLASH ROYALE 2017</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="Mangas.fr" tvg-name="L-FR: MANGAS SD" tvg-logo="https://img4.hostingpics.net/pics/121118LocMANGAS.png" group-title="FRANCAIS"L-FR: MANGAS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6906.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Mangas.fr" tvg-name="L-FR: MANGAS SD" tvg-logo="https://img4.hostingpics.net/pics/121118LocMANGAS.png" group-title="FRANCAIS"L-FR: MANGAS SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: PITCHOUN FHD" tvg-logo="https://img4.hostingpics.net/pics/490378LocPichounFhd.png" group-title="FRANCAIS"L-FR: PITCHOUN FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6902.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: PITCHOUN FHD" tvg-logo="https://img4.hostingpics.net/pics/490378LocPichounFhd.png" group-title="FRANCAIS"L-FR: PITCHOUN FHD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: ZOUZOUS TV SD" tvg-logo="https://s17.postimg.org/8z8j8a5wf/536220_Loc_Zouzous_TV.png" group-title="FRANCAIS"L-FR: ZOUZOUS TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6904.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: ZOUZOUS TV SD" tvg-logo="https://s17.postimg.org/8z8j8a5wf/536220_Loc_Zouzous_TV.png" group-title="FRANCAIS"L-FR: ZOUZOUS TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="GameOne.fr" tvg-name="L-FR: GAME ONE SD" tvg-logo="https://img4.hostingpics.net/pics/381225LocGAMEOne.png" group-title="FRANCAIS"L-FR: GAME ONE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5156.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="GameOne.fr" tvg-name="L-FR: GAME ONE SD" tvg-logo="https://img4.hostingpics.net/pics/381225LocGAMEOne.png" group-title="FRANCAIS"L-FR: GAME ONE SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="Gong.fr" tvg-name="L-FR: GONG SD" tvg-logo="https://img4.hostingpics.net/pics/745129LocfrGong.png" group-title="FRANCAIS"L-FR: GONG SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5166.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="Gong.fr" tvg-name="L-FR: GONG SD" tvg-logo="https://img4.hostingpics.net/pics/745129LocfrGong.png" group-title="FRANCAIS"L-FR: GONG SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: GINX ESPORTS TV SD" tvg-logo="https://img4.hostingpics.net/pics/374198LocGinxESportstv.png" group-title="FRANCAIS"L-FR: GINX ESPORTS TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="" tvg-name="L-FR: GINX ESPORTS TV SD" tvg-logo="https://img4.hostingpics.net/pics/374198LocGinxESports&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: GINX ESPORTS TV SD" tvg-logo="https://img4.hostingpics.net/pics/374198LocGinxESportstv.png" group-title="FRANCAIS"L-FR: GINX ESPORTS TV SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5182.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: NO LIFE SD" tvg-logo="https://img4.hostingpics.net/pics/344550LocNolife.png" group-title="FRANCAIS"L-FR: NO LIFE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5167.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: NO LIFE SD" tvg-logo="https://img4.hostingpics.net/pics/344550LocNolife.png" group-title="FRANCAIS"L-FR: NO LIFE SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: MCM SD" tvg-logo="https://img15.hostingpics.net/pics/341118LocMCM.png" group-title="FRANCAIS"L-FR: MCM SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4809.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: MCM SD" tvg-logo="https://img15.hostingpics.net/pics/341118LocMCM.png" group-title="FRANCAIS"L-FR: MCM SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="NRJHitsBelgiquebe" tvg-name="L-FR: NRJ HITS HD" tvg-logo="https://img4.hostingpics.net/pics/503593LocNRJHitshd.png" group-title="FRANCAIS"L-FR: NRJ HITS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="NRJHitsBelgique,be" tvg-name="L-FR: NRJ HITS HD" tvg-logo="https://img4.hostingpics.net/pics/503593LocNRJHits&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NRJHitsBelgiquebe" tvg-name="L-FR: NRJ HITS HD" tvg-logo="https://img4.hostingpics.net/pics/503593LocNRJHitshd.png" group-title="FRANCAIS"L-FR: NRJ HITS HD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6911.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="NRJHitsBelgiquebe" tvg-name="L-FR: NRJ HITS SD" tvg-logo="https://img4.hostingpics.net/pics/377559LocNRJ12.png" group-title="FRANCAIS"L-FR: NRJ HITS SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1 tvg-id="NRJHits&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="NRJHitsBelgiquebe" tvg-name="L-FR: NRJ HITS SD" tvg-logo="https://img4.hostingpics.net/pics/377559LocNRJ12.png" group-title="FRANCAIS"L-FR: NRJ HITS SD</link> 
+        </item> 
+          <item> 
+            <title></title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5160.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: GENERATIONS TV FHD" tvg-logo="https://s17.postimg.org/o2gx7bggf/361432_Loc_Generationstvfhd20.png" group-title="FRANCAIS"L-FR: GENERATIONS TV FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6913.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: GENERATIONS TV FHD" tvg-logo="https://s17.postimg.org/o2gx7bggf/361432_Loc_Generationstvfhd20.png" group-title="FRANCAIS"L-FR: GENERATIONS TV FHD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: MOUV TV HD" tvg-logo="https://img4.hostingpics.net/pics/882847LocMouvtv.png" group-title="FRANCAIS"L-FR: MOUV TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6912.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: MOUV TV HD" tvg-logo="https://img4.hostingpics.net/pics/882847LocMouvtv.png" group-title="FRANCAIS"L-FR: MOUV TV HD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: Radio Monte Carlo" tvg-logo="https://s17.postimg.org/k3xhtnqsv/267165_Loc_Radiomontecarlo.png" group-title="FRANCAIS"L-FR: Radio Monte Carlo</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6910.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: Radio Monte Carlo" tvg-logo="https://s17.postimg.org/k3xhtnqsv/267165_Loc_Radiomontecarlo.png" group-title="FRANCAIS"L-FR: Radio Monte Carlo</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: TVM3 FHD" tvg-logo="https://img4.hostingpics.net/pics/928787LocTVM3fhd.png" group-title="FRANCAIS"L-FR: TVM3 FHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/6914.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: TVM3 FHD" tvg-logo="https://img4.hostingpics.net/pics/928787LocTVM3fhd.png" group-title="FRANCAIS"L-FR: TVM3 FHD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: BRAVA SD" tvg-logo="https://img4.hostingpics.net/pics/484904LocBrava.png" group-title="FRANCAIS"L-FR: BRAVA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5163.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: BRAVA SD" tvg-logo="https://img4.hostingpics.net/pics/484904LocBrava.png" group-title="FRANCAIS"L-FR: BRAVA SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: OFIVE TV SD" tvg-logo="https://s17.postimg.org/rnqkw09sf/760721_Loc_FROFIVE.png" group-title="FRANCAIS"L-FR: OFIVE TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4811.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: OFIVE TV SD" tvg-logo="https://s17.postimg.org/rnqkw09sf/760721_Loc_FROFIVE.png" group-title="FRANCAIS"L-FR: OFIVE TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="" tvg-name="L-FR: CLUBBING TV SD" tvg-logo="https://s17.postimg.org/rh8aerqkv/525280_Loc_Clubbing.png" group-title="FRANCAIS"L-FR: CLUBBING TV SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/5162.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="" tvg-name="L-FR: CLUBBING TV SD" tvg-logo="https://s17.postimg.org/rh8aerqkv/525280_Loc_Clubbing.png" group-title="FRANCAIS"L-FR: CLUBBING TV SD</link> 
+        </item> 
+          <item> 
+            <title> tvg-id="TraceUrban.fr" tvg-name="L-FR: TRACE URBAN SD" tvg-logo="https://img4.hostingpics.net/pics/508040LocTraceUr.png" group-title="FRANCAIS"L-FR: TRACE URBAN SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://millenium-sensation2.gleeze.com:25461/live/VOD/WroV3epBIC/4815.ts&amp;streamtype=TSDOWNLOADER&amp;name= tvg-id="TraceUrban.fr" tvg-name="L-FR: TRACE URBAN SD" tvg-logo="https://img4.hostingpics.net/pics/508040LocTraceUr.png" group-title="FRANCAIS"L-FR: TRACE URBAN SD</link> 
         </item> 
   
