@@ -6,144 +6,131 @@
 
 
 
-</item>
-<channel>
-<name>[I][B][COLOR gold]AMERIKANO TUGA[/COLOR][/I][/B]</name>
+<item>
+<title>[I][B][COLOR gold]AMERIKANO TUGA[/COLOR][/I][/B]</title>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <thumbnail>https://i.imgur.com/sydBwiL.png</thumbnail>
 <link>http://ignorame</link>
-<externallink>https://goo.gl/4vhQxt</externallink>
-</channel>
-
+<jsonrpc>plugin://plugin.video.AmerikanoTuga</jsonrpc>
 </item>
-<channel>
-<name>[COLOR white][B] SECRET TV VIP TEAM[/B][/COLOR]</name>
+
+<item>
+<title>[COLOR white][B] SECRET TV VIP TEAM[/B][/COLOR]</title>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <thumbnail>https://i.imgur.com/6awyiel.png</thumbnail>
 <link>http://ignorame</link>
-<externallink>https://goo.gl/yxRkwC</externallink>
-</channel>
-
-
+<jsonrpc>plugin://plugin.video.vipsecret</jsonrpc>
 </item>
-<channel>
-<name>[COLOR blue]RS[/COLOR][COLOR white]IPTV[/COLOR]</name>
-<thumbnail>https://i.imgur.com/MdGItsB.png</thumbnail>
+
+
+<item>
+<title>[COLOR blue]RS[/COLOR][COLOR white]IPTV[/COLOR]</title>
+<thumbnail>https://i.imgur.com/OLXQB4W.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://goo.gl/jNopx6</externallink>
-</channel>
-
-
+<jsonrpc>plugin://plugin.video.rsiptv</jsonrpc>
 </item>
-<channel>
-<name>[COLOR lime]PREMIUM FREE MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+<item>
+<title>[COLOR lime]PREMIUM FREE MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/TxfxgOZ.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PREMIUM%20FREE%20MENU.xml</externallink>
-</channel>
-
-
-
-
-
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=http://i.imgur.com/cP0kZuH.jpg&amp;mode=1&amp;name=[COLOR lime]PREMIUM FREE MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]&amp;url=https://goo.gl/4PxvYx</jsonrpc>
 </item>
-<channel>
-<name>[COLOR lime]PT MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+
+
+<item>
+<title>[COLOR lime]PT MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/DTfSP1Z.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/PORTUGAL%20MENU.xml</externallink>
-</channel>
-
-
-
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=http://i.imgur.com/cP0kZuH.jpg&amp;mode=1&amp;name=[COLOR lime]PREMIUM FREE MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]&amp;url=https://goo.gl/BfDME3</jsonrpc>
 </item>
-<channel>
-<name>[COLOR lime]FRANCA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+<item>
+<title>[COLOR lime]FRANCA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/n34lbNA.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/FRANCA%20MENU.xml</externallink>
-</channel>
-
-
 </item>
-<channel>
-<name>[COLOR lime]BRASIL MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+<item>
+<title>[COLOR lime]BRASIL MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/eKPY3w.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/BRASIL%20MENU.xml</externallink>
-</channel>
-
-
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=http://i.imgur.com/cP0kZuH.jpg&amp;mode=1&amp;name=[COLOR lime]BRASIL MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]&amp;url=https://goo.gl/SbCpLQ</jsonrpc>
 </item>
-<channel>
-<name>[COLOR lime]UK MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+<item>
+<title>[COLOR lime]UK MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/HBhFgG.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/UK%20MENU.xml</externallink>
-</channel>
-
-
-
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=http://i.imgur.com/cP0kZuH.jpg&amp;mode=1&amp;name=[COLOR lime]UK MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]&amp;url=https://goo.gl/UMZagk</jsonrpc>
 </item>
-<channel>
-<name>[COLOR lime]USA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+<item>
+<title>[COLOR lime]USA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/GegKzO.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/USA%20MENU.xml</externallink>
-</channel>
-
-
 </item>
-<channel>
-<name>[COLOR lime]ALEMANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+<item>
+<title>[COLOR lime]ALEMANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/DabcBF.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/GERMANY%20MENU.xml</externallink>
-</channel>
-
-
-
+<jsonrpc>plugin://plugin.video.loganaddon/?fanart=http://i.imgur.com/cP0kZuH.jpg&amp;mode=1&amp;name=[COLOR lime]ALEMANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]&amp;url=https://goo.gl/NC1Z17</jsonrpc>
 </item>
-<channel>
-<name>[COLOR lime]ESPANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+<item>
+<title>[COLOR lime]ESPANHA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/aKAxX67.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/ESPANHA%20MENU.xml</externallink>
-</channel>
-
-
-
 </item>
-<channel>
-<name>[COLOR lime]ITALIA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+<item>
+<title>[COLOR lime]ITALIA MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/u2Z1wJR.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/ITALIA%20MENU.xml</externallink>
-</channel>
-
-
 </item>
-<channel>
-<name>[COLOR lime]LOGAN TV DESPORTO [/COLOR] [COLOR lime]LISTAS[/COLOR]</name>
+
+
+<item>
+<title>[COLOR lime]LOGAN TV DESPORTO [/COLOR] [COLOR lime]LISTAS[/COLOR]</title>
 <thumbnail>http://i.imgur.com/rH4K5G5.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/LOGAN%20TV%20DESPORTO.xml</externallink>
-</channel>
-
 </item>
-<channel>
-<name>[COLOR lime]LOGAN TV[/COLOR] [COLOR lime]AGENDA DESPORTO[/COLOR]</name>
+
+<item>
+<title>[COLOR lime]LOGAN TV[/COLOR] [COLOR lime]AGENDA DESPORTO[/COLOR]</title>
 <thumbnail>http://i.imgur.com/Cq7ZIRb.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
@@ -151,19 +138,17 @@
 </subitem>
 
 
-</item>
-<channel>
-<name>[COLOR lime]MENU FILMES [/COLOR] [COLOR lime]BY LOGAN TV[/COLOR]</name>
+<item>
+<title>[COLOR lime]MENU FILMES [/COLOR] [COLOR lime]BY LOGAN TV[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/DZa8OE.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/NEW%20FILMES.xml</externallink>
-</channel>
-
-
 </item>
-<channel>
-<name>[COLOR lime]VOD [/COLOR] [COLOR lime]FR[/COLOR]</name>
+
+
+<item>
+<title>[COLOR lime]VOD [/COLOR] [COLOR lime]FR[/COLOR]</title>
 <thumbnail>http://i.cubeupload.com/3a7pld.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
@@ -172,55 +157,51 @@
 
 
 
-</item>
-<channel>
-<name>[COLOR lime]MENU VARIEDADES[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+<item>
+<title>[COLOR lime]MENU VARIEDADES[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/SCsQY7a.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/MENU%20VARIEDADES.xml</externallink>
-</channel>
+</item>
 
 
-<channels>
-<channel>>
-<name>[COLOR lime] RADIOS BY LOGAN [/COLOR] </name>
+<item>
+<title>[COLOR lime] RADIOS BY LOGAN [/COLOR] </title>
 <thumbnail>http://i.imgur.com/2Lr2C7w.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/RADIOS%20BY%20LOGAN.xml</externallink>
 </subitem>
-</item>
+<item>
 
 
-<channel>
-<name>[COLOR lime]VIDEO CLIPES MUSIC[/COLOR]</name>
+<item>
+<title>[COLOR lime]VIDEO CLIPES MUSIC[/COLOR]</title>
 <thumbnail>http://i.imgur.com/ZsPdGTd.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/VIDEO%20CLIPES%20MUSIC.xml</externallink>
-</channel>
-
 </item>
-<channel>
-<name>[COLOR lime]OUTROS ADDONS MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+<item>
+<title>[COLOR lime]OUTROS ADDONS MENU[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnail>http://i.imgur.com/HDWwooF.png</thumbnail>
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/FAMILIA%20IPTV%20MENU.xml</externallink>
-</channel>
-
-
-
-
 </item>
-<channel>
-<name[COLOR lime]MENU UK/USA[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</name>
+
+
+
+
+<tem>
+<title[COLOR lime]MENU UK/USA[/COLOR] [COLOR lime]SERVIDORES[/COLOR]</title>
 <thumbnailhttp://i.cubeupload.com/eMHHc4.png</thumbnail>
 <fanarthttp://i.imgur.com/cP0kZuH.jpg</fanart>
 <linkhttp://ignorame</link>
 <externallinkhttps://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/UK-USA%20MENU.xml</externallink>
-</channel>
+</item>
 
 
 
