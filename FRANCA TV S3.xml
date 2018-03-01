@@ -32,876 +32,164 @@
  
   
  
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 3</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31770.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 4</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 5</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE O</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: ITELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ITELE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: LCP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCP HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: 6TER HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31762.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: 6TER HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: BEINSPORT 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 2HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: BEINSPORT 3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31765.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 3HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: E! HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31753.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EURONEWS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31763.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: M6 MUSIC HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 MUSIC HITS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: MTV Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV Hits</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31760.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: NUMERO 23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23 HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31757.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SYFY HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31773.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p5.giffy.be:8080/live/Abdi/1234/31755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31756.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NT1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: NUMERO 23 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31758.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NUMERO 23 HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: SYFY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31757.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: SYFY HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: TF1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31773.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TF1 HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31755.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: TMC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: BEINSPORT 2HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31766.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 2HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: BEINSPORT 3HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31765.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: BEINSPORT 3HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: E! HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31754.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: E! HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31753.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EURONEWS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: EUROSPORT 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31764.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: EUROSPORT 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31763.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: EUROSPORT 2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31772.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31771.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 3</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31770.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 4</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31769.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE 5</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: FRANCE O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31768.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: FRANCE O</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: ITELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31752.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: ITELE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: LCP HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31751.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: LCP HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: M6 MUSIC HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31759.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: M6 MUSIC HITS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: MTV Hits</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR: MTV Hits&amp;streamtype=TSDOWNLOADER&amp;name=FR: MTV Hits</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31760.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR: NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://p4.giffy.be:8080/live/test12345/test12345/31761.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR: NRJ12</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TF1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TF1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/3.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/4.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_3</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/5.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_4</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/6.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_5</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_O</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/7.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_O</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|M6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/8.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|M6</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|W9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/36.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|W9</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_PLUS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/9.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_PLUS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_DECALE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/10.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_DECALE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/11.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_CINEMA</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_FAMILY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/12.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_FAMILY</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_SPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_SPORT</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_SERIES</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_SERIES</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_PREMIER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_PREMIER</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_EMOTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/16.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_EMOTION</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_FRISSON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/17.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_FRISSON</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_FAMIZ</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/18.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_FAMIZ</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_CLASSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/19.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_CLASSIC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/30.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_CLUB</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_FX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/20.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_FX</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CINE_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/157.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CINE_2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|POLAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/21.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|POLAR</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|ACTION</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/22.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ACTION</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TCM_CINEMA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/23.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TCM_CINEMA</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|PARAMOUNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/24.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PARAMOUNT</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|OCS_GEANTS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/28.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|OCS_GEANTS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|OCS_MAX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/25.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|OCS_MAX</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|OCS_CITY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/26.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|OCS_CITY</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|OCS_CHOC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/27.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|OCS_CHOC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|13E_RUE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/32.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|13E_RUE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SYFY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/33.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SYFY</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|COMEDIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/29.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|COMEDIE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SERIE_CLUB</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/31.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SERIE_CLUB</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|PARIS_PREMIERE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/53.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PARIS_PREMIERE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TV_BREIZH</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/46.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TV_BREIZH</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TEVA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/41.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TEVA</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MCM</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/45.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MCM</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|AB1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/34.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|AB1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|AB3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/35.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|AB3</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|RTL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/49.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RTL9</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|C8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/47.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|C8</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CSTAR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/48.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CSTAR</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|HD1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/37.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|HD1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NT1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/38.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NT1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/40.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TMC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|6TER</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/39.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|6TER</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NRJ12</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NRJ12</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NUMERO_23</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/51.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NUMERO_23</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CHERIE_25</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/52.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CHERIE_25</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BET_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/44.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BET_HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|E_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/54.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|E_HD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|ELLE_GIRL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/55.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ELLE_GIRL</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MTV_HITS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/61.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MTV_HITS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/60.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MTV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MTV_DANCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/331.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MTV_DANCE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MTV_ BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/330.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MTV_ BASE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BEBLACK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/328.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BEBLACK</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MCM_TOP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/64.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MCM_TOP</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|M6_MUSIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/63.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|M6_MUSIC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CONTACT_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/57.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CONTACT_TV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|RADIO_VIRGIN_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/148.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RADIO_VIRGIN_TV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|RADIO_105_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/149.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RADIO_105_TV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MONTE_CARLO_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/150.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MONTE_CARLO_TV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|INFOSPORT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|INFOSPORT</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|L_EQUIPE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/101.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|L_EQUIPE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FOOT_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/100.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FOOT_24</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SFR_SPORT_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/102.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SFR_SPORT_1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SFR_SPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/103.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SFR_SPORT_2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SFR_SPORT_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/104.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SFR_SPORT_3</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SFR_SPORT_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/105.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SFR_SPORT_5</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/106.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/107.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_3</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_3</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/108.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_4</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_4</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/109.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_5</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/110.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_6</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_6</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/111.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_7</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/112.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_8</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_8</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/113.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_9</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/114.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|beIN_Sports_Max_10</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,|FR|beIN_Sports&amp;streamtype=TSDOWNLOADER&amp;name=|FR|beIN_Sports_Max_10</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/115.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|EUROSPORT_1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EUROSPORT_1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|EUROSPORT_2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EUROSPORT_2</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|EQUIDIA_LIVE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/117.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EQUIDIA_LIVE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|EQUIDIA_LIFE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/118.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EQUIDIA_LIFE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|AB_MOTEURS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/120.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|AB_MOTEURS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|GOLF</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/116.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|GOLF</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DISNEY_CHANNEL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISNEY_CHANNEL</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DISNEY_XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISNEY_XD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DISNEY_JUNIOR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/123.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISNEY_JUNIOR</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DISNEY_CINEMAGIC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISNEY_CINEMAGIC</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|GAME_ONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/134.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|GAME_ONE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|GONG_BASE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|GONG_BASE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|MANGAS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|MANGAS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TOONAMI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TOONAMI</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|GULLI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/133.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|GULLI</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NICKELODEON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/125.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NICKELODEON</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NICKELODEON_PLUS1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/159.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NICKELODEON_PLUS1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NICKELODEON_JR</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/160.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NICKELODEON_JR</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NICKELODEON_4TEEN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/126.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NICKELODEON_4TEEN</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TELETOON</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TELETOON</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TELETOON_PLUS1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/161.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TELETOON_PLUS1</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CARTOON_NETWORK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CARTOON_NETWORK</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BOOMERANG</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/137.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BOOMERANG</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL_J</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL_J</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BOING</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BOING</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|PIWI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/130.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PIWI</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TIJI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TIJI</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|ZOUZOU</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/279.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ZOUZOU</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BABY_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/166.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BABY_TV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|USHUAIA_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/66.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|USHUAIA_TV</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|VOYAGE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/67.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|VOYAGE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SEASONS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/68.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SEASONS</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TREK</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/69.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TREK</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|RMC_DECOUVERTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/77.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RMC_DECOUVERTE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|SCIENCE_ET_VIE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/76.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|SCIENCE_ET_VIE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DISCOVERY</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/74.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISCOVERY</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DISCOVERY_SCIENCE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/75.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DISCOVERY_SCIENCE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NAT_GEO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/70.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NAT_GEO</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NAT_GEO_WILD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/71.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NAT_GEO_WILD</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|ANIMAUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/72.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ANIMAUX</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CHASSE_ET_PECHE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/73.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CHASSE_ET_PECHE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|PLANETE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/78.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE</link> 
-        </item> 
-          <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|PLANETE_AE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/79.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE_AE</link> 
+        <item> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:TF1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3425.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TF1</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|PLANETE_CI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/80.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|PLANETE_CI</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:13EME_RUE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3322.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:13EME_RUE</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CRIME_DISTRICT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/81.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CRIME_DISTRICT</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:TEVA</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3327.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:TEVA</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|ARTE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/65.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|ARTE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:AB3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3325.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:AB3</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|KTO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/43.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|KTO</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:NT1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3324.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:NT1</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|HISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/83.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|HISTOIRE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:ACTION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3332.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:ACTION</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TOUTE_LHISTOIRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/82.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TOUTE_LHISTOIRE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:C8</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3317.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:C8</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|EURONEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|EURONEWS</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:6TER</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1653.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:6TER</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_INFO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_INFO</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:M6</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1681.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:M6</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|FRANCE_24</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/84.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|FRANCE_24</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:RTL9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1687.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:RTL9</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TV5_MONDE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/85.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TV5_MONDE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:SYFY</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1688.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SYFY</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CNEWS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/89.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CNEWS</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:W9</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1691.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:W9</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|LCP</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/88.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|LCP</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:AB1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3326.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:AB1</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|LCI</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/87.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|LCI</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:USHUAIA.TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1690.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:USHUAIA.TV</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|LA_TELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/285.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|LA_TELE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:DISCOVERY.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3323.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:DISCOVERY.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BFM_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/91.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BFM_TV</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:Histoire</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1680.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:Histoire</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BFM_BUSINESS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BFM_BUSINESS</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:CANAL+.CINEMA.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3331.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+.CINEMA.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|BLOOMBERG_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|BLOOMBERG_TV</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:CANAL+.DECALE.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3330.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+.DECALE.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CNBC_Europe</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/170.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CNBC_Europe</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:CANAL+SERIES.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3329.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+SERIES.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CNN_Int</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CNN_Int</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:CANAL+.SPORT.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3328.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:CANAL+.SPORT.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|DW_English</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/168.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|DW_English</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:SFR.SPORT.1.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3320.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR.SPORT.1.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TV7</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/158.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TV7</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:SFR.SPORT.2.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3319.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR.SPORT.2.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TVP_Bayonne</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/154.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TVP_Bayonne</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:SFR.SPORT.3.HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3318.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:SFR.SPORT.3.HD</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|NOTELE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/152.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|NOTELE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:BEINSPORT.1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1661.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT.1</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|TELE_VESDRE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/151.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|TELE_VESDRE</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:BEINSPORT.2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1660.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT.2</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|Telesambre</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/153.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|Telesambre</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:BEINSPORT.3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1659.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:BEINSPORT.3</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|CANAL9</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/156.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|CANAL9</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:France.2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1678.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:France.2</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|RTS_UN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RTS_UN</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:FRANCE.3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1677.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE.3</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|FR|RTS_DEUX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=|FR|RTS_DEUX</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:FRANCE.4</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1676.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE.4</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|LA_UNE_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|LA_UNE_HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:FRANCE.5</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1675.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE.5</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|LA_DEUX_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/143.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|LA_DEUX_HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]FR:FRANCE.O</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/1679.ts&amp;streamtype=TSDOWNLOADER&amp;name=FR:FRANCE.O</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|LA_TROIS_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/144.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|LA_TROIS_HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]**********BELGIUM**********</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3472.ts&amp;streamtype=TSDOWNLOADER&amp;name=**********BELGIUM**********</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|RTL</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/282.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|RTL</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:PLUG_RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3484.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:PLUG_RTL</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|RTL_TVI_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/147.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|RTL_TVI_HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:CLUB_RTL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3483.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:CLUB_RTL</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|PLUG_RTL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/146.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|PLUG_RTL_HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:RTL_TVI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3482.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:RTL_TVI</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|CLUB_RTL_HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/145.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|CLUB_RTL_HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:LA_UNE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3479.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:LA_UNE</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|BIZILM_TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/283.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|BIZILM_TV</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:LA_TROIS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3477.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:LA_TROIS</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]|BE|BX1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://onmax.dvbmax.com:1980/live/decembre20/skype4454542/284.ts&amp;streamtype=TSDOWNLOADER&amp;name=|BE|BX1</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:LA_DEUX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3478.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:LA_DEUX</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR-OCS Geants HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,FR-OCS Geants&amp;streamtype=TSDOWNLOADER&amp;name=FR-OCS Geants HD</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:CANVAS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3480.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:CANVAS</link> 
         </item> 
           <item> 
-             <title>[COLOR red] LOGAN TV[/COLOR]FR-Infosport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=FR-Infosport</link> 
+             <title>[COLOR red] LOGAN TV[/COLOR]BE:VTM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://softiptv.xyz:8000/live/alaska/alaska/3481.ts&amp;streamtype=TSDOWNLOADER&amp;name=BE:VTM</link> 
         </item> 
   
