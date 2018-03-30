@@ -131,7 +131,7 @@
 
 <item>
 <title>[COLOR blue]S[/COLOR]PORT TV1</title>
-<link>http://ustreamyx.com/stream.php?id=sport-tv-1-pt</link>
+<linkhttp://ustreamyx.com/stream.php?id=sport-tv-1-pt</link>
 <link>$doregex[m3u8]</link>
 <regex><name>m3u8</name>
 <expres>file: "([^\"].*)"</expres>
@@ -176,15 +176,6 @@
 <fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
 </item>
 
-
-<item>
-<title>[COLOR blue]S[/COLOR]PORT TV 3</title>
-<link>http://ustreamyx.com/stream.php?id=sport-tv-3-pt</link>
-<sportsdevil>http://nowwatchtvlive.cc/sport-tv3-em-direto-gratis-sport-tv3-portugal-live-stream-online/</sportsdevil>
-<referer></referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
-</item>
 
 
 <item>
