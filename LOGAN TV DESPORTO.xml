@@ -107,7 +107,7 @@
 <item>
  <title>[COLOR red] LOGAN TV[/COLOR][COLOR white][B][I] SPORTING TV HD/SD [/I][/B][/COLOR] [COLOR lime](LOGAN WEBTV)[/COLOR] </title>
 <link>plugin://plugin.video.f4mTester/?url=http://192.99.100.74:8080/live/dancan/dancan/17688.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
-<link>plugin://plugin.video.f4mTester/?url=http://appleppv.com:8080/live/junior/junior/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
+<linkplugin://plugin.video.f4mTester/?url=http://appleppv.com:8080/live/junior/junior/1840.ts&amp;streamtype=TSDOWNLOADER&amp;name=SPORTING TV LOGAN</link> 
 <thumbnail>https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg</thumbnail>
 <fanart></fanart>
 </item>
