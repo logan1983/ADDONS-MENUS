@@ -14,7 +14,7 @@
    
    
 <item>       
-<title>[COLOR yellow]PLAYLIST::USA[/COLOR][COLOR lime]UPDATE 20-04-2018[/COLOR]</title>
+<title>[COLOR red] LOGAN TV[/COLOR][COLOR yellow]PLAYLIST::USA[/COLOR][COLOR lime]UPDATE 20-04-2018[/COLOR]</title>
 <link>http://Ignoreme</link>
 <externallink></externallink>
 <thumbnail>https://i.imgsafe.org/fe957d1165.png</thumbnail>
@@ -25,308 +25,593 @@
   
  
   
+  
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: ABC HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1834.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: ABC Spark</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1300.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC Spark</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: CBS HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1348.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CBS HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: The CW</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1796.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: The CW</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: FOX</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1288.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1277.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NBC Golf HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1357.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC Golf HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: AMC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1282.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AMC</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: A&amp;E</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1280.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&amp;E</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Tru TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1279.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Tru TV</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: TNT</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1278.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TNT</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: TBS</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1291.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TBS</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HGTV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1290.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HGTV</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: USA Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/794.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: USA Network</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Spike</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1289.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Spike</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: WWE HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1959.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WWE HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: FOX News</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX News</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NBCSN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1286.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBCSN</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: MSNBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1302.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MSNBC</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: CNBC</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1301.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNBC</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: CNN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/810.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNN</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: E! Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1430.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: E! Network HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: LifeTime HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1281.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: LifeTime HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: CITY HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1365.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CITY HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: FX HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1364.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FX HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: SyFy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1431.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SyFy HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Channel 5</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/2186.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Channel 5</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Food Network HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1432.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Food Network HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Disney Channel HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1072.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disney Channel HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Disney Junior</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1864.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disney Junior</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Disney XD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Disney XD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NICK HD (kids)</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1369.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NICK HD (kids)</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Nick HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1958.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Nick HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Cinemax ActionMax</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1367.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax ActionMax</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Comedy Central HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1434.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Comedy Central HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HALLMARK HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1363.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HALLMARK HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1276.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1361.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO 2 Comedy HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1362.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO 2 Comedy HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO ZONE</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1359.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO ZONE</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO Famely HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1068.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO Famely HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO Signature HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1360.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO Signature HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Showtime 1 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1356.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Showtime 1 HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Showtime 2 HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1355.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Showtime 2 HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN Prime Atlantic</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1950.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN Prime Atlantic</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz Cinema</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1353.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Cinema</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz Comedy</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1352.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Comedy</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz East</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1351.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz East</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz West</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1350.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz West</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: FOX Sport One America</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1293.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX Sport One America</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: FOX Sport Two America</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1795.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX Sport Two America</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NBA</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1957.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NBC Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1951.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC Sport</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NatGeo HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1956.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NatGeo HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: H2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1955.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: H2</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Animal Planet HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1952.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Animal Planet HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Discovery HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1953.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Discovery HD</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: CBS Sport</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1997.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CBS Sport</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Discovery Slience</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1954.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Discovery Slience</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: ESPN 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1285.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN 1</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: ESPN 2</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1292.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN 2</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: BT Sport / ESPN</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1295.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BT Sport / ESPN</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: BT Sport 1</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/803.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BT Sport 1</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NFL Now</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1298.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Now</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NFL Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1297.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Network</link> 
-        </item> 
-          <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: SportsNet One HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: SportsNet One HD</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Sports-Net</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sports-Net</link> 
         </item> 
           <item> 
             <title>[COLOR red] LOGAN TV[/COLOR]</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1354.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2279.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NFL HD</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/2075.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL HD</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MelloTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2281.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MelloTV</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: ABC News US</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/254.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC News US</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: USA Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1096.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: USA Network HD</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Food Network</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1108.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Food Network</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: STARZ EDGE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1097.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: STARZ EDGE HD</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: NatGeo Wild</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/818.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NatGeo Wild</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: SPIKE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1092.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SPIKE HD</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: National Geographic Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1112.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: National Geographic Channel</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NICKELODEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1076.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NICKELODEN HD</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: Discovery Channel</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1060.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Discovery Channel</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: National Geographic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1095.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: National Geographic</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: WHOH-TV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1839.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WHOH-TV</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: HIFI</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1105.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HIFI</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: BronxNet</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1846.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BronxNet</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: HALLMARK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1098.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HALLMARK</link> 
         </item> 
           <item> 
-            <title>[COLOR red] LOGAN TV[/COLOR]US: PATV</title> 
-            <link>plugin://plugin.video.f4mTester/?url=http://vtv.selfip.net:8080/live/carli/carli123/1841.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: PATV</link> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: H2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1099.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: H2</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1075.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FX HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FOXX HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1078.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOXX HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Food Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1079.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Food Network HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: DIY Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1100.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: DIY Network</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Discovery Science HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1080.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Discovery Science HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Cinemax East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1101.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax East</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Cinemax ActionMax East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1102.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax ActionMax East</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Cinemax 5 StarMax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1103.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax 5 StarMax</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Bein Sports USA HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Bein Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Bein Sports USA HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1104.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN SPORTS 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1083.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN SPORTS 2</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN SPORTS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1084.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN SPORTS</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN SPECTRUM</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1088.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN SPECTRUM</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN PULSE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1085.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN PULSE</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN PRIME PACIFIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1086.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN PRIME PACIFIC</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN PRIME ATLANTIC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1087.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN PRIME ATLANTIC</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN NEWS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1089.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN NEWS</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: AFN MOVIE</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/1090.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: AFN MOVIE</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FIGHT SPORT</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2277.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FIGHT SPORT</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA:CA | TSN 5*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/96.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CA | TSN 5*</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US:CA | TSN 4 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/95.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:CA | TSN 4 HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA:CA | TSN 3*</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/94.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CA | TSN 3*</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA:CA | TSN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/93.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA:CA | TSN 2</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: TSN 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/92.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TSN 1</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Sportsnet 360 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Sportsnet 360 HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/97.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA: TBS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/138.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: TBS HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: SEC Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3244.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: SEC Network</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: PAG HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4005.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: PAG HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Offical Olympic Channel</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4641.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Offical Olympic Channel</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA: NHL Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3474.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NHL Network</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MSNBC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3245.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MSNBC HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MLB Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3477.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MLB Network</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MBL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4006.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MBL HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Fox SPORTS 506 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4009.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox SPORTS 506 HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FOX 43</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4008.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX 43</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ESPN 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/121.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN 2</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: CNN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/142.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNN HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: CINEMAX ACTION HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4010.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CINEMAX ACTION HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: C-Span 3</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4999.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 3</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: C-Span 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4998.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 2</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: C-Span 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4997.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: C-Span 1</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ANIMAL PLANET HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/132.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ANIMAL PLANET HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA: NICKELODEN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/891.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: NICKELODEN HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NFL Network 1</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5724.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Network 1</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Bloomberg Europe</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5763.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg Europe</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: BNN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5801.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: BNN</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Boomerang</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5762.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Boomerang</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Cinemax East HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5795.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax East HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Cinemax MoreMax</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5796.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Cinemax MoreMax</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: CW11</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5768.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CW11</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Discovery HD Showcase</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5761.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Discovery HD Showcase</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Fine Living</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5759.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Fine Living</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FUEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5758.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FUEL HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: HGTV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5794.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HGTV HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MTV Rocks</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5757.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MTV Rocks</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: OUTDOOR CHANNEL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5756.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: OUTDOOR CHANNEL HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Smile Of A Child</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5755.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Smile Of A Child</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: VH1 Classic</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5754.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: VH1 Classic</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/6621.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Bloomberg TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/6978.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Bloomberg TV</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: HSN YT LIVE 1080p HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/6976.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HSN YT LIVE 1080p HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: CAPITAL TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7152.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CAPITAL TV</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Mello TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7155.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Mello TV</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MY9 TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7156.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MY9 TV</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Nursery Rhymes (Baby Songs)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7158.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Nursery Rhymes (Baby Songs)</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: THE FLORIDA CHANNEL</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7146.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: THE FLORIDA CHANNEL</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: WEATHERNATION</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7150.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WEATHERNATION</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: WGN News Chicago</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7151.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WGN News Chicago</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Yes Network</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7149.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Yes Network</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: YTV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7148.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: YTV</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: CNN US HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7254.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CNN US HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ESPN News US HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7255.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN News US HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ESPN U HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7256.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN U HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ION Television East HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7257.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ION Television East HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Lifetime Movie Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7259.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Lifetime Movie Network HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: MSG HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7253.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: MSG HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: WGN America HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/7260.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WGN America HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: WWE HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: WWE HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Versus HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/398.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Versus HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: TLC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/86.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: TLC HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: PAC-12 Washington</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/397.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: PAC-12 Washington</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA | PAC-12 Oregon</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/395.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA | PAC-12 Oregon</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: PAC-12 Los Angeles</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/394.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: PAC-12 Los Angeles</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: PAC-12 Bay Area</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/393.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: PAC-12 Bay Area</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: PAC-12 Arizona</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/392.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: PAC-12 Arizona</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NFL Network HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/90.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NFL Network HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NBCSNHD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/98.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBCSNHD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Fox Sports 2 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports 2 HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/13.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Fox Sports 1 HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=#EXTINF:-1,US: Fox Sports&amp;streamtype=TSDOWNLOADER&amp;name=US: Fox Sports 1 HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/14.ts&amp;streamtype=TSDOWNLOADER&amp;name=</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ESPN</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/189.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ESPN</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Amazing Discoveries HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3494.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Amazing Discoveries HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: A&amp;E HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/50.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: A&amp;E HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA TNT HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/122.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA TNT HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA SYFY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/124.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA SYFY HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA Network (US)</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/892.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA Network (US)</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NBC Golf</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3485.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBC Golf</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Investigation Discovery</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3486.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Investigation Discovery</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA HISTORY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/895.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA HISTORY HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FOX NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/127.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FOX NEWS HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA ESPN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/129.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA ESPN HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA CW HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/140.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA CW HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA COMEDY CENTRAL HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/141.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA COMEDY CENTRAL HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: CBS</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/131.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: CBS</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA BRAVO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/128.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA BRAVO HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: ABC NEWS HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/135.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: ABC NEWS HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA ABC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/136.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA ABC HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Tennis Channel HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2453.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Tennis Channel HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz Encore</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3487.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Encore</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3488.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz East</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : Starz Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3489.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Starz Comedy</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Starz Cinema</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3490.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Starz Cinema</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Showtime West</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3491.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Showtime West</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : SHOWTIME HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3492.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : SHOWTIME HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: Showtime 2</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3493.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: Showtime 2</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US:  NBA TV HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3484.ts&amp;streamtype=TSDOWNLOADER&amp;name=US:  NBA TV HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: NBA SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/4685.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: NBA SD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : HBO Zone</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2454.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : HBO Zone</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : HBO Signature</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2458.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : HBO Signature</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : HBO HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2455.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : HBO HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: HBO East</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2456.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: HBO East</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : HBO Comedy</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2457.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : HBO Comedy</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US: FXX</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2452.ts&amp;streamtype=TSDOWNLOADER&amp;name=US: FXX</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : Fight HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3632.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Fight HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA: DW</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2901.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA: DW</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : DISCCOVERY HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/139.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : DISCCOVERY HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : CNBC</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/3246.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : CNBC</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : CBSN HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/2222.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : CBSN HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : CARTOON NETWORK</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/15.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : CARTOON NETWORK</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : BYU TV</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/164.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : BYU TV</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US : AMC HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/179.ts&amp;streamtype=TSDOWNLOADER&amp;name=US : AMC HD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US : NFL Network 1080i</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5726.ts&amp;streamtype=TSDOWNLOADER&amp;name=US : NFL Network 1080i</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]US : NFL REDZONE SD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/5725.ts&amp;streamtype=TSDOWNLOADER&amp;name=US : NFL REDZONE SD</link> 
+        </item> 
+          <item> 
+            <title>[COLOR red] LOGAN TV[/COLOR]USA : Fox HD</title> 
+            <link>plugin://plugin.video.f4mTester/?url=http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtBo4qb/6965.ts&amp;streamtype=TSDOWNLOADER&amp;name=USA : Fox HD</link> 
         </item> 
   
