@@ -1,11 +1,15 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-#EXTINF:[COLOR lime]BY LOGAN TV[/COLOR]
- 
-#EXTM3U
+<item>
+<title>[COLOR lime]ᴾᵀ[/COLOR][COLOR red]BY LOGAN TV[/COLOR</title>
+<link>http://Ignoreme</link>
+<externallink></externallink>
+<thumbnail>http://i.imgur.com/cP0kZuH.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
- <item>
+<item>
 <title>Um Dia de Caos</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13qA0y7D3bLvFA9x0inRHMxqIEF1WiEjL/view</link>
 <thumbnail>https://3.bp.blogspot.com/-I2bQ9zIOGVI/WsbgR_K66aI/AAAAAAAAEbM/oapNK0U4cXMbBghiER6RtyG6SLrFtaTbQCLcBGAs/s320/images.jpeg</thumbnail>
