@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR=lime][B][I]IBIZA LIVE RADIO[/I][/B][/COLOR]</title>
+<link>http://streams.radio.co/sdc9cfaf77/listen</link>
+<thumbnail>https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/yr/ud1a5979ddc64156b072220087.jpg</thumbnail>
+</item> 
 
-<item>       
-<title>  [COLOR lime]BY LOGAN[/COLOR]  </title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://i.cubeupload.com/0hw4LW.png</thumbnail>
-<fanart>http://i.imgur.com/cP0kZuH.jpg</fanart>
+<item>
+<title>[COLOR=lime][B][I] GENERATION TUGA MIX PIMBA [/I][/B][/COLOR]</title>
+<link>http://91.121.86.78:8027/live</link>
+<thumbnail>http://www.generation-tuga.fr/admin/assets/img/locutores/padrao.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR=lime][B][I] Flaix FM [/I][/B][/COLOR]</title>
+<link>http://flaixfmweb.streaming-pro.com:8000/;</link>
+<thumbnail>http://static.radio.fr/images/broadcasts/e4/64/4228/c300.png</thumbnail>
 </item>
 
 <item>
@@ -22,8 +32,13 @@
 <thumbnail>http://i.imgur.com/cP0kZuH.jpg</thumbnail>
 </item>
  
+ <item>
+<title>[COLOR=lime][B][I] Hawaiian Rainbow [/I][/B][/COLOR]</title>
+<link>http://77.92.64.44:8022/;</link>
+<thumbnail>http://db.radioline.fr/pictures/radio_ee3aa27cc8ebb38a000ce2e8ce667485/logo200.jpg?size=200</thumbnail>
+</item>
  
-  <item>
+<item>
 <title>[COLOR=lime][B][I] RADIO BY LOGAN [/I][/B][/COLOR]</title>
 <link>http://144.76.247.162:9874/;</link>
 <thumbnail>http://i.imgur.com/cP0kZuH.jpg</thumbnail>
@@ -109,7 +124,7 @@
 <item>
 <title>[COLOR=lime][B][I] RADIO MAIS KIZOMBA [/I][/B][/COLOR]</title>
 <link>http://109.71.41.6:8123/stream?1486995398698.mp3</link>
-<thumbnail>https://i.ytimg.com/vi/Dm5YpI_Lykk/maxresdefault_live.jpg</thumbnail>
+<thumbnail>http://static.radio.fr/images/broadcasts/82/06/21615/c175.png</thumbnail>
 </item> 
 <item>
 <title>[COLOR=lime][B][I] RADIO CIDADE MIX [/I][/B][/COLOR]</title>
@@ -117,11 +132,6 @@
 <thumbnail>http://radiosdeportugal.com/wp-content/uploads/2014/10/radiocidademix2.jpg</thumbnail>
 </item> 
 
-<item>
-<title>[COLOR=lime][B][I] NERadio NonStop [/I][/B][/COLOR]</title>
-<link>http://213.163.72.157:5500/;?.mp3</link>
-<thumbnail>http://sexsky.sextgem.com/Img/nonStop.jpg</thumbnail>
-</item>
 <item>
 <title>[COLOR=lime][B][I] PULSRADIO NonSTop [/I][/B][/COLOR]</title>
 <link>http://icecast.pulsradio.com/pulsAAC64.mp3</link>
@@ -147,18 +157,7 @@
 <link>http://stream.1more.fr/1more-tropical-128.mp3?awparams=companionAds:true</link>
 <thumbnail>http://www.webradio.media/upload/33047-1More-Tropical.jpg</thumbnail>
 </item>
- <item>
-<title>[COLOR=lime][B][I] ROUGE FM ZEN [/I][/B][/COLOR]</title>
-<link>http://rouge-zen.ice.infomaniak.ch/rouge-zen-128.mp3</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/7d/82/2c/7d822c575a288ff89f4a94f10b3ccdfe.jpg</thumbnail>
-</item>
 
-
- <item>
-<title>[COLOR=lime][B][I] RADIO GENERATION TUGA PARA OS EMIGRANTES [/I][/B][/COLOR]</title>
-<link>http://195.154.156.183/radio/456/stream/1781</link>
-<thumbnail>http://www.generation-tuga.fr/upload/design/564f6d700969a7.21057722.jpg</thumbnail>
-</item>
 
  <item>
 <title>[COLOR=lime][B][I] Rádio_Refugio_Do_Emigrante [/I][/B][/COLOR]</title>
@@ -223,15 +222,10 @@
 <item>
 <title>[COLOR=lime][B][I] RADIO LUSO MIX [/I][/B][/COLOR]</title>
 <link>http://94.23.159.187:9980/;stream.mp3</link>
-<thumbnail>http://www.luso-mix.net/public/pageslibres/Luso-Mix-Chat2054Luso-Mix2.jpg</thumbnail>
+<thumbnail>http://luso-mix.net/arquivos/destaques/slider_665-350.jpg</thumbnail>
 </item> 
 
 
-<item>
-<title>[COLOR=lime][B][I] RADIO NOVA ENERGIA FM [/I][/B][/COLOR]</title>
-<link>http://46.4.94.39:9896/;stream.mp3</link>
-<thumbnail>http://www.liveonlineradio.net/wp-content/uploads/2016/06/Nova-Energia-FM.jpg</thumbnail>
-</item> 
 
 <item>
 <title>[COLOR=lime][B][I] RADIO ALTA VOLTAGEM [/I][/B][/COLOR]</title>
