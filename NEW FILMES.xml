@@ -12,18 +12,23 @@
 <fanart></fanart>
 </item>
 
+<item>    
+<title>[COLOR lime]ᴾᵀ[/COLOR][COLOR red]BY LOGAN TV[/COLOR]</title>
+<link>http://pastebin.com</link>
+<jsonrpc></jsonrpc>
+<thumbnail>http://i.imgur.com/cP0kZuH.jpg</thumbnail>
+<fanart></fanart>
+<info>Para este addon instalar correctamente, é necessário adicionar o addon logan tv, quem já tem, convém desinstalar e voltar a instalar para actualizar.</info>  
+</item>
 
 
-
-
-<channel>
-<channel>
-<name>[COLOR  cyan][B]ADDON [/B][/COLOR] [COLOR  yellow][B]EXODUS   [/B][/COLOR]</name>
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] EXODUS[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/BL7Gh4SL</link>
+<jsonrpc>plugin://plugin.video.exodus</jsonrpc>
 <thumbnail>https://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</thumbnail>
 <fanart>https://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com/raw/BL7Gh4SL</externallink>
-</channel>
+</item>
 
 
 
