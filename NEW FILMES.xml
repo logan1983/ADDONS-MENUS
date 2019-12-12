@@ -21,37 +21,34 @@
 
 
 
- <channels>
-<channel>
-<name>[COLOR  cyan][B]ADDON [/B][/COLOR] [COLOR  yellow][B]EXODUS   [/B][/COLOR]</name>
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] EXODUS[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/BL7Gh4SL</link>
+<jsonrpc>plugin://plugin.video.exodus</jsonrpc>
 <thumbnail>https://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</thumbnail>
 <fanart>https://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/c6W4TkHX</externallink>
-</channel>
+</item>
 
 
 
 
 
- <channels>
-<channel>
-<name>[COLOR  cyan][B]ADDON [/B][/COLOR] [COLOR  yellow][B]GENESIS [/B][/COLOR]</name>
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] GENESIS[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/YhFySD97</link>
+<jsonrpc>plugin://plugin.video.genesis</jsonrpc>
 <thumbnail>https://cld.pt/dl/download/42dd7b96-2612-4b89-977d-e4bb9688a1f4/genesis.jpg</thumbnail>
 <fanart>https://cld.pt/dl/download/42dd7b96-2612-4b89-977d-e4bb9688a1f4/genesis.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/U4uPECDT</externallink>
-</channel>
+</item>
 
 
-<channels>
-<channel>
-<name>[COLOR  cyan][B]ADDON [/B][/COLOR] [COLOR  yellow][B]BOXET KINGS REBORN  [/B][/COLOR]</name>
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] BOXET KINGS REBORN[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/sM18HE0V</link>
+<jsonrpc>plugin://plugin.video.bkr</jsonrpc>
 <thumbnail>https://cld.pt/dl/download/2378ebfd-7cd9-4573-a128-f22725bcf715/boxset%20kings.jpg</thumbnail>
 <fanart>https://cld.pt/dl/download/2378ebfd-7cd9-4573-a128-f22725bcf715/boxset%20kings.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/B6mPKNwg</externallink>
-</channel>
+</item>
   
   
 
