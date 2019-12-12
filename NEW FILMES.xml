@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>list</layoutype>
 
 
 <item>
@@ -15,7 +16,7 @@
 
 
 
-  <channels>
+<channel>
 <channel>
 <name>[COLOR  cyan][B]ADDON [/B][/COLOR] [COLOR  yellow][B]EXODUS   [/B][/COLOR]</name>
 <thumbnail>https://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</thumbnail>
