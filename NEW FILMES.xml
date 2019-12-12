@@ -4,13 +4,7 @@
 <layoutype>list</layoutype>
 
 
-<item>
-<title>[COLOR lime]ᴾᵀ[/COLOR][COLOR red]BY LOGAN TV[/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink></externallink>
-<thumbnail>http://i.imgur.com/cP0kZuH.jpg</thumbnail>
-<fanart></fanart>
-</item>
+
 
 <item>    
 <title>[COLOR lime]ᴾᵀ[/COLOR][COLOR red]BY LOGAN TV[/COLOR]</title>
@@ -31,7 +25,13 @@
 </item>
 
 
-
+<item>    
+<title>[COLOR green][B]ADDON [/COLOR][COLOR yellow] GENESIS[/COLOR][/B]</title>
+<link>http://pastebin.com/raw/YhFySD97</link>
+<jsonrpc>plugin://plugin.video.genesis</jsonrpc>
+<thumbnail>https://cld.pt/dl/download/42dd7b96-2612-4b89-977d-e4bb9688a1f4/genesis.jpg</thumbnail>
+<fanart>https://cld.pt/dl/download/42dd7b96-2612-4b89-977d-e4bb9688a1f4/genesis.jpg</fanart>
+</item>
 
 
 
