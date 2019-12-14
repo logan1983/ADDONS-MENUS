@@ -1,13 +1,15 @@
 
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
-<item   
-<title[COLOR green][B]PARA VER ESTE ADDON TUDO EM FRANCES E PRECIZ0 INSTALAR O[/COLOR][COLOR yellow]VSTREAM EM PESQUIZA LIVRE NO YOUTUBE[/COLOR][/B]</title>
-<link</link>
-<jsonrpcplugin://plugin.video.vstream</jsonrpc>
-<thumbnailhttps://i.pinimg.com/564x/1d/7b/34/1d7b34bc363259a5b8309e809666a100.jpg</thumbnail>
-<fanarthttps://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</fanart>
-</item
+
+<item>
+<title>[COLOR lime][B]PARA VER ESTE ADDON TUDO EM FRANCES E PRECIZ0 INSTALAR O[/COLOR][COLOR yellow]VSTREAM EM PESQUIZA LIVRE NO YOUTUBE[/COLOR][/B]</title>
+<link>http://ignorame</link>
+ <thumbnail>https://img.youtube.com/vi/_mf8UIhUKSg/hqdefault.jpg</thumbnail>
+ <fanart>http://i.imgur.com/tkgyJ6v.jpg</fanart>
+<externallink></externallink>
+</item>
+
 
 
 <item> 
@@ -19,13 +21,18 @@
 </item>
 
 
-<item>
-<title>[COLOR blue][B]PARA VER ESTE ADDON TUDO EM FRANCES E PRECIZ0 INSTALAR O[/COLOR][COLOR yellow]VSTREAM EM PESQUIZA LIVRE NO YOUTUBE[/COLOR][/B]</title>
-<link>http://ignorame</link>
- <thumbnail>https://img.youtube.com/vi/_mf8UIhUKSg/hqdefault.jpg</thumbnail>
- <fanart>http://i.imgur.com/tkgyJ6v.jpg</fanart>
-<externallink></externallink>
-</item>
+<item   
+<title[COLOR green][B]PARA VER ESTE ADDON TUDO EM FRANCES E PRECIZ0 INSTALAR O[/COLOR][COLOR yellow]VSTREAM EM PESQUIZA LIVRE NO YOUTUBE[/COLOR][/B]</title>
+<link</link>
+<jsonrpcplugin://plugin.video.vstream</jsonrpc>
+<thumbnailhttps://i.pinimg.com/564x/1d/7b/34/1d7b34bc363259a5b8309e809666a100.jpg</thumbnail>
+<fanarthttps://cld.pt/dl/download/1380f130-119f-4d3f-b9b5-be8191df7e3e/exodus.jpg</fanart>
+</item
+
+
+
+
+
 
 
 
