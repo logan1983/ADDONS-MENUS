@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+<item>
+<title>[COLOR white]SEARCH[B][COLORred] YouTube [/COLOR][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/kodion/search/input</link>
+<thumbnail>http://www.iconarchive.com/download/i60373/graphics-vibe/classic-3d-social/youtube.ico</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/YouTube_Localisation.svg/600px-YouTube_Localisation.svg.png</fanart>
+<info>Procurar no addon YouTube</info>
+</item>
+
+
+
+
 <item>
 <title>[COLOR lime]ᴾᵀ[/COLOR][COLOR red]By LOGAN TV••••[/COLOR][COLOR blue]TONY••••CARREIRA••••2018[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Wa_uW9WlCXc</link>
+<link>plugin://plugin.video.youtube/play/?video_id=Q9MbyKmpyJk&list</link>
 <thumbnail></thumbnail>              
 </item>
 
